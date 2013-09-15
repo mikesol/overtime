@@ -1,0 +1,5 @@
+SuperCollider vocal fx [well on way - narrow down to scenes now]
+Ableton imrpovs [started - works well - use from time to time]
+SuperCollider to Ableton [started...possible but laggy...probably not useful]
+Python to Ableton/Logic [well on way]
+Batch bouncings and manipulations of Ableton in SuperCollider

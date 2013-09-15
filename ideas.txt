@@ -1,0 +1,191 @@
+Good luck, Mike.
+
+Parallel work:
+ - technique SuperCollider
+ - compo in improvisation
+ - drama
+
+Partons du principe qu'il s'agisse de 4 personnes.
+
+Eudes - Stagiaire
+Ryan - CDD
+Marie - CDI
+Mike - le reste
+
+Edward Tufty (sculptures, etc.. data visualization guy - beautiful evidence)
+
+Forme: comme Un gars une fille, caméra café
+
+50 minutes soit 7-10 scnéarios dont certains se répètent plusieurs fois
+Annoncés sur l'écran
+
+we have to be professional, but we're freaking out
+need to find way to make this musical/silly - very much in theatre now, which is OK, but I need a sound world
+this was the problem of the previous opera.
+
+synergy, we're disrupting the industry from below, behind, above, inside
+Harvard business school - fihnance
+
+Challenge is making people surprised by things that happen.
+
+CDD - wants to get hired. (has daughter)
+Intern - wants to please.
+Contract worker - not motivated, doesn't care, have what they want.
+
+smugness from bike
+
+song that's meaningful to people because it connects to values - have this whenever people talk about next report.
+
+(ALL Of this in DUBSTEP)
+coffee machine, grinding pulsing
+applause
+keyboards
+fire alarm
+drawers
+doors opening, don't know if it's the boss coming in or going out
+delivery people showing up
+
+completely improbable thing that makes sense because of rule
+stop thinking about show, start thinking about composer fucking you over
+
+*****
+Sounds:
+http://en.wikibooks.org/wiki/Designing_Sound_in_SuperCollider/Electricity
+http://en.wikibooks.org/wiki/Designing_Sound_in_SuperCollider/Bubbles
+
+*****
+
+SUB-SCENARIOS
+[squirrel is always wrong place, wrong time]
+
+SCENARIOS
+[Pigeon dans le bureau]
+I am the pigeon god, lights cigarette
+pigeon grabs intern, fly away
+
+[The Welcome Kit]
+In order to standardize the welcoming experience in all of our branches, we are pleased to share with you the alpha version of Eco-world-welcome. Please report all bugs to in-order-to-standardize-the-welcoming-experience-in-all-of-our-branches-we-are-pleased-to-share-with-you-the-alpha-version-of-eco-world-welcome-please-report-all-bugs-to-this-address@eco-world.com. Thank you, and welcome.
+
+Esperanto, satan worshipping, sign language, American autism
+
+%Afin d'harmonizer l'experience d'acceuil dans toutes nos branches, nous vous proposons la version alhpa d'Eco-world-welcome. Veuillez signaler tout bug à afin-dharmonizer-lexperience-dacceul-dans-toutes-les-branches-de-XXX-nous-vous-proposons la version alhpa d'Eco-world-welcome. Veuillez signaler tout bug à
+
+Multilingual, flipping, video work.
+
+[Girl scout cookies]
+Person in charge obliges other people to do it (without much awareness - awkwardness created by position).
+
+[Power point]
+Déclaration des droits de l'homme.
+Dictatorial character - you are going to think about these things in the order and at the rate that I specify.
+Q&A, sparse applause, sonic asides, displays of virtuosity. Tap into inevitable disappointment: ratio of time spent compared to how much someone else actually cares. 
+
+[Excitement]
+(at some point, excitement, 20 minutes later, out to lunch -> correct time)
+Differential levels of investment in what the company is doing.
+
+[that guy]
+one person who knows when you can speak
+
+[Fire alarm]
+nobody pays attention - fire alarm if i'm the alarm - turn it off - strange things
+
+[Légerté]
+woman (Marie) who politely doesn't eat and then gorges herself
+
+[resolving a dispute]
+
+[black]
+using that word, maybe other colors
+
+[open space]
+park idea, fanatic about preservation and utilization in spite of the fact that it's ridiculously small
+
+[Xanadu, Nirvana office]
+Where all these things don't exist - alternate versions of all these people.
+Everything works perfectly. (minute 40, 3-4 references to the other office throughout)
+
+[office party, award ceremony]
+committee gives a shit, a lot of pettiness about who gets credit for being in charge
+empty gratitude
+
+[organic food]
+incredibly lucky things about a person that allows them to do certain things
+
+[Les amants]
+lovers tryst [man, woman][man, man][man, pigeon]
+
+[OVERTIME]
+Grim reaper has hour glass, starts to do everything important to him, but also work.
+Immortal.
+Grim reaper starts to text, read, eat. Chokes on sandwich, fall, hour glass on side. "Tu vivera toujours".
+Later on (much later) cleaning guy flips it, Ryan back to life, but regress, even prenatal, parents, beginning of world (et avant, et avant, et avant), easing back to current state, desk, life, etc.
+
+[Plus de stylos]
+(Requiem? - soft, tender)
+
+[A la loupe]
+En plus lent (slo mo boxing). On fait tomber un stylo.
+
+[Candidature spontanée]
+Dressed as candidature, jumps out on stage...
+Kinda stupid...
+
+[THE BOSS LEAVES]
+(dubstep and slowing down to riduculisly slow percussion)
+presence of the boss in the office is totemistic requirement for work to get done
+when he leaves, people are happy, drifts into malaise - drifts into decadence, paganism: descent into misery suffering
+
+[THE BOSS COMES BACK]
+presence - boss comes back [i miss you - bathroom - nipple]
+
+[Rêve / réalité]
+Variations on great stomach joke
+
+[La déluge]
+plumber pants
+
+[L'imprimante]
+solution #1
+printer running out of paper / not working [create scribe over series of years]
+solution #2
+other sides, toilet paper, print on person - tattoo, squirrel
+
+[Slavery - human servitude, linking up with above idea for printer maybe]
+Productivity - what would Ganghas Kahn have needed (enslaving people)
+
+[Bien-être]
+wellness, team-activity counselor (nobody wants to be there, except one person maybe)
+can make something musical outta this
+
+[La blague]
+Stylized piece of just laughter after a bad punch line. At the end "en fait, je n'ai pas compris la blague"
+
+[Fugue à trois écrans]
+computer projection of all three screens (Facebook, porn, etc…)
+
+[Projections]
+EA spin on naked gun toilet joke
+
+[PowerPoint]
+powerpoint scene
+
+[Fitness - bike to work]
+gym space, smug because one biked to work
+
+[Bring your kid to work day]
+bring your kid to work day (a little longer, kid shows up, by the end he's the boss)
+
+[Nouvelles attributions]
+putting someone in a closet
+
+[Efficacité]
+efficiency consultant aria
+
+%{
+[Type de pizza]
+Something
+
+[The boss]
+Something Brechtian, money-bags
+%}

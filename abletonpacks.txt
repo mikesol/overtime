@@ -1,0 +1,104 @@
+Vinyl classics
+
+Can only put together audio, so very recognisable.
+Need to learn fx for it to work well.  Othrewise, will just
+sound straight out of pack.  This is reverse, compression, etc.
+
+Use sparingly, but great stuff, so use!
+
+Unnatural selection
+
+Mostly sucks, loops OK.  Fodder for massive SuperCollider fuckery.
+
+Sound Objects Lite
+
+Can plug objects into a drum rack - cool sounds.  No premade racks.
+
+Loopmasters mixtapes
+
+UNREAL! Listen to construction kits for inspiration, and there's a drum for
+all of them.
+
+Clips are good but hit or miss - some are audio.  There are lots of them so
+if there's a coup de cœur, use it.
+
+Konkrete breaks
+
+FANTASTICH!! All clips midi'd, so can modify them. Small group of great
+drums. Demo songs ok... I <3 2+2=4.alc
+
+KJ Sawka
+
+Some nice stuff!  Several kits, all good.  No loops but that's ok...
+
+Guitar and Bass
+
+Skip...
+
+Grand Piano
+
+Skip...
+
+Drum Machines
+
+GREAT RETRO!! Like Konkrete breaks, all clips midi'd, so can modify them.
+Effected drum kits and then just normal list of kids good.
+
+Digicussion 1, Digicussion 2
+
+GREAT idea.  Principle is that there are families of kid.  Generally, one
+beat in one works in others - mappings kept consistant across kits.  Not a
+lot of clips, but can do lots of tweaking...
+
+Designer Drums
+
+COOL! Clips hold racks which can be subbed out...  Clip racks are coherent.
+
+Cyclic waves
+
+Ok...has some loops that could be used if you like them.
+
+Core Library
+
+Ok meat and potato drums.  Clips uninspiring and unfortunately audio...
+
+Breakbeats
+
+AWWWWWW $H!T! Great. Organized fantastically well.  The guy makes a piece
+for each drum in Construction Kits.  These are decomposed into clips.  And
+all the stuff that makes them is in drums.  WOOOWWW!!!!
+
+Bombastic
+
+DA BOMB. Ok clips but drums are where it's at.  Same subbing concept as
+designer drums - winner.
+
+-----------------
+overtime
+kj sawka mad beatz -> kj sawka drumkit 7
+  also kj sawka mad beatz -> clips -> kj sawka midi drum clips -> breakbeat 135 bpm 3
+  also kj sawka mad beatz -> clips -> kj sawka midi drum clips -> DnB beat 160bpm 1
+  also kj sawka mad beatz -> clips -> kj sawka midi drum clips -> hiphop beat 85bpm 1
+digicussion 2 -> drums -> burned kits -> burned kit 05
+digicussion 2 -> drums -> scorched kits -> scorched kit 07
+digicussion 1 -> drums -> ragged kits -> ragged kit 02
+&&
+loopmasters mixtape -> drums -> loopmasters hits -> circuit bent V2
+loopmasters mixtape -> drums -> kamoni -> dope loafea
+loopmasters mixtape -> drums -> trackteam -> gyrate
+loopmasters mixtape -> drums -> trackteam -> merkin
+konkrete breaks -> drums -> tourette kit
+**
+konkrete breaks -> drums -> RIAA kit
+konkrete breaks -> drums -> bi-polar
+>>
+
+Starts with film (echo wind bells), marble roll
+Ceramic tiles for low mallets, mallet à trois for high
+Tourette kit in the thick of it, shiny bell for melodic
+
+Base kit is scorched kit 7
+
+))))
+digicussion 1 -> drums -> streamed kits -> streamed kit 06 good for mystery...
+breath hose (loop-fm) great arpegiated, glitchcore
