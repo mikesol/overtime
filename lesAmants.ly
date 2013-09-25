@@ -63,7 +63,7 @@ dag = ^\markup { "†"}
 ddag = ^\markup { "‡"}
 
 \header {
-  title = "Les Amants"
+  title = "Les amants"
   composer = "dJm1k3s0l"
 }
 marie = \relative c'' { \autoBeamOff\numericTimeSignature
@@ -240,9 +240,9 @@ marie = \relative c'' { \autoBeamOff\numericTimeSignature
   \tempo 4=200
   gis4 fis8 fis \times 2/3 { fis4 gis e\dag } |
   \time 3/4
-  fis8 fis \times 2/3 { fis4 gis e } |
-  \time 5/8
-  r4 r8. gis\ddag |
+  fis8 fis fis4 gis |
+  \time 2/4
+  R2 |
   \time 5/8
   \tempo 4=180
   \Red
@@ -269,15 +269,15 @@ marie = \relative c'' { \autoBeamOff\numericTimeSignature
   b8 [ gis ] r4 |
   \time 3/8
   b4\ddag r8 |
-  \time 4/4
+  \time 9/8
   \tempo 2=100
-  gis4\dag gis\dag gis\dag gis\dag |
+  gis4\dag gis\dag gis\dag gis\dag r8 |
   \tempo 4=116
-  \time 6/4
-  gis4 fis8 fis \times 2/3 { fis4 gis e } r2 |
+  \time 4/4
+  gis4 fis8 fis \times 2/3 { fis4 gis r } |
   \tempo 4=124
   \time 4/4
-  b'2^\espressivo ~ b8 r4 fis8\ddag |
+  b2^\espressivo ~ b8 r4 fis8\ddag |
   \time 3/8
   gis4.-- |
   \time 5/4
@@ -422,8 +422,8 @@ marie = \relative c'' { \autoBeamOff\numericTimeSignature
   cis'4 b8\ddag a4.\dag a4.\dag |
   \time 4/4
   a4\dag ais4 gis8 gis gis4\dag |
-  \time 3/4
-  gis4 fis8 fis fis4\dag |
+  \time 3/8
+  gis4 fis8 | %fis fis4\dag |
   \time 5/4
   \tempo 2=120
   b4\dag b\dag b\dag b\dag b\dag |
@@ -454,7 +454,8 @@ marie = \relative c'' { \autoBeamOff\numericTimeSignature
   cis4 b8 ais8 b |
   b4 a8 gis a\dag |
   \time 3/4
-  bis4\dag bis\dag bis\dag |
+  \tupFrac
+  \times 3/5 { bis4\dag bis\dag bis\dag bis\dag bis\dag } |
   cis4 b8 b\dag dis8 cis\ddag |  
   \time 5/4
   \tempo %{"normal"%} 4=160
@@ -532,8 +533,8 @@ marieWords = \lyricmode {
    We Touch a Touch
   \repeat unfold 2 uch
   We Touch and Love Sin Touch
-  Touch and Love Sin Touch
-  %{Touch and Love%} Sin %{Touch%}
+  Touch and Love Sin %Touch
+  %{Touch and Love Sin Touch%}
   We Touch and Love
   %{Touch and Love Sin Touch%} \repeat unfold 4 Touch
   Hand We Touch and Love Sin Touch Touch
@@ -542,7 +543,7 @@ marieWords = \lyricmode {
   We Touch and Love Touch Touch
   Touch Touch
   Touch Touch Touch Touch
-  We Touch and Love Sin Touch
+  We Touch and Love Sin %Touch
   Yes We
   No
   We Touch and Love Sin Touch
@@ -558,7 +559,7 @@ marieWords = \lyricmode {
   We Touch and
   We Touch
   Hand
-  \repeat unfold 14 Yes
+  \repeat unfold 13 Yes No
   We Touch and Love Sin Touch
   We Touch We Touch We We Touch
   \repeat unfold 4 Touch
@@ -572,7 +573,7 @@ marieWords = \lyricmode {
   \repeat unfold 4 { We Touch }
   \repeat unfold 7 Sin
   We
-  We Touch and Love Si
+  We Touch and Love Sin
   Touch Hand
   We Touch
   We
@@ -590,7 +591,7 @@ marieWords = \lyricmode {
   We To
   We We We
   We Touch and Love
-  We Touch and Love
+  We Touch %and Love
   \repeat unfold 5 We
   \repeat unfold 3 { We To }
   We
@@ -605,7 +606,7 @@ marieWords = \lyricmode {
   We Touch
   We Touch and Love
   We Touch and Love
-  Hand Hand Hand
+  \repeat unfold 5 Hand
   We Touch and We To
   We Touch and Love Sin
   Touch Touch Touch Touch Touch
@@ -766,9 +767,9 @@ ryan = \relative c' { \autoBeamOff\numericTimeSignature
   \tempo 4=200
   r2 \times 2/3 { r4 eis ais, } |
   \time 3/4
-  cis8 cis \times 2/3 { cis4 dis b } |
-  \time 5/8
-  cis8 cis cis8. cis |
+  cis8 cis cis4 dis |
+  \time 2/4
+  cis8 cis cis4 |
   \time 5/8
   \tempo 4=180
   bis4 ais8 ais ais |
@@ -791,12 +792,12 @@ ryan = \relative c' { \autoBeamOff\numericTimeSignature
   gis8 [ e ] r4 |
   \time 3/8
   a4 r8 |
-  \time 4/4
+  \time 9/8
   \tempo 2=100
-  cis,4 cis cis cis |
+  cis,4 cis cis cis r8 |
   \tempo 4=116
-  \time 6/4
-  dis4 cis8 cis \times 2/3 { cis4 dis b } r2 |
+  \time 4/4
+  dis4 cis8 cis \times 2/3 { cis4 dis r } |
   \tempo 4=124
   \time 4/4
   e2 ~ e8 r8 r4 |
@@ -821,7 +822,7 @@ ryan = \relative c' { \autoBeamOff\numericTimeSignature
   cis4 b8 b \times 2/3 { b4 cis a } r4 |
   \tempo 4.=60
   \time 6/8
-  cis4. r4 a8 |
+  cis4. r4 gis8 |
   \time 7/8
   cis4. r2 |
   \time 6/8
@@ -946,8 +947,8 @@ ryan = \relative c' { \autoBeamOff\numericTimeSignature
   fis4 e8 cis4. cis4. |
   \time 4/4
   cis4 dis4 cis8 cis cis4 |
-  \time 3/4
-  dis4 cis8 cis cis4 |
+  \time 3/8
+  dis4 cis8 | %cis cis4 |
   \time 5/4
   \tempo 2=120
   d4 d d d d |
@@ -978,7 +979,8 @@ ryan = \relative c' { \autoBeamOff\numericTimeSignature
   ais4 g8 g8 g |
   e4 d8 cis d |
   \time 3/4
-  eis4 eis eis |
+  \tupFrac
+  \times 3/5 { eis4 eis eis eis eis } |
   eis4 eis8 eis ais,8 ais |
   \time 5/4
   \tempo %{"normal"%} 4=160
@@ -1022,7 +1024,7 @@ ryanWords = \lyricmode {
   \repeat unfold 5 { Sin Touch }
   \repeat unfold 32 \skip 1
   We
-  \repeat unfold 41 \skip 1
+  \repeat unfold 40 \skip 1
   Touch and Love
 }
 
