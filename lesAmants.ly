@@ -64,6 +64,7 @@ ddag = ^\markup { "‡"}
 
 \header {
   title = "Les amants"
+  subtitle = "Premier tome"
   composer = "dJm1k3s0l"
 }
 marie = \relative c'' { \autoBeamOff\numericTimeSignature

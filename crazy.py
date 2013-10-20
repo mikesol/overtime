@@ -211,6 +211,7 @@ tracks = {
 }
 
 #8th, factor 4/3.
+'''
 tracks = {
   37 : "x-----------------------",
   36 : "x----xx-----x----xx-----",
@@ -224,6 +225,7 @@ tracks = {
 }
 
 ### FULL LIFE CONSEQUENCES
+
 tracks = {
   36 : "x"*16,
   37 : "x"*16,
@@ -242,7 +244,7 @@ tracks = {
   50 : "x"*16,
   51 : "x"*16,
 }
-
+'''
 
 
 count = 0
@@ -253,6 +255,6 @@ for key in tracks.keys() :
   count += 1
 
 # And write it to disk.
-binfile = open("fullThrotle.mid", 'wb')
+binfile = open("overtimeDrumz.mid", 'wb')
 MyMIDI.writeFile(binfile)
 binfile.close()

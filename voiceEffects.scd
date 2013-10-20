@@ -41,7 +41,8 @@ PV_BrickWall // etc, always PV_
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/beatbox.aif";
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/leaderex/Bounces/leaderex.aif";
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/lePatronPart/stAbbeR.aif";
-~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/lePatronPart/jepars.aif";
+//
+~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/overtime/OVERTIME.aif";
 b = Buffer.read(s,~mypath);
 ~lite = Buffer.readChannel(s,~mypath, channels: 0);
 z = Buffer.alloc(s, 44100 * 60.0, 1); // a 60 second 1 channel Buffer

@@ -1,8 +1,8 @@
- \version "2.17.26"
+\version "2.17.26"
 #(set-global-staff-size 15.87)
 #(ly:set-option 'point-and-click #f)
 \paper {
-  ragged-last-bottom = ##f
+  %ragged-last-bottom = ##f
   footnote-separator-markup = \markup { \column { " "\override #`(span-factor . 1/5) { \draw-hline } }}
   footnote-padding = 5\mm
   top-system-spacing = #'((basic-distance . 1) (minimum-distance . 0) (padding . 1) (stretchability . 40))
@@ -14,6 +14,11 @@
   bottom-margin = 0.6\in
 
 }
+
+qFour = \once \override Score . TimeSignature #'stencil =
+#(lambda (grob)
+  (grob-interpret-markup grob (markup #:override '(baseline-skip . 0) (#:column (#:huge #:bold "?" #:number "4")))))
+
 
 \include "defs-devel.ly"
 
@@ -91,7 +96,7 @@ marie = \relative c'' {
   \time 3/4
   a4 a a |
   \time 9/8
-  a'4. a8 a8 a8 a8. a |
+  a4. a8 a8 a8 a8. a |
   \time 4/4
   a4 a a a |
   \time 9/8
@@ -106,9 +111,7 @@ marie = \relative c'' {
   gis8 gis gis gis gis r |
   gis8 gis gis gis r4 |
   R1*7/8 |
-\once \override Score . TimeSignature #'stencil =
-#(lambda (grob)
-  (grob-interpret-markup grob (markup #:override '(baseline-skip . 0) (#:column (#:huge #:bold "?" #:number "4")))))
+  \qFour
   \time 4/4
   \MonoShift
   \hideNotes
@@ -127,7 +130,7 @@ marie = \relative c'' {
   R1 |
   R1 |
   R1 |
-  r2..^\markup \italic { Cat like } gis,8 |
+  r2..^\markup \italic { Cat like } gis8^\f |
   cis gis4. ~ gis4 \times 2/3 { fisis8 gis fisis } |
   fis4 e dis r8 gis^\markup \italic { Really? } ~ |
   gis4 r gis2 ~ |
@@ -135,6 +138,78 @@ marie = \relative c'' {
   b2 r4 bes^\markup \italic { Come on... } ~ |
   bes r a4 r |
   R1*5 |
+  \qFour
+  \time 4/4
+  \MonoShift
+  \hideNotes
+  \override TextScript #'whiteout = ##t
+  \override TextScript #'extra-spacing-width = #'(-0.2 . 0.2)
+  \cricket
+  s4*4/6-"Troisième" s-"leçon," s-"où" s-"on" s-"apprend" s-"à" |
+  s4*4/6-"dire" s-"le" s-"mot" s-"plusieurs" s-"en" s-"boucle" |
+  \unFatText
+  \unMonoShift
+  \unHideNotes
+  \revert TextScript #'whiteout
+  \revert Staff . BarLine #'Y-extent  
+  \saNormal
+  \time 6/4
+  R1. |
+  \time 12/8
+  a4.^\f a8 a a a8. a a a |
+  \time 6/4
+  b2 b b |
+  \time 9/8
+  cis4. cis8 cis cis cis8. cis |
+  \time 6/4
+  cis4 d cis d cis d
+  \time 4/4
+  cis4. cis cis4 |
+  \time 3/8
+  cis4. |
+  \time 5/2
+  d2 d d d d |  
+  R1 |
+  R1*9/8 |
+  R1 |
+  R1*9/8 |
+  R1 |
+  R1*9/8 |
+  R1 |
+  R1*9/8 |
+  R1 |
+  R2. |
+  \transpose e ees \relative c'' {
+    \time 9/8
+    cis4. cis8 cis cis cis8. cis8. |
+    \time 2/4
+    cis4 cis |
+    \time 6/8
+    dis4. dis8 dis r8 |
+    dis4. dis8 dis r8 |
+    dis4. dis8 dis r8 |
+    \time 9/8
+    eis4. eis8 eis eis eis8. eis8. |
+    \time 3/4
+    eis4 eis eis |
+    \time 9/8
+    eis4. eis8 eis eis eis8. eis8. |
+    eis4. eis eis |
+    \time 5/8
+    eis4. eis4 |
+    \time 9/8
+    eis4. eis8 eis eis eis8. eis8. |
+    \time 6/8
+    cis4. cis8 cis cis |
+    dis4. dis8 dis dis |
+    eis4. eis8 eis eis |
+    cis4. cis8 cis cis |
+    \time 3/8
+    eis4. |
+    \time 4/4
+    eis4 disis8 cisis8 bis4 ais |
+    gisis4 bis8 gisis eis4 eis' |
+  }
 }
 
 marieWords = \lyricmode {
@@ -161,6 +236,27 @@ marieWords = \lyricmode {
   Bri -- an owes me mo -- ney
   Bri -- an owes me five fuc -- king dol -- lars.
   wa wa wa wa wa wa wa wa wa wa wa wa wa wa wa
+  I speak -- a the En -- glish I speak
+  Brian Brian Brian
+  I speak -- a the En -- glish
+  I speak I speak I speak
+  I I I I
+  Je par -- le chin -- "ois !"
+  I speak -- a the Eng -- lish
+  I speak
+  I speak -- a I speak -- a I speak -- a
+  I speak -- a the Eng -- lish
+  I I I
+  I speak -- a the Eng -- lish
+  I I I I I
+  I speak -- a the Eng -- lish
+  I speak -- a the
+  I speak -- a the
+  I speak -- a the
+  I speak -- a the
+  I 
+  Spre -- chen Sie Eng -- lisch
+  mit wun -- der -- bar "Ja !"
 }
 
 ryan = \relative c' {
@@ -262,6 +358,68 @@ ryan = \relative c' {
   \times 2/3 { c8 c c ~ } c r \times 2/3 { c8 c c ~ } c r |
   \times 2/3 { c8 c c ~ } c r \times 2/3 { c8 c c ~ } c r |
   \times 2/3 { c8 c c ~ } c r \times 2/3 { c8 c c ~ } c r |
+  R1*2 |
+  \times 2/3 { c8^\mf c c ~ } c r \times 2/3 { c8 c c ~ } c r \times 2/3 { c8 c c ~ } c r |
+  \tNormal
+  \time 12/8
+  d4.^\f d8 d d d8. d d d |
+  \time 6/4
+  d2 d d |
+  \time 9/8
+  cis4. cis8 cis cis cis8. cis |
+  \time 6/4
+  e4 fis e fis e fis
+  \time 4/4
+  e4. e e4 |
+  \time 3/8
+  e4. |
+  \time 5/2
+  d2 d d d d |  
+  \time 4/4
+  \cricket
+  c2 c8 c r4 |
+  \time 9/8
+  c2 c4 r4.
+  \time 4/4
+  c2 c8 c r4 |
+  \time 9/8
+  c2 c4 r4.  
+  \time 4/4
+  c2 c8 c r4 |
+  \time 9/8
+  c2 c4 r4.  
+  \time 4/4
+  c2 c8 c r4 |
+  \time 9/8
+  \noTr c2.\startTrillSpan c4\stopTrillSpan r8 |
+  \time 4/4
+  c2 c8 c r4 |
+  \time 3/4
+  c2 c4 |
+  \tNormal
+  \transpose e ees \relative c' {
+    cis4. ( ~ cis ~ cis ~ |
+    cis2 ~ |
+    cis2. ~ |
+    cis2. ~ |
+    cis2. ~ |
+    cis4. ~ cis8 dis4 ~ dis4. ~ |
+    dis2. ~ |
+    dis4. ~ dis ~ dis ~ |
+    dis4. ~ dis ~ dis ~ |
+    dis4. ~ dis4 |
+    eis4. ~ eis ~ eis ) |
+    \time 6/8
+    eis4. eis8 eis eis |
+    fisis4. fisis8 fisis fisis |
+    gisis4. gisis8 gisis gisis |
+    eis4. eis8 eis eis |
+    \time 3/8
+    gisis4. |
+    \time 4/4
+    eis4 disis8 cisis8 bis4 ais |
+    gisis4 bis8 gisis eis4 eis' |
+  }
 }
 
 ryanWords = \lyricmode { 
@@ -285,6 +443,22 @@ ryanWords = \lyricmode {
   Bri -- an owes me mo -- ney
   Bri -- an owes me five fuc -- king dol -- lars.
   \repeat unfold 21 { plu -- si -- eurs }
+  \repeat unfold 3 { plu -- si -- eurs }
+  I speak -- a the En -- glish I speak
+  Brian Brian Brian
+  I speak -- a the En -- glish
+  I speak I speak I speak
+  I I I I
+  Je par -- le chin -- "ois !"
+  \repeat unfold 5 { Damn nig -- ga, awww shit. }
+  I
+  I speak -- a the
+  I speak -- a the
+  I speak -- a the
+  I speak -- a the
+  I 
+  Spre -- chen Sie Eng -- lisch
+  mit wun -- der -- bar "Ja !"
 }
 
 mike = \relative c' {
@@ -343,20 +517,74 @@ mike = \relative c' {
   \time 7/8 |
   R1*7/8 |
   R1 |
-  \clef bass
-  r2.. gis,,8 |
-  \tempo "Ein Jazzermanns Tempo" 4=100 
-  \time 4/4
-  \repeat percent 5 {
-    cis4 b a gis |
-    fis \times 2/3 { e8 fis e } dis8 gis4 gis8 |
-  }
+  R1 |
   \cricket
-  \times 2/3 { c'8 c c ~ } c r \times 2/3 { c8 c c ~ } c r |
-  \times 2/3 { c8 c c ~ } c r \times 2/3 { c8 c c ~ } c r |
-  \times 2/3 { c8 c c ~ } c r \times 2/3 { c8 c c ~ } c r |
-  \times 2/3 { c8 c c ~ } c r \times 2/3 { c8 c c ~ } c r |
-  \times 2/3 { c8 c c ~ } c r \times 2/3 { c8 c c ~ } c r |
+  \Cross
+  \repeat percent 2 { c4^\markup \italic "charleston"^\mp c8 c8 c4 c8 c8 }
+  c4 c8 c8 \revert NoteHead #'style \cricket c8 c c c |
+  \Cross
+  \repeat percent 12 { c4^\markup \italic "charleston" c8 c8 c4 c8 c8 } \bar "||"
+  R1 |
+  R1 |
+  \cricket
+  \times 2/3 { c8 c c^\mf ~ } c r \times 2/3 { c8 c c ~ } c r \times 2/3 { c8 c c ~ } c r |  
+  \time 12/8
+  \saNormal
+  fis4.^\f fis8 fis fis fis8. fis fis fis |
+  \time 6/4
+  gis2 gis gis |
+  \time 9/8
+  a4. a8 a a a8. a |
+  \time 6/4
+  a4 a a a a a |
+  \time 4/4
+  a4. a a4 |
+  \time 3/8
+  a4. |
+  \time 5/2
+  a2 a a a a |
+  \time 4/4
+  \cricket
+  c,2 c8 c r4 |
+  \time 9/8
+  c2 c4 r4.
+  \time 4/4
+  c2 c8 c r4 |
+  \time 9/8
+  c2 c4 r4.  
+  \time 4/4
+  c2 c8 c r4 |
+  \time 9/8
+  c2 c4 r4.  
+  \time 4/4
+  c2 c8 c r4 |
+  \time 9/8
+  \noTr c2.\startTrillSpan c4\stopTrillSpan r8 |
+  \time 4/4
+  c2 c8 c r4 |
+  \time 3/4
+  c2 c4 |
+  \tNormal
+  \transpose e ees \relative c' {
+    eis4. eis8 eis eis eis8. eis |
+    r4 eis4 ~ |
+    eis8 eis eis eis eis8. eis16 ~ |
+    eis16 r8. r8 fisis4. |
+    fisis8 fisis fisis fisis8. fisis |
+    r4. fisis4. fisis8 fisis fisis |
+    fisis8. fisis r4. |
+    gisis4. gisis8 gisis8 gisis8 gisis8. gisis |
+    r4. gisis4. gisis8 gisis8 gisis |
+    gisis8. gisis8. r4 |
+    gisis4. gisis8 gisis8 gisis gisis8. gisis8. |
+    gis4. gis8 gis gis |
+    ais4. ais8 ais ais |
+    bis4. bis8 bis bis |
+    gis4. gis8 gis gis |
+    bis4. |
+    bis4 gisis8 ais bis4 ais |
+    gisis bis8 gisis eisis4 bis' |
+  }
 } 
 
 mikeWords = \lyricmode {
@@ -383,8 +611,25 @@ mikeWords = \lyricmode {
   Bri -- an owes me mo -- ney
   Bri -- an owes me mo -- ney
   Bri -- an owes me five fuc -- king dol -- lars.
-  ba dum dum dum dum dum ba da da dut dum ba
-  \repeat unfold 10 { plu -- si -- eurs }
+  \repeat unfold 9 \skip 1
+  sing it sis -- ta!
+  \repeat unfold 6 \skip 1
+  \repeat unfold 3 { plu -- si -- eurs }
+  I speak -- a the En -- glish I speak
+  Brian Brian Brian
+  I speak -- a the En -- glish
+  I speak I speak I speak
+  I I I I
+  Je par -- le chin -- "ois !"
+  \repeat unfold 5 { Damn nig -- ga, awww shit. }
+  \repeat unfold 7 { I speak -- a the Eng -- lish }
+  I speak -- a the
+  I speak -- a the
+  I speak -- a the
+  I speak -- a the
+  I 
+  Spre -- chen Sie Eng -- lisch
+  mit wun -- der -- bar "Ja !"
 }
 
 eudes = \relative c'' {
@@ -404,7 +649,7 @@ eudes = \relative c'' {
   R2 |
   R2. |
   R2 |
-  R1*9/8 |
+  R1*9/8 | \pageBreak
   R1 |
   R2 |
   R1*5/8 |
@@ -434,21 +679,91 @@ eudes = \relative c'' {
   r2 r8 gis, ~ |
   gis gis gis gis cis cis r |
   R1 |
-  R1 |
+  r2.. gis8^\mf |
+  \tempo "Ein Jazzermanns Tempo" 4=100 
+  \time 4/4
+  \repeat percent 5 {
+    cis4 b a gis |
+    fis \times 2/3 { e8 fis e } dis8 gis4 gis8 |
+  }
   \cricket
-  \Cross
-  \repeat percent 2 { c'4^\markup \italic "charleston" c8 c8 c4 c8 c8 }
-  c4 c8 c8 \revert NoteHead #'style \cricket c8 c c c |
-  \Cross
-  \repeat percent 12 { c4^\markup \italic "charleston" c8 c8 c4 c8 c8 } \bar "||"
+  \times 2/3 { c'8 c c ~ } c r \times 2/3 { c8 c c ~ } c r |
+  \times 2/3 { c8 c c ~ } c r \times 2/3 { c8 c c ~ } c r |
+  \times 2/3 { c8 c c ~ } c r \times 2/3 { c8 c c ~ } c r |
+  \times 2/3 { c8 c c ~ } c r \times 2/3 { c8 c c ~ } c r |
+  \times 2/3 { c8 c c ~ } c r \times 2/3 { c8 c c ~ } c r |
+  R1 |
+  R1 |
+  \times 2/3 { c8 c c^\mf ~ } c r \times 2/3 { c8 c c ~ } c r \times 2/3 { c8 c c ~ } c r |
+  \time 12/8
+  \bNormal
+  b,4.^\f b8 b b b8. b b b |
+  \time 6/4
+  e,2 e e |
+  \time 9/8
+  a4. a8 a a a8. a |
+  \time 6/4
+  a4 a a a a a |
+  \time 4/4
+  a4. a a4 |
+  \time 3/8
+  a4. |
+  \time 5/2
+  a2 a a a a |
+  R1 |
+  R1*9/8 |
+  R1 |
+  R1*9/8 |
+  R1 |
+  R1*9/8 |
+  R1 |
+  R1*9/8 |
+  R1 |
+  R2. |
+  \bNormal
+  \transpose e ees \relative c' {
+    gis4. gis8 gis8 gis gis8. gis |
+    gis4 gis |
+    ais ais r |
+    ais ais r |
+    ais2 ais4 |
+    r4. ais4. ais |
+    r4 bis2 |
+    bis4. r4. r4. |
+    bis2 ~ bis16 bis16 ~ bis4 r |
+    bis2 ~ bis16 bis ~ |
+    bis4. r bis |
+    ais,4. ais8 ais ais |
+    bis4. bis8 bis bis |
+    eis,4. eis8 eis eis |
+    ais4. ais8 ais ais |
+    bis4. |
+    R1 |
+    r2. eis,4 |
+  }
 }
 
 eudesWords = \lyricmode {
   I don't speak -- a the Eng -- rish.
   Now I speak En -- glish! Look at me! Look at me! Look at
   Bri -- an is my wo -- man.
-  \repeat unfold 9 \skip 1
-  sing it sis -- ta!
+  ba dum dum dum dum dum ba da da dut dum ba
+  \repeat unfold 10 { plu -- si -- eurs }
+  \repeat unfold 3 { plu -- si -- eurs }
+  I speak -- a the En -- glish I speak
+  Brian Brian Brian
+  I speak -- a the En -- glish
+  I speak I speak I speak
+  I I I I
+  Je par -- le chin -- "ois !"
+  I speak -- a the Eng -- lish
+  \repeat unfold 8 { I speak } I
+  I speak -- a the
+  I speak -- a the
+  I speak -- a the
+  I speak -- a the
+  I
+  "Ja !"
 }
 
 \markup \huge \fill-line { \center-column { "   " "   " "[sur l'écran]" "L'anglais" "   " "   "  } }
@@ -495,3 +810,273 @@ eudesWords = \lyricmode {
   }
   \midi {}
 }
+
+\pageBreak
+\markup \huge \fill-line { \center-column { "[Marie]" "Quatrième leçon." "Contrôle d'anglais obligatoire avec traduction en langue de signes." "   " } }
+
+\markup \huge \fill-line { \center-column { "[Eudes]" "Why don't you tell me about your house?" "   " } }
+
+%\pageBreak
+
+\markup \huge \fill-line { \center-column { "[Ryan]" \line { "Yes, uh, well...  you......" }
+"uh..."
+"uh.... ss"
+"mmmm... my chart*"
+"is uh... having"
+"a image†"
+"of . uh .‡ the house."
+"§it is, uh, very‖ uh .¶ big.uh.※"
+"and, uh,‽ please,◊"
+"please will@ you❧, look⁂ at"
+"look my¤ chart.$"
+"as you will÷ see....#"
+"on chart™"
+"mmm...〥 "
+"weeeeellll∀"
+"weeeee〄llll☞"
+"[Ryan et Eudes]"
+"weee『lllllll〠" "   " } }
+
+oneLine = {
+  \stopStaff
+  \once \override Staff . StaffSymbol #'line-count = #1
+  \startStaff
+}
+
+fiveLines = {
+  \stopStaff
+  \revert Staff . StaffSymbol #'line-count
+  \startStaff
+}
+
+%{
+⸮
+❧
+⁂
+¤
+$
+÷
+#
+™
+〥
+∀
+〄
+⸕
+『
+〠
+%}
+allTwo = \relative c' {
+%\override DynamicTextSpanner #'outside-staff-priority = #1
+\override TextScript #'outside-staff-priority = #1
+  \cadenzaOn
+  \key b \minor
+  fis8^"*"^\p^\< \repeat unfold 4 fis8 \bar ""
+  \oneLine
+  s1 \bar ""
+  \fiveLines
+  <d fis>8^"†" \repeat unfold 4 <d fis>8 \bar ""
+  \oneLine
+  s1 \bar ""
+  \fiveLines
+  <b d a'>8^"‡" \repeat unfold 4 <b d a'>8 \bar ""
+  \oneLine
+  s1 \bar ""
+  \fiveLines
+  <b e g>8^"§" \repeat unfold 4 <b e g>8 \bar ""
+  \oneLine
+  s1 \bar ""
+  \fiveLines
+  <a e' g>8^"‖" \repeat unfold 4 <a e' g>8 \bar ""
+  \oneLine
+  s1 \bar ""
+  \fiveLines
+  <a cis g'>8^"¶" \repeat unfold 4 <a cis g'>8 \bar ""
+  \oneLine
+  s1 \bar ""
+  \fiveLines
+  <a cis fis>8^"※"^\> \repeat unfold 4 <a cis fis>8 \bar ""
+  \oneLine
+  s1 \bar ""
+  \fiveLines
+  <a d fis>8^"‽" \repeat unfold 4 <a d fis>8 \bar ""
+  \oneLine
+  s1 \bar "|"
+  \fiveLines
+  <a d fis>4^"◊"^\p \times 2/3 { \repeat unfold 3 <a d fis>8 } \bar ""
+  <a d fis>4 \times 2/3 { \repeat unfold 3 <a d fis>8 } \bar ""
+  <a d fis>4 \times 2/3 { \repeat unfold 3 <a d fis>8 } \bar "|"
+  \repeat unfold 5 <b fis'>8 \bar ""
+  \oneLine
+  s1 \bar ""
+  \fiveLines
+  <b e a>8^"@"^\< \repeat unfold 4 <b e a>8 \bar ""
+  \oneLine
+  s1 \bar ""
+  \fiveLines
+  <b e g>8^"❧" \repeat unfold 4 <b e g>8 \bar ""
+  \oneLine
+  s1 \bar ""
+  \fiveLines
+  <a cis g'>8^"⁂" \repeat unfold 4 <a cis g'>8 \bar ""
+  \oneLine
+  s1 \bar ""
+  \fiveLines
+  <a cis b'>8^"¤" \repeat unfold 4 <a cis b'>8 \bar ""
+  \oneLine
+  s1 \bar ""
+  \fiveLines
+  <b d a'>8^"$" \repeat unfold 4 <b d a'>8 \bar ""
+  \oneLine
+  s1 \bar ""
+  \fiveLines
+  <b fis' d'>8^"÷" \repeat unfold 4 <b fis' d'>8 \bar ""
+  \oneLine
+  s1 \bar ""
+  \fiveLines
+  <b g' d'>8^"#" \repeat unfold 4 <b g' d'>8 \bar ""
+  \oneLine
+  s1 \bar ""
+  \fiveLines
+  <a g' cis>8^"™" \repeat unfold 4 <a g' cis>8 \bar ""
+  \oneLine
+  s1 \bar ""
+  \fiveLines
+  <cis g' e'>8^"〥" \repeat unfold 4 <cis g' e'>8 \bar ""
+  \oneLine
+  s1 \bar ""
+  \fiveLines
+  <b g' e'>8^"∀" \repeat unfold 4 <b g' e'>8 \bar ""
+  \oneLine
+  s1 \bar ""
+  \fiveLines
+  <b fis' d'>8^"〄" \repeat unfold 4 <b fis' d'>8 \bar ""
+  \oneLine
+  s1 \bar ""
+  \fiveLines
+  <a g' cis>8^"☞" \repeat unfold 4 <a g' cis>8 \bar ""
+  \oneLine
+  s1 \bar ""
+  \fiveLines
+  <a e''>8^"『" \repeat unfold 4 <a e''>8 \bar ""
+  \oneLine
+  s1 \bar ""
+  \fiveLines
+  <a fis''>8^"〠"^\f \repeat unfold 4 <a fis''>8 \bar ""
+  \oneLine
+  s1 \bar ""
+}
+
+allTwoWords = \lyricmode {
+  \repeat unfold 9 { \repeat unfold 5 { do } }
+  \repeat unfold 3 { I speak -- a the }
+  \repeat unfold 15 { \repeat unfold 5 { do } }
+}
+
+\score {
+ <<
+    \new Staff \with { instrumentName = \markup \column { "M.P." "M.S." "E.P." } } \new Voice = "all" \allTwo
+    \new Lyrics \lyricsto "all" \allTwoWords
+>>
+}
+
+marieThree = \relative c''' {
+  \key b \minor
+  \time 2/4
+  R2 R2 R2 |
+  \time 34/16
+  g16^\f \repeat unfold 33 g16 \bar "||"
+}
+
+marieThreeWords = \lyricmode {
+  \repeat unfold 34 do
+}
+
+ryanThree = \relative c' {
+  \tNormal
+  \key b \minor
+  fis4^\mf \times 2/3 { fis8 fis fis }
+  fis4 \times 2/3 { fis8 fis fis }
+  fis4 \times 2/3 { fis8 fis fis }
+  \cricket
+  c1*34/16^\f |
+}
+
+ryanThreeWords = \lyricmode {
+  \repeat unfold 3 { I speak -- a the }
+  weeeeeelllll
+}
+
+mikeThree = \relative c'' {
+  \tNormal
+  \key b \minor
+  a4^\mf \times 2/3 { a8 a a }
+  a4 \times 2/3 { a8 a a }
+  a4 \times 2/3 { a8 a a }
+  \cricket
+  c,1*34/16^\f |
+}
+
+mikeThreeWords = \lyricmode {
+  \repeat unfold 3 { I speak -- a the }
+  weeeeeelllll
+}
+
+eudesThree = \relative c' {
+  \tNormal
+  \key b \minor
+  d4^\mf \times 2/3 { d8 d d }
+  d4 \times 2/3 { d8 d d }
+  d4 \times 2/3 { d8 d d }
+  \cricket
+  c1*34/16^\f |
+}
+
+eudesThreeWords = \lyricmode {
+  \repeat unfold 3 { I speak -- a the }
+  weeeeeelllll
+}
+
+\pageBreak
+
+\score {
+  \new ChoirStaff <<
+    \new Staff \with { instrumentName = "Marie" } \new Voice = "marie" \marieThree
+    \new Lyrics \lyricsto "marie" \marieThreeWords
+    \new Staff = "mikestaff" \with { instrumentName = "Mike" } \new Voice = "mike" \mikeThree
+    \new Lyrics \lyricsto "mike" \mikeThreeWords
+    \new Staff = "ryanstaff" \with { instrumentName = "Ryan" } \new Voice = "ryan" \ryanThree
+    \new Lyrics \lyricsto "ryan" \ryanThreeWords
+    \new Staff = "eudesstaff" \with { instrumentName = "Eudes" } \new Voice = "eudes" \eudesThree
+    \new Lyrics \lyricsto "eudes" \eudesThreeWords
+  >>
+  \layout {
+    \context {
+      \Voice
+      \override TextScript #'layer = #6
+      \override Glissando #'breakable = ##t
+      \override TupletNumber #'breakable = ##t
+      \override TupletNumber #'avoid-slur = #'ignore
+      \override TupletBracket #'breakable = ##t
+      \remove "Forbid_line_break_engraver"
+    }
+    \context {
+      \Staff
+      %\override TimeSignature #'style = #'numbered
+      %\override StaffSymbol #'layer = #4
+      %\override TimeSignature #'layer = #3
+      %\override TimeSignature #'whiteout = ##t
+    }
+    \context {
+      \Lyrics
+      %\override LyricText #'whiteout = ##t
+      %\override LyricText #'layer = #6
+    }
+    \context {
+      \Score
+      \override NonMusicalPaperColumn #'allow-loose-spacing = ##f
+    }
+  }
+  \midi {}
+}
+
+\markup \huge \fill-line { \center-column { "[Marie]" "Cinquième leçon." "Y'a pas de cinquième leçon." "Sixième leçon." "   " } }
