@@ -75,7 +75,7 @@ mikeFour = \relative c' {
   R4 \myBar
   g'^\f^\markup \italic "shocked" \myBar
   \time 5/8
-  g8 g g g g \myBar
+  g8 g g g r \myBar
 }
 
 marieFive = \relative c' {
@@ -97,26 +97,32 @@ ryanSix = \relative c' {
 }
 
 marieSeven = \relative c' {
-  \time 2/4
-  e4^\mf^\markup \italic "vous voyez, ce qui s'est passé, c'est que..." a,8 a \myBar
-  \time 3/8
-  c8. r8. \myBar
-  c8^\mp c8 c8 \myBar
-  \times 3/5 { f8^\mf^\< f f f f^\f } \myBar
+  \time 1/4
+  \times 2/3 { f,8^\mf^\markup \italic "vous voyez, ce qui s'est passé, c'est que..." c' g' } \myBar
+  \time 1/3
+  \times 2/3 { c,4-. c-\bendAfter #2 } \myBar
+  \time 1/4
+  c16^\p^\< c c c \myBar
+  c8-.^\f c16^\p^\< c \myBar
+  c8-.^\f c16^\p^\< c \myBar
+  c8-.^\f \times 2/3 { c16 c c } \myBar
 }
 
 ryanEight = \relative c' {
-  \time 2/4
-  e4^\mf^\markup \italic "but I can explain..." a,8 a \myBar
-  \time 3/8
-  r8. a8. \myBar
-  c8^\mp c8 c8 \myBar
-  \times 3/5 { f8^\mf^\< f f f f^\f } \myBar
+  \time 1/4
+  \times 2/3 { f,8^\mf^\markup \italic "but I can explain..." c' g' } \myBar
+  \time 1/3
+  \times 2/3 { c,4-. c-\bendAfter #2 } \myBar
+  \time 1/4
+  c16^\p^\< c c c \myBar
+  c8-.^\f c16^\p^\< c \myBar
+  c8-.^\f c16^\p^\< c \myBar
+  c8-.^\f \times 2/3 { c16 c c } \myBar
 }
 
 mikeNine = \relative c' {
   \time 3/4
-  c4.^\espressivo^\markup \italic "what's that?" r4. \myBar
+  c4.^\espressivo^\markup \italic "what's taht?" r4. \myBar
   c4^\espressivo^\markup \italic "that..." r4 r4 \myBar
   \time 1/4
   c^-^\markup \italic "THAT!" \myBar
@@ -124,40 +130,42 @@ mikeNine = \relative c' {
 
 marieTen = \relative c' {
   \time 3/4
-  r4. g'4.^-^\markup \italic "quoi ?"-\bendAfter #3 \myBar
-  r4 f4^-^\markup \italic "quoi ? où ?"-\bendAfter #3 f4^--\bendAfter #3 \myBar
+  r4. c4.^-^\markup \italic "quoi ?"-\bendAfter #3 \myBar
+  r4 c4^-^\markup \italic "quoi ? où ?"-\bendAfter #3 c4^--\bendAfter #3 \myBar
   \time 1/4
   R4 \myBar
 }
 
 ryanEleven = \relative c' {
   \time 3/4
-  r4. g'4.^-^\markup \italic "what?"-\bendAfter #3
+  r4. c4.^-^\markup \italic "what?"-\bendAfter #3
   \time 3/4
-  r4 f4^-^\markup \italic "what? where?"-\bendAfter #3 f4^--\bendAfter #3 \myBar
+  r4 c4^-^\markup \italic "what? where?"-\bendAfter #3 c4^--\bendAfter #3 \myBar
   \atempo
   \time 1/4
   R4 \myBar
 }
 
 marieTwelve = \relative c' {
+  \time 1/4
+  \times 2/3 { c8 c c } \myBar
+  c16 c c c \myBar
+  c8 c \myBar
   \time 2/4
-  \times 2/3 { c4 c4 c }
-  f4 ~ f16  a, a a  |
-  \time 5/8
-  e' e e r g g g r r8
-  \time 2/4
-  f2
+  \times 2/3 { c4-. c-. c-. } \myBar
+  \time 1/4
+  c4-. \myBar
 }
 
 ryanThirteen = \relative c' {
+  \time 1/4
+  \times 2/3 { c8 c c } \myBar
+  c16 c c c \myBar
+  c8 c \myBar
   \time 2/4
-  \times 2/3 { c4 c4 c } |
-  a8 a a a |
-  \time 5/8
-  c4:32 ( \glissando g'8-. ) r4 |
-  \time 2/4
-  f,2
+  \times 2/3 { c4-. c-. c-. } \myBar
+  \time 1/4
+  c4-. \myBar
 }
 
 nobodyFourteen = {
@@ -167,7 +175,7 @@ nobodyFourteen = {
 
 eudesFifteen = \relative c' {
   \time 2/4
-  f2:32^\mp^\markup \italic "effrayé, en bêlant" \myBar
+  c2:32^\mp^\markup \italic "effrayé, en bêlant" \myBar
 }
 
 nobodySixteen = \relative c' {
@@ -195,7 +203,7 @@ mikeTwenty = \relative c' {
   \time 2/4
   c2^\f-\bendAfter #2 ^\markup \italic "rage" \myBar
   a8 a a a \myBar
-  a8. d8 a8. \myBar
+  a8. a8 a8. \myBar
   \time 3/4
   e'4 e e \myBar
   \time 4/4
@@ -206,17 +214,13 @@ mikeTwenty = \relative c' {
 }
 
 ryanTwentyOne = \relative c' {
-  \time 2/4
-  a4^\mf^\markup \italic "en essayant de raisonner" e' \myBar
-  \time 3/4
-  c2.:32^\mp \myBar
-  \time 2/4
-  \cricket
-  \tri c4^\f
-  \berioGoalposts
-  \revert Staff.BarLine.bar-extent
-  \revert Voice.Stem.direction
-  d16^\mf d d d |
+  \time 1/4
+  a16^\mp^\markup \italic "en essayant de raisonner" c e c \myBar
+  r a c8 \myBar
+  r16 c8 r16 \myBar
+  r16 a^\< e' c \myBar
+  \time 3/8
+  a16 r8 e'8^\f-\bendAfter #-2 r16 \myBar
 }
 
 mikeTwentyTwo = \relative c' {
@@ -240,10 +244,8 @@ mikeTwentyFour = \relative c' {
 }
 
 ryanTwentyFive = \relative c' {
-  \time 3/4
-  \once \override Hairpin #'springs-and-rods = #ly:spanner::set-spacing-rods
-  \once \override Hairpin #'minimum-length = #7
-  c2^\mf^\markup \italic "getting his word in"^\< f4^\f \myBar
+  \time 11/16
+  c8.^\mf^\markup \italic "getting his word in" a16 a a c8. r8 \myBar
 }
 
 mikeTwentySix = \relative c' {
@@ -252,13 +254,15 @@ mikeTwentySix = \relative c' {
 }
 
 ryanTwentySeven = \relative c' {
-  \time 3/4
-  \times 2/3 { c8 ^\markup \italic "spoken normally" c4 } %\noBreak
-  c8 c c c \myBar
-  \time 2/4
-  r c r4 |
+  \time 5/16
+  c16^\markup \italic "spoken normally" c8 c16 c \myBar \noBreak
   \time 1/4
-  c4 |
+  c8. c16 \myBar \noBreak
+  c16 c c c \myBar
+  r16 c c c \myBar
+  \times 2/3 { c8 c c } \myBar
+  \time 3/8
+  c16 c \times 2/3 { c4 c8 } \myBar
 }
 
 mikeTwentyEight = \relative c' {
@@ -268,13 +272,12 @@ mikeTwentyEight = \relative c' {
 
 marieTwentyNine = \relative c' {
   \time 7/8
-  r8 c8-.^\markup \italic "caca nerveux" c-. c-. c-. c-. c-. \myBar
+  c8-.^\markup \italic "caca nerveux" c-. c-. c-. c-. c-. c-. \myBar
 }
 
-ryanThirty = \relative c'' {
+ryanThirty = \relative c' {
   \time 7/8
-  \tNormal
-  r2 a8 g16 g g8 \myBar
+  c8^\markup \italic "oh shit..." c c c c c c \myBar
 }
 
 nobodyThirtyOne = \relative c' {
@@ -289,12 +292,12 @@ eudesThirtyTwo = \relative c' {
 
 mikeThirtyThree = \relative c' {
   \time 4/4
-  c4^-^\f^\markup \italic "concerné" c^- c4.^- r8 \myBar
+  c4^-^\f^\markup \italic "demi-être" c^- c4.^- r8 \myBar
   r8. c16^\mp c c r8 r2 \myBar
   \cricket
-  \tri c4^\markup \italic \column { "en mâchant le pain de son enfant" "et en le lui donnant à manger" } \tri c r8 \tri c4 r8 \myBar
+  \tri c4^\markup \italic \column { "en mâchant le pain" "de son enfant" } \tri c r8 \tri c4 r8 \myBar
   \time 5/4
-  \tri c4^\markup \italic \column {  }  r \tri c4 r \tri c \myBar
+  \tri c4^\markup \italic \column { "et en le lui donnant" "à manger" }  r \tri c4 r \tri c \myBar
 }
 
 eudesThirtyFour = \relative c' {
@@ -341,14 +344,13 @@ mikeThirtyEight = \relative c' {
   r2. \tri c8^\markup \italic \column { "picking food from baby's (intern's)" "teeth and eating it, smacking lips" } \tri c \myBar
   \time 3/4
   r2 \tri c8 \tri c \myBar
-  r2 \tri c8 c \myBar
+  r2 \tri c8 r \myBar
 }
 
 ryanThirtyNine = \relative c' {
   \time 4/4
   c2^\mf^\<^\markup \italic \column { "eating the" "intern's leg" } r4 c^\mp^\markup \italic "yes!" \myBar
-  \tNormal
-  r4 g''^\f^\markup \italic "outrage!" r2 \myBar
+  r4 c^\f^\markup \italic "ok..." r2 \myBar
 }
 
 mikeForty = \relative c' {
@@ -363,7 +365,10 @@ mikeForty = \relative c' {
 mikeFortyOne = \relative c' {
   \time 5/4
   \cricket
-  r2 \tri c4^\markup \italic "keeps chewing..." \tri c r \myBar
+  \berioGoalposts
+  \revert Staff.BarLine.bar-extent
+  \revert Voice.Stem.direction
+  r2 c4^\markup \italic "keeps chewing..." c r \myBar
 }
 
 marieFortyTwo = \relative c' {
@@ -375,9 +380,6 @@ marieFortyTwo = \relative c' {
 
 mikeFortyThree = \relative c' {
   \time 4/4
-  \berioGoalposts
-  \revert Staff.BarLine.bar-extent
-  \revert Voice.Stem.direction
   c4^\mf^\markup \italic "hey"-\staccatissimo r4 r8 c4.^\markup \italic "i want some" |
 }
 
@@ -520,10 +522,6 @@ eudesMusic = {
 }
 
 eudesWords = \lyricmode {
-  mä
-  mä
-  \repeat unfold 6 gnao
-  mä mä
 }
 
 marieMusic = {
@@ -572,26 +570,13 @@ marieMusic = {
 }
 
 marieWords = \lyricmode {
-  i i i i i
-  i
-  ouä ou ou a
-  hi hi hi
-  hi hi hi hi hi
-  ouiou
+  \repeat unfold 25 \skip 1
+  oui
   oui oui
-  hi hi hi
-  hi ha ha ha
-  hi hi hi
-  nu nu nu
-  hi
+  oui oui oui
+  ha ha ha ha ha
+  ou ou ou ou ou
   uh oh
-  \repeat unfold 11 mi
-  \repeat unfold 6 mi
-  dt dt ch dt dt dt ch dt dt dt ch dt dt dt ch dt 
-  \repeat unfold 32 nm
-  \repeat unfold 32 nm
-  a __ _
-  haw
 }
 
 ryanMusic = {
@@ -622,20 +607,12 @@ ryanMusic = {
   \ryanTwentySeven
   $(mmrest-of-length mikeTwentyEight)
   \ryanThirty
-  \cricket
-  \berioGoalposts
-  \revert Staff.BarLine.bar-extent
-  \revert Voice.Stem.direction
   \nobodyThirtyOne
   $(mmrest-of-length eudesThirtyTwo)
   $(mmrest-of-length mikeThirtyThree)
   \ryanThirtySix
   $(mmrest-of-length mikeThirtyEight)
   \ryanThirtyNine
-  \cricket
-  \berioGoalposts
-  \revert Staff.BarLine.bar-extent
-  \revert Voice.Stem.direction
   $(mmrest-of-length mikeFortyOne)
   $(mmrest-of-length marieFortyTwo)
   $(mmrest-of-length mikeFortyThree)
@@ -648,30 +625,19 @@ ryanMusic = {
 }
 
 ryanWords = \lyricmode {
-  hä hä hä hä hä
-  i
-  wah who who
-  who ha ha ha
-  ou ou ou ou ou
-  ouiou
+  \repeat unfold 25 \skip 1
+  oui
   oui oui
-  he he he
-  ho ho ho ho
-  trrr ik
-  he
+  oui oui oui
+  ha ha ha ha ha
+  ou ou ou ou ou
   uh oh
-  who gna
-  nmnmnmnmnm
-  pfff he he he he
-  ouao ih
-  a -- lors, je vous ex -- pli -- que, c'est
-  we touch and love
+  \repeat unfold 17 \skip 1
+  a -- lors, com -- ment "dire ?"
+  vous n'é -- tiez pas là, et on est de -- scen -- du
+  dans une sorte de
+  \repeat unfold 7 \skip 1
   par -- ty time
-  grrrr grr
-  aww
-  he __ _
-  a __ _
-  haw
 }
 
 mikeMusic = \relative c' {
@@ -720,45 +686,9 @@ mikeMusic = \relative c' {
 }
 
 mikeWords = \lyricmode {
-  huh
-  \repeat unfold 5 huh
-  huh
-  ooo
-  he he he he he
-  huh
-  huh
-  huh
-  me
-  hou hou hou hou hou
-  me
-  hou
-  eh eh eh
-  \once \override LyricExtender.stencil = ##f
-  meeeee __ _
-  hou
-  huh huh huh huh
-  hou
-  huh huh huh huh
-  huh
-  hou
+  \repeat unfold 40 \skip 1
   my bé -- bé
   my bé -- bé
-  \repeat unfold 6 \skip 1
-  mmm
-  \repeat unfold 6 \skip 1
-  huh
-  huh
-  woa
-  \repeat unfold 2 \skip 1 
-  hm
-  mmm
-  \repeat unfold 18 nm
-  huh
-  \repeat unfold 6 \skip 1
-  huh
-  hm
-  hm
-  mmm
 }
 
 %#(format #t "~a\n" (ly:music-duration-length (mmrest-of-length mikeMusic)))

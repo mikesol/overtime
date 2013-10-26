@@ -622,3 +622,20 @@ mikeWords = \lyricmode {
   }
   \midi {}
 }
+
+%{
+  SNORT
+  SNORT
+  SNORT
+  [[[loud]]]
+  Hé, je connais une blague !
+  C'est quoi ta blague ?
+  Quand j'étais petit, awww ma mère m'a battu très très fort. uhh
+  Des fois, elle s'y est mise avec ses mains. Des fois c'était avec un fouet.
+  Une fois, en rentrant, elle a vu que j'avais défait mes nattes
+  à l'école et elle a rit
+    MAIS QU'EST QU'ELLE A RIT
+    MAIS QU'EST QU'ELLE A RIT
+    MAIS QU'EST QU'ELLE A RIT
+  [[[loud]]]
+%}
