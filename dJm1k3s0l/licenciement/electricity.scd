@@ -67,7 +67,7 @@ var a1, a2, a3, dust, f, o, name, gambit, pole;
 a1=1000;
 a2=8000;
 a3=100;
-dust=1;
+dust=10;
 g = [
     [0.0, [\s_new, \electricity, 1000, 0, 0, \a1, a1, \a2, a2, \a3, a3, \dust, dust]],
 	[180.0, [\n_free, 1000]],

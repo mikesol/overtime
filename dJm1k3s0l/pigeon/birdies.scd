@@ -7,8 +7,8 @@ Server.killAll;
 s = Server.local;
 s.boot;
 
-ServerOptions.devices[4]
-Server.local.options.inDevice_(ServerOptions.devices[4])
+ServerOptions.devices[3]
+Server.local.options.inDevice_(ServerOptions.devices[3])
 Server.local.options.outDevice_(ServerOptions.devices[2])
 
 (

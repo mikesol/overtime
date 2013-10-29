@@ -66,6 +66,7 @@ play{PitchShift.ar(PlayBuf.ar(2,b,1), 0.2, SinOsc.kr(0,0,0.2,0.8))};
 
 // arpeggiate
 play{PitchShift.ar(PlayBuf.ar(2,b,1), 0.2, Demand.kr(Impulse.kr(4),0,Dseq([1.1,1.6,2.1,2.6],inf)))};
+play{Pan2.ar(PitchShift.ar(SoundIn.ar, 0.2, Demand.kr(Impulse.kr(4),0,Dseq([1.1,1.6,2.1,2.6],inf))))};
 
 //ugggghhhh
 (

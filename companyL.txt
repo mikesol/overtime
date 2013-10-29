@@ -1,28 +1,83 @@
+ENGLISH
 Leaderex provides global solution technologies for expanding economies
 as well as development training for mid-level communication
-service networks. We specialize in modular consulting and
-client-oriented business workflow design. We conduct enterprise-wide
-studies using traditional market heuristics in order to implement and
-leverage out-of-the-box, incentive-based quality control norms. We offer
-scalable, adaptative metrics that are effective in long-term knowledge-base
+service networks. We specialize
+SPANISH
+
+en servicios de consultoría modular y de diseño de
+flujo de trabajo empresarial. Conducimos estudios
+a gran escala
+
+% in modular consulting and
+% client-oriented business workflow design. We conduct enterprise-wide
+% studies
+
+DANISH
+ved hjælp af traditionelle marked heuristik for at gennemføre
+at udnytte
+
+% using traditional market heuristics in order to implement and
+% leverage
+KOREAN
+
+out-of-the-box, incentive-based quality control norms. We offer
+INUIT
+scalable, adaptative metrics that are effective in
+LATIN
+long-term knowledge-base
 growth.
 
-Leaderex sets the industry standard for best-practices in benchmarking,
+Leaderex sets the industry standard
+
+ROBOT
+for best-practices in benchmarking,
 focusing on attainable goal targeting and flexible outcome strategy
-management. Always transparent, our task force determines value-added
-optimizations that help aggregate and integrate bottom-up synergy programs.
+management. Always transparent, our task force
+INTERNATIONAL DRUNK
+determines value-added
+optimizations that help aggregate and integrate bottom-up
+SIGN LANGUAGE
+synergy programs.
 Our innovative evaluation methods guarantee streamlined, sustainable
+BRAILLE
 timeframes that allow companies to translate data rich actualization models
 into multi-year plans.
 
-As an employee of Leaderex, we amplify your education and experience as a
-creator of cutting-edge core competencies. We maintain a collegial,
-open-space environment that encourages our parteners to take risks and
-exceed expectations. As part of our team, you will exemplify
+As an
+DOLPHIN
+employee of Leaderex, we amplify your education and experience as a
+creator of cutting-edge core competencies. We maintain a
+
+FRANMAÇON
+collegial,
+open-space environment that encourages our parteners
+
+GIRAFFE
+to take risks and
+exceed expectations. As part
+
+of our team, you will
+
+CODE MORSE
+exemplify
 the triangle of success, achievement, and dependability that characterizes
 all Leaderex projects.
 
-With the Leaderex group, you are an aggressive maker of futures.  You
+With the Leaderex group,
+
+ENSEMBLE 101
+you are an aggressive maker of futures.  You
 are a shaper of dynamic, human-centric ventures and microclimates of
-potential.  Together, we will disrupt the sector.  Welcome to the new trusted
-voice of corporate world exchange.
+potential.  Together,
+ZZZZ
+we will disrupt
+FRANÇAIS
+echange mondial.
+Nous allons bousculer l’industrie d’en-dessous.
+Nous allons bousculer l’industrie d’au-dessus.
+Nous allons faire semblant de bousculer l’industrie avant de le faire pour
+de vrai.
+Nous allons pénétrer l’industrie doucement pour pas qu’elle se lève et
+ensuite nous allons la bousculer.
+%the sector.  Welcome to the new trusted
+%voice of corporate world exchange.
