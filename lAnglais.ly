@@ -114,6 +114,7 @@ marie = \relative c'' {
   \qFour
   \time 4/4
   \MonoShift
+  \FatText
   \hideNotes
   \override TextScript #'whiteout = ##t
   \override TextScript #'extra-spacing-width = #'(-0.2 . 0.2)
@@ -141,6 +142,7 @@ marie = \relative c'' {
   \qFour
   \time 4/4
   \MonoShift
+  \FatText
   \hideNotes
   \override TextScript #'whiteout = ##t
   \override TextScript #'extra-spacing-width = #'(-0.2 . 0.2)
@@ -306,6 +308,7 @@ ryan = \relative c' {
   cis4 cis cis |
   cis4. cis8 cis cis   \FatText
   \MonoShift
+  \FatText
   \hideNotes
   \override TextScript #'whiteout = ##t
   \override TextScript #'extra-spacing-width = #'(-0.2 . 0.2)
@@ -333,6 +336,7 @@ ryan = \relative c' {
   R1 |
   R1 |
   \MonoShift
+  \FatText
   \hideNotes
   \override TextScript #'whiteout = ##t
   \override TextScript #'extra-spacing-width = #'(-0.2 . 0.2)
@@ -431,7 +435,7 @@ ryanWords = \lyricmode {
   I speak I speak I speak
   I speak I speak I speak I speak I speak
   I speak I speak I speak
-  Kit -- chen, hel -- lo I'm Bri -- an.
+  Kit -- chen, I'm in the Bri -- an.
   Kit -- chen is chic -- ken chic -- ken
   Chic -- ken kit -- chen, Bri -- an Bri -- an.
   Mon "Dieu !"
@@ -601,7 +605,7 @@ mikeWords = \lyricmode {
   I
   I speak -- a the Eng -- lish
   I speak I speak
-  Kit -- chen, hel -- lo I'm Bri -- an!
+  Kit -- chen, I'm in the Bri -- an!
   Kit -- chen is chic -- ken chic -- ken.
   Chic -- ken kit -- chen.
   Bri -- an Bri -- an.
@@ -812,7 +816,7 @@ eudesWords = \lyricmode {
 }
 
 \pageBreak
-\markup \huge \fill-line { \center-column { "[Marie]" "Quatrième leçon." "Contrôle d'anglais obligatoire avec traduction en langue de signes." "   " } }
+\markup \huge \fill-line { \center-column { "[Marie]" "Quatrième leçon." "Contrôle d'anglais obligatoire avec traduction en langue des signes." "   " } }
 
 \markup \huge \fill-line { \center-column { "[Eudes]" "Why don't you tell me about your house?" "   " } }
 
@@ -870,98 +874,98 @@ allTwo = \relative c' {
 \override TextScript #'outside-staff-priority = #1
   \cadenzaOn
   \key b \minor
-  fis8^"*"^\p^\< \repeat unfold 4 fis8 \bar ""
+  fis8^"chart*"^\p^\< \repeat unfold 4 fis8 \bar ""
   \oneLine
   s1 \bar ""
   \fiveLines
-  <d fis>8^"†" \repeat unfold 4 <d fis>8 \bar ""
+  <d fis>8^"image†" \repeat unfold 4 <d fis>8 \bar ""
   \oneLine
   s1 \bar ""
   \fiveLines
-  <b d a'>8^"‡" \repeat unfold 4 <b d a'>8 \bar ""
+  <b d a'>8^"uh‡" \repeat unfold 4 <b d a'>8 \bar ""
   \oneLine
   s1 \bar ""
   \fiveLines
-  <b e g>8^"§" \repeat unfold 4 <b e g>8 \bar ""
+  <b e g>8^"§it" \repeat unfold 4 <b e g>8 \bar ""
   \oneLine
   s1 \bar ""
   \fiveLines
-  <a e' g>8^"‖" \repeat unfold 4 <a e' g>8 \bar ""
+  <a e' g>8^"very‖" \repeat unfold 4 <a e' g>8 \bar ""
   \oneLine
   s1 \bar ""
   \fiveLines
-  <a cis g'>8^"¶" \repeat unfold 4 <a cis g'>8 \bar ""
+  <a cis g'>8^"uh¶" \repeat unfold 4 <a cis g'>8 \bar ""
   \oneLine
   s1 \bar ""
   \fiveLines
-  <a cis fis>8^"※"^\> \repeat unfold 4 <a cis fis>8 \bar ""
+  <a cis fis>8^"big.uh※"^\> \repeat unfold 4 <a cis fis>8 \bar ""
   \oneLine
   s1 \bar ""
   \fiveLines
-  <a d fis>8^"‽" \repeat unfold 4 <a d fis>8 \bar ""
+  <a d fis>8^"and,uh‽" \repeat unfold 4 <a d fis>8 \bar ""
   \oneLine
   s1 \bar "|"
   \fiveLines
-  <a d fis>4^"◊"^\p \times 2/3 { \repeat unfold 3 <a d fis>8 } \bar ""
+  <a d fis>4^"please,◊"^\p \times 2/3 { \repeat unfold 3 <a d fis>8 } \bar ""
   <a d fis>4 \times 2/3 { \repeat unfold 3 <a d fis>8 } \bar ""
   <a d fis>4 \times 2/3 { \repeat unfold 3 <a d fis>8 } \bar "|"
   \repeat unfold 5 <b fis'>8 \bar ""
   \oneLine
   s1 \bar ""
   \fiveLines
-  <b e a>8^"@"^\< \repeat unfold 4 <b e a>8 \bar ""
+  <b e a>8^"will@"^\< \repeat unfold 4 <b e a>8 \bar ""
   \oneLine
   s1 \bar ""
   \fiveLines
-  <b e g>8^"❧" \repeat unfold 4 <b e g>8 \bar ""
+  <b e g>8^"you❧" \repeat unfold 4 <b e g>8 \bar ""
   \oneLine
   s1 \bar ""
   \fiveLines
-  <a cis g'>8^"⁂" \repeat unfold 4 <a cis g'>8 \bar ""
+  <a cis g'>8^"look⁂" \repeat unfold 4 <a cis g'>8 \bar ""
   \oneLine
   s1 \bar ""
   \fiveLines
-  <a cis b'>8^"¤" \repeat unfold 4 <a cis b'>8 \bar ""
+  <a cis b'>8^"my¤" \repeat unfold 4 <a cis b'>8 \bar ""
   \oneLine
   s1 \bar ""
   \fiveLines
-  <b d a'>8^"$" \repeat unfold 4 <b d a'>8 \bar ""
+  <b d a'>8^"chart$" \repeat unfold 4 <b d a'>8 \bar ""
   \oneLine
   s1 \bar ""
   \fiveLines
-  <b fis' d'>8^"÷" \repeat unfold 4 <b fis' d'>8 \bar ""
+  <b fis' d'>8^"will÷" \repeat unfold 4 <b fis' d'>8 \bar ""
   \oneLine
   s1 \bar ""
   \fiveLines
-  <b g' d'>8^"#" \repeat unfold 4 <b g' d'>8 \bar ""
+  <b g' d'>8^"see....#" \repeat unfold 4 <b g' d'>8 \bar ""
   \oneLine
   s1 \bar ""
   \fiveLines
-  <a g' cis>8^"™" \repeat unfold 4 <a g' cis>8 \bar ""
+  <a g' cis>8^"chart™" \repeat unfold 4 <a g' cis>8 \bar ""
   \oneLine
   s1 \bar ""
   \fiveLines
-  <cis g' e'>8^"〥" \repeat unfold 4 <cis g' e'>8 \bar ""
+  <cis g' e'>8^"mmm...〥" \repeat unfold 4 <cis g' e'>8 \bar ""
   \oneLine
   s1 \bar ""
   \fiveLines
-  <b g' e'>8^"∀" \repeat unfold 4 <b g' e'>8 \bar ""
+  <b g' e'>8^"weeeeellll∀" \repeat unfold 4 <b g' e'>8 \bar ""
   \oneLine
   s1 \bar ""
   \fiveLines
-  <b fis' d'>8^"〄" \repeat unfold 4 <b fis' d'>8 \bar ""
+  <b fis' d'>8^"weeeee〄" \repeat unfold 4 <b fis' d'>8 \bar ""
   \oneLine
   s1 \bar ""
   \fiveLines
-  <a g' cis>8^"☞" \repeat unfold 4 <a g' cis>8 \bar ""
+  <a g' cis>8^"llll☞" \repeat unfold 4 <a g' cis>8 \bar ""
   \oneLine
   s1 \bar ""
   \fiveLines
-  <a e''>8^"『" \repeat unfold 4 <a e''>8 \bar ""
+  <a e''>8^"weee『" \repeat unfold 4 <a e''>8 \bar ""
   \oneLine
   s1 \bar ""
   \fiveLines
-  <a fis''>8^"〠"^\f \repeat unfold 4 <a fis''>8 \bar ""
+  <a fis''>8^"lllllll〠"^\f \repeat unfold 4 <a fis''>8 \bar ""
   \oneLine
   s1 \bar ""
 }
@@ -977,6 +981,7 @@ allTwoWords = \lyricmode {
     \new Staff \with { instrumentName = \markup \column { "M.P." "M.S." "E.P." } } \new Voice = "all" \allTwo
     \new Lyrics \lyricsto "all" \allTwoWords
 >>
+\layout {indent = 0 }
 }
 
 marieThree = \relative c''' {
@@ -1040,16 +1045,17 @@ eudesThreeWords = \lyricmode {
 
 \score {
   \new ChoirStaff <<
-    \new Staff \with { instrumentName = "Marie" } \new Voice = "marie" \marieThree
+    \new Staff \with { %{instrumentName = "Marie"%} } \new Voice = "marie" \marieThree
     \new Lyrics \lyricsto "marie" \marieThreeWords
-    \new Staff = "mikestaff" \with { instrumentName = "Mike" } \new Voice = "mike" \mikeThree
+    \new Staff = "mikestaff" \with { %{instrumentName = "Mike"%} } \new Voice = "mike" \mikeThree
     \new Lyrics \lyricsto "mike" \mikeThreeWords
-    \new Staff = "ryanstaff" \with { instrumentName = "Ryan" } \new Voice = "ryan" \ryanThree
+    \new Staff = "ryanstaff" \with { %{instrumentName = "Ryan"%} } \new Voice = "ryan" \ryanThree
     \new Lyrics \lyricsto "ryan" \ryanThreeWords
-    \new Staff = "eudesstaff" \with { instrumentName = "Eudes" } \new Voice = "eudes" \eudesThree
+    \new Staff = "eudesstaff" \with { %{instrumentName = "Eudes"%} } \new Voice = "eudes" \eudesThree
     \new Lyrics \lyricsto "eudes" \eudesThreeWords
   >>
   \layout {
+    indent = 0
     \context {
       \Voice
       \override TextScript #'layer = #6
@@ -1080,3 +1086,292 @@ eudesThreeWords = \lyricmode {
 }
 
 \markup \huge \fill-line { \center-column { "[Marie]" "Cinquième leçon." "Y'a pas de cinquième leçon." "Sixième leçon." "   " } }
+
+marieFour = \relative c'' {\autoBeamOff
+  \time 3/4
+  \key d \major
+  c2 ~ c8 gis8 |
+  \time 4/4
+  a fis e d \times 2/3 { a cis e } \times 2/3 { b' cis b }
+  \times 2/3 { a fis fis } \times 2/3 { g a g } fis4. fis8 |
+  e g b d \times 2/3 { cis a a } \times 2/3 { b cis b } |
+  \cricket r16 c, c c \times 2/3 { c8 c r } r2 |
+  \MonoShift
+  \FatText
+  \hideNotes
+  \override TextScript #'whiteout = ##t
+  \override TextScript #'extra-spacing-width = #'(-0.2 . 0.2)
+  \cricket
+  s2-"[voir ci-dessous...]"
+  \unFatText
+  \unMonoShift
+  \unHideNotes
+  \revert TextScript #'whiteout
+  \revert Staff . BarLine #'Y-extent  
+}
+
+marieFourWords = \lyricmode {
+  Schloß
+  et sept -- i -- ème le -- çon où on chante
+  tous les noms des per -- sonnes dans cette salle
+  qui ont trom -- pé leur par -- te -- naire au moins une
+  je vais ac -- cou -- cher
+}
+
+ryanFour = \relative c' {\autoBeamOff
+  \tNormal
+  \key d \major
+  \times 2/3 { g8 g g } g4 g32 g g g gis8 |
+  a fis e d \times 2/3 { a cis e } \times 2/3 { g a g }
+  \times 2/3 { fis8 g gis } \times 2/3 { a b cis } cis8 ( b4 ) a8 | 
+  g g g b g8 \cricket c16 c c8 c16 c |
+  c16 c r8 r4 c16 c8 c16 c c \times 2/3 { c c c } |
+  \MonoShift
+  \FatText
+  \hideNotes
+  \override TextScript #'whiteout = ##t
+  \override TextScript #'extra-spacing-width = #'(-0.2 . 0.2)
+  \cricket
+  s2-"[voir ci-dessous...]"
+  \unFatText
+  \unMonoShift
+  \unHideNotes
+  \revert TextScript #'whiteout
+  \revert Staff . BarLine #'Y-extent
+}
+
+ryanFourWords = \lyricmode {
+  six -- ième le -- çon look at my butt
+  et sept -- i -- ème le -- çon où on chante
+  tous les noms des per -- sonnes dans cette salle
+  qui ont trom -- pé leur par WHAT THE FUCK IS HAP -- PEN -- ING?
+  Al -- lez, al -- longe toi main -- te -- nant
+}
+
+mikeFour = \relative c' {\autoBeamOff
+  \saNormal
+  \key d \major
+  \times 2/3 { e8 e e } e4. gis8 |
+  a fis e d \times 2/3 { a a cis } \times 2/3 { e e eis }
+  \times 2/3 { fis8 cis b } \times 2/3 { cis d e } d4. dis8 |
+  b8 b e fis \times 2/3 { e e e } \times 2/3 { e e e } |
+  fis2
+  %\once \override Score.RehearsalMark.self-alignment-X = #LEFT
+  %\mark \markup \italic "rall. with sugar..."
+  fis'2^\markup \italic "rall. with sugar..." | \noBreak % !!!
+  e8 d cis b a d g, cis | \noBreak % !!!!
+  \time 2/4
+  b ( a4. )
+}
+
+mikeFourWords = \lyricmode {
+  six -- ième le -- çon
+  et sept -- i -- ème le -- çon où on chante
+  tous les noms des per -- sonnes dans cette salle
+  qui ont trom -- pé leur par -- te -- naire au moins une fois
+  en com -- men -- çant par la belle femme, là -- bas
+}
+
+eudesFour = \relative c {\autoBeamOff
+  \bNormal
+  \key d \major
+  \times 2/3 { c8 c c } c4. gis'8 |
+  a fis e d \times 2/3 { a a a } \times 2/3 { a a a }
+  \times 2/3 { d8 d d } \times 2/3 { cis fis fis, } b4. g8 |
+  g g g g \times 2/3 { gis8 gis gis } \times 2/3 { gis gis gis } |
+  a4. \cricket c'16 c c c c r r4 |
+  \MonoShift
+  \FatText
+  \hideNotes
+  \override TextScript #'whiteout = ##t
+  \override TextScript #'extra-spacing-width = #'(-0.2 . 0.2)
+  \cricket
+  s2-"[voir ci-dessous...]"
+  \unFatText
+  \unMonoShift
+  \unHideNotes
+  \revert TextScript #'whiteout
+  \revert Staff . BarLine #'Y-extent  
+}
+
+eudesFourWords = \lyricmode {
+  six -- ième le -- çon
+  et sept -- i -- ème le -- çon où on chante
+  tous les noms des per -- sonnes dans cette salle
+  qui ont trom -- pé leur par -- te -- naire au moins une fois
+  Elle va ac -- cou -- "cher !"
+}
+
+
+\score {
+  \new ChoirStaff <<
+    \new Staff \with { %{instrumentName = "Marie"%} } \new Voice = "marie" \marieFour
+    \new Lyrics \lyricsto "marie" \marieFourWords
+    \new Staff = "mikestaff" \with { %{instrumentName = "Mike"%} } \new Voice = "mike" \mikeFour
+    \new Lyrics \lyricsto "mike" \mikeFourWords
+    \new Staff = "ryanstaff" \with { %{instrumentName = "Ryan"%} } \new Voice = "ryan" \ryanFour
+    \new Lyrics \lyricsto "ryan" \ryanFourWords
+    \new Staff = "eudesstaff" \with { %{instrumentName = "Eudes"%} } \new Voice = "eudes" \eudesFour
+    \new Lyrics \lyricsto "eudes" \eudesFourWords
+  >>
+  \layout {
+    indent = 0
+    \context {
+      \Voice
+      \override TextScript #'layer = #6
+      \override Glissando #'breakable = ##t
+      \override TupletNumber #'breakable = ##t
+      \override TupletNumber #'avoid-slur = #'ignore
+      \override TupletBracket #'breakable = ##t
+      \remove "Forbid_line_break_engraver"
+    }
+    \context {
+      \Staff
+      %\override TimeSignature #'style = #'numbered
+      %\override StaffSymbol #'layer = #4
+      %\override TimeSignature #'layer = #3
+      %\override TimeSignature #'whiteout = ##t
+    }
+    \context {
+      \Lyrics
+      %\override LyricText #'whiteout = ##t
+      %\override LyricText #'layer = #6
+    }
+    \context {
+      \Score
+      \override NonMusicalPaperColumn #'allow-loose-spacing = ##f
+    }
+  }
+  \midi {}
+}
+
+\markup \huge \fill-line {
+\center-column { "[Marie]"
+"Ça fait mal."
+"   "
+"hiiiiiii"
+"   "
+"Je te HAIS !"
+"   "
+"haaaaaaa"
+"   "
+"J'aurais dû"
+"prendre la pilule !"
+\transparent "Cp"
+\transparent "Çp"
+"hiiiiii"
+"   "
+"   "
+"je ne"
+"respirerai"
+"plus jamais"
+"plus jamais"
+"plus jamais"
+"plus jamais"
+"plus jamais"
+"plus jamais"
+"plus jamais"
+"   " 
+"   " }
+\center-column { "[Ryan]"
+\transparent "Ç."
+"   "
+"hiiiiii"
+"  "
+"  "
+"Pousse !!!" 
+"   "
+"aaayyyy"
+"   "
+\transparent "Ç"
+"   "
+"C'est pas une"
+"tête que tu"
+"vois, là..."
+"res-"
+"pire"
+"respire"
+"respire"
+"hi hi hi"
+"hi hi"
+"hi hi"
+"   "
+"hooooly"
+"shit!"
+"   " }
+\center-column { "[Eudes]"
+"    "
+"Pousse !!"
+"   "
+"Putain, je vais"
+"m'évanouir..."
+"   "
+"haaaaaa"
+"   "
+"    "
+"Ça y est, je vois sa tête, je"
+"vois sa tête !"
+"   " 
+"   "
+"haaaa-"
+"aaa"
+"   "
+"   "
+"   "
+"   "
+"   "
+"Ça y est, je le"
+"vois arri-"
+"ver, je le"
+"vois arriver, je"
+"le vois !"
+}
+\center-column { "[Mike]"
+"    "
+"    "
+"    "
+"    "
+"    "
+"    "
+\italic "[un ECG]"
+"d d d"
+"     "
+"d d d"
+"d d d"
+"   "
+"   "
+"d d d"
+"     "
+"d d d"
+"     "
+"d d d"
+"     "
+"d d d"
+"     "
+"d d d"
+"d d d"
+"d d d"
+"d d d"
+}
+}
+
+
+\markup \huge \italic \fill-line { \center-column { "..." "   " "[Ryan imitates the crying of a baby.]"  "   " } }
+
+%\markup \huge \fill-line { \center-column { "[Mike]" "Cinquième leçon." "Y'a pas de cinquième leçon." "Sixième leçon." "   " } }
+
+\markup \huge \fill-line { \center-column { "[Eudes]" "C'est la huitième leçon d'anglais." "   " } }
+
+\markup \huge \fill-line { \center-column { "[Mike]" "Oui, mais est-ce qu'on est sûr de savoir la paternité de cette leçon ?" "   " } }
+
+\markup \huge \italic \fill-line { \center-column { "[Ryan arrête de pleurer et ils regardent tous Marie, qui, gênée, hausse les épaules...]" "   " } }
+
+\markup \huge \fill-line { \center-column { "[Eudes]" "Bon, on la remets ?" "   " } }
+
+\markup \huge \fill-line { \center-column { "[Ryan]" "Ouais, ce sera plus simple..." "   " } }
+
+\markup \huge \fill-line { \center-column { "[Mike]" "Shhh, ce sera plus simple..." "   " } }
+
+\markup \huge \fill-line { \center-column { "[Eudes]" "Shhhhhh..." "   " } }
+
+\markup \huge \italic \fill-line { \center-column { "[Mike remet la leçon dans sa mère. Après la remise de leçon, deeeeeeeep breath chez tous]" "   " } }

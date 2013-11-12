@@ -55,6 +55,20 @@ hairlen =
   \once \override Hairpin #'springs-and-rods = #ly:spanner::set-spacing-rods
 #})
 
+Hairlen =
+#(define-music-function (parser location n) (number?)
+#{
+  \override Hairpin #'minimum-length = #n
+  \override Hairpin #'springs-and-rods = #ly:spanner::set-spacing-rods
+#})
+
+Hairrev =
+#(define-music-function (parser location ) ()
+#{
+  \revert Hairpin #'minimum-length
+  \revert Hairpin #'springs-and-rods
+#})
+
 % already in 2.15, but copied here to work in 2.14
 #(define (insert-markups l m)
   (let ((ll (reverse l)))

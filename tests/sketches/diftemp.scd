@@ -30,6 +30,8 @@ Buffer.read(s,"/Users/mikesolomon/Documents/Compositions/overtime/tests/sketches
 
 )
 
+{PlayBuf.ar(2,z[3])}.play
+
 // normal
 (
 {
@@ -57,17 +59,42 @@ Buffer.read(s,"/Users/mikesolomon/Documents/Compositions/overtime/tests/sketches
 
 // even cooler
 (
-{
-	var arr = Array.fill(z.size, {|i|
+SynthDef(\silly, {|i, buf, speed=1.0|
 		var freq = 2 + (i * 0.2);
 		var mul = 0.05 + (i * 0.05);
 		var add = 0.75 + (i * 0.15);
 		var trig = i * 0.1;
-		PlayBuf.ar(2,z[i], BufRateScale.kr(z[i]) * SinOsc.kr(freq, 0, mul, add), Impulse.kr(trig));
-	});
-	Out.ar(0, MonoGrain.ar(Mix.ar(arr), 0.2, 20)
+		var snd = PlayBuf.ar(2,buf, BufRateScale.kr(buf) * SinOsc.kr(freq, 0, mul, add) * speed, Impulse.kr(trig));
+	Out.ar(0, MonoGrain.ar(snd, 0.2, 20)
 	);
-}.play
+}).send(s)
+)
+
+~foobar = Array.fill(z.size, {|i| Synth.new(\silly, [\i, i, \buf, z[i]])});
+
+~foobar.do({|x| x.set(\speed, 1.3)})
+
+(
+~rates = [0.5,0.6,0.7,0.8,0.9,1.0,1.1,1.2,1.3,1.4,1.5,1.6,1.7,1.8,1.9];
+~funcs = Array.fill(~rates.size, {|i|{
+	~foobar.do({|x| x.set(\speed, ~rates[i])})
+}});
+
+)
+
+
+c.value;
+b.value;
+
+~weTouch = Buffer.read(s,"/Users/mikesolomon/Documents/Compositions/overtime/lesAmants/Bounces/lesAmants.aif");
+Synth.new(\foobar,[\bufnum, ~weTouch, \vol, 1, \loop, 0]);
+
+
+(
+w = Window.new("GUI Introduction", Rect(200,200,800,100));
+x = Array.fill(~rates.size, {|i|Button.new(w,Rect(10 + (i*30),0,30,30)).states_([[~rates[i]]])});
+x.size.do({|i| x[i].action = { ~funcs[i].value; };});
+w.front;
 )
 
 // unbridled joy EVEN HIER JA !
@@ -98,7 +125,7 @@ Buffer.read(s,"/Users/mikesolomon/Documents/Compositions/overtime/tests/sketches
 }.play
 )
 
-s.prepareForRecord("/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/difJoyZxx.wav");
+s.prepareForRecord("/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/audit/material1-flipper.wav");
 s.record;
 s.stopRecording; // this closes the file and deallocates the buffer recording node, etc.
 

@@ -1,12 +1,12 @@
 YES!!
 
-ais'8
-b fis e d \times 2/3 { a cis e b' cis b }
+gis'8
+a fis e d \times 2/3 { a cis e   b' cis b }
 a16 fis fis fis fis \times 2/3 { g8 a g } fis  [[[cis b]]]
 
 et septième leçon quand le petit branleur
   (qui s'appelle le petit branleur)
-m'a
+m'a posé un lapin avant le cours, ce
 
 OH MY God what the fuck what the fuck is happening
   [I'm having a baby]

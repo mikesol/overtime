@@ -97,7 +97,7 @@ Buffer.read(s,"/Users/mikesolomon/Documents/Compositions/overtime/tests/sketches
 }.play
 )
 
-s.prepareForRecord("/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/overkill.wav");
+s.prepareForRecord("/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/audit/material3-0.1.wav");
 s.record;
 s.stopRecording; // this closes the file and deallocates the buffer recording node, etc.
 

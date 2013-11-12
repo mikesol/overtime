@@ -37,12 +37,14 @@ IFFT
 PV_BrickWall // etc, always PV_
 (
 
-//~mypath = "/Users/mikesolomon/Documents/Compositions/madrigali/demoisellesReal/Bounces/marieSnippet.aif"
+~mypath = "/Users/mikesolomon/Documents/Compositions/madrigali/demoisellesReal/Bounces/marieSnippet.aif";
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/beatbox.aif";
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/leaderex/Bounces/leaderex.aif";
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/lePatronPart/stAbbeR.aif";
-//
-~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/overtime/OVERTIME.aif";
+//~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/overtime/overtime/Bounces/ryanSolo.aif";
+//~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/overtime/OVERTIME.aif";
+//~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/bruit/doot.aif";
+
 b = Buffer.read(s,~mypath);
 ~lite = Buffer.readChannel(s,~mypath, channels: 0);
 z = Buffer.alloc(s, 44100 * 60.0, 1); // a 60 second 1 channel Buffer
@@ -54,15 +56,33 @@ z = Buffer.alloc(s, 44100 * 60.0, 1); // a 60 second 1 channel Buffer
 
 play{PlayBuf.ar(2,b,1)};
 
-s.prepareForRecord("/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/lePatronPart/siren4.wav");
+play{SoundIn.ar}
+
+s.prepareForRecord("/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/overtime/ryanTest.wav");
 s.record;
 s.stopRecording; // this closes the file and deallocates the buffer recording node, etc.
 play{EnvGen.kr(Env.new([1.5,0.8,0.0],[0.4,8]), 1)*PitchShift.ar(PlayBuf.ar(2,b,1), 0.2, Line.kr(0.5,0.1,8))}
 // basic pitch shiftery
 play{PitchShift.ar(PlayBuf.ar(2,b,1), 0.2, SinOsc.kr(100,0,0.4,1.2))};
+// w orig
+play{(PlayBuf.ar(2,b,1)*0.5) + PitchShift.ar(PlayBuf.ar(2,b,1), 0.2, SinOsc.kr(100,0,0.4,1.2))};
+
+
+(
+play{(PlayBuf.ar(2,b,1)*0.5) + PitchShift.ar(PlayBuf.ar(2,b,1), 0.2, SinOsc.kr(100,0,0.4,1.2))
+
++ PitchShift.ar(PlayBuf.ar(2,b,1), 0.2, 0.8)
+};
+)
+
+
+
 play{EnvGen.kr(Env.new([0.0,1.0,1.0],[2,6]), 1)*PitchShift.ar(PlayBuf.ar(2,b,1), 0.2, SinOsc.kr(0.1,1.5pi,1.2,2.65))};
 
 play{PitchShift.ar(PlayBuf.ar(2,b,1), 0.2, SinOsc.kr(0,0,0.2,0.8))};
+
+// with orig..
+play{PlayBuf.ar(2,b,1) + PitchShift.ar(PlayBuf.ar(2,b,1), 0.2, SinOsc.kr(0,0,0.2,0.8))};
 
 // arpeggiate
 play{PitchShift.ar(PlayBuf.ar(2,b,1), 0.2, Demand.kr(Impulse.kr(4),0,Dseq([1.1,1.6,2.1,2.6],inf)))};
@@ -100,11 +120,11 @@ synar = synar ++ [[95, [\c_set, 0, 0]]];
 SynthDef(\foobar,
 {
 	var base, baseL, sound0, sound1, sound2, sound3;
-	//base = PlayBuf.ar(2,b,1);
-	//baseL = PlayBuf.ar(1, ~lite.bufnum, BufRateScale.kr(~lite.bufnum), doneAction: 2);
+	base = PlayBuf.ar(2,b,1);
+	baseL = PlayBuf.ar(1, ~lite.bufnum, BufRateScale.kr(~lite.bufnum), doneAction: 2);
 
-		base = SoundIn.ar;
-		baseL = base;
+		//base = SoundIn.ar;
+		//baseL = base;
 	sound0 = PitchShift.ar(base, 0.2, Demand.kr(Impulse.kr(4),0,Dseq([1.1,1.6,2.1,2.6],inf)));
 	sound1 = base;
 	sound2 = LPF.ar(PitchShift.ar(base, 0.2, 0.4), 150);
@@ -162,6 +182,13 @@ play{CombC.ar(PlayBuf.ar(2,b,1).softclip,1,1/SinOsc.kr(SinOsc.kr(1,0,[0.1,1]),0,
 
 // with pitch shift and double sin slinky
 play{CombC.ar(PitchShift.ar(PlayBuf.ar(2,b,1).softclip, 0.2, SinOsc.kr(10,0,0.05,0.7)),1,1/SinOsc.kr(SinOsc.kr(1,0,[0.1,1]),0,30,90),1).dup}//easy hall/resonator fx for my lap steel guitar #supercollider
+
+
+// 1 c
+
+play{Normalizer.ar(BPF.ar(PlayBuf.ar(1,b,1),SinOsc.kr(SinOsc.kr(1,0,4,5),0,Array.geom(16,10,1.5),Array.geom(16,120,1.5)),0.005,1).sum,0.8,0.01).dup} // kind of EZ resonator / vocoder for the mic #supercollider
+
+play{CombC.ar(PitchShift.ar(PlayBuf.ar(1,b,1).softclip, 0.2, SinOsc.kr(10,0,0.05,0.7)),1,1/SinOsc.kr(SinOsc.kr(1,0,[0.1,1]),0,30,90),1).dup}//easy hall/resonator fx for my lap steel guitar #supercollider
 
 (
 // using marie to control dubstep
@@ -270,6 +297,19 @@ SynthDef("help-magSmear2", { arg out=0, bufnum=0, soundBufnum=2;
 }).play(s,[\out, 0, \bufnum, m.bufnum, \soundBufnum, ~lite.bufnum]);
 )
 
+
+(
+SynthDef("help-magSmear2", { arg out=0, bufnum=0, soundBufnum=2;
+    var in, chain;
+    in = PlayBuf.ar(1, soundBufnum, BufRateScale.kr(soundBufnum), doneAction: 2);
+    chain = FFT(bufnum, in);
+    chain = PV_MagSmear(chain, 200);
+    Out.ar(out, 0.8 * IFFT(chain).dup);
+}).play(s,[\out, 0, \bufnum, m.bufnum, \soundBufnum, ~lite.bufnum]);
+)
+
+
+
 m.free; n.free;
 
 
@@ -371,4 +411,4 @@ play{t=Impulse.kr(14.0/3.0);PlayBuf.ar(2,b,1,t,Demand.kr(t,0,Dseq(1e3*Array.fill
 play{PlayBuf.ar(2,~psb,1,doneAction: 2)};
 s.prepareForRecord("/Users/mikesolomon/Documents/Compositions/overtime/voiceEffectSketches/leaderex.wav");
 s.record;
-s.stopRecording; // this closes the file and deallocates the buffer recording node, etc.
+	s.stopRecording; // this closes the file and deallocates the buffer recording node, etc.}

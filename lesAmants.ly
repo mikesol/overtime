@@ -344,7 +344,7 @@ marie = \relative c'' { \autoBeamOff\numericTimeSignature
   dis8 fisis\ddag gis4 fis8 fis fis4 |
   \tempo 4=180
   \time 6/4
-  cis'1.-- |
+  bis1.-- |
   \time 3/4
   \tempo 4=384
   \Blue
@@ -363,7 +363,7 @@ marie = \relative c'' { \autoBeamOff\numericTimeSignature
   fis8 gis\dag r |
   \time 4/4
   \tempo 4=272
-  cis4 b8 b b cis a4\dag |
+  bis4 ais8 ais ais bis gis4\dag |
   \tempo 4=144
   \times 2/3 { ais8 gis\dag r } \times 2/3 { ais8 gis\dag r } \times 2/3 { ais8 gis\dag r } \times 2/3 { ais8 gis\dag r } |
   \tempo 4= 200
@@ -710,7 +710,7 @@ ryan = \relative c' { \autoBeamOff\numericTimeSignature
   \time 5/4
   \tempo %{"fast"%} 2=140
   \Blue
-  gis4 fis8 fis fis4 gis8 fis e4
+  gis'4 fis8 fis fis4 gis8 fis e4
   \time 2/4
   dis4 cis8 cis |
   \tempo %{"normal"%} 4=140
@@ -738,7 +738,7 @@ ryan = \relative c' { \autoBeamOff\numericTimeSignature
   e4 fis |
   \tempo 4=152 
   \Black
-  bis dis |
+  bis, dis |
   \time 3/4
   a4 e'8 [ cis ] a4 |
   \time 2/4

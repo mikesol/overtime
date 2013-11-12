@@ -31,6 +31,8 @@ Buffer.read(s,"/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/lePa
 
 )
 
+{PlayBuf.ar(2,z[1])}.play;
+
 // normal
 (
 {
@@ -79,7 +81,7 @@ Buffer.read(s,"/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/lePa
 (
 {
 	var arr = Array.fill(12, {|i|
-		var imp = 0.1;
+		var imp = 1;
 		var freq = Demand.kr(Impulse.kr(imp), 0, Drand(Array.fill(12, { |j| 2 + (j * 0.2) }), inf));
 		var mul = Demand.kr(Impulse.kr(imp), 0, Drand(Array.fill(12, { |j| 0.05 + (j * 0.05) }), inf));
 		var add = Demand.kr(Impulse.kr(imp), 0, Drand(Array.fill(12, { |j| 0.75 + (j * 0.15) }), inf));
@@ -106,7 +108,7 @@ Buffer.read(s,"/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/lePa
 }.play
 )
 
-s.prepareForRecord("/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/joyYYYY.wav");
+s.prepareForRecord("/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/audit/material7.wav");
 s.record;
 s.stopRecording; // this closes the file and deallocates the buffer recording node, etc.
 

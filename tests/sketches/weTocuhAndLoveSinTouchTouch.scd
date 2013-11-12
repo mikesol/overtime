@@ -112,6 +112,6 @@ Routine({
 }.play
 )
 
-s.prepareForRecord("/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/lesAmantsEASketch.wav");
+s.prepareForRecord("/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/audit/material6.wav");
 s.record;
 s.stopRecording; // this closes the file and deallocates the buffer recording node, etc.

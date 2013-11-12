@@ -43,7 +43,7 @@ Buffer.read(s,"/Users/mikesolomon/Documents/Compositions/overtime/tests/sketches
 }.play
 )
 
-~my = 2;
+~my = 0;
 //0 is great, 2 too, 1 ok, 3 too
 (
 {
@@ -51,4 +51,6 @@ Buffer.read(s,"/Users/mikesolomon/Documents/Compositions/overtime/tests/sketches
 }.play
 )
 
-AllpassN
+s.prepareForRecord("/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/audit/material4-1.wav");
+s.record;
+s.stopRecording; // this closes the file and deallocates the buffer recording node, etc.

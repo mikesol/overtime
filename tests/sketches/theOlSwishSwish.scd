@@ -49,3 +49,7 @@ Buffer.read(s,"/Users/mikesolomon/Documents/Compositions/overtime/tests/sketches
 	(PlayBuf.ar(2,z[6],BufRateScale.kr(z[1])*2)*SinOsc.kr(SinOsc.kr(4,0,4.6,9.12),0,0.5,0.5)*0.5)
 }.play
 )
+
+s.prepareForRecord("/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/audit/material5.wav");
+s.record;
+s.stopRecording; // this closes the file and deallocates the buffer recording node, etc.
