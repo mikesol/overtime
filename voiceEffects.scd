@@ -35,18 +35,24 @@ LPCVals // returns pitch, etc from file
 FFT
 IFFT
 PV_BrickWall // etc, always PV_
+b.free
 (
 
-~mypath = "/Users/mikesolomon/Documents/Compositions/madrigali/demoisellesReal/Bounces/marieSnippet.aif";
+//~mypath = "/Users/mikesolomon/Documents/Compositions/madrigali/demoisellesReal/Bounces/marieSnippet.aif";
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/beatbox.aif";
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/leaderex/Bounces/leaderex.aif";
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/lePatronPart/stAbbeR.aif";
+//~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/amants2/amants2/Bounces/ryan.aif";
+//~mypath2 = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/amants2/amants2/Bounces/eudes.aif";
+~mypath ="/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/menage/moxy3.aif";
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/overtime/overtime/Bounces/ryanSolo.aif";
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/overtime/OVERTIME.aif";
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/bruit/doot.aif";
 
 b = Buffer.read(s,~mypath);
+c = Buffer.read(s,~mypath2);
 ~lite = Buffer.readChannel(s,~mypath, channels: 0);
+~lite2 = Buffer.readChannel(s,~mypath2, channels: 0);
 z = Buffer.alloc(s, 44100 * 60.0, 1); // a 60 second 1 channel Buffer
 ~house = Buffer.read(s,"/Users/mikesolomon/Documents/Compositions/overtime/tests/house0.aif");
 ~psb = Buffer.read(s,"/Users/mikesolomon/Documents/Compositions/overtime/tests/packSandbox1.aif");
@@ -72,9 +78,22 @@ play{(PlayBuf.ar(2,b,1)*0.5) + PitchShift.ar(PlayBuf.ar(2,b,1), 0.2, SinOsc.kr(1
 play{(PlayBuf.ar(2,b,1)*0.5) + PitchShift.ar(PlayBuf.ar(2,b,1), 0.2, SinOsc.kr(100,0,0.4,1.2))
 
 + PitchShift.ar(PlayBuf.ar(2,b,1), 0.2, 0.8)
+
+	+(PlayBuf.ar(2,c,1)*0.5) + PitchShift.ar(PlayBuf.ar(2,c,1), 0.2, SinOsc.kr(50,0,0.2,1.0))
+
++ PitchShift.ar(PlayBuf.ar(2,c,1), 0.2, 0.8)
+
+
+
 };
 )
 
+(
+play{(PlayBuf.ar(2,b,1)*0.5) + PitchShift.ar(PlayBuf.ar(2,b,1), 0.2, SinOsc.kr(100,0,0.4,1.2))
+
++ PitchShift.ar(PlayBuf.ar(2,b,1), 0.2, 0.8)
+};
+)
 
 
 play{EnvGen.kr(Env.new([0.0,1.0,1.0],[2,6]), 1)*PitchShift.ar(PlayBuf.ar(2,b,1), 0.2, SinOsc.kr(0.1,1.5pi,1.2,2.65))};
@@ -158,6 +177,7 @@ play{PlayBuf.ar(2,b,1)*SinOsc.ar(Tartini.kr(PlayBuf.ar(2,b,1)))};
 
 // cool lf saw
 play{HPF.ar(Mix.ar(LFSaw.ar(SinOsc.kr(Array.rand(3,0.1,0.5),0,10,[1,1.1,1.5,1.78,2.45,6.7]*Tartini.kr(PlayBuf.ar(2,b,1, doneAction: 2))),0,0.3, 0.2)), 100).dup};
+play{HPF.ar(Mix.ar(LFSaw.ar(SinOsc.kr(Array.rand(3,0.1,0.5),0,10,[1,1.1,1.5,1.78,2.45,6.7]*Tartini.kr(SoundIn.ar)),0,0.3, 0.2)), 100).dup};
 
 // mine
 play{Normalizer.ar(BPF.ar(PlayBuf.ar(2,b,1),SinOsc.kr(1,0,Array.geom(16,10,1.5),Array.geom(16,120,1.5)),0.005,1).sum, 0.8, 0.01).dup} // kind of EZ resonator / vocoder for the mic #supercollider
@@ -182,6 +202,8 @@ play{CombC.ar(PlayBuf.ar(2,b,1).softclip,1,1/SinOsc.kr(SinOsc.kr(1,0,[0.1,1]),0,
 
 // with pitch shift and double sin slinky
 play{CombC.ar(PitchShift.ar(PlayBuf.ar(2,b,1).softclip, 0.2, SinOsc.kr(10,0,0.05,0.7)),1,1/SinOsc.kr(SinOsc.kr(1,0,[0.1,1]),0,30,90),1).dup}//easy hall/resonator fx for my lap steel guitar #supercollider
+
+play{CombC.ar(PitchShift.ar(SoundIn.ar.softclip, 0.2, SinOsc.kr(10,0,0.05,0.7)),1,1/SinOsc.kr(SinOsc.kr(1,0,[0.1,1]),0,30,90),1).dup}//easy hall/resonator fx for my lap steel guitar #supercollider
 
 
 // 1 c
@@ -254,7 +276,7 @@ sweep*1.5) * 4]);
 
 // record and granulate (w/ shift)
 (
-SynthDef(\buf_grain_test, {arg wrtbuf, sndbuf, inbuf;
+SynthDef(\buf_grain_test, {arg wrtbuf, inbuf;
     var money, rplay, play, line, pan, env, freqdev, grainlen, impulz;
 
 	grainlen = LFNoise1.kr(10).range(0.05,0.1);//0.1;
@@ -267,9 +289,9 @@ SynthDef(\buf_grain_test, {arg wrtbuf, sndbuf, inbuf;
 	    pan = SinOsc.kr(Demand.kr(Impulse.kr(1),0,Drand([0.1,1,5],inf)));//MouseX.kr(-1, 1);
 	// multiplies by the line to avoid writing problems...will suck in beginning...
     Out.ar(0, rplay + PitchShift.ar(rplay, 0.2, SinOsc.kr(100,0,0.4,1.2)) +
-        GrainBuf.ar(2, Impulse.kr(impulz), grainlen, sndbuf, LFNoise1.kr.range(0.5, 2),
+        GrainBuf.ar(2, Impulse.kr(impulz), grainlen, wrtbuf, LFNoise1.kr.range(0.5, 2),
 			(line - (grainlen*money/1) - (LFNoise2.kr(0.01,0.2*money))).clip(0,line), 2, pan))
-    }).play(s, [\wrtbuf, z, \sndbuf, z, \inbuf, b]);
+    }).play(s, [\wrtbuf, z, \inbuf, b]);
 
 )
 
@@ -346,7 +368,8 @@ SynthDef("help-magStretch", { arg out=0, bufnum=0;
     var in, chain, sbfnm;
 
 	sbfnm = ~lite.bufnum;
-    in = PlayBuf.ar(1, sbfnm, BufRateScale.kr(sbfnm), doneAction: 2);
+    //in = PlayBuf.ar(1, sbfnm, BufRateScale.kr(sbfnm), doneAction: 2);
+	in = SoundIn.ar;
     chain = FFT(LocalBuf(2048), in);
 	    chain = PV_MagShift(chain, SinOsc.kr(1,0.3pi).exprange(0.5,2.0), LFNoise1.kr(0.1).range(-128,60) );
     Out.ar(out, 0.7 * IFFT(chain).dup);
@@ -396,6 +419,9 @@ SynthDef("help-magStretch", { arg out=0, bufnum=0;
 )
 
 {LPCAnalyzer.ar(PlayBuf.ar(1, ~lite.bufnum, BufRateScale.kr(~lite.bufnum), doneAction: 2),Impulse.ar(440,0,0.2), 256, 50).dup}.play
+
+{LPCAnalyzer.ar(PlayBuf.ar(1, ~lite.bufnum, BufRateScale.kr(~lite.bufnum), doneAction: 2),Impulse.ar(Demand.kr(Dust.kr(0.5),0,Drand([440,410,480,510],inf)),0,0.2), 256, 50).dup}.play
+
 {LPCAnalyzer.ar(PlayBuf.ar(1, ~lite.bufnum, BufRateScale.kr(~lite.bufnum), doneAction:  2),SinOsc.ar([1,1.1,1.5,1.78,2.45,6.7]*220,0,0.05), 256, 50)}.play
 
 

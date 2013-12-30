@@ -1,5 +1,5 @@
  \version "2.17.26"
-#(set-global-staff-size 15.87)
+#(set-global-staff-size 15.0)
 #(ly:set-option 'point-and-click #f)
 \paper {
   ragged-last-bottom = ##f
@@ -12,7 +12,7 @@
   right-margin = 0.75\in
   top-margin = 0.5\in
   bottom-margin = 0.6\in
-  score-markup-spacing #'basic-distance = #1
+  score-markup-spacing = #'((basic-distance . 10) (minimum-distance . 5))
 
 }
 
@@ -39,7 +39,7 @@ lexicon = \markup \justify {
 }
 
 marie = \relative c'' {
-  \Hairlen #5
+  \Hairlen #8
   \crap
   \override NoteHead.style = #'petrucci
   \clef treble
@@ -52,10 +52,10 @@ marie = \relative c'' {
   c b |
   bes a |
   bes r4 %{\airf g%} |
-  des r4 %{\airf g,%} |
-  des r4 %{\airf g,%} |
+  bes8 \glissando [ des ] r4 %{\airf g,%} |
+  bes8 \glissando [ des ] r4 %{\airf g,%} |
   \time 3/4
-  r8 ees8^\f^\< ~ ees2-\bendAfter #2 |
+  r8 ees8^\f^\< ~ ees2 |
   \time 2/4
   des4^\ff c4 |
   des2:32^\markup \italic "mitrailleuse" |
@@ -121,12 +121,14 @@ marie = \relative c'' {
   b^\f^\markup \italic "petit singe" bes |
   \times 2/3 { a aes aes } |
   \times 2/3 { aes aes aes } | 
+  \once \override Score.RehearsalMark.self-alignment-X = #LEFT
   \mark \markup \italic "(fanfare)"
   \time 6/8
   des4. ges, |
   des' ges, |
   \time 2/4
   des'4 ges, |
+  \once \override Score.RehearsalMark.self-alignment-X = #LEFT
   \mark \markup \italic "(ord. (enfin...))"
   \time 4/4
   e2^\mf^\<^\markup \italic "moyen singe" r4 fis ~ |
@@ -156,12 +158,12 @@ marie = \relative c'' {
   \time 4/4
   gis4 r fis r |
   \time 3/4
-  a2 r4 |
+  a2^\> r4 |
   fis2^\markup \italic "grand singe" r4 |
   fis2 r4 |
-  e2 r4 |
+  e2^\mp r4 |
   \once \override Score.RehearsalMark.self-alignment-X = #LEFT
-  \mark "état de choc profond"
+  \mark \markup \italic "état de choc profond"
   R2. |
   R2. |
   \time 2/4
@@ -170,7 +172,7 @@ marie = \relative c'' {
   cis'16.^\ff^\markup \italic "enfantin" cis cis cis cis cis r8. |
   R2. |
   r4 cis16.^\f cis r16 r4 |
-  r2 c'8^\p^\markup \italic "souris"-\bendAfter #2 r |
+  r2 \once \override TextScript #'extra-spacing-width = ##f c'8^\p^\markup \italic "souris"-\bendAfter #2 r |
   a8.^\mp^\markup \italic "mignon" fis fis fis |
   fis8. r16 \cricket \tri c,8^\markup \italic "grognemenet" \saNormal
      \override NoteHead.style = #'petrucci e'^\ff^\markup \italic "fou chez fou" bes' f
@@ -178,7 +180,7 @@ marie = \relative c'' {
   \times 2/3 { r8 c c } \times 2/3 { c c c }  \times 2/3 { c c c } |
   fis,4.^\fp^\<^\markup \italic "sirène" ( \glissando dis'8^\f ) ais^\fp^\< ( \glissando e'^\f )
   \time 2/4
-  dis4.^\fp ( \glissando bis'8^\f ) |
+  dis4.^\fp^\< ( \glissando bis'8^\f ) |
 
 }
 
@@ -197,7 +199,7 @@ marieWords = \lyricmode {
   Bä
   hä hä hä
   ä ë ä ë ä ë 
-  ï ï ï ï ï ï ï ï
+  ä ä ä ä ä ä ä ä
   Bä
   Ba
   Bä
@@ -247,10 +249,10 @@ ryan = \relative c'' {
   \crap
   \clef "treble_8"
   \override NoteHead.style = #'petrucci
-  r2 r8 c8^\markup \italic "clown" ~ |
+  r2 r8 c8^\f^\markup \italic "clown" ~ |
   c4 a4 |
   a4 bes|
-  g2:32^\markup \italic "machine gun" |
+  g2:32^\markup \italic \column { "machine gun" } |
   g:32 |
   \times 2/3 { r4 g g } |
   b,8^\markup \italic "nasal" r4 gis8 |
@@ -259,19 +261,20 @@ ryan = \relative c'' {
   e2:32 |
   e8:32 r4. |
   e4.:32 r8 |
-  r8 fis4^\markup \italic "ape" r8 |
+  r8 fis4^\mf^\markup \italic "ape" r8 |
   r8 fis4 r8 |
-  b'2:32^\markup \italic "hyena" \glissando |
+  b'2:32^\f^\markup \italic "hyena" \glissando |
   g2.:32 \glissando |
   \times 2/3 { ees2-. ees-. ees-. } |
   \times 8/12 { r2. \cricket c4^\markup \italic "stupid" c c c c c c c2 } |
   \tNormal
   \override NoteHead.style = #'petrucci
-  r4 gis4^\markup \italic "goofy" |
+  r4 gis4^\mf^\<^\markup \italic "goofy" |
   r a r ais |
-  r b r2 |
-  \cricket
-  r2 c4^\markup \italic "gay" c |
+  r b^\f r2 |
+  r4 des' ~ \times 2/3 { des
+    \cricket
+    c,4^\markup \italic "gay" c } |
   c r c |
   c r |
   \tNormal
@@ -279,40 +282,40 @@ ryan = \relative c'' {
   \tupFrac
   \clef treble
   \times 7/6 { g'4^\markup \italic "siren" \glissando g'-. g,\glissando g'8 ~ g8-. g,4\glissando g'8 ~ g-.
-  } ees,8^\markup \italic "vocoder" ees ees ees |
-  ees8 ees r cis4.^\markup \italic "slow siren" ( \glissando
+  } ees,8^\mf^\markup \italic "vocoder" ees ees ees |
+  ees8 ees r cis4.^\mp^\<^\markup \italic "slow siren" ( \glissando
   dis4. \glissando e2 \glissando
   f2. \glissando g2 \glissando |
   gis2. \glissando ais4. \glissando ) |
-  b2.^\markup \italic "tape slowing down..."-\bendAfter #2 |
+  b2.^\f^\markup \italic "tape slowing down..."-\bendAfter #2 |
   b4 r8 b4 r8 b4 r8 |
   b1 |
   \times 7/10 {
-    a2^\markup \italic "slower..." a a4 ~ a a2 a4 ~ a
+    a2^\markup \italic "doglike, slower..." a a4 ~ a a2 a4 ~ a
   } a4 ~ |
   a2 |
   r4 dis,^\markup \italic "slower" ( \glissando |
   e2 \glissando fis4 ) |
   r2 b \glissando ( |
-  ais4 ) r4 gis^\markup \italic "crystalline" ~ |
-  gis2 gis4 |
+  ais4 ) r4 gis^\mf^\espressivo^\markup \italic "crystalline" ~ |
+  gis2 gis4^\mf^\< |
   gis gis |
   \times 2/3 { gis gis gis } |
-  ais2:32^\markup \italic "machine gun" |
+  ais2:32^\f^\markup \italic "machine gun" |
   fis4.^\markup \italic "dumb" cis |
   fis cis |
   fis4 cis |
   \cricket 
-  \times 2/3 { c4^\markup \column { "cross between a big black woman" "and a Jewish grandmother" } c c } r c |
+  \times 2/3 { c4^\markup \italic \column { "cross between a large black woman" "and a Jewish grandmother" } c c } r c |
   c r8 c8. c8. r8 c ~ |
   c16 c8. r8 c8 c c |
   \tNormal
   \override NoteHead.style = #'petrucci
-  r4 \times 2/3 { b8^\markup \italic "nasal" b b } b r |
-  b2.^\markup \italic "operatic" |
+  r4 \times 2/3 { b8^\mf^\markup \italic "nasal" b b } b r |
+  b2.^\f^\markup \italic "operatic" |
   \times 2/3 { r4 e^\markup \italic "ol' fashioned" dis } |
   \times 2/3 { b gis r } |
-  \times 2/3 { gis8^\markup \italic "woody the woodpecker " a e' } gis4-. cis,-. fis8-.^\markup \italic "gargled" eis-. |
+  \times 2/3 { gis8^\markup \italic \column { "woody the" "woodpecker" } a e' } gis4-. cis,-. fis8-.^\markup \italic "gargled" eis-. |
   %\tupFrac
   \cricket
   \times 8/9 {
@@ -323,32 +326,34 @@ ryan = \relative c'' {
   \times 2/3 { a8^\markup \italic "machine gun" a a }
   \cricket
   \times 10/11 {
-    c4^\markup \italic "post-pubescent Strong Sad" c8 ~ c c4 c c8 ~ c c8 c c4 \times 2/3 { c c8 ~ c c4 } \times 2/3 { c c r }
+    c4^\mp^\markup \italic \column { "post-pubescent" "Strong Sad" } c8 ~ c c4 c c8 ~ c c8 c c4 \times 2/3 { c c8 ~ c c4 } \times 2/3 { c c r }
   }
   \tNormal 
   \override NoteHead.style = #'petrucci
-  fis,^\markup \italic "white on black" |
+  fis,^\mf^\>^\markup \italic "white on black" |
   cis r r4. |
   fis4 cis4 r4 r4 cis8 ~ |
   cis4 r2. |
   c2 r4 |
   r4. b4. |
-  r4. bes |
+  r4. bes^\mp |
   R2. |
   R2. |
   R2. |
   \time 2/4
-  R2 | 
-  \times 2/3 { des''4^\markup \italic "clown" c b } r4 |
+  R2 |
+  \clef treble
+  \times 2/3 { des''2^\f^\markup \italic "clown" c8 b } r4 |
   R2. |
   r4 b r4 |
-  r2 aes8^\markup \italic "bambi"-\bendAfter #2 r |
+  r2 aes8^\p^\markup \italic "bambi"-\bendAfter #2 r |
   \tupFrac
-  \times 3/5 { r4 bes^\markup \italic "cooing" ees d des }
+  \times 3/5 { r4 bes'^\mp^\markup \italic "cooing" ees, d des }
   des4 r2 |
-  a'2.^\markup \italic "OMFG!!!1" |
-  b,2^\markup \italic "siren" ( \glissando fis'4^\markup \italic "gorilla" ) |
-  fis,, e \times 2/3 { r8 a4 } |
+  a'2.^\ff^\markup \italic "OMFG!!!1" |
+  b,2^\mp^\<^\markup \italic "siren" ( \glissando fis'4^\f ) |
+  \clef bass
+  fis,,^\markup \italic "gorilla" e \times 2/3 { r8 a4 } |
   r4 gis4 |
 }
 
@@ -365,6 +370,7 @@ ryanWords = \lyricmode {
   hi hi hi
   Il a dit "« c'é" tait dans tes "yeux » !"
   ou ou ou ou
+  Bä
   No we don't, sil -- ly!
   ou -- a ou -- a ou -- a
   fun -- ni -- est joke e -- ver!
@@ -410,23 +416,25 @@ eudes = \relative c' {
   \crap
   \clef "treble_8"
   \petr
-  fis2.^\markup \italic "mouette" |
+  fis2.^\ff^\markup \italic "mouette" |
   r4 dis,:32^\markup \italic "simplet" |
   dis2:32 |
   dis:32 |
   dis4:32 r |
   r8 cis4.:32 |
   cis4:32 r |
-  R2. |
-  g''4^\markup \italic "phoque" fis |
+  \cricket r4 \tri c'2^\markup \italic "comme un chat" |
+  \tNormal
+  \petr
+  g'4^\mf^\markup \italic "phoque" fis |
   g g |
   \cricket
-  \times 5/7 { c,4^\markup \italic "prétentieux" c2 \times 2/3 { c4 c c } c8 c4 c8 } c4 |
+  \times 5/7 { c,4^\f^\markup \italic "prétentieux" c2 \times 2/3 { c4 c c } c8 c4 c8 } c4 |
   \bNormal
   \petr
   r4. fis,8^\markup \italic "emphysème" ~
   fis r fis4
-  r8 fis4 r8 fis cis'8^\markup \italic "strident/nasal" ~ |
+  r8 fis4 r8 fis cis'8^\markup \italic \column { "strident" "nasal" } ~ |
   cis2. b4^\markup \italic "Peter Griffin" |
   \times 2/3 { fis8 fis fis } r4 c'4 |
   c c |
@@ -440,81 +448,81 @@ eudes = \relative c' {
   ees2 |
   \tNormal
   \petr
-  r4 ees'2.^\markup \italic "sirène/bande lente" ( \glissando |
-  aes2 ) |
-  R2. |
-  \cricket
-  r4. r4 c,8^\markup \italic "gay" |
+  r4 ees'2.^\mp^\<^\markup \italic "sirène/bande lente" ( \glissando |
+  aes2^\f ) |
+  r2 r8 bes,8 |
+  bes8 bes bes r4 \cricket c8^\markup \italic "gay" |
   \times 7/8 { c4 c8 c c c c16 c c c }
   \times 2/3 { c8 c c } c4 c8 c4. r4 |
   \tNormal
   \petr
-  cis'8^\markup \italic "MORTAL KOMBAT" b4 r4. d8 b4 |
-  r4. c8 a4 |
+  cis'8^>^\markup \italic "MORTAL KOMBAT" b4 r4. d8^> b4 |
+  r4. c8^> a4 |
   r4. b,8.^\markup \italic "pop arabe" b b b |
   b b cis [ b ] r4 |
   R2. |
   \clef bass
-  ees,4^\markup \italic "nasale" \times 2/3 { ees2 ees4 ~ ees ees2 } \times 2/3 { ees2 ees4 ~ ees ees2 } |
-  f2^\markup \italic "chaman sympa" f4 ~ |
-  f f e,2^\markup \italic "chaman méchant" ~ |
+  ees,4^\mf^\<^\markup \italic "nasale" \times 2/3 { ees2 ees4 ~ ees ees2 } \times 2/3 { ees2 ees4 ~ ees ees2 } |
+  f2^\f^\markup \italic "chaman sympa" f4 ~ |
+  f f e,2^\markup \italic \column { "chaman" "méchant" } ~ |
   e4 r8 f4. ~ |
   f2. |
   r4. f8 ~ |
   f4. r8 |
-  r8 f4 a'8^\markup \italic "le grand singe fait sa fanfare" |
+  r8 f4^\mp^\< a'8^\f^\markup \italic "le grand singe fait sa fanfare" |
   \times 2/3 { dis,1 ais dis } |
   ais2 r4 dis ~ |
   dis r \times 2/3 { b2 dis4 ~ }
   \times 2/3 { dis b2 } e8^\markup \italic "techno" b |
   e b e b e b |
-  f'2^\markup \italic "phoque lent"-\bendAfter #2 r8 g ~ g4-\bendAfter #2 r |
+  f'2^\mp^\markup \italic "phoque lent"-\bendAfter #2 r8 g ~ g4-\bendAfter #2 r |
   bes4.-\bendAfter #2 r8 |
-  a1-\bendAfter #-2 |
+  a1^\f-\bendAfter #-2 |
   \clef treble
   \override NoteHead #'no-ledgers = ##t
-  e'''2.^\markup \italic "grincement aigu" ~ e2 ~ |
+  e'''2.^\mp^\markup \italic "grincement aigu" ~ e2 ~ |
   e2 ~ e8 r |
   \revert NoteHead #'no-ledgers
   \cricket
-  r4 c,,4^\markup \italic "explication à la con" r |
+  r4 c,,4^\mf^\markup \italic "explication à la con" r |
   \times 2/3 { c c c } c |
   r8 c c c c c |
   c1 |
   \bNormal
   \petr
-  r2 cis,4.^\markup \italic "dénouement de grand singe" ~ |
+  r2 cis,4.^\f^\>^\markup \italic \column { "dénouement" "de grand singe" } ~ |
   cis4 r8 r8 b4 r8 cis4 |
   r8 cis4 r8 r4 b4 |
   r8 cis4. r4 |
   b2 r4 |
   cis2 r4 |
-  d2 r8 \cricket \tri c'8^\markup \italic "grognement" ~ |
+  d2^\mp r8 \cricket \tri c'8^\ff^\markup \italic "grognement" ~ |
   \tri c2 r4 |
   R2. |
   \time 2/4
   R2 |
-  r2 r16 \tri c8. |
+  r2 r16 \tri c8.^\f |
   R2. |
   r4 r8. \tri c16 ~ \tri c8 r |
   R2. |
   R2. |
   \bNormal \nhP
-  r4. bes,8^\markup \italic "mitrailleuse dauphine" bes bes |
+  r4. bes,8^\mf^\<^\markup \italic \column { "mitrailleuse" "dauphine" } bes bes |
   bes bes bes bes c'8 c |
-  c c f f f f |
+  c c f f f f^\f |
   \clef treble
-  g b d g a, e' |
-  a b, fis' cis' |
+  g^\mp^\< b d g a, e' |
+  a b, fis' cis'^\ff |
 } 
 
 eudesWords = \lyricmode {
   Ba
   he __ _ _ _
   he __ _
+  kç
   he he he he
   c'est drôle, ce que vous ve -- nez de "dire !"
-  e e e e in
+  e e e e hin
   hä
   ha ha ha
   hä hä hä hä
@@ -523,6 +531,7 @@ eudesWords = \lyricmode {
   he he he
   he he hä
   oui
+  c'é -- tait mar -- rant
   j'a -- dore la par -- tie où vous a -- vez dit
   fun -- ni -- est joke e -- ver
   fun -- ny fun -- ny fun -- ny
@@ -553,17 +562,17 @@ mike = \relative c {
   R2 |
   R2 |
   \petr
-  fis8-.^\markup \italic "perv" fis-. fis-. fis-. |
+  fis8-.^\markup \italic "perv"^\mf fis-. fis-. fis-. |
   \cricket
-  r4. c'8^\markup \italic "dumb" |
+  r4. c'8^\<^\markup \italic "dumb" |
   c8 c4 r8 |
-  \times 3/5 { c4 c c c c } |
+  \times 3/5 { c4 c c c c^\f } |
   \tNormal
   \petr
-  c'2:32^\markup \italic "machine gun" |
+  c'2:32^\ff^\markup \italic "machine gun" |
   a:32 |
   bes:32 |
-  r4 gis^\markup \italic "fat old lady" |
+  r4 gis^\f^\markup \italic "fat old lady" |
   r8 gis4 r8 |
   gis4 r |
   b b |
@@ -580,64 +589,74 @@ mike = \relative c {
   c4 c8 c c4 c |
   \tNormal
   \petr
-  g'2.:32^\markup \italic "machine gun" |
+  g'2.:32^\ff^\markup \italic "machine gun" |
   g2:32 |
   g4:32 r4 r2 |
-  r8 a,4.^\markup \italic "limpid" ~ |
+  r8 a,4.^\mf^\markup \italic "limpid" ~ |
   a4 aes,8^\markup \italic "vocoder" aes aes aes |
-  aes aes r bes''16.^\markup \italic "stupid" bes bes bes |
-  bes bes bes bes \times 2/3 { g8 g g } g8 r |
+  aes aes r bes''16.^\mp^\<^\markup \italic "stupid" bes bes bes |
+  bes bes bes bes \times 2/3 { g8^\f g g } g8 r |
   %\tempo \markup \general-align #Y #DOWN { \column { \italic 3 \note #"6" #UP } = \note #"4" #UP } |
   g8 g g g r4 g8 g g g |
   r4 g8 g g g r4 \clef bass d8 |
-  d8 d r4 d8^\markup \italic "slizow dizown" cis |
+  d8 d r4 d8^\mf^\<^\markup \italic "slizow dizown" cis |
   c \times 2/3 { ees,2 des ces } |
-  des2 aes ~ |
+  des2^\f aes ~ |
   aes2 aes8 aes |
   aes r r2 |
-  fes2 ~ |
-  fes ~ |
-  fes |
-  R2. |
-  \clef treble a''8^\markup \italic "dolphin on meth" bes d f c' r gis, a |
+  %fes2^\mp^\< ~ |
+  %fes^\> ~ |
+  %fes^\mp |
+  %R2. |
+  %\clef treble
+  \clef treble
+  %a''4^\mf^\< a
+  %a cis8 cis
+  %cis r fis4 ~ |
+  %fis2.:32-\bendAfter #-2 |
+  r8 a''4. |
+  a4. a8 ~ 
+  a4 a4 |
+  a4 \times 2/3 { fis fis fis } |
+  a8^\ff^\markup \italic "dolphin on meth" bes d f c' r gis, a |
   cis e b' r g, aes |
   c ees bes' r r4 |
   \times 6/7 { a,4^\markup \italic "monkey" a a a a a a } |
-  fis8.^\markup \italic "too fast" cis fis cis |
+  fis8.^\mf^\markup \italic "too fast" cis fis cis |
   fis8. cis fis cis |
   fis cis fis8 |
   \tupFrac
-  \times 5/6 { e2^\markup \italic "lil' monkey" f gis4 ~ gis fis2 a gis } \times 2/3 { dis'2 %|
-  cis cis } \times 2/3 {  cis %|
+  \times 5/6 { e2^\<^\markup \italic "lil' monkey" f gis4 ~ gis fis2 a gis } \times 2/3 { dis'2 %|
+  cis^\f cis } \times 2/3 {  cis %|
   b b } gis4 |
-  f4.^\markup \italic "dumb" r8 |
-  \clef bass r2 bes,,2^\markup \italic "disgust" |
-  r4 \times 2/3 { r4 g'2^\markup \italic "nasal" } \times 2/3 { r4 g2 } |
+  f4.^\mf^\markup \italic "dumb" r8 |
+  \clef bass r2 bes,,2^\f^\markup \italic "disgust" |
+  r4 \times 2/3 { r4 g'2^\mf^\markup \italic "nasal" } \times 2/3 { r4 g2 } |
   \times 2/3 { r4 g2 } r4 |
-  r4 cis2:32^\markup \italic "fratty" |
+  r4 cis2:32^\ff^\markup \italic "fratty" |
   cis2.:32 |
   cis2:32 b4:32 |
   b2:32 r4 a4 ~ |
   a2 ais4.:32 |
   a2.:32 r4. |
-  cis4^\markup \italic "out of breath" cis cis cis |
+  cis4^\mf ^\markup \italic "out of breath" cis cis cis |
   cis cis cis |
-  d2. |
+  d2.^\> |
   bes2. |
-  ges2. |
+  ges2.^\p |
   R2. |
   R2. |
   \time 2/4
   R2 |
   \clef treble
-  \times 2/3 { a'4^\markup \italic "stupid seal" g a } r |
+  \times 2/3 { a'4^\f^\markup \italic "stupid seal" g a } r |
   R2. |
   r4 g^\markup \italic "ape" r |
   r2 f4^\markup \italic "dumb" |
   \clef bass
-  r4 g,^\markup \italic "relief"-\bendAfter #-3 r4 |
+  r4 g,^\p^\markup \italic "relief"-\bendAfter #-3 r4 |
   \clef treble
-  r4. cis'4.:32^\markup \italic "machine gun" ( |
+  r4. cis'4.:32^\ff^\markup \italic "machine gun" ( |
   cis2:32 \glissando g4:32 ) |
   \times 4/5 { g4.^\markup \italic "self-masochist" g4. g4. g4. cis4^\markup \italic "monkey" cis4 cis4 cis4 } |
    
@@ -664,7 +683,13 @@ mikeWords = \lyricmode {
   ha ha ha
   c'é -- tait un pu -- tain de blague quoi
   ha ha ha
-  oua
+  %ay ou
+  %hä hä hä hä hä
+  %ha ha ha
+  %ha ha ha
+  %aooo
+  leit leit leit leit leit
+  leit -- mo -- tiv
   he he he he hi
   he he he he hi
   he he he he hi
@@ -695,12 +720,12 @@ mikeWords = \lyricmode {
   \new ChoirStaff <<
     \new Staff \with { instrumentName = "Marie" } \new Voice = "marie" \marie
     \new Lyrics \lyricsto "marie" \marieWords
+    \new Staff = "mikestaff" \with { instrumentName = "Mike" } \new Voice = "mike" \mike
+    \new Lyrics \lyricsto "mike" \mikeWords
     \new Staff = "ryanstaff" \with { instrumentName = "Ryan" } \new Voice = "ryan" \ryan
     \new Lyrics \lyricsto "ryan" \ryanWords
     \new Staff = "eudesstaff" \with { instrumentName = "Eudes" } \new Voice = "eudes" \eudes
     \new Lyrics \lyricsto "eudes" \eudesWords
-    \new Staff = "mikestaff" \with { instrumentName = "Mike" } \new Voice = "mike" \mike
-    \new Lyrics \lyricsto "mike" \mikeWords
   >>
   \layout {
     \context {
@@ -757,11 +782,11 @@ mikeWords = \lyricmode {
 
 \markup \huge \fill-line { \center-column { "[Eudes, Ryan, et Mike]" "Awwwww..." "   " } }
 
-\markup \huge \fill-line { \center-column { "[Marie]" "Ma mère me battait très fort." "   " } }
+\markup \huge \fill-line { \center-column { "[Marie]" "Ma mère me battait très très fort." "   " } }
 
 \markup \huge \fill-line { \center-column { "[Eudes, Ryan, Mike]" "uh" "   " } }
 
-\markup \huge \fill-line { \center-column { "[Marie]" "Des fois c'était avec un fouet, et des fois elle s'y mettait avec..." "   " } }
+\markup \huge \fill-line { \center-column { "[Marie]" "Des fois c'était avec un fouet, et sinon elle me frappait avec un..." "   " } }
 
 \markup \huge \fill-line { \center-column { "[Ryan]" "Moi je connais une blague." "   " } }
 
@@ -771,12 +796,13 @@ allTwo = \relative c' {
   \partial 16
   \cricket
   \time 5/4
-  c16^\markup "mitrailleuse" |
+  c16^\ff^\markup \italic "mitrailleuse" |
+  \set Score.currentBarNumber = #87
   \repeat unfold 20 c
 }
 
 allTwoWords = \lyricmode {
-  a^\ff \repeat unfold 20 ha
+  a \repeat unfold 20 ha
 }
 
 \markup {
@@ -784,7 +810,7 @@ allTwoWords = \lyricmode {
     \center-column {
       \score {
         <<
-          \new Staff \with { instrumentName = \markup \column { "M.P." "R.V." "E.P." "M.S." } } \new Voice = "all" \allTwo
+          \new Staff \with { instrumentName = \markup \column { "M.P." "M.S." "R.V." "E.P." } } \new Voice = "all" \allTwo
           \new Lyrics \lyricsto "all" \allTwoWords
         >>
        \layout {indent = #0 ragged-right = ##t }
@@ -808,6 +834,8 @@ allTwoWords = \lyricmode {
 mahlerUp = \relative c'' {
   \key d \major
   \clef treble
+  \bar ""
+  \set Score.currentBarNumber = #88
   <a d fis>1 |
   <d, fis a>2. <a' d fis>4 |
   <a d fis>1 |
@@ -859,9 +887,9 @@ marieYay = \relative c'' {
      \times 2/3 { gis gis gis^\p } r8 \revert NoteHead #'style fis'32^\f^\markup \italic "triomphal" fis8.. ~ |
   fis16 \override NoteHead.style = #'petrucci d^\> \times 2/3 { c c c }
      r8 d^\markup \italic "dénouement" ~
-     d16 a8. ~
-     a8. fis16 ~ |
-  fis8^\pp-\bendAfter #-3 r8 r4 r2 |
+     d16 a8.
+     a8. fis16 |
+  fis8-\bendAfter #-3 cis8^\pp r4 r2 |
   R1*9 |
 }
 
@@ -875,7 +903,10 @@ marieWordsYay = \lyricmode {
   ha ha ha ha ha ha ha ha ha ha ha ha
   hor -- rah
   a ha ha ha
-  ah ah ah
+  ah
+  hor -- rah
+  bravo
+  ouais...
 }
 
 mikeYay = \relative c' {
@@ -886,17 +917,19 @@ mikeYay = \relative c' {
   \override TextScript #'extra-spacing-width = #'(-0.2 . 0.2)
   \cricket
   s2 s4-"merci," s4-"merci," |
-  s4 s4*3/5-"je veux" s-"surtout" s-"remercier" s-"la DRAC" s-"Ile-de-France" |
+  s4 s8*6/7-"je" s-"veux" s-"surtout" s-"remercier" s-"la" s-"DRAC" s-"Ile-de-France" |
+      %s2.-\markup \override #'(line-width . 25) \fill-line { je veux surtout remercier la DRAC Ile-de-France}
   s2 s2-"qui m'a accompagné"
   s1-"tout au long de la création de cette blague"
   s1-"et j'aimerais également remercier..."
-  s1-"vous...Monsieur..."
-  s1-"merci...merci..."
+  s2-"vous..." s-"Monsieur..."
+  s2-"merci..." s-"merci..." %\pageBreak % UGH ugh UGGGHHHH
   \unFatText
   \unMonoShift
   \unHideNotes
   \revert TextScript #'whiteout
   \revert Staff . BarLine #'Y-extent  
+  R1*8 |
 }
 
 mikeWordsYay = \lyricmode {
@@ -905,11 +938,11 @@ mikeWordsYay = \lyricmode {
 ryanYay = \relative c' {
   \tNormal
   \crap
-  d32^\markup \italic "a major scale" d16. [ ( cis16 b a g fis e ] d8 [ e16 fis g a b cis ] |
+  d32^\ff^\markup \italic "Forte # 7-35" d16. [ ( cis16 b a g fis e ] d8 [ e16 fis g a b cis ] |
   d8 [ e16 fis g a b cis ] d8 [ cis16 b a g fis e ] |
-  d8 ) r8 \override NoteHead.style = #'petrucci \times 2/3 { fis8^\markup \italic "structuralist" fis fis } e16 e ees ees d16 r8 fis16 |
+  d8 ) r8 \override NoteHead.style = #'petrucci \times 2/3 { fis8^\f^\markup \italic "structuralist" fis fis } e16 e ees ees d16 r8 fis16 |
   c4:32^\markup \italic "machine gun" c8:32 r8 c2:32 |
-  r8 \times 2/3 { b16 b b } a8^\markup \italic "dénouement" ~ \times 2/3 { a8 g16 } \times 2/3 {fis8 e16 } d8 ~ d8 r |
+  r8 \times 2/3 { b16 b b } a8^\>^\markup \italic "dénouement" ~ \times 2/3 { a8 g16 } \times 2/3 {fis8 e16 } d8 ~ d8^\mp r |
   R1*3 |
   \cricket
   r2 c'16^\markup \italic "umm..." c8. r4 |
@@ -919,8 +952,8 @@ ryanYay = \relative c' {
 ryanWordsYay = \lyricmode {
   hor -- rah
   ah ah ah ha ha ha ha ha
-  ya ha __ _ ha
-  ha ha hor -- rah hor -- rah hor -- rah
+  a ha __ _ ha
+  ha ha voi -- là voi -- là voi -- là
   bra -- vo
 }
 
@@ -928,14 +961,14 @@ eudesYay = \relative c' {
   \override NoteHead.style = #'petrucci
   \crap
   \clef bass
-  \times 2/3 { d8 c b } \times 4/6 { c16 b r8 r16 d }
-     cis16 r8. \cricket r8 c8 |
+  \times 2/3 { d8^\markup \italic "sans cœur" ^\mf c b } \times 4/6 { c16 b r8 r16 d }
+     cis16 r8. \cricket r8 c8^\markup \italic "fils de papa"^\f |
   c16 c c8 c16 c c8 ~
      \times 2/3 { c16 \bNormal \override NoteHead.style = #'petrucci g16 g g fis8 ~ } fis8 \times 2/3 { g16 fis8 ~ } |
-  fis8 r \revert NoteHead.style fis32 fis8.. ~ fis4 \override NoteHead.style = #'petrucci a32 g8.. ~ |
-  g16 r16 r16. a32 a4 \cricket r8. c16 ~ c8 r |
+  fis8 r \revert NoteHead.style fis32 fis8.. ~ fis4 \override NoteHead.style = #'petrucci g32 fis8.. ~ |
+  fis16 r16 r16. fis32 ais4-\bendAfter #-2 \cricket r8. c16 ~ c8^\mf^\> r |
   c16 c r8 r c c4 c16 c8. |
-  \times 2/3 { c8 c c } r4 r2 |
+  \times 2/3 { c8 c c^\p } r4 r2 |
   R1*9 |
 }
 
@@ -943,7 +976,7 @@ eudesWordsYay = \lyricmode {
   ya ha ha ha ha
   ya ha
   bien mé -- rit -- é
-  viel a -- mi
+  vieil a -- mi
   ha ha ha ha ha ha
   hor -- rah
   ha ha
@@ -957,14 +990,15 @@ eudesWordsYay = \lyricmode {
   \new ChoirStaff <<
     \new Staff \with { instrumentName = "Marie" } \new Voice = "marie" \marieYay
     \new Lyrics \lyricsto "marie" \marieWordsYay
+    \new Staff = "mikestaff" \with { instrumentName = "Mike" } \new Voice = "mike" \mikeYay
+    \new Lyrics \lyricsto "mike" \mikeWordsYay
     \new Staff = "ryanstaff" \with { instrumentName = "Ryan" } \new Voice = "ryan" \ryanYay
     \new Lyrics \lyricsto "ryan" \ryanWordsYay
     \new Staff = "eudesstaff" \with { instrumentName = "Eudes" } \new Voice = "eudes" \eudesYay
     \new Lyrics \lyricsto "eudes" \eudesWordsYay
-    \new Staff = "mikestaff" \with { instrumentName = "Mike" } \new Voice = "mike" \mikeYay
-    \new Lyrics \lyricsto "mike" \mikeWordsYay
-    \new PianoStaff <<
+    \new PianoStaff \with { instrumentName = "Mahler" } <<
       \new Staff \mahlerUp
+      \new Dynamics { s1\fff }
       \new Staff \mahlerDown
     >>
   >>

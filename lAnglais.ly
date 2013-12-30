@@ -12,7 +12,7 @@
   right-margin = 0.75\in
   top-margin = 0.5\in
   bottom-margin = 0.6\in
-
+  score-markup-spacing = #'((basic-distance . 10) (minimum-distance . 5))
 }
 
 qFour = \once \override Score . TimeSignature #'stencil =
@@ -27,6 +27,7 @@ airmark = \markup \translate #`(0.0 . ,(- 0.8 0.1)) \draw-circle #0.8 #0.1 ##f
 \header {
   title = "L'anglais"
 	  composer = "dJm1KEsøL"
+tagline=""
 }
 
 crap = {
@@ -74,9 +75,8 @@ marie = \relative c'' {
   b4 b8 b8 |
   \time 5/8
   b8 b b b r |
-  \time 7/8
-  b4 b8 b8 b4 r8 |
   \time 3/4
+  b8 b8 b8 b8 r4 |
   b8 b b b r4 |
   R1^\fermataMarkup |
   \time 2/1
@@ -175,13 +175,14 @@ marie = \relative c'' {
   R1*9/8 |
   R1 |
   R1*9/8 |
-  R1 |
-  R1*9/8 |
-  R1 |
-  R1*9/8 |
-  R1 |
-  R2. |
+  \cricket r2 c,8 c4 c8 ~ |
+  c c4 c c c 
+  c8 c4.  c8 c4. |
+  c4 c c c4 c8 |
+  c2 c8 c c4 |
+  c8 c8 c c c c |
   \transpose e ees \relative c'' {
+    \saNormal
     \time 9/8
     cis4. cis8 cis cis cis8. cis8. |
     \time 2/4
@@ -244,6 +245,37 @@ marieWords = \lyricmode {
   I speak I speak I speak
   I I I I
   Je par -- le chin -- "ois !"
+  \markup \center-column { 那 Na }
+  \markup \center-column { 个 Ge }
+
+  \markup \center-column { 我 Wŏ }
+  \markup \center-column { 想 xiăng } 
+  \markup \center-column { 要 yào }
+  \markup \center-column { 讓 ràng }
+  \markup \center-column { 你 nĭ }
+  \markup \center-column { 知 zhī }
+  \markup \center-column { 道， dào }
+
+  \markup \center-column { 那 Na }
+  \markup \center-column { 个 Ge }
+  \markup \center-column { 我 Wŏ }
+  \markup \center-column { 約 yuē }
+  \markup \center-column { 會 huì }
+  \markup \center-column { 你 nĭ }
+  \markup \center-column { 爸 bà }
+  \markup \center-column { 的 de }
+
+  \markup \center-column { 那 Na }
+  \markup \center-column { 个 Ge }
+
+  \markup \center-column { 我 Wŏ }
+  \markup \center-column { 希 xī }
+  \markup \center-column { 望 wàng }
+  \markup \center-column { 你 nĭ }
+  \markup \center-column { 不 bù }
+  \markup \center-column { 生 shēn }
+  \markup \center-column { 氣 gqì }
+
   I speak -- a the Eng -- lish
   I speak
   I speak -- a I speak -- a I speak -- a
@@ -293,9 +325,8 @@ ryan = \relative c' {
   e4 e8 e8 |
   \time 5/8
   e8 e e e r |
-  \time 7/8
-  g4 g8 g8 g4 r8 |
   \time 3/4
+  g8 g8 g8 g8 r4 |
   fis8 fis fis fis r4 |
   R1^\fermataMarkup |
   \time 2/1
@@ -497,9 +528,8 @@ mike = \relative c' {
   b4 b8 b8 |
   \time 5/8
   b8 b b b r |
-  \time 7/8
-  b4 b8 b8 b4 r8 |
   \time 3/4
+  b8 b8 b8 b8 r4 |
   b8 b b b r4 |
   R1^\fermataMarkup |
   R1*2 |
@@ -587,7 +617,7 @@ mike = \relative c' {
     gis4. gis8 gis gis |
     bis4. |
     bis4 gisis8 ais bis4 ais |
-    gisis bis8 gisis eisis4 bis' |
+    gisis bis8 gisis eis4 bis' |
   }
 } 
 
@@ -659,7 +689,7 @@ eudes = \relative c'' {
   R1*5/8 |
   R2 |
   R1*5/8 |
-  R1*7/8 |
+  R2. |
   R2. |
   \time 4/4
   \cricket
@@ -718,12 +748,15 @@ eudes = \relative c'' {
   R1*9/8 |
   R1 |
   R1*9/8 |
-  R1 |
-  R1*9/8 |
-  R1 |
-  R1*9/8 |
-  R1 |
-  R2. |
+  \cricket r2 \mark "*" \footnote "" #'(0 . 0)
+    \markup \justify { *like... I just wanted to let you know that...
+       like... I'm dating your dad... like... I hope you're not pissed... }
+    c'8 c4 c8 ~ |
+  c c4 c c c 
+  c8 c4. c8 c4. |
+  c4 c c c4 c8 |
+  c2 c8 c c4 |
+  c8 c8 c c c c |
   \bNormal
   \transpose e ees \relative c' {
     gis4. gis8 gis8 gis gis8. gis |
@@ -760,6 +793,36 @@ eudesWords = \lyricmode {
   I speak I speak I speak
   I I I I
   Je par -- le chin -- "ois !"
+  \markup \center-column { 那 Na }
+  \markup \center-column { 个 Ge }
+
+  \markup \center-column { 我 Wŏ }
+  \markup \center-column { 想 xiăng } 
+  \markup \center-column { 要 yào }
+  \markup \center-column { 讓 ràng }
+  \markup \center-column { 你 nĭ }
+  \markup \center-column { 知 zhī }
+  \markup \center-column { 道， dào }
+
+  \markup \center-column { 那 Na }
+  \markup \center-column { 个 Ge }
+  \markup \center-column { 我 Wŏ }
+  \markup \center-column { 約 yuē }
+  \markup \center-column { 會 huì }
+  \markup \center-column { 你 nĭ }
+  \markup \center-column { 爸 bà }
+  \markup \center-column { 的 de }
+
+  \markup \center-column { 那 Na }
+  \markup \center-column { 个 Ge }
+
+  \markup \center-column { 我 Wŏ }
+  \markup \center-column { 希 xī }
+  \markup \center-column { 望 wàng }
+  \markup \center-column { 你 nĭ }
+  \markup \center-column { 不 bù }
+  \markup \center-column { 生 shēn }
+  \markup \center-column { 氣 gqì }
   I speak -- a the Eng -- lish
   \repeat unfold 8 { I speak } I
   I speak -- a the
@@ -971,7 +1034,7 @@ allTwo = \relative c' {
 }
 
 allTwoWords = \lyricmode {
-  \repeat unfold 9 { \repeat unfold 5 { do } }
+  \repeat unfold 8 { \repeat unfold 5 { do } }
   \repeat unfold 3 { I speak -- a the }
   \repeat unfold 15 { \repeat unfold 5 { do } }
 }
@@ -988,12 +1051,20 @@ marieThree = \relative c''' {
   \key b \minor
   \time 2/4
   R2 R2 R2 |
-  \time 34/16
-  g16^\f \repeat unfold 33 g16 \bar "||"
+  \qFour
+  \time 1/4
+  g16^\f g g g \bar ".|:"
+  \once \override Score.RehearsalMark.self-alignment-X = #LEFT
+  \mark \markup \italic "(7 fois)"
+  g g g g \bar ":|."
+  \once \override Score.TimeSignature #'stencil = ##f
+  \time 1/8
+  g g \bar "||"
+  
 }
 
 marieThreeWords = \lyricmode {
-  \repeat unfold 34 do
+  \repeat unfold 10 do
 }
 
 ryanThree = \relative c' {
@@ -1003,7 +1074,7 @@ ryanThree = \relative c' {
   fis4 \times 2/3 { fis8 fis fis }
   fis4 \times 2/3 { fis8 fis fis }
   \cricket
-  c1*34/16^\f |
+  c4^\f ~ c4 ~ c8 |
 }
 
 ryanThreeWords = \lyricmode {
@@ -1018,7 +1089,7 @@ mikeThree = \relative c'' {
   a4 \times 2/3 { a8 a a }
   a4 \times 2/3 { a8 a a }
   \cricket
-  c,1*34/16^\f |
+  c,4^\f ~ c4 ~ c8 |
 }
 
 mikeThreeWords = \lyricmode {
@@ -1033,7 +1104,7 @@ eudesThree = \relative c' {
   d4 \times 2/3 { d8 d d }
   d4 \times 2/3 { d8 d d }
   \cricket
-  c1*34/16^\f |
+  c4^\f ~ c4 ~ c8 |
 }
 
 eudesThreeWords = \lyricmode {
@@ -1094,7 +1165,7 @@ marieFour = \relative c'' {\autoBeamOff
   \time 4/4
   a fis e d \times 2/3 { a cis e } \times 2/3 { b' cis b }
   \times 2/3 { a fis fis } \times 2/3 { g a g } fis4. fis8 |
-  e g b d \times 2/3 { cis a a } \times 2/3 { b cis b } |
+  e g b d cis a b cis |
   \cricket r16 c, c c \times 2/3 { c8 c r } r2 |
   \MonoShift
   \FatText
@@ -1112,9 +1183,9 @@ marieFour = \relative c'' {\autoBeamOff
 
 marieFourWords = \lyricmode {
   Schloß
-  et sept -- i -- ème le -- çon où on chante
-  tous les noms des per -- sonnes dans cette salle
-  qui ont trom -- pé leur par -- te -- naire au moins une
+  et sept -- i -- ème le -- çon, Nor -- man foire
+  sa Bar Mitz -- vah en lis -- ant l'hé -- breu
+  de gauche à droite en sau -- tant des col
   je vais ac -- cou -- cher
 }
 
@@ -1142,9 +1213,10 @@ ryanFour = \relative c' {\autoBeamOff
 
 ryanFourWords = \lyricmode {
   six -- ième le -- çon look at my butt
-  et sept -- i -- ème le -- çon où on chante
-  tous les noms des per -- sonnes dans cette salle
-  qui ont trom -- pé leur par WHAT THE FUCK IS HAP -- PEN -- ING?
+  et sept -- i -- ème le -- çon, Nor -- man foire
+  sa Bar Mitz -- vah en lis -- ant l'hé -- breu
+  de gauche à droite en sau
+  WHAT THE FUCK IS HAP -- PEN -- ING?
   Al -- lez, al -- longe toi main -- te -- nant
 }
 
@@ -1154,7 +1226,7 @@ mikeFour = \relative c' {\autoBeamOff
   \times 2/3 { e8 e e } e4. gis8 |
   a fis e d \times 2/3 { a a cis } \times 2/3 { e e eis }
   \times 2/3 { fis8 cis b } \times 2/3 { cis d e } d4. dis8 |
-  b8 b e fis \times 2/3 { e e e } \times 2/3 { e e e } |
+  b8 b e fis e e e e |
   fis2
   %\once \override Score.RehearsalMark.self-alignment-X = #LEFT
   %\mark \markup \italic "rall. with sugar..."
@@ -1166,10 +1238,10 @@ mikeFour = \relative c' {\autoBeamOff
 
 mikeFourWords = \lyricmode {
   six -- ième le -- çon
-  et sept -- i -- ème le -- çon où on chante
-  tous les noms des per -- sonnes dans cette salle
-  qui ont trom -- pé leur par -- te -- naire au moins une fois
-  en com -- men -- çant par la belle femme, là -- bas
+  et sept -- i -- ème le -- çon, Nor -- man foire
+  sa Bar Mitz -- vah en lis -- ant l'hé -- breu
+  de gauche à droite en sau -- tant des col -- onnes
+  la deux -- ième fois se -- ra sans doute la bonne
 }
 
 eudesFour = \relative c {\autoBeamOff
@@ -1178,7 +1250,7 @@ eudesFour = \relative c {\autoBeamOff
   \times 2/3 { c8 c c } c4. gis'8 |
   a fis e d \times 2/3 { a a a } \times 2/3 { a a a }
   \times 2/3 { d8 d d } \times 2/3 { cis fis fis, } b4. g8 |
-  g g g g \times 2/3 { gis8 gis gis } \times 2/3 { gis gis gis } |
+  g g g g gis gis gis gis |
   a4. \cricket c'16 c c c c r r4 |
   \MonoShift
   \FatText
@@ -1196,9 +1268,9 @@ eudesFour = \relative c {\autoBeamOff
 
 eudesFourWords = \lyricmode {
   six -- ième le -- çon
-  et sept -- i -- ème le -- çon où on chante
-  tous les noms des per -- sonnes dans cette salle
-  qui ont trom -- pé leur par -- te -- naire au moins une fois
+  et sept -- i -- ème le -- çon, Nor -- man foire
+  sa Bar Mitz -- vah en lis -- ant l'hé -- breu
+  de gauche à droite en sau -- tant des col -- onnes
   Elle va ac -- cou -- "cher !"
 }
 
@@ -1244,6 +1316,8 @@ eudesFourWords = \lyricmode {
   }
   \midi {}
 }
+
+%\pageBreak
 
 \markup \huge \fill-line {
 \center-column { "[Marie]"
@@ -1368,10 +1442,30 @@ eudesFourWords = \lyricmode {
 
 \markup \huge \fill-line { \center-column { "[Eudes]" "Bon, on la remets ?" "   " } }
 
-\markup \huge \fill-line { \center-column { "[Ryan]" "Ouais, ce sera plus simple..." "   " } }
+\markup \huge \fill-line {
+\center-column { "[Ryan]"
+"Ouais, ce sera"
+"plus simple..."
+"  "
+"  " }
+\center-column { "[Eudes]"
+"    "
+"   "
+"ssshhhh..."
+"   "
+}
+\center-column { "[Mike]"
+"    "
+"Shhh, ce sera"
+"plus simple..."
+"    "
+}
+}
 
-\markup \huge \fill-line { \center-column { "[Mike]" "Shhh, ce sera plus simple..." "   " } }
+%\markup \huge \fill-line { \center-column { "[Ryan]" "Ouais, ce sera plus simple..." "   " } }
 
-\markup \huge \fill-line { \center-column { "[Eudes]" "Shhhhhh..." "   " } }
+%\markup \huge \fill-line { \center-column { "[Mike]" "Shhh, ce sera plus simple..." "   " } }
+
+%\markup \huge \fill-line { \center-column { "[Eudes]" "Shhhhhh..." "   " } }
 
 \markup \huge \italic \fill-line { \center-column { "[Mike remet la leçon dans sa mère. Après la remise de leçon, deeeeeeeep breath chez tous]" "   " } }

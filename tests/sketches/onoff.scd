@@ -48,8 +48,8 @@ Array.fill(7, {[0,0,0,1]}) ++ [[1,1]];
 		var freq = Demand.kr(Impulse.kr(0.4), 0, sad + Drand(Array.fill(z.size, { |j| (j * 0.05) }), inf));
 		var trig = Demand.kr(Impulse.kr(imp), 0, Drand(Array.fill(z.size, { |j| 0.00 + (j * 0.1) }), inf));
 		var snd = PlayBuf.ar(2,z[i], BufRateScale.kr(z[i]) * freq, Impulse.kr(trig));
-		//snd*Demand.kr(Impulse.kr(Demand.kr(Impulse.kr(100), 0, Dseq([0.2,1,2,0.5,5,0.3,2], inf))), 0, Drand(Demand.kr(Impulse.kr(1), 0, [[0,1], [0,1,1,1], [0,0,0,1], [0,0,0,0,0,0,1], [1,1,1,1,1,1,0]]), inf));
-		snd*Demand.kr(Impulse.kr(Demand.kr(Impulse.kr(100), 0, Dseq([0.2,1,2,0.5,5,0.3,2], inf))), 0, Drand(Demand.kr(Dust.kr(1), 0, Array.fill(7, {[0,0,0,1]}) ++ [[1,1]];), inf));
+		snd*Demand.kr(Impulse.kr(Demand.kr(Impulse.kr(100), 0, Dseq([0.2,1,2,0.5,5,0.3,2], inf))), 0, Drand(Demand.kr(Impulse.kr(1), 0, [[0,1], [0,1,1,1], [0,0,0,1], [0,0,0,0,0,0,1], [1,1,1,1,1,1,0]]), inf));
+		//snd*Demand.kr(Impulse.kr(Demand.kr(Impulse.kr(100), 0, Dseq([0.2,1,2,0.5,5,0.3,2], inf))), 0, Drand(Demand.kr(Dust.kr(1), 0, Array.fill(7, {[0,0,0,1]}) ++ [[1,1]];), inf));
 	});
 	Out.ar(0, MonoGrain.ar(Mix.ar(arr), 0.2, 20)*0.8
 	);

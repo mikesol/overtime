@@ -403,6 +403,7 @@ normal = {
 }
 
 tupFrac = \once \override TupletNumber #'text = #tuplet-number::calc-fraction-text
+TupFrac = \override TupletNumber #'text = #tuplet-number::calc-fraction-text
 
 saNormal = { \clef treble \normal }
 tNormal = { \clef "treble_8" \normal }
