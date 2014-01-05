@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mais je pense que faire des vidéos mises à jour on va dire dans traitement il aime tous les mois à la fin d'une vidéo ça","confidence":0.75790364}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui est cassé qui est à mon make-up préféré de tous les temps","confidence":0.78043246}]}

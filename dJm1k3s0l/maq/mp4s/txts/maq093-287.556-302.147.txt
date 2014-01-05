@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il est génial des blancs et du","confidence":0.69606799}]}

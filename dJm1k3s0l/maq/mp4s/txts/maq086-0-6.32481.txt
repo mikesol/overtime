@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il y a aujourd'hui je suis là vous faire un pastel déjà","confidence":0.76937026}]}

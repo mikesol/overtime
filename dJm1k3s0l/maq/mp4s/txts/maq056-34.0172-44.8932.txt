@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"dieu du prénom du Thoré","confidence":0.77689868}]}

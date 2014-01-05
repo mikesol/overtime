@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mais ça capte pas pratique si c'est beaucoup plus rapide que la foudre et c'est aussi beaucoup plus pratique vous partez en week-end en voyage","confidence":0.77024615}]}

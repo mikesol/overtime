@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"avec les enfants et les deux chefs","confidence":0.70035142}]}

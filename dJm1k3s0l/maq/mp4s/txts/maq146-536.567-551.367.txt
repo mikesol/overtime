@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui est fourni avec vous pouvez l'avoir c'est pas dans l'eau mets l'alarme","confidence":0.6989516}]}

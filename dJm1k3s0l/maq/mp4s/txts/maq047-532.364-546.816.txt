@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ecrire revoir mon bébé et toi ça va","confidence":0.51971304}]}

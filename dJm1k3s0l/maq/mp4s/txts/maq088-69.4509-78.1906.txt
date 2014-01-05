@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui est ce moment parce qu'il est assez léger et tu es vraiment","confidence":0.79130614}]}

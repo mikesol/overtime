@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il est vrai que veut dire c'est que tu veux un peu la flemme de me laver les dents Yahoo achat qu'il a aussi","confidence":0.58442944}]}

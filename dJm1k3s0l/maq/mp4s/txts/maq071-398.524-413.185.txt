@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"jeux de couleur pour la mettre on va tu as high as un compte perso toujours","confidence":0.7490288}]}

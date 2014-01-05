@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"les îles musique autant en jeu pour ça","confidence":0.53607661}]}

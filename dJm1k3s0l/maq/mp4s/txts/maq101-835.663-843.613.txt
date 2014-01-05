@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"place la chevelure comme ça va je n'ai pas de shampoing c'est juste des cheveux ultra brillant","confidence":0.80638182}]}

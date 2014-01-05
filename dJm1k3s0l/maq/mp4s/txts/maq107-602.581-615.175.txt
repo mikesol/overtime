@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ça ça fait mal à mon avis le mieux encore deux heures d'ouverture bourgeois leurs enfants de tablette de chocolat parce que ça reste de savon d'Alep","confidence":0.76421255}]}

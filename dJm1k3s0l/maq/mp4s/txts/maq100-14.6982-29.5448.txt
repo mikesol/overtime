@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"crème de jour qui est la crème Estee Lauder","confidence":0.68882519}]}

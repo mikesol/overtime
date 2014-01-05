@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"avec l'application un anti-cerne c'est le 6 mai 2009 alors je cherche et je suis là je cherche un truc vraiment","confidence":0.69467986}]}

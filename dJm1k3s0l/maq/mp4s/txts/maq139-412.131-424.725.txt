@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je suis vraiment avoir cette couleur chaude et froide dans maquillage léger santé ça avec","confidence":0.8000893}]}

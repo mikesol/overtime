@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"salon du poing levé et j'ai pas eu de frais de douane à payer quoi que ce soit j'ai parlé des oeufs de que j'ai commandé cela suffit pour les yeux","confidence":0.66083902}]}

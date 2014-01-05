@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui est noir avec des strass et qui est vraiment magnifique ça y est fini entre vous deux coffrets ce sera","confidence":0.69979721}]}

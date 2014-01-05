@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"coloriage pompier","confidence":0.53975546}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" attention","confidence":0.61935449}]}

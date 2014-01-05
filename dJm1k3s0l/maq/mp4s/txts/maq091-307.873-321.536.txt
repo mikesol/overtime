@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"31 allée Emile fousset blanche moi pourquoi parler","confidence":0.6494959}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je vais jusqu'à quand je parle","confidence":0.59892374}]}

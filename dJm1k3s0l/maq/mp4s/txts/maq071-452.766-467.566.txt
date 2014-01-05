@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ok je parle sérieusement j'ai appliqué que c'est un secret film le Mac","confidence":0.75017124}]}

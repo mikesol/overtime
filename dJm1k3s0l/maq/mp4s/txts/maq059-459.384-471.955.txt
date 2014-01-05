@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"une palette de notre que j'aime beaucoup et on va faire du coup message d'alerte sur la photo vidéo piège avec beaucoup de temps fera-t-il dans le creux de l'oeil","confidence":0.80639273}]}

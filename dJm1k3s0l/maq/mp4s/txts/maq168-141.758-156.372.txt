@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"juste de voir dans les manger équipées au maximum que je fais pas de souci de","confidence":0.73533869}]}

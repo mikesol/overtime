@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je viendrais avec ce qu'il reste sur mon petit crayon de skate","confidence":0.69454551}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" comme cela","confidence":0.76027399}]}
+{"status":5,"id":"","hypotheses":[]}

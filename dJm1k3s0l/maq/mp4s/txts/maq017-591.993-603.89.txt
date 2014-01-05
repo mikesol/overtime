@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"d'aucune utilité pas a gagné c'est pas ça c'est que t'as quel est quel est pour vous nous avez passé un sale","confidence":0.61669832}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est le fait que oui ça sera avec ses princes","confidence":0.64270508}]}

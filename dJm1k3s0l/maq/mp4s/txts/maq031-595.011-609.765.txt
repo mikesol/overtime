@@ -1,0 +1,4 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"appeler pierre je n'ai pas mal de moi","confidence":0.55405015}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" parce que j'ai l'impression que c'est que la photo","confidence":0.78708845}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" la trace pas mal","confidence":0.61994117}]}
+{"status":5,"id":"","hypotheses":[]}

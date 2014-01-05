@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"cinéma et le Mac sur les orangers et sociales veux que je m'appelle Marie","confidence":0.58960682}]}

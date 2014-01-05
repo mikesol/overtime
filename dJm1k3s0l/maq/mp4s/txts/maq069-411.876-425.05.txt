@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ici en dessous sexy and le fasse quoi n'importe","confidence":0.75122029}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" le voici","confidence":0.53663516}]}

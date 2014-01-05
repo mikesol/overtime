@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est la vie qui pour l'automne pas trop trop chaud","confidence":0.84089553}]}

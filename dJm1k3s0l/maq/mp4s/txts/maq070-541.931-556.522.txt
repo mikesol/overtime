@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pour les yeux karaoké tu sais pas et toi là ça c'est pas possible parce que la casse auto","confidence":0.60947621}]}

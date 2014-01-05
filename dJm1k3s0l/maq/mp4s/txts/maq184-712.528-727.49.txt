@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et il fait une couleur rose et son élève qui est super oui vous pouvez m'apporter un message et il est vraiment incroyable hello there","confidence":0.73377681}]}

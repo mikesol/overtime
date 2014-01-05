@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"crée une superbe","confidence":0.44092521}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ceci est ceci est parfait il est très Facebook c'est le merlan cool","confidence":0.72749424}]}

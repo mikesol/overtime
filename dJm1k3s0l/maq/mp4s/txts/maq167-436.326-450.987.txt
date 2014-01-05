@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"que veut dire les films hindous et c'est vraiment apprécié du coup je me marie le violet prune Top chef","confidence":0.79464519}]}

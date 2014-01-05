@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Barbie faire tout ce qui se passe très bien tu veux la populaire sauver la peau mate","confidence":0.76432484}]}

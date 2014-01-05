@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ensuite j'ai fait un meilleur ami et j'ai mis de chez Meline","confidence":0.66000193}]}

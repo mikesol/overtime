@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"plus en 2012 parce que j'arrive à me passer demain matin nous avons ressembler à quelque chose avec ce truc là en quelques minutes","confidence":0.77635318}]}

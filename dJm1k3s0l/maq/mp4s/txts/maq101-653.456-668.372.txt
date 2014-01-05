@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"leboncoin j'ai tout savoir lequel Assassin's Creed stage shampoing c'est comme si je viens vite et les cheveux longs et fins mais c'est pour les cheveux été E","confidence":0.69302976}]}

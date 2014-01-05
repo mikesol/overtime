@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est toujours chez les singes mais c'est le","confidence":0.55721188}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" train de qualité","confidence":0.74285811}]}

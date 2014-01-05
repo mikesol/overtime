@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"centre d'UV","confidence":0.65174043}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" tu peux les zones avec Jean-Pierre piscine","confidence":0.62899911}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" zone de blanc tracé","confidence":0.69420826}]}

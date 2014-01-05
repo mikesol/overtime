@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"les ensuite","confidence":0.65217805}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je viens placer le coin interne","confidence":0.71269137}]}
+{"status":5,"id":"","hypotheses":[]}

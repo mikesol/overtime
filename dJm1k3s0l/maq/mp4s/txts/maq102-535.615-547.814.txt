@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"attends il coûte 1995 et voilà j'ai appris tout sur les produits frais de recherche j'espère que cette vidéo vous a plus vous avez des questions sur les produits","confidence":0.83232492}]}

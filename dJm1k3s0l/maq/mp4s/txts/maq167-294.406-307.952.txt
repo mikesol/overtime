@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"site je peux avec ce truc à maman que je n'avais pas vu la situation et c'est le crayon à maquiller appelle ça y est c'est quoi à Cesson","confidence":0.64460564}]}

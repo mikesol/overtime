@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"jeux de couleur sont les yeux vers 10h de Makita","confidence":0.59645581}]}

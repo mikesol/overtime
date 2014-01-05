@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Samsung pour effacer avant JC alors qu'il y en aura pas assez peu parce que j'ai regardé las","confidence":0.73902518}]}

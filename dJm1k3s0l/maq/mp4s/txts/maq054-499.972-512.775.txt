@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"moi je veux mettre dans minecraft","confidence":0.53467852}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je veux faire un petit peu","confidence":0.43500486}]}

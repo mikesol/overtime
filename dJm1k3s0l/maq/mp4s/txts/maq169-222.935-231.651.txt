@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pas pris le train de douche au cacao je vais pas trop les voleurs","confidence":0.79238552}]}

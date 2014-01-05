@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ça sent le miel beurre de karité Angers et ainsi que je suis en tout temps pour la peau pour le corps est quasiment tous les jours parce que j'ai maigri message c'est vraiment de diminuer","confidence":0.77849585}]}

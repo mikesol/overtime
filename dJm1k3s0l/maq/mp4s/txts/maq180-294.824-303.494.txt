@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'aime beaucoup et un voyage en corail c'est le","confidence":0.65807658}]}

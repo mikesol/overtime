@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"CDI en plus il fait beau il est une tragédie","confidence":0.48648062}]}

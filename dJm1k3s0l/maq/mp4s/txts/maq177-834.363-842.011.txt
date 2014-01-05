@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Voyage au bout de la plus heureuse année","confidence":0.73971462}]}

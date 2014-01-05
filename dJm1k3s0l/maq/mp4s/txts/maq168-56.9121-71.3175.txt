@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"non c'est pas vrai j'ai envie d amélioration surtout au niveau supérieur sur la marchandise bah les dents du chantier mais en ce moment à l'écart entre les dents j'ai vraiment beaucoup avec Arthur","confidence":0.74794227}]}

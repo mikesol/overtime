@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je pense que ça va avoir une parfaite","confidence":0.77040166}]}

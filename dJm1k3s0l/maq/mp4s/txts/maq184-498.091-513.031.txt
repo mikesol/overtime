@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"salut ça va il fait très confortable c est la couleur est super joli quelle que soit la couleur de je voulais te demander","confidence":0.77447599}]}

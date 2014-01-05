@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ça y est j'ai appuyé sur un papier qui est ici c'est un enfant blanc beige clair c'est clair que je te laisse","confidence":0.69206816}]}

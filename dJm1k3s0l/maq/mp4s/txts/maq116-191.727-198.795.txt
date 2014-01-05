@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"en cas en fait j'ai tous mes produits pour le corps mais je voulais vraiment Noël Lierac","confidence":0.63963604}]}

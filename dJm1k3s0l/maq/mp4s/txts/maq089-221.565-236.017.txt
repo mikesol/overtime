@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"vraiment au bar j'ai pas là","confidence":0.74442846}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je suis bien chez ton père comme ça","confidence":0.58835721}]}

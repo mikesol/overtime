@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"coucou les lentilles ou rouge 60 rue Jean Boucher lou coucou lou je n ai pas donné vous pouvez utiliser c'est moi ben écoute hein","confidence":0.64594412}]}

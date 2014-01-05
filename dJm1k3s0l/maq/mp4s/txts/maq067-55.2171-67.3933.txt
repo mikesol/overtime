@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"fleurs à tous les temps","confidence":0.47921401}]}

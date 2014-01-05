@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"parler à l'autre en fait il y a beaucoup plus le poussin","confidence":0.76116067}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" évangile bourrer la voir on dit que la centrale","confidence":0.61135745}]}

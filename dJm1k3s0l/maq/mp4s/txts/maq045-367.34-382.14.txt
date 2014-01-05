@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et c'est l'avant-dernier step c'est gentil ça s'écrit partir de chez eux suis pas est un enfer de chez Clinique Bois-Cerf le fait d'avoir des déchets","confidence":0.57411128}]}

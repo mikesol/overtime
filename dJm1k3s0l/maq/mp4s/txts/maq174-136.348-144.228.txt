@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"location contacter Simon proposé de tester un traitement orthodontique gratuitement va sortir manger oui j'étais super content 2","confidence":0.81200844}]}

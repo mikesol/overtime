@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"OPAC il est superbe mais tant que j'aime beaucoup de situations et vous savez natation pour les couleur taupe","confidence":0.82209963}]}

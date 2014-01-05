@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"épisode du kaki sur le parking de salaire vais à pied dans le Var","confidence":0.65812218}]}

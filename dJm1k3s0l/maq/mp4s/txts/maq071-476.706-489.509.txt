@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je suis obligée de Gmail black ink avec un pinceau de chez Millions 24 25 et ça","confidence":0.62202948}]}

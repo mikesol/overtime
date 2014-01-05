@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"télécharger maintenant à voir je suis avec mon Mac","confidence":0.70352155}]}
+{"status":5,"id":"","hypotheses":[]}

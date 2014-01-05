@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"violet je n'y su","confidence":0.43701941}]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":" vous pouvez le centre commercial mais le mascara verrouillage de bébé","confidence":0.70171905}]}

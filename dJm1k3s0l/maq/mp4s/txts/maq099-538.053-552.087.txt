@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je crois dans le ciel non j'ai oublié de tout à l'heure de comment ça va oui CER ça va","confidence":0.75166875}]}

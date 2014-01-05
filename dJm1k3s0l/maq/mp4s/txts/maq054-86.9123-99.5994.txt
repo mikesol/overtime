@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il est toujours en français mais pas cher je trouve Sexion d'Assaut","confidence":0.72854906}]}

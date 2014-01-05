@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le temps de passer à la douche tous pour les ongles","confidence":0.62314487}]}

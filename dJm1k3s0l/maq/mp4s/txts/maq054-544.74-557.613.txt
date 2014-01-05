@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"moi et j'en peux vraiment facile","confidence":0.63557059}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" surtout reste à repasser","confidence":0.54644608}]}

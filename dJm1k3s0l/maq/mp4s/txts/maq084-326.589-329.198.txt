@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le faire flou dans le sang","confidence":0.5752055}]}

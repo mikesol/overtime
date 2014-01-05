@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et là il y a une meilleure équipe IRC soir","confidence":0.49341655}]}

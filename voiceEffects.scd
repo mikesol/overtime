@@ -44,15 +44,17 @@ b.free
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/lePatronPart/stAbbeR.aif";
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/amants2/amants2/Bounces/ryan.aif";
 //~mypath2 = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/amants2/amants2/Bounces/eudes.aif";
-~mypath ="/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/menage/moxy3.aif";
+//~mypath ="/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/menage/moxy3.aif";
+~mypath ="/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/autreBureau/qvdclean.aif";
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/overtime/overtime/Bounces/ryanSolo.aif";
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/overtime/OVERTIME.aif";
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/bruit/doot.aif";
 
-b = Buffer.read(s,~mypath);
-c = Buffer.read(s,~mypath2);
+b = Buffer.readChannel(s,~mypath);
+//b = Buffer.read(s,~mypath);
+//c = Buffer.read(s,~mypath2);
 ~lite = Buffer.readChannel(s,~mypath, channels: 0);
-~lite2 = Buffer.readChannel(s,~mypath2, channels: 0);
+//~lite2 = Buffer.readChannel(s,~mypath2, channels: 0);
 z = Buffer.alloc(s, 44100 * 60.0, 1); // a 60 second 1 channel Buffer
 ~house = Buffer.read(s,"/Users/mikesolomon/Documents/Compositions/overtime/tests/house0.aif");
 ~psb = Buffer.read(s,"/Users/mikesolomon/Documents/Compositions/overtime/tests/packSandbox1.aif");

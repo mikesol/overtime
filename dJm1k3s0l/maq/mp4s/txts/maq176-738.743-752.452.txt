@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Supernatural je t'adore et je pense que tu parles trop peur aux gens à Singapour trouver là-bas je vais moi c'est parce que J","confidence":0.79028243}]}

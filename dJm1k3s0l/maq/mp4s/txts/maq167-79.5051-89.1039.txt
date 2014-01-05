@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et moi que j'ai mon appareil dentaire à moi et voilà le résultat la porte alors aujourd'hui","confidence":0.79556924}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"non deux ans que je fais quoi comme ça hello hello tous les matins 90 sur Facebook et sur Youtube c'est complètement","confidence":0.60779834}]}

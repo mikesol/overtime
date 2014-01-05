@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"encore et je v","confidence":0.72200769}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" rentrer son fils","confidence":0.60019571}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" fils avec","confidence":0.5429728}]}

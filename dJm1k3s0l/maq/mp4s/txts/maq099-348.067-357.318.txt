@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'en ai deux en fait j'ai un jeu de Super U de cils comme ça comme ça","confidence":0.78106642}]}

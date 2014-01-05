@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"vous avez quelques produits indispensables de l'été et comme ça a marché aux puces dans le Haut-Rhin et à son compte directement","confidence":0.79520166}]}

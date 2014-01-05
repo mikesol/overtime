@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"que j'ai eu sur le CEO","confidence":0.84658509}]}

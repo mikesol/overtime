@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est toujours niveau de faire le nécessaire à un géant j'adore c'est la crème au calendula de laboratoire","confidence":0.80055743}]}

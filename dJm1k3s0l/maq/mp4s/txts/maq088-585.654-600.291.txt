@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu parles de chez le lycée professionnel numéro 4 carte blanche qui est ton préféré que vous avez vu de fille","confidence":0.80093211}]}

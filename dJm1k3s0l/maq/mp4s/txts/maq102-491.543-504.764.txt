@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"vacances à présent je suis quasiment là où vous êtes dispo mais c'est en train à l'avant de la camomille si la rose M6 à Laval et surtout adapté pour les peaux sensibles","confidence":0.75420094}]}

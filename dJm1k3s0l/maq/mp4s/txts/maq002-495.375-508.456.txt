@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Touche pas à mon poste est à eux envoye un grillon taupe clair à maman","confidence":0.72086608}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je vais pas fait exception près de façon avant avoir un gros gros gros","confidence":0.79884797}]}

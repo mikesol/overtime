@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Yahoo crayon au bout de cette application","confidence":0.47458687}]}

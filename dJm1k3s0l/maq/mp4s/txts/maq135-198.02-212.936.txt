@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"citation la gagnante de la deuxième place et Mauricette vraiment superbe","confidence":0.74251157}]}

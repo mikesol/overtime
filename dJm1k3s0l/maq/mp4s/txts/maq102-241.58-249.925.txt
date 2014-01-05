@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est un très bon shampoing pour les cheveux gras parce que il est parti trop suis vraiment dégueulasse et c'est vraiment heureux","confidence":0.79338205}]}

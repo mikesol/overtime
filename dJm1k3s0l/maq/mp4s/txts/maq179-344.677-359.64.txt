@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"que j'adore pour transporter à 06","confidence":0.6827094}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" qui est très très belle","confidence":0.6141628}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" beaucoup plus discret que mon travail","confidence":0.78304523}]}

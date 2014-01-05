@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pour les cheveux et le corps heureux comme j'ai pas forcément grand-chose de septembre et euh papa a mangé douche que je disais","confidence":0.7880348}]}

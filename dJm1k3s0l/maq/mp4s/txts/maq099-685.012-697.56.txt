@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"appart ça je suis aussi là si do activez c'est le Copacabana de la fiesta en euros","confidence":0.67765236}]}

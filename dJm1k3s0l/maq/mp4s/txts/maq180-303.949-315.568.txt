@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"36 de chez les Ch'tis comme ça et là je sais pas pourquoi mais à la caméra je veux pas prendre les filles ou pas","confidence":0.67282134}]}

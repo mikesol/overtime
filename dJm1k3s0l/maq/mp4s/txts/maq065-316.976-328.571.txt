@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"donc c'est pas utiliser la couleur taupe téléphone chez moi même si ce soir là je suis levé pour appuyer sa vision YouTube","confidence":0.66854179}]}

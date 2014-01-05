@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"afficher sa séance de chez L'Oreal super sexy et Justin","confidence":0.68163687}]}

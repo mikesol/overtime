@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Plus Belle La Vie et assez de société","confidence":0.48276439}]}
+{"status":5,"id":"","hypotheses":[]}

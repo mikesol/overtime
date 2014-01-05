@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"fermer tous les temps si j'y vais et j'y vais","confidence":0.56958359}]}

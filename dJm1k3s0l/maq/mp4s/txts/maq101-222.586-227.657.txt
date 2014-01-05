@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"toujours dans un maquillage j'ai tenté de chez moi merci s'appelle","confidence":0.82168335}]}

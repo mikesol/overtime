@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"comment ça va et quand j'ai pas le temps de travail je sais mais je veux pas ça","confidence":0.69098592}]}

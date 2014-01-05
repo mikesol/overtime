@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"super c'est parce que ça fait euh je sais pas si tu l'as pour moi salon à vous","confidence":0.72523779}]}

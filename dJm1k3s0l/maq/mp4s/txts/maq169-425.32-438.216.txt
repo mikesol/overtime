@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"comment trouver la et bio Google","confidence":0.52244276}]}

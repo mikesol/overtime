@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"quel temps fait bien surtout avec la","confidence":0.56804019}]}

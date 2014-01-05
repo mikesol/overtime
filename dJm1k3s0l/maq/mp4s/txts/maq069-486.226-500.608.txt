@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le crayon que j'ai encore un qui est le crayon que j'ai trouvé dans la caisse","confidence":0.82586992}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je comprends ta souffrance","confidence":0.59548646}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il est super joli d'ouverture plus d'autres sujets sont pas avec tes plutôt par email","confidence":0.8225587}]}

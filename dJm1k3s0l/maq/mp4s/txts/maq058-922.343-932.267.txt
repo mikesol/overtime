@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mettre en tout cas","confidence":0.49576807}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" juste pour les couleurs 101","confidence":0.63841307}]}

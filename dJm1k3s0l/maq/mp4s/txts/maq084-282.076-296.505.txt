@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"ok je suis une couleur des fils est la couleur de la palette Naked d'Urban Decay","confidence":0.81006318}]}

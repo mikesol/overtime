@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"alors qu'est-ce que ce truc là vous pouvez parler euh manger Hermès entraîneur comme ça il faut toujours ses dents après avoir mangé le 7 rue que vous pouvez boire entre les repas exetera 920 brosser les dents Facebook","confidence":0.71968693}]}

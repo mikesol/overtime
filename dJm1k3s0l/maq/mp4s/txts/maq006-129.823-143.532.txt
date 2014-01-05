@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"appelle HD t'aurais mangé il a pas les PagesJaunes c'est vrai nom et prénom de chat","confidence":0.62789977}]}

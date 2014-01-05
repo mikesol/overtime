@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"t'as vu ça avec son bébé je t'aime plus que le maquillage là où se trouve qu'il manque de la matière je prendrai tout à l'heure avec moi","confidence":0.74825668}]}

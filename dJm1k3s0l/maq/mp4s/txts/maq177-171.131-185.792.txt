@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mais arrête de faire faire les ongles","confidence":0.7846278}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" classement pas cher et j'ai pas","confidence":0.65401834}]}

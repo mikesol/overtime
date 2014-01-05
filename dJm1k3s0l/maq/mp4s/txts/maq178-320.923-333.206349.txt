@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"donc voilà je vous fais de très gros bisous merci encore ça était euh non c'est à VOUS jeudi","confidence":0.76680994}]}

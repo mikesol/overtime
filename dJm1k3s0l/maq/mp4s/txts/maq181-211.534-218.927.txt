@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Facebook qui charbonne parce que vous êtes vraiment une grosse grosse entorse","confidence":0.81945062}]}

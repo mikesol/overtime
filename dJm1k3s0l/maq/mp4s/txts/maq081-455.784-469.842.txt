@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je souhaite un SMS de neuf","confidence":0.52258039}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et soleil","confidence":0.43265766}]}
+{"status":5,"id":"","hypotheses":[]}

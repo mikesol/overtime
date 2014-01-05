@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'adore parce que je les aime et je veux aller chez moi","confidence":0.62674493}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" top ecchi","confidence":0.65353221}]}

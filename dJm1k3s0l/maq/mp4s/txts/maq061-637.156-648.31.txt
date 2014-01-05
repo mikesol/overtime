@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"recettes quiche à trois yeux de maquiller salle à manger j'ai faim","confidence":0.47851551}]}

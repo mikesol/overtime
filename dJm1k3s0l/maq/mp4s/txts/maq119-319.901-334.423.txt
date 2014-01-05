@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et encore mangé mais non avec Mathilde et du coup à faire apparaître sur","confidence":0.67523348}]}

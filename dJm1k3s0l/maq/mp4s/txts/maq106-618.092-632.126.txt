@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"chambre de qualité résultats de policiers pour l'alimentation du cheval j'adore le","confidence":0.73051435}]}

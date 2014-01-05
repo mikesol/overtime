@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"trajet train avant non je vais pas après sur le premier Cardonnel","confidence":0.67567652}]}

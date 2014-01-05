@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'ai également créé en allemand application point fr voici la feria","confidence":0.68111908}]}

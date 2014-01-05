@@ -1,0 +1,4 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"et fils","confidence":0.46433514}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" maman","confidence":0.43235576}]}

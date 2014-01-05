@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"quelle couleur est le premier","confidence":0.85797262}]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et aller à Leclerc n'est pas blanche du coup ça va te réchauffer","confidence":0.65345699}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et blanc","confidence":0.44125259}]}

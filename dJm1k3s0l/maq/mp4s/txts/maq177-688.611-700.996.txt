@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est pas du genre à Chloé Sytadin trafic","confidence":0.6628499}]}

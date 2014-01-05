@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"courage et surtout pour encourager pour entrer sur Facebook Macif Carrefour génial je voulais vous remercier","confidence":0.67426163}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"écris un E 220 j'espère avoir Favone que j'allais","confidence":0.64668256}]}

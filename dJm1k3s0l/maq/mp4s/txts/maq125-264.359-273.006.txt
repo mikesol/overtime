@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pourquoi tu sais que c'est en tout le mois de décembre ressens et avalait trop trop jolie","confidence":0.62331438}]}

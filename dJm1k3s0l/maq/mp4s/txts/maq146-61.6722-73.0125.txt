@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"téléphone de chez avec les pierres je mets aux voix","confidence":0.69494933}]}

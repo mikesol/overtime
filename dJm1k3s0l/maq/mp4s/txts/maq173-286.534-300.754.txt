@@ -1,0 +1,4 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"histamine","confidence":0.57802105}]}
+{"status":5,"id":"","hypotheses":[]}

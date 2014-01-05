@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et le acheter 200","confidence":0.48815528}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" heureuse en fait Salut si je suis beaucoup pour tous les imperfections rouge sur le nez","confidence":0.72148943}]}

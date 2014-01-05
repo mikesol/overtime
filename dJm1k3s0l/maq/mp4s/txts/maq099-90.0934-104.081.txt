@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"moi c'est vrai que c'est en direction avait été un peu c'est parce que j'enlève toutes les traces de maquillage même","confidence":0.66823739}]}

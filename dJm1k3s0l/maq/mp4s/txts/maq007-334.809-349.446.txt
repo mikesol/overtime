@@ -1,0 +1,5 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"passer au-dessus du compteur","confidence":0.77188492}]}
+{"status":5,"id":"","hypotheses":[]}

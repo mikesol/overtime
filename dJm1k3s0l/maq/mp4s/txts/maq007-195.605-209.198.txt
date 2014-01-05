@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"bien les cheveux si tu es vraiment une queue de cheval","confidence":0.8476944}]}

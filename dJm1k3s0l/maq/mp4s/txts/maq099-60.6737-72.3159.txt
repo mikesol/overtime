@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"comment s'est produite mais je préférais et les cheveux et pour la peau donc commencer si vous voulez bien donc","confidence":0.73891485}]}

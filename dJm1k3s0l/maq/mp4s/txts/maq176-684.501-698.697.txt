@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et j'ai cru qui est très très luxueux et alors il manquerait mon premier cru et je lui laisser","confidence":0.69530469}]}

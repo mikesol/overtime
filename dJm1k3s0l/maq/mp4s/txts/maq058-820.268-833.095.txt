@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"aller sur le papier et prélever les paillettes","confidence":0.59560686}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et maintenant il veut dire les appliquer en tapotant","confidence":0.58367866}]}

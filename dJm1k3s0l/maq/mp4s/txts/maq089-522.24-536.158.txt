@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"plus jolie que vous préférez mettre surtout pas","confidence":0.77524126}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ok bah non j'ai rencontré situation car à mon cours Estienne C2C clair du tout à 2 3 euros 50 Cent","confidence":0.74342716}]}

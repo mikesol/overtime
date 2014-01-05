@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ça c'est vraiment super super violet très très fâchée que j'ai déjà dis que ça aurait fait l'affaire","confidence":0.67044747}]}

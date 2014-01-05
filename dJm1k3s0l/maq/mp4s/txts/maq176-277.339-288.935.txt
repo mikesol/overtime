@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"alors que j'ai tout sur grappe de chez Klorane et c'est la santé Bonnard et euh je chanterai","confidence":0.74809843}]}

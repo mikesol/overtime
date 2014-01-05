@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"que c'est un bon plat préféré les trois veux pas passer au pinceau fond de teint en pieds ceci est le position des Chinoises qui est assez pointue","confidence":0.79522514}]}

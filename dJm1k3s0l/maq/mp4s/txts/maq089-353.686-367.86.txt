@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ok maintenant V Paris tout sur le matin","confidence":0.8268249}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" il y avait vraiment mettre ici","confidence":0.53796989}]}

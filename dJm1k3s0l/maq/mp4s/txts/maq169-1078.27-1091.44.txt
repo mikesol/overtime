@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le week-end et puis voilà on vous embrasse très fort","confidence":0.77330244}]}

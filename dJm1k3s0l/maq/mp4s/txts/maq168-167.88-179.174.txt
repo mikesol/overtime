@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et je t'adore ma petite voiture qui est spéciale","confidence":0.63799298}]}

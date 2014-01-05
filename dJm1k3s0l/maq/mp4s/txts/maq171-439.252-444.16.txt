@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"coucou je suis plus facile et je m'auto Bond","confidence":0.6197843}]}

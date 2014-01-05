@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"PAL","confidence":0.44290209}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" euh Internet très prochainement on va sortir sûrement cette semaine","confidence":0.62341368}]}

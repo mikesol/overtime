@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"écarté et se marche dessus les uns sur les autres héros HD portable appareil dentaire pendant 6 mois euh","confidence":0.74949503}]}

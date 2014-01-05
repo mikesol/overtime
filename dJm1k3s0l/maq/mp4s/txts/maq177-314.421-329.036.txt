@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"des e-mails apocalypse ou chose en français célèbre","confidence":0.73624229}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" j'ai acheté le 303 apocalyptique","confidence":0.67318279}]}

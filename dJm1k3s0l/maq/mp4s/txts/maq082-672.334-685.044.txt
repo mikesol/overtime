@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui a créé le blush fichiers de Mac ici c'est un nom c'est un","confidence":0.69056123}]}

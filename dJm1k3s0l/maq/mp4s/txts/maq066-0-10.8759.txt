@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Teletubbies alors aujourd'hui je suis rentré à mon chat j'ai essayé de changer de caméra","confidence":0.69681555}]}

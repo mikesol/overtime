@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tresse épi de blé je m'appelle Claire j'ai attaché pour vous","confidence":0.74271035}]}
+{"status":5,"id":"","hypotheses":[]}

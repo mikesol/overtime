@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"les produits ou c'est vraiment incroyable comme celui que j'ai un petit peu passer le message à l'heure gendarmerie de choses mais il est à l'affiche","confidence":0.72341543}]}

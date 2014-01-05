@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"prénom photos de fleurs mais euh","confidence":0.75958902}]}
+{"status":5,"id":"","hypotheses":[]}

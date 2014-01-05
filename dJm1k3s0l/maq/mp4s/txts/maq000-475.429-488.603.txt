@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"comment c'est fait je ne sais pas sur le crâne","confidence":0.74347228}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" moi je suis en T mèche","confidence":0.73289371}]}

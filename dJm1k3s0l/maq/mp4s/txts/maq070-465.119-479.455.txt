@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"viens on va parler du Var","confidence":0.55074525}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je suis au-dessus","confidence":0.73919517}]}

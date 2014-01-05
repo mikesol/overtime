@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"alors maintenant on attend je commençais par la crème pour le visage c'est la crainte Barça sera tiré sur les princes du moment","confidence":0.58103102}]}

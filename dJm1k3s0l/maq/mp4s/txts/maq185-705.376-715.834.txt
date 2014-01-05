@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"plus beaucoup de chaussures pour ça que c'est que ce que j'ai aimé","confidence":0.48626518}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"beaucoup c'est le pâtissier le match est comme ça c'est un vrai préféré te voir très très jolie l'ai pas j'ai pas be mais c'est juste logo Superman","confidence":0.75201172}]}

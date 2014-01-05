@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'espère que je suis assez tentée de tester la Bible","confidence":0.8118881}]}

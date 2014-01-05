@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"teen direction pour les peaux normales à mixtes et c'est le direction","confidence":0.78933674}]}

@@ -1,0 +1,4 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"question j'ai utilisé pour ça me fait chier","confidence":0.6504283}]}
+{"status":5,"id":"","hypotheses":[]}

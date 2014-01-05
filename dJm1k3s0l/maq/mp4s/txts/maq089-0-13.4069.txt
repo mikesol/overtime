@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Salut il y a aujourd'hui je suis là pour faire un maquillage dans les tons gris violet prune et cetera parce que j'ai les yeux marrons et je vais aussi allô","confidence":0.81820893}]}

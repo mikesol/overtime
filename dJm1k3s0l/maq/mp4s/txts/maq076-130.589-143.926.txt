@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"lycée ici ça avec moi perso","confidence":0.62781221}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ça dans","confidence":0.43958253}]}

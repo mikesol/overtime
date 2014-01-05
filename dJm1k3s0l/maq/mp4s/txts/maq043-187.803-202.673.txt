@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pirate qui mate qui est parti","confidence":0.6514349}]}
+{"status":5,"id":"","hypotheses":[]}

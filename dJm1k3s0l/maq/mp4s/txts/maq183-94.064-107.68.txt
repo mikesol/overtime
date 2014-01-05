@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"sur mobile","confidence":0.64836419}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" 156 1.6 et tu sais ce que c'est de est","confidence":0.75326216}]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"surtout bien parce que c'est que de la crème","confidence":0.62971294}]}
+{"status":5,"id":"","hypotheses":[]}

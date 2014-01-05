@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"parce que on trouve les Téa Leoni","confidence":0.76566142}]}

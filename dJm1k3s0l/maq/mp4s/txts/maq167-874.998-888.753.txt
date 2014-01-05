@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"télécharger un portable mais où aller a les yeux du monde","confidence":0.69481313}]}

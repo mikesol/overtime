@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je suis très content de vous dire que j'ai été contacté par la maison de semaine a été","confidence":0.69067621}]}

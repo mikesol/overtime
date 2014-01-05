@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ok je vais voir pour Futaba veux les voir de Créon","confidence":0.61731404}]}
+{"status":5,"id":"","hypotheses":[]}

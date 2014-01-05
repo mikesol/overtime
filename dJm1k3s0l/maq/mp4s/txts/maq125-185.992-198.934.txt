@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui est à eux bonjour c'est pour vous like a un truc que la douche","confidence":0.62295061}]}

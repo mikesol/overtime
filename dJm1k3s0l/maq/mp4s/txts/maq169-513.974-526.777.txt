@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mais je l'ai donc il est ce soir et ce soir et euh alors côté 4","confidence":0.57270545}]}

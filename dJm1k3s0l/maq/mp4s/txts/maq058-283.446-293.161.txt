@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ok on va manger mais comme je m'appelle passer à la première couleur est appliquée à armoire de la palette","confidence":0.7465468}]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Zapiks à Asilah","confidence":0.71288902}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" pourquoi pas ça","confidence":0.5967899}]}

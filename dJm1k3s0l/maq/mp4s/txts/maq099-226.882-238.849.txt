@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est comme ça la couleur tu deux mois et Hutch pour utiliser tous les jours","confidence":0.77859598}]}

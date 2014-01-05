@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"vous pouvez y aller aller plus fort c'est bien en vente d'agneau","confidence":0.78005105}]}

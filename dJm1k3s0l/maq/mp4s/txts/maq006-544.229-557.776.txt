@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pour ce truc là et ça marche pas","confidence":0.74524719}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" non mais pas trop sur le dessus et c'est pas vrai mais de la crème solaire que je suis moi c'est un","confidence":0.74043995}]}

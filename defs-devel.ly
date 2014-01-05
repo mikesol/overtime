@@ -414,6 +414,11 @@ pF = \markup { \center-align \line {
 
 pFdynamic = #(make-dynamic-script pF)
 
+pMF = \markup { \center-align \line {
+\normal-text \fontsize #3 ( \raise #0.5 \dynamic mf \normal-text \fontsize #3 ) } }
+
+pMFdynamic = #(make-dynamic-script pMF)
+
 subF = \markup { \center-align \concat {
 \normal-text { \bold { \italic sub } }
 \dynamic f } }

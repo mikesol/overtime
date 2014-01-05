@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"téléphone était capable de causer des troubles","confidence":0.88514411}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" donc pour l'acheter génial","confidence":0.61699581}]}

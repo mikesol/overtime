@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mais tu sais pas je sais pas beaucoup le matin Francisco Ferrer","confidence":0.66902786}]}

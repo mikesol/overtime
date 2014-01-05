@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"depuis septembre 2010 il y en a assez","confidence":0.81079328}]}

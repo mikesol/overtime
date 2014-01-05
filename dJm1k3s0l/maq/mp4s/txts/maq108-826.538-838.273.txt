@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Sarah ne veux pas qu'il y ait euh tu fais vraiment","confidence":0.77857471}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" couleur sur les lèvres il est il est très léger","confidence":0.59792793}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"sachez que quand j'ai pas envie d'acheter la version un peu plus haut un peu plus de télé pour commencer à chercher quel temps fait-il","confidence":0.67412573}]}

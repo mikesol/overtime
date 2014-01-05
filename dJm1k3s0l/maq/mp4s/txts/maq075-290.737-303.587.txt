@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"France","confidence":0.51368099}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" tu regardes pas c'est pas une couleur corail","confidence":0.68495411}]}

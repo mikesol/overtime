@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le bord du monde","confidence":0.81509489}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" pour ça je passe sur les bords en pension a pas du tout venir sur la matière","confidence":0.80530572}]}

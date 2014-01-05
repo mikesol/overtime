@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je v appliquer du blush et avec un crayon à lèvres corail","confidence":0.81416422}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est à moi que j'aime beaucoup pas tous les jours comme ça mais je sais que je parle de une équipe","confidence":0.70671248}]}

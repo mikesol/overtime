@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"un caméra en 2012 j'aime ça comme ça va","confidence":0.77565014}]}

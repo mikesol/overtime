@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pour les mamans a été à vous trouvez facilement paramètres niveau et j'ai pas de","confidence":0.66742104}]}

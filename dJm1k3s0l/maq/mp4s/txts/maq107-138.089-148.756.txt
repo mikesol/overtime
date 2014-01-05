@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"une couleur avec de temps entre bronze et doré et pour les yeux et pour le temps fait-il ici","confidence":0.81361091}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et les bords de maquillage bien sur les bords sont violet et noir","confidence":0.60015845}]}

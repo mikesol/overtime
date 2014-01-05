@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"séquence qui montent pas jusqu'au sourcil mais je te laisse seul juge unifier la poussière et apporter","confidence":0.7486437}]}

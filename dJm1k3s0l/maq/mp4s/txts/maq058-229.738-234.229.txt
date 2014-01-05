@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pour les pompes et à poils ventre et légèrement","confidence":0.64141625}]}

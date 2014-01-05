@@ -1,0 +1,4 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"violet","confidence":0.65494192}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" tracé","confidence":0.4421663}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" j'ai fait quelque chose comme danser","confidence":0.73708606}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" léger","confidence":0.6071707}]}

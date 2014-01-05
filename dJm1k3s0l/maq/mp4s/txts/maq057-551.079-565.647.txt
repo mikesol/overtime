@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"si je suis pas assez à ma palette de vins de chez nous sans mais si ça c'est c'est fabuleux suis là je sais tout d'un coup","confidence":0.6551922}]}

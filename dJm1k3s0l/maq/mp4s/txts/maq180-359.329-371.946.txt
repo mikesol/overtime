@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"courage orange est un petit peu rouge tombé sous ton joug manger et en plus j'adore ça temps de la couleur fluo","confidence":0.72009158}]}

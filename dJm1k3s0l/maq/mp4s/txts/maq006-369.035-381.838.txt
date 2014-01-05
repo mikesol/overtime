@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et les couleurs de chez MAC c'est un vrai","confidence":0.64206946}]}

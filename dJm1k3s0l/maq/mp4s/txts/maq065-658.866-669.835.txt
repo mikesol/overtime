@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"bourgeois canard qui donne de la longueur qui me met en cours du volume","confidence":0.68962681}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est super bien ça tiens a quasiment j'ai quand même Classic pas avec mon perso de chérie c'est le cas il y a 24","confidence":0.71091706}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Pajemploi avion parce que j'ai bien compris dans le temps","confidence":0.65040195}]}

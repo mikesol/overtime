@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et vous êtes fan de la page des actualités de ma part la page c'est pas classique mais aussi dans la forêt","confidence":0.73274046}]}

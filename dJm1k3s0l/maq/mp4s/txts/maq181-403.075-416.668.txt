@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"alors je vais reprendre le phare couleur Acier très peu de matière et","confidence":0.73945946}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ici","confidence":0.63743418}]}

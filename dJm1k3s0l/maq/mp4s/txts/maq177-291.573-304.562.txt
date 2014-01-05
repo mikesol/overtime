@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est les gens parlent","confidence":0.60133004}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" saison 4 en cm","confidence":0.44296312}]}

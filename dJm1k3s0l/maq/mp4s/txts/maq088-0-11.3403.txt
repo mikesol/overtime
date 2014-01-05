@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"télévision aujourd'hui je suis là pour vous faire un maquillage dans les tons taupe gris violet","confidence":0.81236607}]}

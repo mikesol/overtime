@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"sélection tu peux vous comme ça qui sent la lavande et en fait moi je suis pas parce qu'après il est la coupe je suis rendu compte que ça commence à m'attacher la peau et le chaman","confidence":0.81439698}]}

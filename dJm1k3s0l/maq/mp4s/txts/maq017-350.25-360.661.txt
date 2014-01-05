@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"produits du Loto euh servir allergie supprimer est-ce que la couleur vanille","confidence":0.61336976}]}

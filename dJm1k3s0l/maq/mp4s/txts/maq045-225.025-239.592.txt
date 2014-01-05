@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ça avec de la chaux et que ça","confidence":0.59420931}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" sur mon visage partout","confidence":0.71415818}]}

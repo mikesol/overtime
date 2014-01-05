@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Paris voilà tout à l'envers","confidence":0.54963177}]}

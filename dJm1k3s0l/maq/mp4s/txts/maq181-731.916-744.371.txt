@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"ok terminé le taxi vous plaît mais c'est parce que vous montrer ce que ça donne","confidence":0.78839576}]}

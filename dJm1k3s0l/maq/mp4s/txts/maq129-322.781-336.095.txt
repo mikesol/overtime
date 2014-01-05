@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il est très très très épais que vous pouvez pas ça du tout de de maquillage que le trafic est très précis c'est pas du tout tracé de la 9 c'est vraiment uniquement avance aux associés","confidence":0.72776151}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tapis Ikea voilà et puis ensuite qu'est-ce que j'ai donc je vais","confidence":0.77802318}]}

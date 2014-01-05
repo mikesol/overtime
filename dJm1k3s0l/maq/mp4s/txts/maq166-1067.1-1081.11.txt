@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"alors que j'ai acheté les lentilles au magasin de déguisement à moi je trouve ça va tout se trouvait y a aussi des super super sur Internet","confidence":0.65819514}]}

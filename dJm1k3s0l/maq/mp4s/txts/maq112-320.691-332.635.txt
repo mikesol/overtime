@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est un jeu sur une île","confidence":0.551759}]}

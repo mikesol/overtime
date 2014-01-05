@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'arrive pas à faire les achats pas je t'embrasse très souvent parce qu'on avait du fard à paupière échanges intense","confidence":0.74626088}]}

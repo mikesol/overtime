@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"voilà maintenant que j'ai appliqué la chance parce que des bêtises dans le bus 224","confidence":0.76358062}]}

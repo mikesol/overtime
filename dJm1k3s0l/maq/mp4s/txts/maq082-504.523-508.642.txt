@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui est en deuxième génération","confidence":0.66037309}]}

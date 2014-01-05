@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est pas top et ça c'est un essai a vraiment pas super Supernatural je vais et je fais caca que ce soit mais euh je sais pas et à voulais vous dire que","confidence":0.75475872}]}

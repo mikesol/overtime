@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"la couleur est utilisé la couleur violette ici je t'ai pas vu ça côtés Duras","confidence":0.7611053}]}

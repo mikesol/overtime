@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"quand arroser de chez Chanel s'appelle","confidence":0.83170819}]}

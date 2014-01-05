@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"que je préfère de chez le chat à Rouen à partir","confidence":0.68398315}]}

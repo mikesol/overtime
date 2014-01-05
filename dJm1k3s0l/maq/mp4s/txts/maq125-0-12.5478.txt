@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Salut aujourd'hui je suis là pour faire une petite vidéo sur un compte que c'était pas prévu mais un truc super sympa en prenant pour","confidence":0.79823488}]}

@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ta mère","confidence":0.65334332}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" sFR Mail j'en ai","confidence":0.43869635}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" mais attention les yeux se retrouver avec un SMS","confidence":0.64831436}]}

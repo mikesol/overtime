@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"kaki que j'aime beaucoup et qui font très peur sortir à tous les dieux","confidence":0.74479294}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" voilà il faudrait se dorer corail","confidence":0.63196594}]}

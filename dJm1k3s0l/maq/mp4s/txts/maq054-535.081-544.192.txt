@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le président","confidence":0.76838613}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ça c'est vraiment un mot qui","confidence":0.62484866}]}

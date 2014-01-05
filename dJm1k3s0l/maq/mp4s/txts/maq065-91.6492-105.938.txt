@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mais on verra ça va pas du tout les cacher juste quelque chose sur le malin","confidence":0.75671262}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et j'en ai un peu partout","confidence":0.6179961}]}

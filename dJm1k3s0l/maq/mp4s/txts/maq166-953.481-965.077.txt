@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"surtout pensé bien à mourir c'est plus simple fait de chez nous chez vous","confidence":0.6372897}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pourrir le haut de mon corps avec sang","confidence":0.83152372}]}

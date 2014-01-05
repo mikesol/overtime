@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pas à pas venir et une touche","confidence":0.6848402}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" colorer un peu jaune doré qui va super bien avec le bleu","confidence":0.8596673}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le mois et fossiles de fou V6 est décisive","confidence":0.66217864}]}

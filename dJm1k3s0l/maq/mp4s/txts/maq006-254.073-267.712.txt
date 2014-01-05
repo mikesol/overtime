@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"montrer la couleur et ses monuments du PL veux pas parler je suis amené la couleur","confidence":0.6269241}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" est-ce que les pierres à ca","confidence":0.69116408}]}

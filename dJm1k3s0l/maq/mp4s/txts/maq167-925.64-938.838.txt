@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"à la vapeur de la salle de bain enfant","confidence":0.45698664}]}
+{"status":5,"id":"","hypotheses":[]}

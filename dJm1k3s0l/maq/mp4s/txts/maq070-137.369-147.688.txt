@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Les Amants toute la soirée","confidence":0.74562418}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et euh","confidence":0.65952528}]}

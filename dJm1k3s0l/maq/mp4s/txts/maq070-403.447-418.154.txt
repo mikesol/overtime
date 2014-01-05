@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"avec un pinceau biseauté la race de chat la pitié","confidence":0.74822676}]}

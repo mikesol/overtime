@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je vois ça avec plusieurs couleurs je suis sûr et un jean vert","confidence":0.6396426}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" sur les temps sur le front","confidence":0.79419208}]}

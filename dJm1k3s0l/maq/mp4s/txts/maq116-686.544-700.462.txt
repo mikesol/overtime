@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et du coup ça va c'est plutôt galvanisé ça c'est pratique ici dans quoi là j'ai tout les trucs pour éliminer le terme que faire pour homme dans les mineurs mais maintenant j'ai quelque chose comme ça j'en sais si ça s'est passé","confidence":0.79726589}]}

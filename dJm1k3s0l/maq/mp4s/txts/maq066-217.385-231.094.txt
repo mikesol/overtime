@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il y a du mal à voir et à faire si je vais appliquer sur les jeux pour applications mais ça va bien","confidence":0.61139882}]}

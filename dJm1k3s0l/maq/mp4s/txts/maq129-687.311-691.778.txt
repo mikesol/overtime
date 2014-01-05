@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il est où est le montant saumon","confidence":0.71879989}]}

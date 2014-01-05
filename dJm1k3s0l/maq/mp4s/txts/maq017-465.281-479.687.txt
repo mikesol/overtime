@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ca ca va pas passer en vertu de la vocale sur son portable pour tous les jours et un événement d'Assaut place","confidence":0.77224422}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"faire des taches de sang bleu des taches de sang sur la tronche ce que je pense","confidence":0.70882148}]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pour avoir les séances","confidence":0.76030385}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" recherche CV Black Ops 2 la pète il est le maître","confidence":0.47299683}]}

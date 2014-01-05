@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"citation je voulais vous remercier autant définition poster un commentaire que c'est en tous les jours suivants super plaisir de voir que","confidence":0.80839974}]}

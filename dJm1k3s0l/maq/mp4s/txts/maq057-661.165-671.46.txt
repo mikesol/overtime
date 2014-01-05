@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"un rouge Léa parents et elle a justement été Séoul transparent","confidence":0.75497609}]}

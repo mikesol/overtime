@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"sachez que c'est juste que c'était super soirée j'espère que je répète de temps pour conserver de maquillage jeux avec les","confidence":0.62552547}]}

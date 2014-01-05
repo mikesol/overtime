@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"valeur de 100 euros ce n'est pas du tout du tout c'est juste","confidence":0.67941976}]}

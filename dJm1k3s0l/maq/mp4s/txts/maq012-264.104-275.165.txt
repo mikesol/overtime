@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Opposé est le plus peuplé de la vie avec la première","confidence":0.77443022}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" comme ça","confidence":0.80977857}]}

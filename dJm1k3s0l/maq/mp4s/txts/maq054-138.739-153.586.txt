@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"jeux de guerre avec et je n'ai rien du tout","confidence":0.72226137}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et j'espère que ça là","confidence":0.69964993}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et en fait j'ai attendu que veut dire ah c'est pareil envoye","confidence":0.68844223}]}

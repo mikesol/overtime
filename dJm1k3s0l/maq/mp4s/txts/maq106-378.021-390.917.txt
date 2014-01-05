@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"memo à lèvres roman genre de truc j'adore le temps d'un automne de Mac près de la collection chopper est comme ça tu pourras","confidence":0.74346316}]}

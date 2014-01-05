@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"les attacher si un chignon torsadé élevé tresser une tresse africaine ici sur le devant","confidence":0.76811081}]}

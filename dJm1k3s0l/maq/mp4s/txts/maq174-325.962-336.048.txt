@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"euh ça m'a fait perdre les deux premiers jours encore une fois parce que j'avais du mal à mon avis à positionner ma langue avec la milletière à trouver ma place dans cette nouvelle","confidence":0.78796166}]}

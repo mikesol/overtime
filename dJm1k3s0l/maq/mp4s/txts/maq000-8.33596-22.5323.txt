@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"chaque année il y en a fait un euro c'est la rentrée s'est bien passé chez Mathon que","confidence":0.56679964}]}

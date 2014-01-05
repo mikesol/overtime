@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ces cas-là je pense que celui-ci quand vous achetez ce qui te le dit avec le intérieur","confidence":0.73010969}]}

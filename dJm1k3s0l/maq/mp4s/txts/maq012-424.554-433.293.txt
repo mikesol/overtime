@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je veux voir ma deuxième prêt devait sujet maths reste ici","confidence":0.45561045}]}

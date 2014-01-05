@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"un petit peu à l'arrache c'est quoi sert le jeu le coiffeur avec les crêpes","confidence":0.79533923}]}

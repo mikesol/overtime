@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est pas de ma classe salle des fêtes de couleur dorée","confidence":0.65875745}]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"un poisson rouge et si les chaleurs mon violet créer un événement faire un petit peu de bleu écris ici au point fr","confidence":0.78206712}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" un dégradé entre le violet et bleu","confidence":0.73622817}]}

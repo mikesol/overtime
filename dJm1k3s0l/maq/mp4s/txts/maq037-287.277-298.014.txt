@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"du tout à l'heure je veux acheter les 3 de 2007","confidence":0.84469032}]}

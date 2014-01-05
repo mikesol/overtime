@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"quel produit pour les enfants et ils vont accepter donc j'ai de l'eau pour vous avez Lomac","confidence":0.73001242}]}

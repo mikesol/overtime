@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui est à l'affiche maison merci mais c'est qui c'est la plus belle chose au monde c'est un peu","confidence":0.69430387}]}

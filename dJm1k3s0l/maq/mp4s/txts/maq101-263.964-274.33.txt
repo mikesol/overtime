@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Le bon la brute et la voilà ça comme ça va marquer avec des paillettes dorées","confidence":0.72474474}]}

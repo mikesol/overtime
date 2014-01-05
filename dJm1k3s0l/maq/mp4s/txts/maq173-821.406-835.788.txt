@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"crée un lien comme sur la photo sushi","confidence":0.79102021}]}

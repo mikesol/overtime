@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"où est sensible","confidence":0.60316986}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" que j'aime beaucoup beaucoup beaucoup pour la Corse et ceci","confidence":0.70051587}]}

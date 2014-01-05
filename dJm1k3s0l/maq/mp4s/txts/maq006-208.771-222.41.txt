@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ça je tapote à l'ancienne","confidence":0.5629636}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" qui est fermé","confidence":0.43710557}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" j'ai pas ton au-dessus de du Québec","confidence":0.77444059}]}

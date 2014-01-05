@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est gratuit extrêmement bon par contre il y a chez vous comment allez-vous dyssynergie directement sur jambe voudrais partout sur le sur le carrelage le parquet","confidence":0.7142905}]}

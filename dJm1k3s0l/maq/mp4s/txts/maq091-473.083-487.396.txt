@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"alors j'ai vu ça dans son fils agent d'entretien plan de danse","confidence":0.64271802}]}

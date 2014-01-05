@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"plutôt un bon coin ça comme ça sur le facteur est je viens voir le kaki","confidence":0.7128768}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je trouve que c'est trop pleuré ensemble vraiment très Saint-Jean-de-Monts","confidence":0.717035}]}

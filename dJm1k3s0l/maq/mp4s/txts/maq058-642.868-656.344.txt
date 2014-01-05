@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"élever c'est facile à faire","confidence":0.64896697}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ok pour ajouter une touche qui veut prendre mon perso je veux un petit peu","confidence":0.80043763}]}

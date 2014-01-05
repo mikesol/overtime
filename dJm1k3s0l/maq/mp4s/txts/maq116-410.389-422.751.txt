@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"envoye un gros comment 32 sur mon bureau maintenant on va aller voir l'intérieur du de la Bête voudrais savoir ici les quoi j'ai un mot","confidence":0.70915103}]}

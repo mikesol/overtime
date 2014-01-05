@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est quoi ça va en espagnol gagnant de la chance de gagner les deux que j'ai à l'armée","confidence":0.80269599}]}

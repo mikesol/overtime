@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"parce que vous direz que je veux dire c'est que euh Océanie sais pas quoi te dire que je t'aime je cherche le site solide blanc","confidence":0.66740763}]}

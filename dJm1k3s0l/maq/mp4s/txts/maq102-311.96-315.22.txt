@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"nourrit les cheveux sont trop la monnaie en plus","confidence":0.58791792}]}

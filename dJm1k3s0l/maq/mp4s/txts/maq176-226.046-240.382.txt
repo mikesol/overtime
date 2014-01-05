@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et euh ca Angers avec de l'eczéma et donc euh le million le regretter","confidence":0.57903528}]}

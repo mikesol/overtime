@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Mickey s'il suffisait et demi la mise de chez avec ça","confidence":0.76090276}]}
+{"status":5,"id":"","hypotheses":[]}

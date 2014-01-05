@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"où trouver c'est un échec et Cody le meilleur de bénéfice qui est donc ce matin encore avec des picots et bien euh","confidence":0.7805869}]}

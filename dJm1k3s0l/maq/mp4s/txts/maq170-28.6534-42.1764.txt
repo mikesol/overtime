@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"si donc est tenu donc voilà voilà ça va avec un dégradé la note bleue sur les yeux","confidence":0.80396098}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"alors que les enfants soient dure le film tiré du 6 une vidéo","confidence":0.78128064}]}

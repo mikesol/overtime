@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"donc là parce que là que j'aime beaucoup ce soir et le temps d'aller le temps parce que moi Sylvie lavande","confidence":0.69409215}]}

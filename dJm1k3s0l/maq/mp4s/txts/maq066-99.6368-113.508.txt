@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je vais voir un petit peu j'ai pris des photos avant-après","confidence":0.8060419}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" mais non je suis super satisfaite section","confidence":0.72841346}]}

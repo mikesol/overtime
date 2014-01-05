@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"si si si","confidence":0.45198593}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je venais à faire des traits encore à la maison pour combler le y'a du blanc","confidence":0.7245087}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et maintenant j'ai envie de tout ça s'est bien passé si","confidence":0.72068095}]}

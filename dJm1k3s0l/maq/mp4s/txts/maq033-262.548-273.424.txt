@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"sous les eaux photos de mai","confidence":0.56992215}]}
+{"status":5,"id":"","hypotheses":[]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'était vraiment super super jolie avec des fossiles unbonjuif rouge avec un bleu et j'ai lu","confidence":0.62434846}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"plus que le musée du coup je sais pas si c'est sympa","confidence":0.76674742}]}

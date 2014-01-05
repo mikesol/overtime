@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pages et les couleurs automnales et j'ai trouvé c'est le crash Ligue 1","confidence":0.7674436}]}

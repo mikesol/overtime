@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"écoute pas en fermant les intersections et où se connecter sur le sur les pieds mais y a pas mal et je sais que je t'aime","confidence":0.67466873}]}

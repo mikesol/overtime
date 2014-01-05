@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"un peu mon neveu Juan de chercher le recommandé présenter ses billets et c'est un shampoing pour les cheveux","confidence":0.74383402}]}

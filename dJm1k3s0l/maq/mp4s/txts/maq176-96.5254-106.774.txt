@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pour venir en fait j'étais au centre personne de aufeminin beauté je voudrais les enfants sont en bas","confidence":0.72695261}]}

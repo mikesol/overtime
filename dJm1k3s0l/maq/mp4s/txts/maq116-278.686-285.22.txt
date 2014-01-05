@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"cinéma Quillan dans un truc pour les cheveux pour le le visage de me faire quasiment quotidiennement","confidence":0.76846594}]}

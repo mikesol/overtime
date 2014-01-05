@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est un très beau bleu canard c'est vrai que j'adore et qui est à moitié supérieure que faire aujourd'hui soucieux soucieux de manger c'est quoi ça","confidence":0.68099916}]}

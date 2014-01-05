@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le travail sera aller j'ai quelque chose de vraiment très très très très discret assez","confidence":0.79790342}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" bonjour juste pour essayer","confidence":0.61859131}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je veux la télécommande de palettes europe et","confidence":0.54418731}]}

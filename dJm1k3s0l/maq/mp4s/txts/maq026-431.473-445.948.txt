@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"en revanche non moi ça s'appelle Samory Touré","confidence":0.50297862}]}

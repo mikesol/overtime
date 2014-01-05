@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je l'ai attrapé un mail à stick","confidence":0.55284953}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je vais réunir ici en bas parce que ma chaise est pas assez","confidence":0.79525465}]}

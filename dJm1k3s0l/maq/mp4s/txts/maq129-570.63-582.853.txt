@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il est passé sur elles sont assez courant et que je veux partir j'aime beaucoup les filles","confidence":0.69685209}]}

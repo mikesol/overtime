@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"afficher 6 ans j'ai mon portable que j'ai mon portable bisous euh que j'ai eu c'est mon gars c'est une sangle et encore fait de ce que je sais c'est que je suis ici en fait je quitte tout les petites annonces","confidence":0.67003268}]}

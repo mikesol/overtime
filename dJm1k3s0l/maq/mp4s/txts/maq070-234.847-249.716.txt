@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"avec un seau mais il faut qu'à le faire assez là","confidence":0.66402143}]}
+{"status":5,"id":"","hypotheses":[]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je viens tracé moi c'est super","confidence":0.63881797}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" définir faire à tout match","confidence":0.55460817}]}

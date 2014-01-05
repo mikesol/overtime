@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est super comme ça c'est fait exprès pour les pour euh sensibles est le président","confidence":0.70895398}]}

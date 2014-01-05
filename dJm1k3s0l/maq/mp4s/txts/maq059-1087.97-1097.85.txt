@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je veux voir j'espère que cette vidéo maquillage","confidence":0.69890869}]}

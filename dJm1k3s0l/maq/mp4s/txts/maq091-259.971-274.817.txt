@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est demain à plus de produits de la collection de l'été 2013 vous avez VO mais euh je suis le Var","confidence":0.7067765}]}

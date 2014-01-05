@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mega naturel et en même temps ça fait beaucoup et puis voilà je ferme et je suis très bon voyage","confidence":0.79804891}]}

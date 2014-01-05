@@ -1,0 +1,4 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"Bonjour bien la chose","confidence":0.59217954}]}

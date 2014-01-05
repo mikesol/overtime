@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est une vidéo sur dentaire à Nanterre Google pourquoi pas parler","confidence":0.76894951}]}

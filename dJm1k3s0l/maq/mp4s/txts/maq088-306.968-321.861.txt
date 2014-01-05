@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"expert en français parce que je sais pas encore je secoue","confidence":0.60986298}]}
+{"status":5,"id":"","hypotheses":[]}

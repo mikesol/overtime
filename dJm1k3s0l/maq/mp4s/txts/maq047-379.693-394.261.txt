@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"lycée à Léo liste de courses","confidence":0.56863558}]}

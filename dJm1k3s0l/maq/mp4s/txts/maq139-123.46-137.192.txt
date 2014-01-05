@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ok alors je suis est la superficie de la Belgique et manger suis rentré","confidence":0.56342661}]}

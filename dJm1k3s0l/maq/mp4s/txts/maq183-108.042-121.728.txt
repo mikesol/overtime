@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est la tour et voilà caméra c'est pas vrai fille ou un film d'horreur et asthénosphère et je pense aux couleurs là","confidence":0.67756397}]}

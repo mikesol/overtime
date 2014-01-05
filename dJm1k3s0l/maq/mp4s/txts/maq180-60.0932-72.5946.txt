@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le est le préféré l'écrit et à trouver maman j'arrive très bien et pas aussi vous avez la peau Anne","confidence":0.76834297}]}

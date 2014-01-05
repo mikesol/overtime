@@ -1,0 +1,3 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"je suis légèrement perso","confidence":0.77376163}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" une solution Mac","confidence":0.80614161}]}

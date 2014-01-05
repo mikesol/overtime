@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et maintenant je vais t à l'heure ça veut dire quel temps qui passe au euh là ecrivez la chapelle pistol","confidence":0.74125516}]}

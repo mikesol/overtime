@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"foot","confidence":0.44090101}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" non ça c'est la classe sexy Michel que je dois ouais ouais ouais heureuse","confidence":0.70883119}]}

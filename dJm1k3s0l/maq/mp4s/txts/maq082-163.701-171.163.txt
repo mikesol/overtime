@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu peux me mettre sur le jeu","confidence":0.62134761}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" Je t'aime saônois","confidence":0.55826777}]}

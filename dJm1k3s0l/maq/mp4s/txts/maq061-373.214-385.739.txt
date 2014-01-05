@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je veux bien sûr face de fond du bar à côté de toi prêt à Alençon","confidence":0.76407665}]}

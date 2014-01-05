@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"fracture au crochet ok est-ce que tu peux plus","confidence":0.54801488}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il est très bien il faut juste de cheveux avec filet et vous pouvez passer","confidence":0.77482539}]}

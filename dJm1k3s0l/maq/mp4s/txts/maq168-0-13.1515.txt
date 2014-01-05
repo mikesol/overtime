@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Céline alors aujourd'hui à j'en profite parce que je travaille et j'ai encore un peu de temps avant que tu fasses une vidéo je lui ai demandé","confidence":0.69983929}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et euh je l'ai pas fait pour appliquer les frontaliers Kid un chat qui parle","confidence":0.62500501}]}

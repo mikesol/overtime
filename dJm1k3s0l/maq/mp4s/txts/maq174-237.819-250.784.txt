@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ce soir avec deux doigts a un endroit où est-ce que vous voulez envers les gens comme ça ah je suis là","confidence":0.72689146}]}
+{"status":5,"id":"","hypotheses":[]}

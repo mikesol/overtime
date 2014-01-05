@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"voir classique que mettre sur Tours à son supérieur au ras des cils Sonia","confidence":0.68769109}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je vais bien merci","confidence":0.46632528}]}

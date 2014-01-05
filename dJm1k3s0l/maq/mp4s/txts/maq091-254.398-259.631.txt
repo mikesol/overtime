@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"téléphone sur mon étagère vide-greniers à la vidéo","confidence":0.80178815}]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"de chez maison que j'ai achetée chez Douglas","confidence":0.72940975}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et ça va super pratique à utiliser euh et","confidence":0.76576209}]}

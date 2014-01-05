@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"car en plus bronzée vous remercie","confidence":0.56998557}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" le magnifique paire de 2 Mac","confidence":0.56090003}]}

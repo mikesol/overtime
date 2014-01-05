@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je vais tous les cheveux du côté opposé là je veux du côté opposé je vais bien et toi tu n'es pas net et il commençait à Tracy","confidence":0.79886395}]}

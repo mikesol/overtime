@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"parce que j'en ai plein air à n'importe qui","confidence":0.6571101}]}

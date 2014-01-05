@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"par-dessus tout à l'heure","confidence":0.55330861}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ok maman similaire à celle que portent sur la soirée","confidence":0.61595333}]}

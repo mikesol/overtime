@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"d'ailleurs c'est mes chers voisins ouvrier qui sont en train de refaire vêtements étaient les écouter Matmata à son chevet 90","confidence":0.82122993}]}

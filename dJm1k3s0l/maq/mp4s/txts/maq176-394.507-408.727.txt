@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'aime beaucoup pour la peau sèche par contre l'odeur me man","confidence":0.79734421}]}

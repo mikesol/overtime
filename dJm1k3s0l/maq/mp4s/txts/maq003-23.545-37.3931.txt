@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"fashion tendance chez","confidence":0.53563398}]}
+{"status":5,"id":"","hypotheses":[]}

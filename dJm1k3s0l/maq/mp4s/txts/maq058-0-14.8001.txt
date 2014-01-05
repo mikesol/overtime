@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"aller au lit je suis là pour faire le premier maquillage de fête de l'année 2012 est dans mes mollets crée ton côté de moi qui l'ai je viens de rentrer","confidence":0.70905751}]}

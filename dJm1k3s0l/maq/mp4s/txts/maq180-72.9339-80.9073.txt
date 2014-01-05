@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est bien ma veine beaucoup de marques","confidence":0.7986868}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je suis français et Cognac volume et brillance cheveux","confidence":0.51037008}]}

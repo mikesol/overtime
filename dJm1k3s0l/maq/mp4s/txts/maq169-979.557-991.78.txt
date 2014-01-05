@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"quand est la fête de la plus belle la vie ce que je sais que c'est que ça","confidence":0.57389271}]}

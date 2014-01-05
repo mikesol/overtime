@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est quoi un essai combien de temps met un crayon","confidence":0.73336762}]}

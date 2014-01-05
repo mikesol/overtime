@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"effacer donc là voilà les filles","confidence":0.77446657}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" des questions","confidence":0.43799278}]}

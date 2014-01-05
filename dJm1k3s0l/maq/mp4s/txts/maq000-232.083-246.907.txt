@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"parce que je suis en H de finir parce que là demain il fait aujourd'hui en plage exetera je t'appelle après","confidence":0.63133657}]}

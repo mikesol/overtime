@@ -1,0 +1,3 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"sur mon perso","confidence":0.45232204}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" tracer un trait","confidence":0.71801496}]}

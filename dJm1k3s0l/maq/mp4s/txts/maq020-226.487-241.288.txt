@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Pierre","confidence":0.55645871}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ils sont encore","confidence":0.59250754}]}

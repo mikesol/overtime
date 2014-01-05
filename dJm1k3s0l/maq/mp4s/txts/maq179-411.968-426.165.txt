@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui est comme son nom l'indique un peu couleur couleur mangue avec en plus de courage que je sais de qui sont un peu plus belle Lucie et moi orange","confidence":0.74009335}]}

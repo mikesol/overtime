@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"cree la température cette année est l'âge dans à mes favoris j'en ai testé pas mal et","confidence":0.76362139}]}

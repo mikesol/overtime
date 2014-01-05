@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il faut s'il est collé plancher étage vacances ça va faire la même chose","confidence":0.8089205}]}

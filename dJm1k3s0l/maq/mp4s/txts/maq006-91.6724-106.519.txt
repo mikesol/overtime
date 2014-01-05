@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ok alors quand est en bas c'est la base de chez tousser tousser l'Auberge du basket info","confidence":0.74276412}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" jeux Samsung","confidence":0.44634217}]}

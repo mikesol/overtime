@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"delcampe.fr","confidence":0.65320897}]}
+{"status":5,"id":"","hypotheses":[]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"par la secu vanter mais tu es sur la maison depuis hier depuis tout à l'heure alors que je travaille avec des matières quand ils sont assez poudre","confidence":0.76633459}]}

@@ -1,0 +1,4 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je voudrais laisser","confidence":0.60937411}]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":" prenez la vache la plus près de la mer","confidence":0.55306154}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et voilà mail","confidence":0.61365533}]}

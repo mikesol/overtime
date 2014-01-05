@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"expliquer toutes les civilisations a joué avec","confidence":0.60361868}]}

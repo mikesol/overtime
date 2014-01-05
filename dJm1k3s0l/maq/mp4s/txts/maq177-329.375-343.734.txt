@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le vaccin de la viande chat et un jean 2 je vous fais pas chier","confidence":0.69651335}]}

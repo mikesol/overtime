@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est mieux encore travail indéterminé en décembre encore quatre mois de traitement mais je suis vraiment plus de 40 ans et résultats plus en plus","confidence":0.70225525}]}

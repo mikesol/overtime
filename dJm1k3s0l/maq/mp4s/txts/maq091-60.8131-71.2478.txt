@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"par contre qui j'ai donc le premier pas shopper shopper 6 6","confidence":0.69809765}]}

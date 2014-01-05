@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Jérémy 6h30 au foot l'ai dit là je veux prendre son perso et je mets sur la moitié de mon I","confidence":0.60391891}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" coiffeur jusqu'à environ la moitié","confidence":0.85778201}]}

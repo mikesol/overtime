@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et pour le bonheur tout simplement son excellente ECN blanche Brest appelle la Manche et il est très douce si les oeufs","confidence":0.69530886}]}

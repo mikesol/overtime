@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"surtout les enfants et F","confidence":0.66006851}]}
+{"status":5,"id":"","hypotheses":[]}

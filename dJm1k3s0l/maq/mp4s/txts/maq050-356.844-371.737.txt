@@ -1,0 +1,4 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est pareil ce serait fleurs","confidence":0.67560041}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" sous les yeux","confidence":0.43708318}]}
+{"status":5,"id":"","hypotheses":[]}

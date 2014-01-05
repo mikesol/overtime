@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je ne sais rien que je ramène","confidence":0.69152218}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je ne sera plus jamais je continue je stresse comme ça","confidence":0.80716759}]}

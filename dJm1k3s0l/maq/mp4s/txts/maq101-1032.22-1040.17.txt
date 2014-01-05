@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Exomega très important de fruits et légumes de la gamme A-Derma à son top pour","confidence":0.74577165}]}

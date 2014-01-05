@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ça fait un temps soit classique pas très très faim et l'autre côté donc le pique-nique c'est complètement énorme euh","confidence":0.76829904}]}

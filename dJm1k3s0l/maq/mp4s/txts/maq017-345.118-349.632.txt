@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"blanc argente l'air un bleu canard bleu sombre","confidence":0.6598053}]}

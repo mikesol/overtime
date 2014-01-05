@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"produits du même si ce n'était pas là parce que","confidence":0.83082771}]}

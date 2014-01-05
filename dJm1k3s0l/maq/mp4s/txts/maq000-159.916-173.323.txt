@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ed tu vas regarder les dessus de t'avoir donné la foi alors je veux en anglais","confidence":0.62984806}]}

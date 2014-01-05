@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"de produits de toutes les gammes de prix dans la guerre en ligne je suis en charge max","confidence":0.64755893}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est traitement comme ça s'est passé Crémieu Samus très drôle et ça sent le bonbon ça sent vraiment bon","confidence":0.76167983}]}

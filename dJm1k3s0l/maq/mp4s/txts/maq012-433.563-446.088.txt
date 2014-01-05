@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pour faire une tresse classicisme en apprendre un peu plus il fait 6 comment avoir de la maison de chevet","confidence":0.66114402}]}

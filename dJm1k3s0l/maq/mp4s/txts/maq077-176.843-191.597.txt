@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"horaires Leclerc euh je pense à Suresnes perso","confidence":0.65255165}]}
+{"status":5,"id":"","hypotheses":[]}

@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mais je sais pas ce que je veux moi","confidence":0.64164126}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" un verre très intense","confidence":0.45029655}]}
+{"status":5,"id":"","hypotheses":[]}

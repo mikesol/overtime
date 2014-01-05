@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"quel crayon que je n'ai pas reçu ton accusé creer moi que je parle évidemment c'est là c'est un appareil de Créon","confidence":0.72826421}]}

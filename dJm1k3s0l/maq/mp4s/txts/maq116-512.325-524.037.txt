@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ma bite du monde Decoclico à dépasser le matin et puis des palettes au fond aussi à l'accepter a des trucs pour moi en gros le premier c'est moi","confidence":0.72388369}]}

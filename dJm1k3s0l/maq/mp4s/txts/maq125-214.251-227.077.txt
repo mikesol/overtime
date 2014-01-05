@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"elle a reçu son égard réfléchis ça nous énerve et j'espère que","confidence":0.64960194}]}

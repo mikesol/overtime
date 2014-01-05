@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"voilà en fait divers de chez Opel tasse","confidence":0.72492057}]}

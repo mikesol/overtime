@@ -1,0 +1,3 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"points portable","confidence":0.65107524}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ecrivez CV le phare le phare brun et mèche pour","confidence":0.48617515}]}

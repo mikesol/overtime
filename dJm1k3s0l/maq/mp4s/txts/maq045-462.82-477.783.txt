@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pour maquillage dessin avec un perso comme ça ça va bientôt sur la télé-réalité 5 francs sur soit sur toi","confidence":0.740695}]}

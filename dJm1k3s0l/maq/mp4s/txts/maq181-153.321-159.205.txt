@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Amba assez large","confidence":0.59742337}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" La Fouine pas assez large en bas","confidence":0.62121302}]}

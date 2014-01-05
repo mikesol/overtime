@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"peux-tu des traits noirs que je sais avant","confidence":0.69166499}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et je vais également je suis en mettre sur un serveur","confidence":0.72520792}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ça c'est vraiment beaucoup plus léger","confidence":0.74811524}]}

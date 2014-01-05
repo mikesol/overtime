@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"vivre en 1914","confidence":0.73280239}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" images Simo maquillage pour les Chaux-de-Fonds et vous ai laissé euh","confidence":0.6756354}]}

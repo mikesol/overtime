@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"t'as rien compris parce que j'ai du mal à trouver un nom avenue John Kennedy avec la peau pages jaunes mais quand il ne faut pas ça part","confidence":0.73040724}]}

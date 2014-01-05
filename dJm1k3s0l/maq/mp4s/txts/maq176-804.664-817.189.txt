@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"60 un parfait ok parfait avec un truc et ça ça c'est pas couché Serena est assez chargé","confidence":0.72958559}]}

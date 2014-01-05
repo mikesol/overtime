@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tout ce qu'il faut c'est une façon c'est donc que le look","confidence":0.65364391}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je suis le maître ocation intérieur","confidence":0.76791221}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui est le le Babyliss pro 230","confidence":0.81766462}]}

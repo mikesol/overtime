@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"crème avec un pinceau synthétique ça veut dire que","confidence":0.69000679}]}

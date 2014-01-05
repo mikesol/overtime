@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"écrivez un chien comme ça va bizarre et je prends","confidence":0.54117602}]}

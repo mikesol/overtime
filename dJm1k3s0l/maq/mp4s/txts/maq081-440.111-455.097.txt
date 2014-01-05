@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"voilà non mais physiquement","confidence":0.50444287}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" mon enfant qui fait de Violetta","confidence":0.84619361}]}

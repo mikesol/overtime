@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Hello rose permet d'avoir allez c'est pas du tout Orange Orange et aux carottes et beaucoup plus je sais pas bah quand même effacer un super et naturel je suis là parce que","confidence":0.68071502}]}

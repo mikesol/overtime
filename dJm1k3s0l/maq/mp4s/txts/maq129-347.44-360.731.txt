@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"beaucoup trop gros et en plus précis avec avec ce truc là je voudrais encore une fois en comparaison d'un pare-choc cassé et il est où allô parce que j'ai fait là mais assez pour montrer la différence de taille","confidence":0.74776584}]}

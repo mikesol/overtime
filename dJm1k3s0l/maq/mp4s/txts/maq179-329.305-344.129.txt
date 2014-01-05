@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"place shine bonne nuit mon chéri c'est le numéro de licence bébé Barbie ky-Mani est pas","confidence":0.76015031}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"les enfants sont à Mamour ma part de chez moi qui suis rentré mettre","confidence":0.63408476}]}

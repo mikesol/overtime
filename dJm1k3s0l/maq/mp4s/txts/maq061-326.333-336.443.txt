@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"convention manquerai pas laisser comme ça va toucher tout ça donne ça","confidence":0.84045488}]}

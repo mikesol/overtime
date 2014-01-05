@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Pascal assez discret et moi euh je veux aller sur ces chats maman à moi je pensais juste que","confidence":0.71915823}]}

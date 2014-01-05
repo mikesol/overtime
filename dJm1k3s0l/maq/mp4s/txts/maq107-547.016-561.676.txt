@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et je fais ça pour elle parce que la peau sèche et tu préfères les sections crème protection foudre je suis mieux avec eux et déçu parce que y'a pas","confidence":0.76081139}]}

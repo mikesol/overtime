@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"en fait c'était quel est ton jeu je l'adore","confidence":0.69795275}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" CG","confidence":0.43221816}]}
+{"status":5,"id":"","hypotheses":[]}

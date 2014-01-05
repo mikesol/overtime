@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"maquillage chat est castré naturel","confidence":0.77084583}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ça pourrait être sympa j'aurais tellement facile à faire un petit peu","confidence":0.72418183}]}

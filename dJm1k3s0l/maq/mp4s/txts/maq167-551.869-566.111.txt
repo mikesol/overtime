@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"vend des briseurs c'est que derrière la tête sur le balcon qu'est-ce que c'est ça les exercices de sport","confidence":0.73526168}]}

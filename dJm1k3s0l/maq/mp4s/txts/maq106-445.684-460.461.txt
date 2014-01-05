@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"coloré et je suis ta star aux lettres avec K je voudrais voir la couleur","confidence":0.64260036}]}

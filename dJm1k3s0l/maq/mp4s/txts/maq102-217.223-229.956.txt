@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"heure avion que c'est pas ça espace espace de jeux avec du gros sel et du citron intérieur à façon","confidence":0.69218153}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ça sent assez","confidence":0.71596265}]}

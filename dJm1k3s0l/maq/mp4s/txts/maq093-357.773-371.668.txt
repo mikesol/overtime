@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et j'ai acheté sur français","confidence":0.79547477}]}

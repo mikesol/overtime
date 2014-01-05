@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"voilà je suis une femme pour les jeux qui est juste génial c'est la crème","confidence":0.77831423}]}

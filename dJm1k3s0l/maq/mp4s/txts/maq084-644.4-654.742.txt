@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"bonne mine comment vous vous rendez compte que c'est moins de ce qui fait peur à mes remerciements Spotify","confidence":0.83535326}]}

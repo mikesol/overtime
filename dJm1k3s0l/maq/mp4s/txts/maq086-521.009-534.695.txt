@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je veux les tartelettes airbag light de Mac le serveur préféré je saurais être enceinte je me tire","confidence":0.70090151}]}

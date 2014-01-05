@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tatata géographie qu'est-ce que c'est que ça va sur la site qui est passé par là et c'est juste une pure merveille","confidence":0.75623477}]}

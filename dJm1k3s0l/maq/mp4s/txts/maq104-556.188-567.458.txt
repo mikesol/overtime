@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"site de chez eux parce que c'est pour ça que le pré","confidence":0.70052034}]}

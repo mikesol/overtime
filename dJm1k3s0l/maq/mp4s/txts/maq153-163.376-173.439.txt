@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Tokyo c'est quasiment bleu et ses amis","confidence":0.712556}]}

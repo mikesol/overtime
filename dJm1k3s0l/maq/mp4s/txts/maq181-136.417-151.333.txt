@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Sexion d'Assaut j'ai dit que ça fait maison pour pouvoir faire à manger tous après 3 mai","confidence":0.58959693}]}

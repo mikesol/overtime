@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"perfect avec ça ça fait un imbécile aux yeux et tout pas du tout ça coûte","confidence":0.58693355}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"voir tous les yeux je suis trompé il va partout ici il est vraiment très très bien et assez courant","confidence":0.62673461}]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"naviguez pas principalement Attila","confidence":0.6729542}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" trouver ça avec moi","confidence":0.64383227}]}

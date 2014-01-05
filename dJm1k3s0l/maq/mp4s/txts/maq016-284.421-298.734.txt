@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"aller sur son à son père avait donc le 6 le 7","confidence":0.54285872}]}

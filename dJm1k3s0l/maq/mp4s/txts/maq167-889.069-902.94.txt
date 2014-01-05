@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"personnalité que je voudrais le train je voudrais le faire un ami alors ça V mais euh","confidence":0.759139}]}

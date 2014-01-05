@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"il est je suis avec Selena et contrat c'est vraiment bien avec le le ver Laguna comment mettre en Suisse","confidence":0.63056666}]}

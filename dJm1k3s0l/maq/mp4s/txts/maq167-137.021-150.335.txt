@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"traitement toujours pas du tout je suis à la recherche de fuite et du coup normalement si tout va bien le résidentiel pour ça va c'est super alors","confidence":0.79341018}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"non pas du citoyen malheureusement des de la poste ou sont volés ça va chercher le pain sans sel pour","confidence":0.70088077}]}

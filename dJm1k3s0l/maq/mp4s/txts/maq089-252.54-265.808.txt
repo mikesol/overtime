@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"marron moyen pour samedi 6 et sa coque de maquisards moyen je voudrais","confidence":0.71774524}]}

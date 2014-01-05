@@ -1,0 +1,3 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"fonction matin","confidence":0.56985325}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je te laisse tomber c'est comme ça fait tomber enceinte","confidence":0.66857946}]}

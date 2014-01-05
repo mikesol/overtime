@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mais pas internet tunisienne des dents nickel je vous rassure","confidence":0.58188736}]}

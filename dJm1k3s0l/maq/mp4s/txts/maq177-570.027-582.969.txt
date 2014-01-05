@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et quand pas passer des célibataires de","confidence":0.61993635}]}

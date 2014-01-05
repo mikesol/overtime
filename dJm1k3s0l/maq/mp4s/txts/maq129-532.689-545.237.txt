@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"la foudre contour avec trouve que c'est plus simple de faire avec un gros pinceau en a qui est juste la version un peu plus grosse enceinte de","confidence":0.71789443}]}

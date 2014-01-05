@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"les garder pour pas avoir trop trop trop de version sur les yeux juste en tout cela sous les yeux","confidence":0.71113044}]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le j'ai essayé de le message que les deux couleurs réussi pour avoir un résultat","confidence":0.73900878}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" vraiment jolie","confidence":0.73849058}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et ça c'est pas du tout sur les héritiers de résident et c'est une tuerie ça Centrest","confidence":0.69095689}]}

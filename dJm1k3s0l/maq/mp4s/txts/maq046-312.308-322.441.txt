@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Facebook ecrire une critique pas cher encore","confidence":0.55873829}]}

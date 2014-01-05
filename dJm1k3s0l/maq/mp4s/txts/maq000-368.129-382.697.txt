@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est euh téléphonez je sors de chez vous pourquoi c'est extra une trace plage recherche de Rians","confidence":0.69761837}]}

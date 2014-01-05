@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Jennifer que j'ai envie de faire pour vous remercier fait tout ça que j'ai participé avec des","confidence":0.76774085}]}

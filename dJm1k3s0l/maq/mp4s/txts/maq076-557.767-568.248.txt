@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"un monde à changer de pédé","confidence":0.43727925}]}

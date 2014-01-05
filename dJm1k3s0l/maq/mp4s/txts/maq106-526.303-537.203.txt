@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pour moi c'était en 2006 non mais c'est clair que ça génial et euh","confidence":0.78131384}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"petit caca on va régler ça c'est plutôt pour les cheveux fins et un amour si vous avez peut-être c'est un peu à dire","confidence":0.68577856}]}

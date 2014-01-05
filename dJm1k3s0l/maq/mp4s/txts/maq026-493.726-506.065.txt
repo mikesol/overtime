@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"montrer voilà","confidence":0.65137708}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" la chose Tarbes","confidence":0.63808876}]}

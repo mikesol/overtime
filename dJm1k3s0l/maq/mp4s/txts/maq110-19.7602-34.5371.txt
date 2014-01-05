@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"chaque année en disant que je serai donc pour commencer","confidence":0.74046403}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"base sur la 6 le rouge creer","confidence":0.70094544}]}

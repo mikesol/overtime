@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"démaquillage pas ce soir je voulais juste vous faire des personnes qui viennent les vidéos et ça parler voilà parler comment faire des gagnants","confidence":0.60144788}]}

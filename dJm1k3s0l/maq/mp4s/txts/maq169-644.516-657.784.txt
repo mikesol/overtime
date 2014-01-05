@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"comment enlever une tache brune","confidence":0.80014563}]}

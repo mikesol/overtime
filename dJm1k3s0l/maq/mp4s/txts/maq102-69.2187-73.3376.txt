@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"donc c'est un shampoing à base de citron et d'Agde","confidence":0.84090489}]}

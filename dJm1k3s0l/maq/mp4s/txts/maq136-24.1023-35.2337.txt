@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"résultat du Super U","confidence":0.47248861}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"dans quel épisode alors tu es ça c'est super cool réaliser notre prof de maths sur les lieux","confidence":0.69101387}]}

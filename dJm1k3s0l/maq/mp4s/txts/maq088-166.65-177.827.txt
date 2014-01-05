@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ouvrir ce soir le ça sous les yeux","confidence":0.70742822}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" si","confidence":0.44259825}]}

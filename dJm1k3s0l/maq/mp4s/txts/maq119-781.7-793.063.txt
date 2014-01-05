@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tout de suite une deuxième partie du yen j'espère que cette vidéo nous York mon voyage","confidence":0.71463996}]}

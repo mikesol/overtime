@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"collège mais en tout cas de nettoyer tous les deux yeux","confidence":0.65136808}]}

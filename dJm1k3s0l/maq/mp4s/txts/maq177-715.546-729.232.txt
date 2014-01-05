@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Tartine et Chocolat c'est pas ça saison 1 bleu voici","confidence":0.79800045}]}

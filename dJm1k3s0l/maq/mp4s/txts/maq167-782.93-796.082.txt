@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"caméra de la vrai version blanche","confidence":0.51455951}]}

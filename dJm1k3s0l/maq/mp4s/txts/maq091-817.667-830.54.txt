@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"que désigne le violon électrique vers la voix de foot US est la quatrième Ganneron","confidence":0.7209456}]}

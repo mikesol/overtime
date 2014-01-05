@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"film","confidence":0.49878788}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ici","confidence":0.58024251}]}

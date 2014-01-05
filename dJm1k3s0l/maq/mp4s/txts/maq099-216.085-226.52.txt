@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"message reçu de l'année 2012 son crayon Mac je sais pas comment il s'appelle c'est comme ça et si","confidence":0.68687516}]}

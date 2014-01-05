@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mais voilà sinon tout se passe très bien tout ça fait une semaine que je sorte que la première voiture aujourd'hui et les 7 rue carrelage la chance dans une semaine pour passer nouvelles","confidence":0.77018839}]}

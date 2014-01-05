@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"savon parce que là parce que si on vivait pour elle elle état naviguez le","confidence":0.59426796}]}

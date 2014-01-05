@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"les cheveux","confidence":0.44090208}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" déjà cette forme-là télé","confidence":0.67281538}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"depuis environ 6 mois et en plus il y a quatre ou cinq ans c'est la santé et la fille de 2 euros sur les îles d'Orléans que ça","confidence":0.76871264}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"comme ça que j'ai acheté ça y est c'est un perso une première place Saint-Pierre de","confidence":0.76139432}]}

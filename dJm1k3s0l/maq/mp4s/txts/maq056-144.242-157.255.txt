@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"couleur chair qui va et toi","confidence":0.80638194}]}

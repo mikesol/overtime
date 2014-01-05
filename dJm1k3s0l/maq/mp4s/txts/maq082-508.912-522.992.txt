@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"est-ce que les portes ouvertes chez ça c'est vraiment fascinante t'attends sur le monde euh tu peux sur le gris sont des couleurs","confidence":0.62765485}]}

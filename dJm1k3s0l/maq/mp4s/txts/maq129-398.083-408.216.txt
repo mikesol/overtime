@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je suis avec attention le voilà euh j'ai 14 ans et j'ai commencé je sais pas lequel part cela a marché","confidence":0.67760688}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est l'homme de que nous vous avons mais connaissez-vous classique","confidence":0.63896698}]}

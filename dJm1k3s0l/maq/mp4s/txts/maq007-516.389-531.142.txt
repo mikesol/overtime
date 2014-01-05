@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"France","confidence":0.55432183}]}
+{"status":5,"id":"","hypotheses":[]}

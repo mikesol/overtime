@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"correcteur il est un peu plus long que le euh salut c'est Laura Mercier ça va mais j'ai du coup à Cannes demain","confidence":0.80275792}]}

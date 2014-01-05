@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"résultats pour sont amour je sais que tu peux voir la caméra et l'initier l'as pas non plus euh","confidence":0.76982826}]}

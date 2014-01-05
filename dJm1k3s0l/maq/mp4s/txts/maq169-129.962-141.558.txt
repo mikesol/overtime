@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"cacao cacao comme ça","confidence":0.77703977}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et c'est un moyen de terre à la crème avec des sceaux","confidence":0.81024772}]}

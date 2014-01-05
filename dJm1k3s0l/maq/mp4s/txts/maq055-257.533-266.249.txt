@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est vraiment beaucoup plus euh chercher quand même aller à la caméra Pascal portable","confidence":0.62939364}]}

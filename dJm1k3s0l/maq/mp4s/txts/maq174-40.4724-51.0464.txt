@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"envoyez maison change exetera avril c'est quoi c'est parce que je partagerai dentaire et ce jusqu'au mois de décembre","confidence":0.72962445}]}

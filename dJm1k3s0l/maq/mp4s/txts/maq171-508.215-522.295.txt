@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"bien sûr de bien rater ma peau avec une crème pour le corps et visage j'utilise le bloc tes bras autour de chez Carrefour temps est assez","confidence":0.78434217}]}

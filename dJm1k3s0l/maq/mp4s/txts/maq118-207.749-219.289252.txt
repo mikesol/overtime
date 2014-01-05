@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le monde entier pour participer j'espère que cette vidéo de concour le site internet s'il vous plaît on est un gros bisous et te dis à plus tard","confidence":0.72238511}]}

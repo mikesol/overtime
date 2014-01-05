@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"garder ce grief mais magnifique","confidence":0.66215384}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" tache noire sur écran externe les son père et ton père","confidence":0.67398423}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" 224","confidence":0.885144}]}

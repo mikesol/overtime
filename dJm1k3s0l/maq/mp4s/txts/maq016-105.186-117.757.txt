@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"achat PC et MAC","confidence":0.65531802}]}

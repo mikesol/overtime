@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et que je devais dessiner","confidence":0.67583227}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" le chat est tombé avec moi j'ai été","confidence":0.56036896}]}

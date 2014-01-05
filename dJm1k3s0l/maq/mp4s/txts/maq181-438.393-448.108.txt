@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"la plus ancienne vous préférez le fait de cette année-là parce que","confidence":0.60212994}]}

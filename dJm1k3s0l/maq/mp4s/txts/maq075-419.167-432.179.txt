@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Simon de la part de corail","confidence":0.62793237}]}

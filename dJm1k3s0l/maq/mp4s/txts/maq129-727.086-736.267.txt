@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"on va sortir le chien dans ce que j'ai en plus des solutions celui-ci c'est le","confidence":0.76704288}]}

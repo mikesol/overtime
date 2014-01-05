@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu me ramènes tu peux","confidence":0.49365109}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" aurais-tu maquillage","confidence":0.72796512}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ce soir après sur son PC avec un câble","confidence":0.71822429}]}

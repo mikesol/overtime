@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"y'a des jours comme ça je n'ai pas ah non je n'ai pas comme ça euh Saint-Jean de corail donc je voudrais le DVD","confidence":0.70750612}]}

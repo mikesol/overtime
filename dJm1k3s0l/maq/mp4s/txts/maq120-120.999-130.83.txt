@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et bien et que tout se trouve mignonne si tu sais en blanc","confidence":0.60940278}]}

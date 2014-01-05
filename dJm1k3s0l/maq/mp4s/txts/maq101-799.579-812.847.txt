@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est un bonheur mais il fait très beau je nettoie et tu veux et AC DC","confidence":0.72167099}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Fos-sur-Mer parce que tu m'avais dit que tu as envers la photo fort","confidence":0.52929109}]}

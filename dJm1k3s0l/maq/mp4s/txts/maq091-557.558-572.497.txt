@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qu'est-ce que j'ai payé un bon du coup j'ai utilisé Sahara avec ma chambre parce que comme ça tu peux","confidence":0.64495069}]}

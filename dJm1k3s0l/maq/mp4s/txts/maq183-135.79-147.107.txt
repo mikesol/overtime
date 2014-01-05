@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Andreas et fils vous pouvez s'il suffisait pas si note 2 Mac qui ressemble un peu à utiliser pas de bourrée vraiment réfléchi que","confidence":0.70984536}]}

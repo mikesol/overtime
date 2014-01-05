@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'ai la peau un peu fatigué à vrai qu'il est un peu après","confidence":0.68307805}]}

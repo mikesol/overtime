@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"statut heure dois-je pense que c'est toi parce que c'est beaucoup plus facile","confidence":0.69842589}]}

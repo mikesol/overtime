@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"même si elle est magnifique et à la photo sur un siège avec un supermarché","confidence":0.82866752}]}

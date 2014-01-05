@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"ici sèche-cheveux Toulouse","confidence":0.59022802}]}

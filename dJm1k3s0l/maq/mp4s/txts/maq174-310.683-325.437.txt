@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"donc voilà amour tu me fais mal c'est que les deux premiers jours ça s'est passé entre sur mes dents comment l'appareil heure en métal classic e et maman ça va beaucoup mieux ça me sentais plus du tout mal","confidence":0.70869887}]}

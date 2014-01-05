@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu sois images de teint me trouver","confidence":0.62187809}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" Alan précédemment super","confidence":0.64970684}]}

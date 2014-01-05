@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"est-ce que avant 3 ans j'avais pas trop forcément envie de me retaper un appareil 205 M6 que parce que j'ai essayé s**** mon appareil de nuit les enfants sont décalé","confidence":0.73082376}]}

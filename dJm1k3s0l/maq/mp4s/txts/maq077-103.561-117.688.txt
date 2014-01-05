@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je sais pas si tu es chez MAC c'est l'heure blanche","confidence":0.63479292}]}
+{"status":5,"id":"","hypotheses":[]}

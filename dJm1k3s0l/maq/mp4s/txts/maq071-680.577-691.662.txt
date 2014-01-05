@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je suis en avi sur les yeux bleus sur les yeux magnifique elle est encore des paillettes toi des trucs pour faire ressortir le côté","confidence":0.7695452}]}

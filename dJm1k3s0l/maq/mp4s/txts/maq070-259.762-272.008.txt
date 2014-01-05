@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu sais pas il fera aujourd hui juste pour voir vraiment","confidence":0.74449849}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" combien les morts","confidence":0.5853312}]}

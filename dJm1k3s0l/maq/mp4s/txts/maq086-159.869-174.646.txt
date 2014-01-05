@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je veux juste comme ça parce que moi je pense à Ozoir","confidence":0.7142573}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je vais venir sur en Gironde","confidence":0.58034998}]}

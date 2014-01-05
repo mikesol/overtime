@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"station essence élan en Vendée comme ça","confidence":0.64532948}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et en remontant","confidence":0.66039968}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" vers le trio","confidence":0.45684838}]}

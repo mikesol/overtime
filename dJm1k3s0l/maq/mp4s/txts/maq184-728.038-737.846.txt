@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est sûr il fallait pas les produits pour les faits divers","confidence":0.59167314}]}

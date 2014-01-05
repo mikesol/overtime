@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"aller chez les garçons du monde","confidence":0.72732645}]}

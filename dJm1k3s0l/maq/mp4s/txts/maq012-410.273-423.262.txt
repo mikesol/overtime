@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"essayer de les détruire photo est parfaite sans RDV 13 assez large et pas du tout parfait tresse épi de blé","confidence":0.70555675}]}

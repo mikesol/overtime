@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"sur pied vous savez a un petit manche et un fil dentaire souvent pas tous les aime pas mais le plus longtemps possible de façon","confidence":0.68215197}]}

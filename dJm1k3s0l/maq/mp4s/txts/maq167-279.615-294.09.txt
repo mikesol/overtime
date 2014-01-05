@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je suis toujours ça avec une fille et tu danses à deux","confidence":0.66836452}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" de qui va me fais sur les yeux","confidence":0.74389303}]}

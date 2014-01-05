@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"écouter ce que tu veux tu peux parler comme ça il me fait des gros bisous et je dis à très bientôt pour une fille","confidence":0.7441681}]}

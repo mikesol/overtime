@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"les paillettes pour Noël","confidence":0.86069727}]}

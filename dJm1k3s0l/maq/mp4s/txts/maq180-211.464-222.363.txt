@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"turquoise vert","confidence":0.78667498}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ensuite j'ai un robot de chercher la clé qui est le","confidence":0.85099888}]}

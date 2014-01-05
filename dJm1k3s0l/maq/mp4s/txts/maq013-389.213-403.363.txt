@@ -1,0 +1,4 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"les cheveux","confidence":0.45064211}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" section de cheveux à l'arrière","confidence":0.56541073}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je vais je vais arriver","confidence":0.53625607}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"bah alors que je suis et en fait chier c'est du scotch pour faire un smoky vraiment très intéressant côté","confidence":0.68821406}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et pour tous les jours sur le travail tu n'as pas l'air je n'ai pas encore de terre","confidence":0.71493536}]}

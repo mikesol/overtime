@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est la pause déjeuner et euh je sache que je serai toujours là c'est pas bien","confidence":0.6799615}]}

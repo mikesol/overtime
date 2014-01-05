@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"photos dans mon sens que ce soit suicide","confidence":0.76503533}]}

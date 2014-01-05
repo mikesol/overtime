@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"bon coin","confidence":0.4343743}]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ça veut dire que je mets sur le père de Céline","confidence":0.82411349}]}

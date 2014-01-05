@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"parce que je trouve pas souvent chez Marc et en vrai orange est un homme que j'aime beaucoup","confidence":0.76105762}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et plus si il est où est un vrai orange","confidence":0.63001233}]}

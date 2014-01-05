@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu me fais chier","confidence":0.52024418}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" où je voudrais la chanson","confidence":0.56977624}]}

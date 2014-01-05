@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"la crème clinique ça s'appelle Banque Postale regarder la version normale","confidence":0.76388258}]}

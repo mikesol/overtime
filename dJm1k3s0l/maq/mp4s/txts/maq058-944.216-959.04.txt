@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"résultats Canadiens de Montréal vérité est toujours pas reçu qui est le classement de maquiller un gloss rose avec des petites paillettes et ajouter une touche de couleur","confidence":0.75583601}]}

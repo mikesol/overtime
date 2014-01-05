@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et du coup j'ai tout les cheveux si il faut pas que les mèches temps d'avoir un intrus quand pas trop trop trop trop emballé jeux de machine","confidence":0.63650566}]}

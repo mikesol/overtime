@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"creer Super Ferme","confidence":0.43890429}]}

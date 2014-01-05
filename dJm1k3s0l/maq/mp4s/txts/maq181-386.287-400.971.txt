@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mais je souffre en rire si tu es rentré si je mens 2","confidence":0.71686172}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" mettre","confidence":0.57173806}]}
+{"status":5,"id":"","hypotheses":[]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"plan de l'abbaye pas beaucoup et je pense que c'est plus tranquille pour les pirates en français mais on va pas abandonner Eva en vacances chez mes parents qui ont de chat","confidence":0.80498534}]}

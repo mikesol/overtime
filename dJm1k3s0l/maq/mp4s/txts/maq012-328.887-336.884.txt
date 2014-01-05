@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"transport","confidence":0.43408021}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" site de recherche en aller aussi","confidence":0.78757328}]}

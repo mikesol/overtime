@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"bleu marin bleu foncé et j'ai j'ai laissé les bienfaits de la m**** entre les deux","confidence":0.75721848}]}

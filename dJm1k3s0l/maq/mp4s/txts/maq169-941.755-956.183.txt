@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"362 jusqu'à ce moment comme ça donc voilà voilà je recherche un jeu","confidence":0.73698223}]}

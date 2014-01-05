@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"chanson d'accéder au passé je parle","confidence":0.6689133}]}

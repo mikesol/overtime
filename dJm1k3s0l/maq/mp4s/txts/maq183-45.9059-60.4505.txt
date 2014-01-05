@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"maquillage je suis en colère que j'aime beaucoup en ce moment à la caméra de chez L'Oréal vidéos et voilà j'espère que","confidence":0.7168656}]}

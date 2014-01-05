@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Bonjour voir la différence entre un mail avec ancien responsable de la luminosité du regard maintenant le deuxième toujours avec le même produit","confidence":0.79987186}]}

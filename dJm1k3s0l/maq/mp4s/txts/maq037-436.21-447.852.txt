@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'espère que les laitues soir","confidence":0.48354268}]}

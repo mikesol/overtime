@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"changer essaie encore très chaud je ne suis pas facile combien y a-t-il de jours combien tout ça","confidence":0.60149312}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" j'ai monté sur le côté","confidence":0.63856494}]}

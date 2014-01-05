@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pas de visage alors vous voulez un fond de teint éclatant Saint-Gervais Genève","confidence":0.64230126}]}

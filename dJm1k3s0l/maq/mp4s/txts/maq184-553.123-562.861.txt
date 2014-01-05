@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est clair ça colle pas très très léger et en même temps ça touche de couleur différente résolution est la fête nationale","confidence":0.78478068}]}

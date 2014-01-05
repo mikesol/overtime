@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je rajoute","confidence":0.65931189}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" une chose côté d'ici sur la gauche match","confidence":0.69217265}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" voilà","confidence":0.62282258}]}

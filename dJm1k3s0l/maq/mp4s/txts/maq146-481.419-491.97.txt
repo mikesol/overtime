@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et là il faut que je suis en France parce que c'est moi qui a payé le E","confidence":0.76355696}]}

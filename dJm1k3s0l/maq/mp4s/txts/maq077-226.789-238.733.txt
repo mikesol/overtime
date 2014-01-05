@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et P","confidence":0.54178065}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" leboncoin","confidence":0.5190419}]}
+{"status":5,"id":"","hypotheses":[]}

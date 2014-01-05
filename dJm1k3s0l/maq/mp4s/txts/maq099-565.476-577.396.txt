@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je trouve qu'il fait plus souvent sur les seins","confidence":0.69743383}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" les couleurs euh il voulait","confidence":0.7260102}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je pourrai pas assumer c'est pour ça je n'avais pas les termes demandé moi et je fais des Eaux a donc il faut","confidence":0.78698051}]}

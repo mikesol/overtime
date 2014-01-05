@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui a fait la une je traiterai fait le lisseur styler va se régler température","confidence":0.75902301}]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"prénom de la batterie de maquillage demain","confidence":0.6581744}]}
+{"status":5,"id":"","hypotheses":[]}

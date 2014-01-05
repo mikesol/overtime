@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"vous avez trop parlé et comment ça va est-ce que ta maman va bien si la couleur","confidence":0.71370828}]}

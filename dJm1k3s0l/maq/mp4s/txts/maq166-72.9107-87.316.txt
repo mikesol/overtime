@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"facile à reproduire je pense que vous avez un petit soucis j'ai vu j'ai vu que vous faites une 4 je sais pas ce que j'ai fait des vidéos 2013","confidence":0.72526652}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"donc je pense qu'on va pas y aller si ça va mieux créer un rendez-vous aller manger en quelques minutes et ensuite","confidence":0.71883762}]}

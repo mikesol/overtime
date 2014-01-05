@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu peux pas tout mais ça serait mieux qu'il soit vert bleu ou marron et puis euh","confidence":0.64973491}]}

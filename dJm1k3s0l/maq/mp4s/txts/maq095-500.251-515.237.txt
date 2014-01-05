@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"télé","confidence":0.43494239}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" Lady Gaga","confidence":0.85800123}]}

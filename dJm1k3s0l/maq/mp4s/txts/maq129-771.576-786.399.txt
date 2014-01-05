@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"euh salut c'est très difficile pour moi aussi bien que ça danse 37 261 que je voudrais voir 300","confidence":0.75683057}]}

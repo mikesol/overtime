@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"deux ans avant maintenant je suis de truc commande vous avez un appareil ou pas","confidence":0.71651018}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"dis-moi si c'est moi mais toi tu es fini par tous les essais Conflans sur le truc en tout les papiers en métal","confidence":0.77024949}]}

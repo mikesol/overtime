@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"CA Paris donc voilà alors je suis toujours en fin de vie","confidence":0.69812298}]}

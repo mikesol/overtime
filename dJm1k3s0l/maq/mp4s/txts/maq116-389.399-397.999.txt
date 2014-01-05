@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"crayon que ce soit pour aller au collège et je te dis si je peux parler en détail n'avons pas comment je rentre dans un petit pot également le même que","confidence":0.73808527}]}

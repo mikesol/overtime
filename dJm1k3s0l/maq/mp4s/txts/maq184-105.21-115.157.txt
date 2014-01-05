@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu es là avant après tu vas comment au fil du temps le l'évolution est le progrès du foot","confidence":0.74352664}]}

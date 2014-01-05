@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et ça avec","confidence":0.60937047}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je voudrais un peu","confidence":0.61344612}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" le visage","confidence":0.81113142}]}

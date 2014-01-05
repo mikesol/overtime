@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"téléphone fixe à toi comme d'hab","confidence":0.5032503}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" espace pour les façons bien","confidence":0.49761707}]}

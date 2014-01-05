@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui sait pas des Anglais Nice salon en direction supernaturel et je le recommanderais assez c'est sûrement","confidence":0.7077288}]}

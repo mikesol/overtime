@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"aller à ce produit est pas cher donc moi je suis encore à 50 pourcent info trafic mais euh je sais","confidence":0.63361323}]}

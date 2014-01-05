@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"voiture et la coiffure d'été très très naturelle bohème super super","confidence":0.73514169}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"euh tous les entités fédérées à tous les serpentins est vraiment ranger la classe super pratique parce que je matin c'est la boîte que je suis passé par mandat européen accès vraiment rapide à huile","confidence":0.79070199}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"avoir un message comme avec lui sur la photo la plus habillé avec des perles et cetera fleurs Rouen","confidence":0.70773613}]}

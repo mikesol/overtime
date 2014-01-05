@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"expliquer comment on fait si tu sais que ça va la vache la plus près d'ici","confidence":0.69167155}]}

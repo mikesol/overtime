@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et c'est vrai tu peux penser à une DRH chez Mamie mais euh non j'aime beaucoup le Floréal blog de Chloé","confidence":0.68422252}]}

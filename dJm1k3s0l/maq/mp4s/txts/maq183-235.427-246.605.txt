@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"effacer les bords","confidence":0.65964729}]}
+{"status":5,"id":"","hypotheses":[]}

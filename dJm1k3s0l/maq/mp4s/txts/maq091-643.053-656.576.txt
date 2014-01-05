@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"affiche la même chose de l'autre côté A6 euh j'ai pas envie de manger et aller j'ai utilisé comme ça","confidence":0.6777339}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je vais vous pouvez me fais vraiment des cellules souches veux pas faire ça va y avoir les cheveux","confidence":0.66376215}]}

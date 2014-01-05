@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui est en train de tester un bleu super je l'appliquais au trafic à l'heure","confidence":0.63602722}]}

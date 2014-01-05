@@ -1,0 +1,3 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"sur la télé","confidence":0.46111098}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" perso je suis pas franche","confidence":0.61695707}]}

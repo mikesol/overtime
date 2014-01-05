@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je veux pas aller jusqu'au","confidence":0.79497528}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" couleur chair","confidence":0.69778985}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" les parties communes à la télé sur la sur la barre","confidence":0.66950721}]}

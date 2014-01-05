@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui est juste parfait Facebook","confidence":0.78084135}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" laver le côté de match de p*** orange est l'âge de François français dans le 85 yz tu va pêcher en maths","confidence":0.65986067}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"maintenant je file le parfait qui a inventé","confidence":0.48604801}]}

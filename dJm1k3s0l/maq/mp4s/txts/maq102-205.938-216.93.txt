@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est comme ça va gros pot et d'ailleurs tu vas porter 5 h à laver un masque pour faire la fête comme ça et ensuite la chose","confidence":0.71685135}]}

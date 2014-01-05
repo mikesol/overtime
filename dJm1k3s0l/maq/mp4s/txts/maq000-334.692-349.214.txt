@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"maintenant si vous voulez vous pouvez rajouter une fleur dans les cheveux s'il te PLA comme ça","confidence":0.7357316}]}

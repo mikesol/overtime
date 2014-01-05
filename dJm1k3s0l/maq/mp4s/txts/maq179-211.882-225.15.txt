@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Google que j'adore et s'appelle l'île de Man EP en Corée suis pas beaucoup oblast maison","confidence":0.54905403}]}

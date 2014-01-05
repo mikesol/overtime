@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"donc on va commencer le maquillage et on va tous y a piqué une avant-première si tu vas à paupière toutes les deux miroirs","confidence":0.72457623}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"parler maintenant pour aller jouer sur la ca PCA en direction place Jean-Macé","confidence":0.75538379}]}

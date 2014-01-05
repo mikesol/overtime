@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'était dérange de rangement pour le couvert de rester deux","confidence":0.57292688}]}

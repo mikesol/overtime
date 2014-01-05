@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"papa c'est moi j'ai deux trucs comme ça met devant les enfants","confidence":0.7637555}]}

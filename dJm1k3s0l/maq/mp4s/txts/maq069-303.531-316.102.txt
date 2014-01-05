@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"Resto.fr de façon intense j'ai un jeu d'enfants","confidence":0.60092169}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et maintenant j'ai un peu j'ai pas envie de sortir de la boîte à que tu peux pas il est dans le couvercle","confidence":0.76176202}]}

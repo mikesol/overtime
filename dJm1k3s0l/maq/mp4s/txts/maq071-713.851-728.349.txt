@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"si elle me dit de parler moi vidéo vous a plu un commentaire n'était pas à m'envoyer d'autres suggestions de vidéos","confidence":0.68586665}]}

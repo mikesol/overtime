@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"vois pas en quoi un masque recherche sur et de bien meilleure qualité ça s'en vient la bataille","confidence":0.80766159}]}

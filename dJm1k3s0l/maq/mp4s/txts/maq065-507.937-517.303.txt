@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et il est triste parce que j'ai trouvé son prénom en grande surface et qui t'aime quand je suis là euh","confidence":0.78632045}]}

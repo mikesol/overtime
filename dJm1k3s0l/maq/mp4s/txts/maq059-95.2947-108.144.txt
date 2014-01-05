@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ce soir et mal aux États-Unis si si je veux","confidence":0.764938}]}

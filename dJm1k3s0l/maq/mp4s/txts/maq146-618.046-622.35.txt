@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"crée ton énergie","confidence":0.68586189}]}

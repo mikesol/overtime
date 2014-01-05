@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"safer PACA et pour montrer les choses et regarde bien un jeu de combat et le crayon le a donné que ça sert mais actuellement bien","confidence":0.75245124}]}

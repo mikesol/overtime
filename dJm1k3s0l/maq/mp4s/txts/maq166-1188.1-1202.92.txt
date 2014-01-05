@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et du coup pour moi-même pour le siège est avec du sang partout sûrement","confidence":0.70048654}]}
+{"status":5,"id":"","hypotheses":[]}

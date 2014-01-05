@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"carte et corail qui se trouve démentiel très grand et beau","confidence":0.65681326}]}

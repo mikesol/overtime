@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il a pas du tout de suite ou couleur préférée si vous voulez un rendez-vous important de savoir si celui-ci est vraiment super super bien","confidence":0.65354323}]}

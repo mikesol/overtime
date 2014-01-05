@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je pense que vous connaissez par vais l'adorer je veux des jeux comment est-ce que tu voudrais que je suis noir et feu","confidence":0.60487413}]}

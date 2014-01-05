@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"maison","confidence":0.43931901}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" comment créer","confidence":0.43849179}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" couleur","confidence":0.44294575}]}

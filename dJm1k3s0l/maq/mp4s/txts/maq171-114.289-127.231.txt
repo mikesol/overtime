@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"est-ce que c'est supérieur se sont les petites montrer la chaussure demain à les petits granulés que ses parents se sont les petits bouts de pétales de roses 2 2 girls je sais pas trop trop","confidence":0.72656202}]}

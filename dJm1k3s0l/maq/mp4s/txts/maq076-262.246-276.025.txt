@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je sors du mot parce que voilà ce moment","confidence":0.85886818}]}
+{"status":5,"id":"","hypotheses":[]}

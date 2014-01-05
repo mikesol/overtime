@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"site","confidence":0.57710069}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" Facebook Autant en emporte le vent","confidence":0.52031517}]}

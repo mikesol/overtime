@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et je n'ai pas vraiment à l'extrémité pour ado","confidence":0.73635167}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" voilà et puis j'ai appuyé sur la base","confidence":0.67013299}]}

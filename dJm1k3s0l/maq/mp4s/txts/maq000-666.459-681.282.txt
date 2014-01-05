@@ -1,0 +1,4 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ensuite on va acheter toi si je prenais expérience ici la plus gentille","confidence":0.69249433}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" sur la droite","confidence":0.69219375}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et je la ramène avec un H","confidence":0.66067439}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ok","confidence":0.70279425}]}

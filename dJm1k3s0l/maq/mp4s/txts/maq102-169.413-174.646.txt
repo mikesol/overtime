@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il y en avait vraiment beaucoup beaucoup de pellicules et problèmes de vue","confidence":0.64645416}]}

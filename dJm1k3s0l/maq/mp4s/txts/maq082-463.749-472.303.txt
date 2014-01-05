@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"oui je vais le mettre à vendre quoi un textarea au titre de l'ail ici","confidence":0.66536713}]}

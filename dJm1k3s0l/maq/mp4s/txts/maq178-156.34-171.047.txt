@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"on est en dernière année est en classe de janvier jusqu'à EUR avril ça va aller","confidence":0.65027136}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"donc je vienne te fait que j'ai vraiment quelque chose il est déjà n'hésitez pas à m'envoyer d'autres jeux sur Facebook Twitter","confidence":0.80438006}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"4 rue le composé de envoyer un mail à","confidence":0.63938046}]}

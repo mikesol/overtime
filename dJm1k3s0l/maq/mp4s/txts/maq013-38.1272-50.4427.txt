@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"situé à l'heure où je vous montre Fossil","confidence":0.82471848}]}

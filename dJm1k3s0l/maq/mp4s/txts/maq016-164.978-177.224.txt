@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"hello how are you","confidence":0.56802332}]}

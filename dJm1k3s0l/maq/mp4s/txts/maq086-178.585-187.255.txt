@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"direction avant avant tout c'est quoi ce truc","confidence":0.77421641}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"sur mon visage de la crème hydratante avant d'appliquer ce temps pourri pour tous les jours s'il vous","confidence":0.74656641}]}

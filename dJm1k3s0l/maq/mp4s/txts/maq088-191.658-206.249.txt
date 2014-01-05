@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Saint-Jean de Brito incroyable journée et qui est vraiment très chic de ça avec un pinceau synthétique plan cela va ça va","confidence":0.7243458}]}

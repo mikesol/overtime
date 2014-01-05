@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je vais appliquer du crayon violet dans la France sous le nom de chez Maxime Martin et doré","confidence":0.70166558}]}

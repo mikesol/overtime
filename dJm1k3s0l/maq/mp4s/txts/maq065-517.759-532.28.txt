@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Angela piquer aussi un super y'a pas ça va il est assez crème","confidence":0.71957248}]}

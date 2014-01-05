@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je suis décalquer tu si c'est tôt à dorer les super magnifique effacer 50 ans comme ça amour","confidence":0.55259174}]}

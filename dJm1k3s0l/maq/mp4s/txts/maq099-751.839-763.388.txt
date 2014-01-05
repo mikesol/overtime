@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"téléphone je veux c'est une solution demi-part pour 2012 EDF préférence personnelle poulet je marque euh","confidence":0.75749421}]}

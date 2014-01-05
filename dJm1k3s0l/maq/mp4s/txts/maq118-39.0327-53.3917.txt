@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mettez Paris Centre c'est euh les conseils de julie.fr est clair que c'est là et tu veux partager ma connexion","confidence":0.63849115}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"télécharger la Master à vous pouvez parler donc elle","confidence":0.61491323}]}

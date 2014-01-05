@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"l'alarme de l'iPhone est très discrète","confidence":0.52723223}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" scanner l'eye-liner","confidence":0.67509449}]}

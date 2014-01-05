@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu sais si le prix est la couleur un peu trop ranger sa ch","confidence":0.62399381}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ma chambre j'ai peur mais c'est pas le bon verre de de la vie tu vas tout déchirer","confidence":0.72299951}]}

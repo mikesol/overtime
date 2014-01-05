@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tresse sur le dessus en euros 29 mars piscine BB crème","confidence":0.69233376}]}

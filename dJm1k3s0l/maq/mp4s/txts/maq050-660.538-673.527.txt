@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je m'en avoir fêté ses cheveux","confidence":0.65529585}]}

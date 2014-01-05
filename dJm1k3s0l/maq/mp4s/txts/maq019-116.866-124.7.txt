@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"de Far Away de faire germer","confidence":0.59422833}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"avec ce genre de truc à vendre maison mais tu touches Mac donc je sais ce truc là c'est le kaki platine numéro 109 téléphonez juste à côté du Nord Est","confidence":0.7500912}]}

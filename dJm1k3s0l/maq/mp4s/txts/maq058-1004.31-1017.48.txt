@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et voilà le siège ainsi que SMS sur le côté","confidence":0.74515367}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et le reste du traceur que je suis une bouche en feu rouge mais pas trop trop de choses mais non plus","confidence":0.7774567}]}

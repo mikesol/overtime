@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"véhicule","confidence":0.43583095}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je pense que ça prouve que Dieu","confidence":0.73118913}]}

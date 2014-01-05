@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"maman plus que jamais utilisé lors de la palette Urban Decay","confidence":0.76968026}]}

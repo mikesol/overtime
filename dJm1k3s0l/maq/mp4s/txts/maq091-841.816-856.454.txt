@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"étui iPad pas d'obligation de revenir à la page Facebook de la marque les fées super sympa merci d'avance","confidence":0.75644445}]}

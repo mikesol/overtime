@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tiramisu magnifique que j'utilise tous les jours dans un sens à faire orange est dans sa chambre avec photos de chez elle","confidence":0.7646212}]}

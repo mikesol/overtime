@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ça va pas ça gilet homme ou femme","confidence":0.59275883}]}

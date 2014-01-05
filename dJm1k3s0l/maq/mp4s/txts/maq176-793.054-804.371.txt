@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"lycée défaut je n'ai pas comment je sais quelle couleur j'aime beaucoup","confidence":0.62861162}]}

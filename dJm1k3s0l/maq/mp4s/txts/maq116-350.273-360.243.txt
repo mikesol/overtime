@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"les parents sont pas naturels mais on va dire un bon coin tu wabou à tous ceux qui est pour le creux de la exetera les poissons sont plus précieux Mérignac","confidence":0.66745794}]}

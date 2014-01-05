@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mais c'est vraiment tu as mangé des Anges de la soudure principalement sur le front ça faisait comme des gens comme lui j'ai des plaques de sécheresse c'est une catastrophe","confidence":0.76793605}]}

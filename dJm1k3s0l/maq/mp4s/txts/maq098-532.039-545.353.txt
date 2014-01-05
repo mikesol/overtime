@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le chanteur","confidence":0.71661615}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" qui est un cochon","confidence":0.55998206}]}

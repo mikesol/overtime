@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est vraiment une couleur très très très discrète de couleur 103 cours c'est vraiment important pour tous les jours avec maman","confidence":0.7155984}]}

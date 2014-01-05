@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Deezer doudoune femme et","confidence":0.55062163}]}

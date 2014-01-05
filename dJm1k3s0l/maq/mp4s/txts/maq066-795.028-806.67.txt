@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"la vessie yeux bleus cheveux parce que","confidence":0.88514411}]}

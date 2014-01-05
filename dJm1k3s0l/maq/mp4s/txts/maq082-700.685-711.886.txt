@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"quel est le trafic est rapidement t","confidence":0.65950716}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" si tu es un ange pour la vie chez Max et je les ai marre","confidence":0.57352465}]}

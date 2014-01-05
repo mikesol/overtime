@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"vidange voulez-vous parler c'est pas du cimetière maison les mains dedans vidéo parce que ça fait partie de produits que j'ai envie d'utiliser quand","confidence":0.76569885}]}

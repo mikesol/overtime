@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"est-ce que je cherche un peu à la bourre et qu'est-ce que tu veux","confidence":0.73590171}]}
+{"status":5,"id":"","hypotheses":[]}

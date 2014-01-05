@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"là-bas si je vous pouvez voir mais il est vraiment arrondissement","confidence":0.69741952}]}

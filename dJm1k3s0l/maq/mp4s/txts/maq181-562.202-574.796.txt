@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'était assez épais parce que la tension dans les yeux et du coup pour effacer","confidence":0.73854858}]}

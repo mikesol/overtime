@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ok ça marche à tous les deux parties qui est vraiment super pour ça le voici","confidence":0.82107323}]}

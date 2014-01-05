@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"position des vaches c'est gentil trop qu'elle préfère","confidence":0.67589724}]}

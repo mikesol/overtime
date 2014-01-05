@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Deschamps","confidence":0.63089132}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" des shampoings un peu","confidence":0.50881487}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" des cordes","confidence":0.53619486}]}

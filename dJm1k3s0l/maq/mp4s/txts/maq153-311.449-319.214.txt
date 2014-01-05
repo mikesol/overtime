@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"chercher à la lumière en français et euh","confidence":0.68081826}]}

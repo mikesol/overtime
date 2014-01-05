@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'en ai testé encore","confidence":0.84197122}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je suis dit que ça pouvait changer et que","confidence":0.70959735}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" pour les hommes et pour les jours j'ai pas vraiment envie de faire à","confidence":0.66598147}]}

@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mélanger quelle couleur entre elle et je peux pas","confidence":0.84689796}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" en tous les couleurs","confidence":0.43605787}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" pour me donner un peu plus haut un peu plus coloré temps c'est pas gagné et l'éclairage de la soirée","confidence":0.73243719}]}

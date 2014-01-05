@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"défaut si le défaut c'est quoi ça va ressembler mais ça c'était avant","confidence":0.77973711}]}

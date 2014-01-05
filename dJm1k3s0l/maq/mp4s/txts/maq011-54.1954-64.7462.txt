@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est pas pressé si tu veux passer pour le chinois 6","confidence":0.76925027}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"PES en ferez et à la tête et que j'apprécie tout particulièrement et est la différence entre autres","confidence":0.7528277}]}

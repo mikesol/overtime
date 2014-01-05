@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Justin est diffusé sur ask.fm qui donnera jamais ça c'est vraiment super super heureux avec dramatique pas et euh","confidence":0.77225095}]}

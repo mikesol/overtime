@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je t'embrasse passe sur Skype","confidence":0.52420443}]}
+{"status":5,"id":"","hypotheses":[]}

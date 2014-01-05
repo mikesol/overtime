@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"colorblock couleur","confidence":0.62677038}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ecrivez la fleur acheter du code de Vice City si c'est un violé","confidence":0.70770085}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"transférer mon message précédent SMS à mini trouve le voyage tous les midi pour avoir une hygiène dentaire nickel un singe en 2012 intéresse n'hésitez pas à me dire comment s'appelle la vidéo et fille","confidence":0.68011588}]}

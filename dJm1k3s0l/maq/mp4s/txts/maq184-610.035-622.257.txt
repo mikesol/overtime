@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"vous pouvez avoir un vrai François streaming français et il est magnifique","confidence":0.70851439}]}

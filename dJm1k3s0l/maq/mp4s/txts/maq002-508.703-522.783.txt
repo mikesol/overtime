@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"cannelle et à imprimer noir serait super","confidence":0.76054472}]}
+{"status":5,"id":"","hypotheses":[]}

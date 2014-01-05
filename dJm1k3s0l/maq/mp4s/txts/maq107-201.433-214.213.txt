@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"mets ton préféré pour le printemps et l'été parce que vous ayez de mai","confidence":0.64706099}]}

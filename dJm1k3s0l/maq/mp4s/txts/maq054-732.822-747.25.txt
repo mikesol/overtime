@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"plus je veux voir Dieu","confidence":0.88514405}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" pour les nuls","confidence":0.66786599}]}

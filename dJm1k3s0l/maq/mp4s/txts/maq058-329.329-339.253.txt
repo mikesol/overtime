@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"maman que j'ai quitté et viv la couleur de printemps sont placés les vestiges et","confidence":0.63513964}]}

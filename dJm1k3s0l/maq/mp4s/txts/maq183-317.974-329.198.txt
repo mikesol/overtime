@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"manoir classique avec une légère gueule mets un timer de la mort qui tue","confidence":0.73589933}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" non je parle dis","confidence":0.56345922}]}

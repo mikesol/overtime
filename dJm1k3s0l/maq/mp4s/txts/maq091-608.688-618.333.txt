@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je te disais tout les policiers parce que je l'aime encore mais euh matin et téléphone","confidence":0.55832785}]}

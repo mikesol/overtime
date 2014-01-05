@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"vous pouvez trouver sur le site des Créateurs de Beauté c'est pas mal la question la dernière fois je mettrai ça va avec la Charrière je vais mettre ça Val de mascara","confidence":0.71909893}]}

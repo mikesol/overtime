@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"sourit maintenant on va aller voir ce sera dorénavant je ferai une petite astuce de Francisco c'est de créer un bouchon de bouteille en liège","confidence":0.7826283}]}

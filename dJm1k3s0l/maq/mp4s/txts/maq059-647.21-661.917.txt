@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"congrès de Mac","confidence":0.76915807}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" euh tu as peur de la salade sur l'amitié que ça se trouve la petite sirène","confidence":0.78725213}]}

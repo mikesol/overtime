@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est le la jeunesse Olympe de chez Nuxe qui est quelle heure aux pétales de rose et un centime que j'ai la peau sèche et sensible à tout ce qui","confidence":0.73696643}]}

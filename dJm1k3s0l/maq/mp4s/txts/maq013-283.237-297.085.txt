@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"les cheveux blancs d'oeufs","confidence":0.69233918}]}
+{"status":5,"id":"","hypotheses":[]}

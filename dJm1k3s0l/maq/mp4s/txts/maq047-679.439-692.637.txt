@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et à la fin du monde partout","confidence":0.47243103}]}

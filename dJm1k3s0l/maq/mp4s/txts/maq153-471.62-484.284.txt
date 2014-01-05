@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"décret argenté épais et euh effacer flasher","confidence":0.68769729}]}

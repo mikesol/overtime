@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"de la gare et le Barça","confidence":0.56806403}]}

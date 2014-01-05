@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"un petit chien avec en noir et doré","confidence":0.73837334}]}

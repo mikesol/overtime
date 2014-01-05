@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"peluche en ce samedi pour les je sais pas euh ça va moi ça vaut pas le coup cela","confidence":0.73957139}]}
+{"status":5,"id":"","hypotheses":[]}

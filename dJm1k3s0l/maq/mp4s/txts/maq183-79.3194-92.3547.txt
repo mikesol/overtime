@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"séance à Rodez et je voudrais un petit peu pour que vous puissiez voir la chose alors je suis là comme d'habitude","confidence":0.63419986}]}

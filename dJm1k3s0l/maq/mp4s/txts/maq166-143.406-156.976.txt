@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"danse dans la face à une pharmacie 2012 Marc est assez une femme blanche pour demain","confidence":0.6854611}]}

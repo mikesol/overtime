@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui est le 95 corail que je suis non mais les horaires de train t'embêter","confidence":0.74013263}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je veux plus","confidence":0.55490565}]}

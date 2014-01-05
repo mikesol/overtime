@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je ne sais pas ici appeler comme la touche de couleur que je ne sais pas ce qu'est ce que c'est pour donner une touche de couleur rouge mais","confidence":0.7812748}]}

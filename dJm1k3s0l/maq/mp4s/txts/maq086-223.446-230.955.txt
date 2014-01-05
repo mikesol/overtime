@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Michel Berger je vais plus sur","confidence":0.53428364}]}

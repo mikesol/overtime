@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"appliquer mascara Gemey-Maybelline qui est complètement incroyable je l'utilise depuis que j'ai acheté pour aller pour les tester","confidence":0.73527402}]}

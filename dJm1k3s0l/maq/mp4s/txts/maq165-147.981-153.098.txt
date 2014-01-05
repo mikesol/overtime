@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"voir dans le sens où on voit encore Sexion d'Assaut","confidence":0.74037051}]}

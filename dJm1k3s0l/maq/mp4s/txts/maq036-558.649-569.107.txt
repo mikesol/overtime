@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mais c'est un petit chat en Corse","confidence":0.55754662}]}

@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"accedez de la plage qui s'est levé","confidence":0.68518025}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" mettre sur","confidence":0.76497763}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" tu peux compter","confidence":0.68381715}]}

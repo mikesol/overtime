@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et pour la coiffure pour avoir laissé un traître écrivez Picasa avec mon silence et je sais pas si tu as là","confidence":0.66843081}]}

@@ -1,0 +1,4 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"ici","confidence":0.6239441}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ça va ça va en 2006","confidence":0.64023209}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" bien-être et santé","confidence":0.67577916}]}

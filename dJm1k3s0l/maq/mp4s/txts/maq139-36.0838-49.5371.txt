@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il est de couleur de la Paix je sais qu'il y avait passé le 84 15","confidence":0.82457697}]}

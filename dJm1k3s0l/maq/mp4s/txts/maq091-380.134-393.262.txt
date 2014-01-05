@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"je sais rien je vais mettre sur les nerfs ça génialissime a vraiment encore plus avec un interne tu peux aller mais","confidence":0.75405985}]}

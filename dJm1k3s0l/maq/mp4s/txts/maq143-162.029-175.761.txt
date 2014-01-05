@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"couleur","confidence":0.47360215}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" Jean Maine Angers","confidence":0.62119305}]}

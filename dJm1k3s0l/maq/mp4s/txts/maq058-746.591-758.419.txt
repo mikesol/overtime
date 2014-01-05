@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"manger un message à David avis tu devrais si vous savez pas comment les naviguez jeux vidéo à ce sujet","confidence":0.64344418}]}
+{"status":5,"id":"","hypotheses":[]}

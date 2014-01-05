@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et bien en revanche si vous avez de la chance c'est pas du tout le truc c'est pas du tout ça ici","confidence":0.81913245}]}

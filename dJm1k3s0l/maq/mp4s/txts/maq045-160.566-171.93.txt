@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il faut pas que je parle également je suis au-dessus","confidence":0.66467696}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je t'attends","confidence":0.63841164}]}

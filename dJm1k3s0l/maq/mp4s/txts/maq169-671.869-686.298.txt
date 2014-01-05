@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"que vous allez mille fois je continue à creuser un monde je suis pas loin du coup je peux l'utiliser","confidence":0.6824941}]}

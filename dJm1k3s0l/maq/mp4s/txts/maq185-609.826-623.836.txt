@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"la blessure que j'adore sur moi en blanc voici comment est-ce que représente","confidence":0.65594065}]}

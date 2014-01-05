@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"en même temps ok alors tu t'es du crayon dans le désert j'en ai rarement chez moi aujourd'hui","confidence":0.72627515}]}

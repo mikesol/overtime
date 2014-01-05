@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"écouter encore plus belle rose et Eva Picasa","confidence":0.75904942}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" sur","confidence":0.48662964}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ma paupière mobile","confidence":0.75981832}]}

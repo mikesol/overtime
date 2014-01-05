@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"si si seulement je trafique me change et je pars chez vous avez passé simple","confidence":0.62819523}]}

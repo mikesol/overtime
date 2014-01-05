@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"30 40 euros et la faire parler produits pour le corps Paul-Cézanne","confidence":0.62018031}]}

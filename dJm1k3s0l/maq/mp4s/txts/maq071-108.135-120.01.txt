@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"vous allez tous vous faire f***** mais euh en soit je vais bientôt rentrer en","confidence":0.69155347}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" cet homme est un poil trop foncée pour moi","confidence":0.83717865}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est la vie manger parce qu'il a pas de bleu ta vraie grille te baiser message sur toute la ville juste à côté du sandre","confidence":0.78538209}]}

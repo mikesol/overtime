@@ -1,0 +1,4 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"horaires Décathlon et je te fais ça","confidence":0.72123194}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" sur mer","confidence":0.52986473}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" comète mettant","confidence":0.5742982}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" couleur","confidence":0.45918566}]}

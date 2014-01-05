@@ -1,0 +1,3 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"et voilà et pour le livre 1","confidence":0.57172364}]}

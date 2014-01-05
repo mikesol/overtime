@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"chaude du monde car c'est un film en avance plutôt rouge tu prends ça avec","confidence":0.62035686}]}

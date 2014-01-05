@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"superbe portable celui-ci est dans la vessie orange dans les cours et moyen en","confidence":0.59178293}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"voilà 342 il est plus pour savoir la caméra tu es sortir dans la rue 765","confidence":0.69553405}]}

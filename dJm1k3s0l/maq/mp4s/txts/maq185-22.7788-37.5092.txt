@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'ai fait une erreur de bureau et j'ai acheté le truc le plus grand chose à mettre un mot de passe chez moi et pour les ai pas aller","confidence":0.74320871}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"heureusement que je parle et je suis imposé à Céline c'est le 25 et Shadow recherche que je vais appliquer sur la paupière mobile","confidence":0.6568709}]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"côté","confidence":0.64894164}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et je vais tout ça pour toi tu veux pas que c'est super cher à petit","confidence":0.6571722}]}

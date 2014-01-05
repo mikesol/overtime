@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mettre 2 creer un film entre ma peau et maquillage de la protéger aussi au maquillage de tenir plus longtemps surtout veux","confidence":0.77423537}]}

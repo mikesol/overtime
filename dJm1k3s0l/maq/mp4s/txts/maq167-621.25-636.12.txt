@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"maman que j'aime en pharmacie au coin externe et c'est avec 6","confidence":0.83139461}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et je fais ça je suis pas un expert en bâtiment","confidence":0.61357552}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mettre sur les ongles très beaucoup parce que je suis très très pâle et ça fait bizarre si je mets des couleurs","confidence":0.70381302}]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"match telephones brûlée si tu veux passer lvl 45 ton cas je m'appelle 666","confidence":0.64549732}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" Portugal Pombal","confidence":0.69298136}]}

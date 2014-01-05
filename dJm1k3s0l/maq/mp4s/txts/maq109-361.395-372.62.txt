@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"suite et qu'est-ce qu'on demande demande","confidence":0.82028741}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" quel moment","confidence":0.46963528}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"crash mais euh blanche lieux c'est bien si tu veux il veut dire crème de cassis","confidence":0.74792796}]}

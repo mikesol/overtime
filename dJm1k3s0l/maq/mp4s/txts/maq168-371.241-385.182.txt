@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"juste à Nanterre Salut orange et SNCF Loos et comme ça","confidence":0.73571223}]}

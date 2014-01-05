@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"faire retirer quand tu as orange et j'ai appris que ça y est sûr mais j'ai trouvé memo aujourd'hui ou pas","confidence":0.53441495}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je parle beaucoup","confidence":0.51671535}]}

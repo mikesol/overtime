@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"sur mon bébé petit bouton non mais","confidence":0.71149349}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" Histoire de déroger anti-feu la faute","confidence":0.7239489}]}

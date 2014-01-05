@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"toute la masse de cheveux et que je veux pas travailler","confidence":0.72632504}]}

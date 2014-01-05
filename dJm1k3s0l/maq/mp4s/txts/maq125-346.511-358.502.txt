@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"bowling Le bon la brute et le coca et euh creer très très agréable JV est un peu au","confidence":0.68670571}]}

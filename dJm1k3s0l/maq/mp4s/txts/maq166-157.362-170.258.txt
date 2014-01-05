@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ça va avec un grand sourire c'est le golf et que ça saute partout sur la peau en l'étalant","confidence":0.61981696}]}

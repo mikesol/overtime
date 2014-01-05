@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"emploi synthétique je ne suis plus tout les mascaras avec des poils naturels alors que je trouve que ça c'est pas moi mais s'il pleut pas satisfa vraiment apporte beaucoup définition aussi ça c'est pas bien","confidence":0.73654723}]}

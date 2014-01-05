@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je veux manger la couleur du juste et c'est bien fait beaucoup beaucoup pour avoir un","confidence":0.87031996}]}

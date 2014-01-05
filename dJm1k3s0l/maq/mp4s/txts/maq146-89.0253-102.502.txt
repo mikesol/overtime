@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"2 2 en français un verre securit","confidence":0.44939747}]}

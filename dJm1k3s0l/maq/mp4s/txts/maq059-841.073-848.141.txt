@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"la terre s'est calmé","confidence":0.55308616}]}

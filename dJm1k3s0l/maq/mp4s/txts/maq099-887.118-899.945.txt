@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"les 3 6 et les deux dernières 32 millimètres de diamètre euh","confidence":0.71969837}]}

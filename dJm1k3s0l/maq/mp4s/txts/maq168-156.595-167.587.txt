@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"toujours pas ça que je ne trouve pas transparente et danger pour ma tablette j'ai tout en vacances","confidence":0.65848988}]}

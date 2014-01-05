@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"aucun souci","confidence":0.4847275}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" demande beaucoup","confidence":0.61487341}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" maintenant je prends à demain et j'ai été débordée 6","confidence":0.66063511}]}

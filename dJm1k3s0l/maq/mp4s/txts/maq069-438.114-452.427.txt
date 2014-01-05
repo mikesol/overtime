@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"as tout ce que j'ai dit","confidence":0.62102801}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" allez les Violets juste à côté","confidence":0.68572611}]}
+{"status":5,"id":"","hypotheses":[]}

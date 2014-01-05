@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"prochaine vidéo écrivez un gros bisous euh j'ai envie de parler mais c'est très gros bisous et vous dis à très vite pour une nouvelle vidéo","confidence":0.6899659}]}

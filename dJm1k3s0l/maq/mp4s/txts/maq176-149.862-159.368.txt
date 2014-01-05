@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et les années 60 avec moi le 23 novembre à Paris dans 20 kilos","confidence":0.69038093}]}

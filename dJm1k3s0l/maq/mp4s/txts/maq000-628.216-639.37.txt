@@ -1,0 +1,4 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ici derrière","confidence":0.5459289}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" installation transparent","confidence":0.44096136}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ça fait vraiment basse","confidence":0.73887146}]}
+{"status":5,"id":"","hypotheses":[]}

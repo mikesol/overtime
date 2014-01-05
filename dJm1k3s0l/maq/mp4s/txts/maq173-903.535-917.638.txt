@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu veux des questions je viens de demande de photos des Facebook partout et je dis","confidence":0.62051612}]}

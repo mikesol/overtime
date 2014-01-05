@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"faire des travaux","confidence":0.58791107}]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":" Sylvie Miret","confidence":0.54380226}]}

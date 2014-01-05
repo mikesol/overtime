@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'ai appliqué 2012 2002 c'est avec des saucisses comme ça si tu veux pas chercher les enfants de 2 dollars et quelques","confidence":0.79138941}]}

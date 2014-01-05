@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"non mais c'est dans un mois de juin que sa vocation est le chat","confidence":0.75335217}]}

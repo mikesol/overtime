@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"du ventre et je te fais ça me dit de Mac est la couleur c'est c'est en effet ça doit","confidence":0.7833761}]}

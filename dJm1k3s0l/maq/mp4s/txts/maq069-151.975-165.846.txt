@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je viens de parler avec des couleurs comme ça si mais j'avais quelque chose de différent jaunes téléchargement ici","confidence":0.8264783}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"hélas Tremblay ameli c'est un bleu son chez le kiné en Belgique et j'ai le pied","confidence":0.82621235}]}

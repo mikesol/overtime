@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"très très bon produit pour le visage et il faut que cela comme ça qui sent","confidence":0.79070038}]}

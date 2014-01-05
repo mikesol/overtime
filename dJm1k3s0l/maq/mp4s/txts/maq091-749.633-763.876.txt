@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"allez j'y vais tout effacer dans la peau il va y avoir deux sinon cela les deux vallées la violer et le verlan","confidence":0.76818764}]}

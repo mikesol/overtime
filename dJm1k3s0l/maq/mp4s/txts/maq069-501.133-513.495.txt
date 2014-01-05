@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Soft","confidence":0.43562692}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" chargé","confidence":0.43686011}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" mais oh et du mascara et des fois c'est vrai","confidence":0.62785351}]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mon gel liner de chez moi et je vais faire avec français","confidence":0.76172113}]}
+{"status":5,"id":"","hypotheses":[]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"un peu c'est la vie des lèvres qui m'entraîne tous les jours","confidence":0.72793239}]}

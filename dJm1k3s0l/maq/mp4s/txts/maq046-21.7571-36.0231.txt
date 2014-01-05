@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"lycée que le mieux c'est que les filles ont trouvé le produit pour les vidéos de façon à ce que les enfants puissent profiter","confidence":0.80276138}]}

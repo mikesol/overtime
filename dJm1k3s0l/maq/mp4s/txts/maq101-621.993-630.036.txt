@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je connaissais pas du tout euh je connaissais pas du tout les produits comme ça très gourmand et euh","confidence":0.77548879}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"dessin est présenté ce strass et c'est un bon mage comme ça et là c'est un peu plus de la moitié maintenant en fait c'est un bain de sucre avec des huiles essentielles","confidence":0.73801565}]}

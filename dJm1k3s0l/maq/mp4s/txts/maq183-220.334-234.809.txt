@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ok à tout ça veut dire avec un peu comme ça ça ça Sigma un Mac","confidence":0.78530604}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" 224","confidence":0.65584815}]}

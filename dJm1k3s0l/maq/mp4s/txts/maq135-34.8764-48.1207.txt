@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"alors pour la place à la gagnante est la femme de","confidence":0.67557484}]}

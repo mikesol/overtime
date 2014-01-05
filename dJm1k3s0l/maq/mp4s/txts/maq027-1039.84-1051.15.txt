@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"André très très très E infection interne et","confidence":0.70228946}]}

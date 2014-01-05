@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"alors pourquoi le vrai visage j'ai toujours mon pinceau fluffy la maison","confidence":0.64081693}]}

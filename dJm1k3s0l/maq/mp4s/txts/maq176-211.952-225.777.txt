@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et je pense que vous l'avez vu dans les Hauts de Noisy ca Toulouse","confidence":0.71630657}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" Bonsoir je sais plus","confidence":0.65002418}]}

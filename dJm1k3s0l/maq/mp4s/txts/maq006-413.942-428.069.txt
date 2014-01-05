@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"parce qu'il va pas si c'est pas cher je suis un homme et j'ai posé si je mens","confidence":0.56731105}]}

@@ -1,0 +1,4 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pour l'instant mon numéro 1 de mascara","confidence":0.78664988}]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":" qu'est-ce que c'est que ça va pourquoi","confidence":0.69284767}]}
+{"status":5,"id":"","hypotheses":[]}

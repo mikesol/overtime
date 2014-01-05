@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"très très très très bien","confidence":0.88514405}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" le verre à la Lune","confidence":0.76494956}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" Bouchard est assez large encore une fois","confidence":0.69534242}]}

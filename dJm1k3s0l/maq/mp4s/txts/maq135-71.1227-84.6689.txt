@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est pas ça se passe sur la femme 2012","confidence":0.48560169}]}

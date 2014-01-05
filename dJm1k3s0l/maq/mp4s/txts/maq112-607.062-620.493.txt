@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et là je parle avec les éléphants","confidence":0.78146225}]}

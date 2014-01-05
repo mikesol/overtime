@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"parce que pique 12 13 mai","confidence":0.54870689}]}

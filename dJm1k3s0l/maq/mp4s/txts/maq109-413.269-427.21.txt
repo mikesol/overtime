@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"E2","confidence":0.44323489}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" quelle est la hauteur du Mont-Blanc","confidence":0.50042629}]}

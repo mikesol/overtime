@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"envoie un petit peu sur le sauras pas en milieu de la sonnerie SMS text 2 côtés","confidence":0.61004198}]}

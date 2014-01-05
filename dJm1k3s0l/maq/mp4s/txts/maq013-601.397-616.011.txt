@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"chignon haut niveau j'ai une boule mais c'est assez","confidence":0.54728436}]}

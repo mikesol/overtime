@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"que je te fais chier avec le plus élevé qui est le monde s'en prend plein de copines","confidence":0.62312156}]}

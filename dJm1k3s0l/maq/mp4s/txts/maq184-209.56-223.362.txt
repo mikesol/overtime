@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mais là il est juste magnifique c'est en rose soutenu avec des tons marron Bella dans Twilight et il est juste trop trop trop beau","confidence":0.81637657}]}

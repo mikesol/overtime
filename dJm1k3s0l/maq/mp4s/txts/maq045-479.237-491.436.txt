@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"partout Facebook ou sur le jeu pour garer la voiture est-ce que vous voulez vraiment tout pour vous pouvez E","confidence":0.78673273}]}

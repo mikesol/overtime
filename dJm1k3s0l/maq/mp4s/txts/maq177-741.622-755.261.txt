@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je sais H2O CHS j'ai payé pour parfum est un c******","confidence":0.60094696}]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je montrais à côté des autres vous avez","confidence":0.6860618}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" OVNI béguin et le Bluetooth qui est en euros marrant avec un effet aussi très longtemps","confidence":0.69312543}]}

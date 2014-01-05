@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"un peu ressentirez Noël trop chaud qui est né à la danse je supprime pas les chansons de Noël vous pouvez mettre euh","confidence":0.73616594}]}

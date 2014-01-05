@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"parfum de ses films","confidence":0.52759796}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et ça c'est le rapport","confidence":0.6233238}]}

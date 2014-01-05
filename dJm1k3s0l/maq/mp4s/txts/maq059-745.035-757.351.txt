@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et je regarde le foot et maman passé","confidence":0.78912717}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"portable c'est que ces couleurs à mon super super bien ensemble créer un s en effet très métallique","confidence":0.64664698}]}

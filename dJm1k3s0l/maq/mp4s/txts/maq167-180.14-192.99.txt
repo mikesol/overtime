@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"je prends mon âme soeur MSA pouvez appliquer sur le corps","confidence":0.76087672}]}

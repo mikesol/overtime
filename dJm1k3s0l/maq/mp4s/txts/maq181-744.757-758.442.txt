@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ça c'est comme ça va faire elle est voilà ça ça fait du bien c'est super d'été de soirée d'été à plus tard yeux avec des couleur bronze terre","confidence":0.78233337}]}

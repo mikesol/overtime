@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"les couleurs sont super super sympa elles sont très jolie et le chien et je montrais la fête si ce qui est une couleur un peu tôt qui vend superbe avec celle-ci qui tu regarderas foncé","confidence":0.74703097}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et puis après j'ai fait mon ange j'ai reçu un skin chèque en cm message de simulation qu'il me montrer euh vous dans aujourd'hui est le résultat de fil du temps jusqu'à la fin du traitement","confidence":0.79087424}]}

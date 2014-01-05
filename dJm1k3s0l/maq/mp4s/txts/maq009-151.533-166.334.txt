@@ -1,0 +1,4 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ça sur eux","confidence":0.65622264}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" cree anglais","confidence":0.43477133}]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":5,"id":"","hypotheses":[]}

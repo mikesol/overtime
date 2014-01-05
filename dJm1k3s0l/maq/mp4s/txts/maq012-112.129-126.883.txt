@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je sais pas comme ça","confidence":0.69715202}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ici","confidence":0.52168226}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" effet la piscine avec des Titans","confidence":0.80786556}]}

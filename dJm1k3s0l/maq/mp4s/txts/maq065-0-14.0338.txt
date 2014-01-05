@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"télévision aujourd'hui je suis là pour faire un plat est rentré te demander un message par entrer je pourrai pas venir en même temps","confidence":0.68419021}]}

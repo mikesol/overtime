@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"chaussures chaussures chez Minelli chaussures","confidence":0.78879565}]}

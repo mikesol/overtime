@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tête de chat à 9h30 que la maison météo Singapour donc je suis","confidence":0.67971623}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"jusqu'en bas et je suis rentré j'ai montré ça je sais pas faire d des fraises des fraises","confidence":0.76261878}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le Bécard plus proche de chez vous la référence des hauts et puis voilà il fait 12 et 13 mai","confidence":0.69226742}]}

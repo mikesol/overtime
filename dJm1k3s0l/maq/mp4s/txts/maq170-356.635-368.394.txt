@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il faut travailler assis crème waterproof","confidence":0.71447784}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" tu veux pas rapidement ça va bien et ça ne s'allume plus","confidence":0.73635167}]}

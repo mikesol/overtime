@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ce qu'il faut pour pour euh je te fais un vrai que j'adore j'adore j'adore les couleurs rouge j'en ai deux","confidence":0.72819251}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et là un Mac Mac Mac cosmetics que","confidence":0.66857815}]}

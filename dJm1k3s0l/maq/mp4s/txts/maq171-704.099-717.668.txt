@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tout est permis bateau est toujours toujours envie de mettre des mots commençant par hasard le soleil des eaux et puis voilà j'espère que cette vidéo vous a plu","confidence":0.81175047}]}

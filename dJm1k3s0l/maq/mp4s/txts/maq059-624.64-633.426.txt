@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"est-ce que faire maman de Lise et marron foncé de la presse","confidence":0.64771408}]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'en ai laissé dans la piscine","confidence":0.639108}]}
+{"status":5,"id":"","hypotheses":[]}

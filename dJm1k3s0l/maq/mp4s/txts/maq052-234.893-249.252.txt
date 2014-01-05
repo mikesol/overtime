@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le côté un peu de chat et je veux venir avec moi à la restanque est caché dans la couleur prune cramé pouvez m'envoyer un message","confidence":0.62865222}]}

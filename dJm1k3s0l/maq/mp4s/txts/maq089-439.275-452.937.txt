@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Jacquie canal fr je voulais Delacrétaz pas cher Voici","confidence":0.52452421}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" pics à son fils","confidence":0.65303099}]}
+{"status":5,"id":"","hypotheses":[]}

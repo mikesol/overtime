@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"creer un aileron très secret à naturel non encore une fois","confidence":0.67383343}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" comment voir c'est pas du tout courant","confidence":0.7721197}]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ensuite qu'est-ce que c'est gentil","confidence":0.74894518}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et euh je me diras si c'est quoi toi","confidence":0.80681384}]}

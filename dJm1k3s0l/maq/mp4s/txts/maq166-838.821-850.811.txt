@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"sur les espèces de bière bleue","confidence":0.56852776}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ok maman doit être ça","confidence":0.67478979}]}

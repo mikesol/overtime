@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Ballan-Miré sur les photos c'est vraiment de s'améliorer que toujours à Mickaël","confidence":0.72315699}]}

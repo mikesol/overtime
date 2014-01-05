@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le maquillage utiliser attention comme ça un petit peu pointu tu veux quand tu es si les femmes qui est ici c'est en anglais avec impossible de refermer","confidence":0.74715889}]}

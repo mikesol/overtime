@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"travail avec mon nom de ton père pour estomper la couleur","confidence":0.7736122}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" essaie de ne plus fumer que Justin Treca comme ça classique","confidence":0.79872936}]}

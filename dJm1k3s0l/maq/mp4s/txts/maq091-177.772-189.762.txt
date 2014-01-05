@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pas comme ça que j'ai aimé et la pitié","confidence":0.51023817}]}
+{"status":5,"id":"","hypotheses":[]}

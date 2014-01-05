@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"par là je suis à Paris je suis juste à côté ferme-auberge les ai assez clair j'ai dit que ça","confidence":0.704992}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" par-dessus","confidence":0.55839199}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" au","confidence":0.43034396}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"par exemple je pense que ce serait très cher pour entreprise mets de la France Belgique et tu sais très bien vraiment","confidence":0.7580505}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"salut les filles adorent faire une coiffure de pâturage d'été pour le printemps","confidence":0.64530271}]}

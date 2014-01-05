@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et je sors du mascara sur c'est bon c'est le","confidence":0.64651978}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" démonstration","confidence":0.70795286}]}

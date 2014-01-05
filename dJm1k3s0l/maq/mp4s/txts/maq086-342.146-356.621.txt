@@ -1,0 +1,3 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"ecoutez le tour","confidence":0.43633506}]}
+{"status":5,"id":"","hypotheses":[]}

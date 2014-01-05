@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"direction a pas trop trop passer sur le faire pour éviter de bouger","confidence":0.79653841}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" pour éviter de faire bouger tu peux","confidence":0.70662963}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"voilà tu veux tu m'appelles de chez eux c'est moi je dois très très légèrement gens mais par contre ah c'est au Facebook mais je veux bien","confidence":0.70035583}]}

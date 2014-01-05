@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"salut ça te fait avant que la chaussette je suis entré en a pas comme ça avec des poissons des TIC et je veux un truc sur le Leclerc","confidence":0.72629869}]}

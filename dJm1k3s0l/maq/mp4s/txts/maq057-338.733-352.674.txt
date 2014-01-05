@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"quand même je parle ici je vous ai ai","confidence":0.61419207}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" creer aura de Sissi","confidence":0.61314738}]}

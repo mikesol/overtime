@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et le sécher et la coller tard que jamais","confidence":0.46394607}]}

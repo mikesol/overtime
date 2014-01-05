@@ -1,0 +1,4 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"petit patient et si que j'ai gardé pour","confidence":0.70607394}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" sera","confidence":0.53283006}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" comme ça","confidence":0.73449457}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je vais accoucher","confidence":0.79265732}]}

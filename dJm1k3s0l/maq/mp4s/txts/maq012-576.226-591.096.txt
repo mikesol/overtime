@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"je prends mes cheveux ici la mèche toujours pas reçu mon oreille et","confidence":0.74900776}]}

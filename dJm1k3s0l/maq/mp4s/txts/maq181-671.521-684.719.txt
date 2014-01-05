@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"un bébé","confidence":0.51361006}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" Coralie ça je suis quasiment tous les jours tous les matins","confidence":0.79464871}]}

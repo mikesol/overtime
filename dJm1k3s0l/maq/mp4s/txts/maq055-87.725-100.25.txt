@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je me disais qui est la femme qui a visé","confidence":0.61722553}]}

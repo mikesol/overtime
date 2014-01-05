@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est quoi c'est surtout c'est la rentrée sous le pied","confidence":0.565557}]}

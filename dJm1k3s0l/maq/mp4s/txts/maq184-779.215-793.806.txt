@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tous les filles masse Brillant Bob Marley SFR a été un bon si je te dis ça lycée sur son à chouchou","confidence":0.75761658}]}

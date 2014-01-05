@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu peux de Angels 2 Mac","confidence":0.69930428}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" qui en rose pâle","confidence":0.83970374}]}
+{"status":5,"id":"","hypotheses":[]}

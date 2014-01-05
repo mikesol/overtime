@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"euh pour concours d'entrée commentaire qui parle","confidence":0.67166841}]}

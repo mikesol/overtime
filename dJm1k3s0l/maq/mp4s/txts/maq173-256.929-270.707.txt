@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est en train de l'âge de glace en français achat","confidence":0.77744704}]}

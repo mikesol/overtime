@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"de chez elle s'appelle","confidence":0.79229558}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" femme","confidence":0.49435231}]}

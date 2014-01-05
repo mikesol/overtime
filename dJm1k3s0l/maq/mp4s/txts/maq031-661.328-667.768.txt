@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je sais bien c'est moi si si orange en tant de votants","confidence":0.62821621}]}

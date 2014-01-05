@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Violetta ça c'est un jeu d'enfant plus bleu je voudrais voir la caméra est le thé tu vas tu","confidence":0.71337199}]}

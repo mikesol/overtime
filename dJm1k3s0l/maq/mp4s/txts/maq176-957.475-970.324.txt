@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'ai deux mains j'ai terminé le jeu 2002 que veut dire je t'aime","confidence":0.74024963}]}

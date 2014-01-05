@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il y a aujourd'hui je suis là pour vous annoncer les résultats du Grand Prix de Noël enfants savoir si on est enceinte Bonjour Madame vidéo ici pour vous puissiez me rappeler de la gagner un peu","confidence":0.70137316}]}

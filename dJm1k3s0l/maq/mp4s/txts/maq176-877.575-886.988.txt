@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"franchement top pour la qualité du produit produit génial et Mars à Lille sous les yeux il est très naturel naturel aussi","confidence":0.80520362}]}

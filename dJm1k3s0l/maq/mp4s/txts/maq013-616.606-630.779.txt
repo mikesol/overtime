@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je vais pas de mèches comme ça je sais que je ne sais pas si tu travailles","confidence":0.63652247}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"telecharger dessus ça c'est une des plus belle chose que j'ai vu et euh City sur la photo","confidence":0.73090482}]}

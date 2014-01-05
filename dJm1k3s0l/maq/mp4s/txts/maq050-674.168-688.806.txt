@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tant que ça chauffe jeux de voiture","confidence":0.64310575}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" comme ça et Jacques","confidence":0.76410496}]}

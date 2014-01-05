@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"comment avoir des photos du Mac ara application est de retour","confidence":0.60916215}]}

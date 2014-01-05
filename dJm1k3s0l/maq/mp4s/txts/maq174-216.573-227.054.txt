@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"valider se situe l'action avec dentiste puis envoyez les Moutiers en fabrication mon coeur je voulais montrer ses devoirs en partie 18 décembre","confidence":0.6834873}]}

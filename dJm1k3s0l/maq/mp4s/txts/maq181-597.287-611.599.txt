@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"message j'ai appliqué à 11h parce que je trouve que dans le style doré Bros 2 place du 11 heures et je vais acheter du matériel de jardin","confidence":0.77531844}]}

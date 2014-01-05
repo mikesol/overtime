@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ça c'est vraiment laissé sur place en fait j'ai à la maison","confidence":0.60045499}]}

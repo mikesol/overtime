@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"que la colère Facebook","confidence":0.54808962}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je prendrai le 31","confidence":0.5340417}]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est la vie pour les","confidence":0.88514405}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" le chat et","confidence":0.46828246}]}

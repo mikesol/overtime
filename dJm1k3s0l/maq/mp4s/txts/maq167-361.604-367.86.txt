@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"10 minutes au lait sur la presqu'île et si on allait qu'est-ce qui t'arrive","confidence":0.79053694}]}

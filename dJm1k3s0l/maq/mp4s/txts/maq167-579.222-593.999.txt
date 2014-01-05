@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"comme ça et maman je suis à la même couleur que c'est encore avec un pinceau biseauté la fermer Varsovie noter et le parquet et je vais mettre en assise","confidence":0.69057924}]}

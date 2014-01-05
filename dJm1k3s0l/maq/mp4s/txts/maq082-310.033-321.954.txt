@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"attends attends sur place 62152 tu as parlé à qui sont tous au lait","confidence":0.61878216}]}

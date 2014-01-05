@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il est juste magnifique et encore une fois de porter la famille de la mère et fille bien 4 sur elle et cetera","confidence":0.73363501}]}

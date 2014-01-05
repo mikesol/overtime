@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je suis au magasin je suis mort pour faire contre les photos à maman","confidence":0.71018505}]}

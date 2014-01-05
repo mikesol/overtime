@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"donc euh on va pas je dis ça parce que là deux mois de voyage on va partir en voyage","confidence":0.70745206}]}

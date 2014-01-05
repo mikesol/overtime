@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu veux que je parle avec un pinceau real technique c'est un peu quelle","confidence":0.71990103}]}

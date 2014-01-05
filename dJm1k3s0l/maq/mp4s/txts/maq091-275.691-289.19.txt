@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"encore je me lâche et euh j'ai appuyé ça au Raincy","confidence":0.69155335}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je suis assez large","confidence":0.79055655}]}

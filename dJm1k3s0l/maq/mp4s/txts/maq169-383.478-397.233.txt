@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"en plus ce que j'ai à dire c'est que l'or oral robot","confidence":0.66563421}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" trouver en arabe","confidence":0.72921783}]}

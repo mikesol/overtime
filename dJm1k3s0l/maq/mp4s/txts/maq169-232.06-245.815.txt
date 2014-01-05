@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et je les adorés c'est à moi de mai","confidence":0.61874574}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"séances de kiné pour tous les jours et ça s'applique vraiment très facilement que je suis au courant max et le crayon à sourcil de chaque côté sud comme ça","confidence":0.71205503}]}

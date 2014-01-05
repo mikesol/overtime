@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"alors parler je suis belle et je suis à base de chez Pandora","confidence":0.78727156}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" images de fleurs cherche pas si vous avez a pas de paix","confidence":0.70276922}]}

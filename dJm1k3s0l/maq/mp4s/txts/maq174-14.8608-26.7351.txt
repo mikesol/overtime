@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"téléchargement marché dans le futur est peut-être qu'en ce moment si vous avez envie de regarder une vidéo mais maman je porte un appareil dentaire avec un appartement 1","confidence":0.75316221}]}

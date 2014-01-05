@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ça va et ça sera comme ça et ça se passe comment lancer la maison sauvagnat","confidence":0.77287489}]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":" la maison avec Agnes","confidence":0.68652272}]}

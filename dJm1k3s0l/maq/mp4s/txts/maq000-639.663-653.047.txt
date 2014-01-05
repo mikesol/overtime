@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je l'ai pas que tu sais comment on fait les vous parlez en de cheveux il faut que ce soit Carla ciment","confidence":0.67790222}]}

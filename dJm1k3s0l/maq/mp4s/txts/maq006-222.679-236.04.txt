@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je suis avec tes frères Taloche","confidence":0.43435216}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je passe sur le dos et cette couleur et après vous avez les yeux bleus ouvre les yeux marrons","confidence":0.77341211}]}

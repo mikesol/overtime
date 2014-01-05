@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est un bon shampoing démêlant utiliser après un shampoing à Cassis et euh il est très très bien et très brillant est un moyen pour utiliser un peu citronnée","confidence":0.74613953}]}

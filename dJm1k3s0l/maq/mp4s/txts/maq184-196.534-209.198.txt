@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ça va ça va que j'aime beaucoup en Suède en étant portable j'ai envoyé un de ses bénéfices que j'adore qui est le haut-gesvres YouTube","confidence":0.73533076}]}

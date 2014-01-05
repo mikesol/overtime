@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"106","confidence":0.43908909}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" parce que sa photo mais il y a beaucoup beaucoup de cette année je serai très heureux","confidence":0.8067292}]}

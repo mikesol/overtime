@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"comment savoir si les oeufs au monde 3 je suis là c'est pour du garage s'il est en grande surface","confidence":0.69984722}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je sais que c'est en France que j'avais un peu que","confidence":0.66880822}]}

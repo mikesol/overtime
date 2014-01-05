@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le racine et Laura s'il faut pas tarder","confidence":0.70271868}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" comme ça je veux de la recette ici au coiffeur mais pas trop","confidence":0.77716935}]}

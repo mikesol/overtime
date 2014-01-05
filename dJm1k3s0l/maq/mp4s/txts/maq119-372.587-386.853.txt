@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"nous y a une différence entre été créé un site université que j'ai adoré","confidence":0.70704013}]}

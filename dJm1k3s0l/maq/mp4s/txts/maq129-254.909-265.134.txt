@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il faudrait que je t'envoie le synthétique et euh je suis tous les matins pour l'appliquer Monsavon pierre et pour estomper mon cher","confidence":0.65481675}]}

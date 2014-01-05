@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"sur le côté pour voir ce que ça donne et on va commencer à le vernis sur les doigts qui sort de chez nous et j'ai beaucoup","confidence":0.72334456}]}

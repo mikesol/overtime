@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"oscillation paupières par problème après que faire financer j'ai dit je t'attends tout petit peu pour","confidence":0.71792608}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" bien faire adhérer aussi","confidence":0.77219188}]}

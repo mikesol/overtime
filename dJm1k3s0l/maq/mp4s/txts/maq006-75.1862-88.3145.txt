@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je suis le maître de l'association et toi toute la journée","confidence":0.76387364}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je vais faire le souci de chez Kiko célèbre designer","confidence":0.83409566}]}

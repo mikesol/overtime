@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tour synthétique de chez eux à la solution","confidence":0.67921603}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Régis alors aujourd'hui je suis là pour faire une coiffure coiffure play live j'ai reçu","confidence":0.75307882}]}

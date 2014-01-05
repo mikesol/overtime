@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"aller sur internet j'ai travaillé sur les cheveux trouver le jeu de clés si on ira la plage appeler","confidence":0.76894164}]}

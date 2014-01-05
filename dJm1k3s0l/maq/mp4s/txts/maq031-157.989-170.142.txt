@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je voudrais comme ça on vous avez une poudre divers crée pas de cheveux je voudrais bien sur le site","confidence":0.75823671}]}

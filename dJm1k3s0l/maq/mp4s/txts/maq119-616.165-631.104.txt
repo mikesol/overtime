@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui est juste génial ici qui est Philippe m s à pied c'est quoi ces","confidence":0.68939644}]}

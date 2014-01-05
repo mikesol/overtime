@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je pensais simplement parce que tu veux faire un chignon simple que ça","confidence":0.58309442}]}

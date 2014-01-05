@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'ai envie que tu sais pas très très très bête exetera c'est le contenu de la tête à Geneve rouge à paillettes","confidence":0.82410699}]}

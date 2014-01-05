@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"orange corail","confidence":0.65137553}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" qui s'appelle","confidence":0.47129256}]}
+{"status":5,"id":"","hypotheses":[]}

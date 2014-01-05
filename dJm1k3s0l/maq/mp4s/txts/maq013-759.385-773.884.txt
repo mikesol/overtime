@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"si tu veux juste avoir les cheveux en chignon comme ça s'apprend avec ça va","confidence":0.81174952}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ça aurait t'il bien venir Dallas","confidence":0.55810136}]}

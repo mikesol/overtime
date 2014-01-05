@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"vraiment impressionnée je pense que c'est les meilleurs ce que j'ai pu à toi c'est chez Monoprix télécharger l'application quasiment tout savoir sur mobile","confidence":0.70598513}]}
+{"status":5,"id":"","hypotheses":[]}

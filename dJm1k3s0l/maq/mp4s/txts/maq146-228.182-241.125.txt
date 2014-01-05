@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pourquoi je fais un essai","confidence":0.52553362}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" info comme ça","confidence":0.6399774}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et la chose","confidence":0.46807766}]}

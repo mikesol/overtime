@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est quelque chose je capte pas de bois ou se faire mal","confidence":0.65085322}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je suis né jeux de karaoké","confidence":0.51222324}]}

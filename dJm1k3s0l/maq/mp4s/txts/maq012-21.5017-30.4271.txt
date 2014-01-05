@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"coiffure femme très sexy et le tour est uni la 306","confidence":0.73930818}]}

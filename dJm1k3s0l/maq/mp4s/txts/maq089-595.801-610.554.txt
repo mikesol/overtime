@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je suis fait la belle et c'est mon père qui va","confidence":0.87830698}]}

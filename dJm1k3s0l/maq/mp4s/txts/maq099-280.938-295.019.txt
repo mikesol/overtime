@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mais ensuite le fixe avec ça et un site qui remplace toute la journée et à sa structure ensuite dans les sans-papiers","confidence":0.78099513}]}

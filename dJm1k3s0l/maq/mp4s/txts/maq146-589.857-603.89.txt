@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Amazon pour les yeux noirs Mario des Champions","confidence":0.53521276}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et c'est un homme qui veut que je l'aime beaucoup beaucoup je recommence à l'odeur dérange pas","confidence":0.7055524}]}

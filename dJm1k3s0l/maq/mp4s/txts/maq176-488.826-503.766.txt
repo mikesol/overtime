@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je connaissais pas si tu es très très bien elle n'est pas la peau","confidence":0.81803864}]}

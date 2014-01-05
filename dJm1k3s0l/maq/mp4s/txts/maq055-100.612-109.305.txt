@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"plan qu'est-ce que c'est","confidence":0.59625578}]}

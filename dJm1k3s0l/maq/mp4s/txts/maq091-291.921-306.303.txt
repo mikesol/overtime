@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"les Avengers sur ma maman","confidence":0.76126373}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ce week-end et c'est incroyable talent super super bon parce qu'elle a la peau très très mal et vous savez sur son","confidence":0.69662416}]}

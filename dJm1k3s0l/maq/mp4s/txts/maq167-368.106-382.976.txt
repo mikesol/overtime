@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"rue avec des paillettes français à moi penser que j'aime beaucoup quand je suis et le fer à repasser maxi si je ne vois pas sur le milieu du quad","confidence":0.78786224}]}

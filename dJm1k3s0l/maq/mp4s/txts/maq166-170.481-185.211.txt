@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je te parle anglais ici et partout pour 6 cm","confidence":0.62126195}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" qu'est-ce que j'ai fait peur c'est déjà fait ça","confidence":0.62131196}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'ai dit à tous réunis de côté de côté et c'est avec ma retraite est mon adresse C","confidence":0.77245927}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"implant et araignée","confidence":0.58056796}]}

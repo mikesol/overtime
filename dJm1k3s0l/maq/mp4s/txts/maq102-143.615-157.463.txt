@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"assez loin de là où vous avez euh autant de doute pas que ça vienne pas faire fondre le produit top et à distance pour une découverte pour les premiers produits d'achat tester","confidence":0.78388131}]}

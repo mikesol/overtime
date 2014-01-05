@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"All Star Converse Sylvain cherche","confidence":0.63377422}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" couleur chat à la crème glacée avec un garçon comme cela","confidence":0.67130989}]}

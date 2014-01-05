@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"110 on est tous les jeux cool c'est le verbe Le Parrain 2 occasion","confidence":0.69247377}]}

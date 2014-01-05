@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Trotro et je voudrais vous avez le temps jeunes","confidence":0.73987174}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ok et alors","confidence":0.50434142}]}

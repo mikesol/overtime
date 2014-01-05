@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"gestion des beaux gosses","confidence":0.57897753}]}

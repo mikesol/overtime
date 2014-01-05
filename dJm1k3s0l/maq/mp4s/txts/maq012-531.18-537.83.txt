@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pas du tout plus que parfait et la réunion sur le côté","confidence":0.66001678}]}

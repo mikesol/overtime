@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tous les produits de beauté de la mode et à très bientôt Comment avoir l'occasion s'appelle de savoir que j'ai acheté je crois chez Intermarché","confidence":0.65718877}]}

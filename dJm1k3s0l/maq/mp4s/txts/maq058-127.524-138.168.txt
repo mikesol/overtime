@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'avais pas les mots Bill ça fait remonter un petit peu au-dessus du soleil","confidence":0.71635973}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et","confidence":0.43034396}]}

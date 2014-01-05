@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est pour vous dire qu'elle parte pour tous les jours à mon avis oui on a les cheveux sont fatigués les cas","confidence":0.79445648}]}

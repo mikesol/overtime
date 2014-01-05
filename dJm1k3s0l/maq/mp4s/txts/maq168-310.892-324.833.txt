@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"vous pouvez trouver un peu partout et un profond dans ta race traditionnel ceci étant ça c'est vraiment un email","confidence":0.67536253}]}

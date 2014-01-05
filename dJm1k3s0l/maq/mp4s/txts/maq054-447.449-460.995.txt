@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"coquette qui est un vrai nom","confidence":0.74013132}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je veux manger quoi avant le 1er mai","confidence":0.57170689}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"est-ce que je cherche un de chez Cathy","confidence":0.74495357}]}

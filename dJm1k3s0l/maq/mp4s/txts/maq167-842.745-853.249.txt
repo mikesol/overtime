@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"durée de ses raisons de la colère cree mega fiesta prune français","confidence":0.66662103}]}

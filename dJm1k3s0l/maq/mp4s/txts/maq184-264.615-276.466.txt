@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'ai un cinéma Benny B comme ça","confidence":0.76936424}]}

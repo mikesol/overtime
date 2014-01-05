@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ensemble hantée avec une photo que j'ai un enfant dans tellement vrai que ce soir avec qui","confidence":0.78398561}]}

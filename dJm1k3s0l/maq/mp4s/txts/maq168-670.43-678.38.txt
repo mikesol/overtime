@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"page de bonnes nouvelles si vous avez bientôt en vidéo 6 mai 2004","confidence":0.72255397}]}

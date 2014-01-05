@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"assez jolie associé que j'aime beaucoup pour tous les Pokémon qui fait aussi son père est vraiment compter","confidence":0.6595487}]}

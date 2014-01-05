@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pour les pompes et vous pouvez utiliser vos doigts","confidence":0.67088383}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" y'a pas ça marche aussi","confidence":0.67901021}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" voilà et puis si j'ai un blog de chez Mehdi","confidence":0.83194506}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il fait aujourd'hui ici il est beaucoup moins que le rouge à lèvres Revlon Osny les gamins en plus beau pack Lero Lero base en fait","confidence":0.72615188}]}

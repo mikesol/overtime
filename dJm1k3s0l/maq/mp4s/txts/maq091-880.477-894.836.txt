@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Lolo j'espère que ça va bien pour vous en plus c'est un peu c'est parce que vous en pensez dans commentaire que c est","confidence":0.78902119}]}

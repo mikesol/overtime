@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"salut les filles alors aujourd'hui je suis là pour vous annoncer les trois personnes que c'est pour passer la journée de samedi 23 novembre avec moi et les deux orphelines à","confidence":0.80126512}]}

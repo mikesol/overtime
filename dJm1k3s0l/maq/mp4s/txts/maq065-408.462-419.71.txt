@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ce soir l'AJA pharmacie Angers de ses parents du tout mais je trouve Rians c'est assez jolie pour mélanger les couleurs à ma télé ensemble","confidence":0.66114038}]}

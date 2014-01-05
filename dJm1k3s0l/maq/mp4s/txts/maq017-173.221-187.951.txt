@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Eva juste regarder une vidéo et c'est pour vous pour celles qui regarde vidéo que je fais pour merci de votre fidélité Super U","confidence":0.78314453}]}

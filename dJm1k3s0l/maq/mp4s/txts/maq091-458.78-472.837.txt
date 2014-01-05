@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"non c'est juste qu'il est comme d'habitude mais disons que signifie qu'il faille la clinique et numéro de sa grand-mère et","confidence":0.71318334}]}
+{"status":5,"id":"","hypotheses":[]}

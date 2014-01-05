@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu peux mais sûrement déjà que je suis chez Mac Do et surtout","confidence":0.64287031}]}
+{"status":5,"id":"","hypotheses":[]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"que j'adore beaucoup c'est euh je sais pas laquelle choisir sa queue","confidence":0.64042026}]}

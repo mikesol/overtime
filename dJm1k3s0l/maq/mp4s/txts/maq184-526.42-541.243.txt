@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"rose soutenu en bois de rose merci et bon alors en plus transparent que les courgettes et ensuite mais c'est vraiment très jolie","confidence":0.8500737}]}

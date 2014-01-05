@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"un duo avec les lèvres rouges et à la cuisse de poulet chicha numéro 16","confidence":0.7003392}]}

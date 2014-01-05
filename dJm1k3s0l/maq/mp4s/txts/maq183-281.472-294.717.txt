@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ok à tout à l'heure et du travail à pied à son entraîneur parce que","confidence":0.62054455}]}

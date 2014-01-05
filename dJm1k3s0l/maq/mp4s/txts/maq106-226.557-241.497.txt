@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et pareil je trouve que pour préparer la peau et exetera pas rater ça va bien nourrir la peau dans la douche tu peux poser le calendrier bien et euh","confidence":0.68242478}]}

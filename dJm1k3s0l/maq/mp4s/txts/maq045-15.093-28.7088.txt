@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"2012 2013 qu'est-ce que c'est que je suis en ce moment en espèces beaucoup mon coeur est à manger donc j'espère que la vidéo","confidence":0.73533612}]}

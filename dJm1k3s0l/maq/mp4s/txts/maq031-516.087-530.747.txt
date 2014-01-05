@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"voilà va sur son bébé petit poids pour ça","confidence":0.66841531}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je viens comme ça sur les côtés","confidence":0.7626254}]}

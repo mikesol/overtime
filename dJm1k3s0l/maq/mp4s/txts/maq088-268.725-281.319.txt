@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"on a mais il fallait absolument à jour quand même te dire que je t'attends violine avec","confidence":0.73932743}]}

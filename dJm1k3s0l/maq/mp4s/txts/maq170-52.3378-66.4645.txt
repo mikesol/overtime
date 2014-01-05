@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"deux pas des transports en commun sac et les dents j'en suis à ma","confidence":0.73836988}]}

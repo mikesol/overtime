@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tout le détail des prix exetera mais euh c'est un traitement 6h je trouve qu'il est vraiment très naturel et caca","confidence":0.75599462}]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Yamaha planning","confidence":0.69368494}]}
+{"status":5,"id":"","hypotheses":[]}

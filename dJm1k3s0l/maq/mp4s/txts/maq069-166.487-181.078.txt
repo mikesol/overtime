@@ -1,0 +1,4 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"sur la deuxième bâtiment n'est pas pour","confidence":0.62956125}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" jusqu'au bout de fer de l'Est","confidence":0.70859575}]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":5,"id":"","hypotheses":[]}

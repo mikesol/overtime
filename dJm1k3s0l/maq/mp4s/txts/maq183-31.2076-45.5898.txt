@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"matin de maquillage pour aller en cours maman travaille demain mais pourquoi vous voilà","confidence":0.71087456}]}

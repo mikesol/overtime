@@ -1,0 +1,4 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"chez Françoise d'Assaut et je vais aller manger","confidence":0.60762161}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" portail de Ré","confidence":0.6335752}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" non pas vraiment le temps c'est Noël","confidence":0.62998408}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" c'est la maison","confidence":0.55169386}]}

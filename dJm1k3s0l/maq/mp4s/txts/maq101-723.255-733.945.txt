@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"assez cher Monsieur s il est plutôt le week-end pour la sortie entre copines voir votre week-end en amoureux ce genre de chose","confidence":0.71207702}]}

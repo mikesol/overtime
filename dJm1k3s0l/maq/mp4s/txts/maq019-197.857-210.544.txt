@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"moi je l'ai pas mon papa et maman","confidence":0.46349919}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"de la gare SNCF Geneve très sèche Undiz hydrater cetera et incroyable j'ai aussi que Dieu","confidence":0.67608672}]}

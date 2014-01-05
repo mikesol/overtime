@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"un sont là dans le fond de teint minéral de ma classe","confidence":0.66905355}]}

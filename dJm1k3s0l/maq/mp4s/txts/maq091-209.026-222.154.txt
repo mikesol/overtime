@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu vas y a que des cobayes sont en train de jouer à League of Legend maquillage j'ai hâte que faire shopper shopper à tout à l'heure","confidence":0.69349295}]}

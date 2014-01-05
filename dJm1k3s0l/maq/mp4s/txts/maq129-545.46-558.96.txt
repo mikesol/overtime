@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"de celui-ci aussi je suis très en retard si celui-ci se racheter un réveil qui s'appelle Sophie ton plat","confidence":0.56171423}]}

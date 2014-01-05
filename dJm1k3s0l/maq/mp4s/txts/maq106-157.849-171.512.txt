@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"leboncoin que cela est parfaite pour faire tout ce qui est éliminatoire son a été réceptionné votez pour mettre","confidence":0.72884655}]}

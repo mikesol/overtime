@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je te veux avec moi pour faire un truc assez","confidence":0.69759256}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" non j'ai","confidence":0.57461619}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"écrire à toi et à c'est ça que les monos","confidence":0.56993896}]}

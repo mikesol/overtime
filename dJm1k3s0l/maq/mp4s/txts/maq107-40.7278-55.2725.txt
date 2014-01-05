@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est pas super super mais en tout cas le carat et incroyable talent de chez vous et vous","confidence":0.70673835}]}
+{"status":5,"id":"","hypotheses":[]}

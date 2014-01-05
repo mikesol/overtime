@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"200 jeux","confidence":0.57589173}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et les attraper les paillettes","confidence":0.73936445}]}
+{"status":5,"id":"","hypotheses":[]}

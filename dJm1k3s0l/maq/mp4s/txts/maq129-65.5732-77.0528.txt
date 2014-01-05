@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"recette de crêpes pour transporter un voyage voilà voilà la chose avec les pinceaux","confidence":0.79398865}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'ai 13 ans et plus","confidence":0.52237207}]}

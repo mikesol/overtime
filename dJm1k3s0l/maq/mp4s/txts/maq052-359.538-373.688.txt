@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"cancer de la peau","confidence":0.61943579}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je mets sur la bouche grâce au futur","confidence":0.68587679}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"orange je veux pas que c'est que la rentrée","confidence":0.68348342}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Dino forêt de chênes est un SMS à chérie ça y est","confidence":0.49456295}]}

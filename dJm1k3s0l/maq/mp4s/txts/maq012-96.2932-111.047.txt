@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"fait parler la première partie","confidence":0.58181703}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je sais pas de cheveux en de parfait je veux emballer 6","confidence":0.68129945}]}

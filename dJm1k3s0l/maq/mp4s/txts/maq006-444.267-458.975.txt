@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il se passe ailleurs juste au-dessus du Parti vrai que ça va à merveille la 2 est-ce que je peux te donner malheureusement non mais là tu vois je peux","confidence":0.61237884}]}

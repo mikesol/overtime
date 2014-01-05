@@ -1,0 +1,4 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"avec un peu de vent","confidence":0.65331709}]}
+{"status":5,"id":"","hypotheses":[]}

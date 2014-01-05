@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"les deux bras et pied jusque là sans souci","confidence":0.71673805}]}

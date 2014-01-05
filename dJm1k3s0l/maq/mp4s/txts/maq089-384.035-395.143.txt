@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est ce que je veux externe de mon maquillage avec la Naked noir avec des","confidence":0.65841788}]}

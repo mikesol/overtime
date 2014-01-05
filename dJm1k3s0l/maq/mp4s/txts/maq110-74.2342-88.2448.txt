@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ou se faire euh parce que c'est bon pour la santé et 1","confidence":0.70946252}]}

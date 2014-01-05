@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ce règlement est vraiment à mercredi c'est bien elle est très bien grave ça","confidence":0.79547679}]}

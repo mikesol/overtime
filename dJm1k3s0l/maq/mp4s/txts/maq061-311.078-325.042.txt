@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"chat rendre heureuse alors le bleu clair que mettre en dessous","confidence":0.75834364}]}

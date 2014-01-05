@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est un truc que j'aime beaucoup les choses atroces c'est euh c'est plus fort de chez Sephora que j'ai acheté","confidence":0.75968695}]}

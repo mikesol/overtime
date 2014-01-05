@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"sachez que c'est extra extra efficace et ceci est un aller simple réveil Oregon","confidence":0.72115201}]}

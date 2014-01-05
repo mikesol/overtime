@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"avec un petit saut de chez 35 je prend des couleurs du haut parce que ça a sonné","confidence":0.74706864}]}

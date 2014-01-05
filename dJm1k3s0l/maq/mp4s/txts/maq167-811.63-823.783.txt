@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui est parti de chez H et M","confidence":0.83257145}]}
+{"status":5,"id":"","hypotheses":[]}

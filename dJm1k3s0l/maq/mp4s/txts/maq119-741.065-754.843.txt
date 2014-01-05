@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"1905 vraiment j'ai profité de chaque minute génial","confidence":0.61429173}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je suis toujours en déménagement Cannes appareil dentaire invisible euh je veux pas parler avant les i mais si je parle un peu plus lentement mais vidéo et si euh","confidence":0.79062569}]}

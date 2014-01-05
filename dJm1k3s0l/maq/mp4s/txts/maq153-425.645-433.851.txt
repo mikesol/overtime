@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"parce que il y a t-il fait que vous ayez un camion à","confidence":0.60435486}]}

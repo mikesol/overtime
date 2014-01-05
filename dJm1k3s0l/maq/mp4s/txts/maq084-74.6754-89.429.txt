@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Meyzieu et Jean-Paul de passe sous le nez quand sort de chez toi c'est génial pour faire la maison pas pour l'homme","confidence":0.78223968}]}

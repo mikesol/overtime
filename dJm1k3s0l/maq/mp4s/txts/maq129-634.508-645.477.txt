@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"déçu de la douceur du poil doux au toucher","confidence":0.87780815}]}

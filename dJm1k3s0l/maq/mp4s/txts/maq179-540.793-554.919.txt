@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mets tes deux de chez moi téléphone magasin voilà mail à Manon","confidence":0.64832956}]}

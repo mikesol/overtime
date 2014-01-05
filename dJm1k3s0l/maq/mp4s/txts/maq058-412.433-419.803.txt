@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"vous pouvez 6 allée de la SIC SMS à juste su","confidence":0.70840168}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" Dessange léger application","confidence":0.44462588}]}

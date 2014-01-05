@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"policy chat hépatite C à la demande","confidence":0.56372184}]}

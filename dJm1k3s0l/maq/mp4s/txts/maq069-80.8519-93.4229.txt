@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"iseki cm en folie elle est pas aussi élevé que la base de chez elle est magnifique et merci mais alors ce petit côté et je rentre pas","confidence":0.77192485}]}

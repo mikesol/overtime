@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il est de couleur de blush rosé un oranger est super bien très pratique le matin non j'ai dit ça quand je fais tous les matins","confidence":0.7227329}]}

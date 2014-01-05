@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"danse au beurre c'est le sens de Mac et je suis est ici pour la santé","confidence":0.72643751}]}

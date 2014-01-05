@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"crée tout ça va avec tout je vais me coucher ma coiffure avec un petit élastique et maintenant tu veux","confidence":0.70806974}]}

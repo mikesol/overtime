@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je vais avant l'heure veux que ça se procurer solution partout et euh je suis très heureux à Saint-Lô","confidence":0.68917322}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Euskal que je n'aime pas","confidence":0.64225239}]}

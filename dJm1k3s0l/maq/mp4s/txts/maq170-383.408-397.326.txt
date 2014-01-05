@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"moi aussi c'est natation moi et ça ce n'est pas cher bon je sais que ça aurait t'il supérieur","confidence":0.58758175}]}

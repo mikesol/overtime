@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"n'hésitez pas à mon père est un message avec la palette Naked puisque vous êtes","confidence":0.63746673}]}

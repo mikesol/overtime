@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"sous les yeux","confidence":0.69978142}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et ça va les filles","confidence":0.55367595}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"jeux avec des petits granulés","confidence":0.57407093}]}

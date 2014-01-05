@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pas tu vas aujourd hui c est un jeu est très bien passé pour aller en ville","confidence":0.75291216}]}

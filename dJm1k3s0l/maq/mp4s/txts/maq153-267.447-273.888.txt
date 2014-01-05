@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"voilà c'est pour les Verts","confidence":0.57981753}]}

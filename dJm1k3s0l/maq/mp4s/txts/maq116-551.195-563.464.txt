@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mega mega ça marchera avec la scène avec ta tout ça là dedans aussi sur le côté de Tours toutes les palettes martora donc euh voilà tout les palettes","confidence":0.74664629}]}

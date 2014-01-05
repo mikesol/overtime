@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"voilà la chose vraiment la même forme ce sont de danse aux élections locales passer un petit peu plate et une face de arrondi","confidence":0.72159618}]}

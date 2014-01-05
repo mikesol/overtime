@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"vous trouvez en parapharmacie vers 19h comme ça comme ça je vais chez Cora","confidence":0.71695095}]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"sur la tête Bonjour h TV","confidence":0.54719794}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" poussette","confidence":0.43714803}]}

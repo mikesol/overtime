@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le salon est responsable en stick est le trafic sur les musiques de Naruto c'est quoi consiste le jeu comme ça","confidence":0.60746562}]}

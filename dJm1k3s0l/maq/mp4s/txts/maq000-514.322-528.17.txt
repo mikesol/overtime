@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"allez c'est vraiment toi aussi tu veux que je parle dans la presse","confidence":0.61114782}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je sais ça fait jusqu'au bout","confidence":0.88514405}]}

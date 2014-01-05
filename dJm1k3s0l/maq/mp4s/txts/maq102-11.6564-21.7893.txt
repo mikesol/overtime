@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"entre supermarché parapharmacie à Castanet cetera et avait un peu envie d'entendre tout ressources naturelles colo","confidence":0.76556659}]}

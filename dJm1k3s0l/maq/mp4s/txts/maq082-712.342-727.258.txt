@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je suis vraiment élection","confidence":0.80744469}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" voilà le résultat de la bouche naturel et","confidence":0.85146594}]}

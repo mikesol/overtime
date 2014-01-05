@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"faire du ménage et et puis euh j'espère que vous allez bien","confidence":0.78036284}]}

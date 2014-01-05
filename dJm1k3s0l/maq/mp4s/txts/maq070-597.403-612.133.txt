@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"comment savoir si un jour convertisseur","confidence":0.71903658}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" que ça","confidence":0.54496151}]}

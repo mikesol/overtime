@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et euh je sais pas ce qui s'est de concours en contact avec l'entreprise est aujourd'hui on fait gagner une note martora qui est juste énorme essayez-vous poster photo maintenant","confidence":0.71108907}]}

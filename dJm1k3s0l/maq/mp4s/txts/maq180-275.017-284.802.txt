@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"que j'aime beaucoup partir que ce soit mais non au printemps il est colorée 123 cacher euh","confidence":0.68622053}]}

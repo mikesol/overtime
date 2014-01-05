@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"santé c'est pas du tout desséchant et cela se passe","confidence":0.53130329}]}

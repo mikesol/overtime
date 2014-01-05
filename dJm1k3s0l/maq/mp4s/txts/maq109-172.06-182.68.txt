@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est le pétrole à l' shampoing for brillance et vert","confidence":0.55392087}]}

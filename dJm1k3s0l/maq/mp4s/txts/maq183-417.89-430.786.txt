@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"sinon la paupière supérieure essentielles anti tenu par un serial key maman chargement couleur","confidence":0.6569739}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" trafic également la Faya","confidence":0.77183676}]}
+{"status":5,"id":"","hypotheses":[]}

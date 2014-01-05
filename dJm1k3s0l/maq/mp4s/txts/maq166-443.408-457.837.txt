@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Dylan la salade et l'appliquer aura-t-il Supérieure des affaires","confidence":0.53155118}]}
+{"status":5,"id":"","hypotheses":[]}

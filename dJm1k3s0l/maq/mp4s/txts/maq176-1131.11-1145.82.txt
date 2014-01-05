@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je vais pouvoir filmer une autre vidéo","confidence":0.65785789}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et je voudrais plus que vous allez bien et que vous allez peut-être participer à un tirage au sort pour","confidence":0.74788684}]}

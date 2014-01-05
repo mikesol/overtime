@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"serment sublime est-ce que depuis si longtemps et que j'adore ça avec un temps comme ça va niquer j'habite et sa chambre","confidence":0.75255972}]}

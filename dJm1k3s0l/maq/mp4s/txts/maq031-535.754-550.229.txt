@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"notre","confidence":0.70244533}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" c'est vraiment fait ça au feeling choses que vous voulez faire tu voulais plus de moi de trucs scintille","confidence":0.74407303}]}

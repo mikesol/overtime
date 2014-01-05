@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"patron fait de Bruno que tu peux parler avec ça mais c'est c'est un marteau écrivez ça se passe au","confidence":0.76049048}]}

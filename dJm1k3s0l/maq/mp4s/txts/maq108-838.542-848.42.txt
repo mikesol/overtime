@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est pas quelque chose de super courrier pas aux pattes comme une petite fleur rose es super mignonne et","confidence":0.82176572}]}

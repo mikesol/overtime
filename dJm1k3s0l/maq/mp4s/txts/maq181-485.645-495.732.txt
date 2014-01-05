@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"du liner de Chine a vraiment n'importe quoi moi je préfère le réel","confidence":0.74650472}]}

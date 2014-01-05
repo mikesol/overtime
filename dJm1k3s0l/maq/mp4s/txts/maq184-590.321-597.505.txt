@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est encore une framboise super super super beaux ECBU que je suis en essai","confidence":0.79206866}]}

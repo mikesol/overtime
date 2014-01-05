@@ -1,0 +1,4 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le piqué ici en tapotant","confidence":0.6123451}]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ok pas vraiment d'importance visiter","confidence":0.62528998}]}

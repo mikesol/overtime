@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"en effet de Jules César à 1.5 un pull j'ai fait tout de suite à l'arrêt Les Jardins pré","confidence":0.59619755}]}

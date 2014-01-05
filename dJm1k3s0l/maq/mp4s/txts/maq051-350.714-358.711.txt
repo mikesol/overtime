@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui règne sur Tours","confidence":0.71081173}]}

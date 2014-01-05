@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui est à la suite de chez eux même si je papote un peu parce que j'adore les brosses en al","confidence":0.76944023}]}

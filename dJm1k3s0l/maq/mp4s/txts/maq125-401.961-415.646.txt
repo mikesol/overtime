@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ohlala c'est que ça sans X ça Centrest bon c'est ce qu'il y a à la douche","confidence":0.71290511}]}

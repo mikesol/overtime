@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"attends avec trois mois que j'aime beaucoup","confidence":0.67045367}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et il y a sûrement dans deux mois maximum","confidence":0.77388978}]}

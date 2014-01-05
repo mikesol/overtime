@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"vous voulez parler tu ne vas rien bon bah voila les onglets tous c'est toujours d'accord j'ai une ville","confidence":0.76254946}]}

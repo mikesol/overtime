@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pour t'aider à surmonter un peu le ça c'est vraiment quelque chose de Nat soir 14 sorcière","confidence":0.75010055}]}

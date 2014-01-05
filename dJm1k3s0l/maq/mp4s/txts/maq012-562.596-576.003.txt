@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est tout ce que tu fais et je suis fait si je vais pas au super ça sert pas télé c'est pas ci fais pas ça","confidence":0.73797667}]}

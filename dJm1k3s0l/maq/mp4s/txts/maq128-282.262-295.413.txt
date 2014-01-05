@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mon crayon creer","confidence":0.58804876}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" dans les marques","confidence":0.67400289}]}

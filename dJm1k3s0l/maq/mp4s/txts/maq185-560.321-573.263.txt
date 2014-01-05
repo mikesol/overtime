@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"petit chat super sympa stressé comme si jamais sûr de rien en tout et tous ses états","confidence":0.65442473}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Superman 2013 ça fait pas du tout de Chine les parler","confidence":0.72180223}]}

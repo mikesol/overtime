@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"voilà c'est super génial parce que tu parles sur les mots bleus c'est décidé de crayon","confidence":0.73456138}]}

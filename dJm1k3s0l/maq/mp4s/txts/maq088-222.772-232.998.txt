@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il devrait te dis","confidence":0.65230358}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je sais quand tu peux","confidence":0.60976779}]}

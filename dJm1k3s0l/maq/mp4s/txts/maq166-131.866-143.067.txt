@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"as-tu passé au sein et si j'ai un truc que c'est dangereux 6 6","confidence":0.75468588}]}

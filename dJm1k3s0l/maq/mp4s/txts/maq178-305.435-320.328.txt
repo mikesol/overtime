@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu veux d'autres questions n'hésitez pas à poster un commentaire sur la vidéo ou appart Facebook j'essaierai d'y répondre vidéo pour faire avant après","confidence":0.74576718}]}

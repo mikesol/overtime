@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"non j'ai dit que le web c'est le site du collège puisque Adele a vraiment à me soûler bien savoir si c'est le même que le soleil","confidence":0.79365498}]}

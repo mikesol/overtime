@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il faut souvent mesurer","confidence":0.71177214}]}
+{"status":5,"id":"","hypotheses":[]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui est le fait que commencer","confidence":0.79138213}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je m'appelle directement","confidence":0.57642269}]}

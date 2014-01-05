@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pas cher à Évreux","confidence":0.47050589}]}

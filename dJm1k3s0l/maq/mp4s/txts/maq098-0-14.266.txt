@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"réfléchis à Paris","confidence":0.43890813}]}

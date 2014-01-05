@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"si si c'est le deuxième main facile et ça","confidence":0.72922063}]}
+{"status":5,"id":"","hypotheses":[]}

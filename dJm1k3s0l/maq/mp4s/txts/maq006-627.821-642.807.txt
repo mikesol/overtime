@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"perso et je mens sur mon front","confidence":0.87954551}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" infos sur les tempes","confidence":0.5328179}]}

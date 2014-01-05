@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"couleur ocre mairie de se maquiller pour une fleur comme les femmes que j'aime être ici juste à côté","confidence":0.77017868}]}

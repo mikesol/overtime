@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"27 green fee ça va pastel mais vraiment vers 20h 20h","confidence":0.58142096}]}

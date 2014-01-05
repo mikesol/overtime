@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je pense avoir un ventre je vous ai fini en allemand en sorte que veut dire multi usages que je veux","confidence":0.58322984}]}

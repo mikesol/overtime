@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"bonhomme qui compte en premier temps de 6 ans","confidence":0.56251937}]}

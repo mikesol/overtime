@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"salut les filles alors aujourd'hui je suis là pour présenter mes produits préférés uncle jeans avec Francisco ça va ça va un peu près tout essayé","confidence":0.7545923}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu fais quoi tout va très très très rare le Chloé est vraiment un p***** de terminer","confidence":0.65938383}]}

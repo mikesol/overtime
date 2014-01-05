@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"couleur et il avait le chat le forfait car qui est ici la palette Naked 1 qui t'attend clair","confidence":0.63940722}]}

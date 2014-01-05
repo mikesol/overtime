@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"super frais maquillage coloré en même temps c'est pas vraiment un portable euh je tousse toujours","confidence":0.72238237}]}

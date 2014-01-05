@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"société un problème c'est un peu plus long à poser que c'est galère mais pas assez rapidement","confidence":0.69508153}]}

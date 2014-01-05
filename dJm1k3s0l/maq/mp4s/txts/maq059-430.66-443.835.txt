@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tous très légère","confidence":0.52847999}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" voilà voilà maintenant on va passer au maquillage des yeux et aujourd'hui","confidence":0.7644915}]}

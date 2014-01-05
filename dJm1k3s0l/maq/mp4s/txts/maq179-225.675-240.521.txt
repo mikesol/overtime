@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"si tu veux passer avant de corail pastel orange et vous avez ici il est alors la dame m'a demandé ce que je veux","confidence":0.64668256}]}

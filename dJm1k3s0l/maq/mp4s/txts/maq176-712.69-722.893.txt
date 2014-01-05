@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est la de voir section Genius qui équipera couleur chocolat","confidence":0.68528998}]}

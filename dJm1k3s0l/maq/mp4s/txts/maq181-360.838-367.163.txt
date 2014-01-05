@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"démarcation est très sympa parce que justement","confidence":0.57090324}]}

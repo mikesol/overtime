@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"couleur mèches au Maroc","confidence":0.52740461}]}

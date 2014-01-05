@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'ai craqué c'est un blanc blanc blanc blanc un peu après une pause est très très très très clair","confidence":0.84103352}]}

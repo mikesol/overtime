@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Céline montre mon téléphone","confidence":0.51561552}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je parle plus parce que je veux pas que","confidence":0.86843139}]}

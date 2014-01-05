@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"comment enlever la carte de 13h30","confidence":0.82017046}]}

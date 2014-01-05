@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"maquillage pour les yeux de lumière et associés","confidence":0.68101519}]}

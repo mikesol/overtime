@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"cinéma comics cinéma","confidence":0.66685265}]}

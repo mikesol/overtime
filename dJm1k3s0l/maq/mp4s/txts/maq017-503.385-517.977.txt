@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"naviguez un bon d'achat de 150 kilos a gagné aller sur le site matin parce que je voulais juste shampoing exetera que voulez-vous danser","confidence":0.71882463}]}

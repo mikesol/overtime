@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pour les jours Claire's à faire il est ici","confidence":0.55660945}]}

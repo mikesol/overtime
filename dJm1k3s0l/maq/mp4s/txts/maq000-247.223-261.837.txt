@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je vais prendre mon fer à lisser","confidence":0.68378943}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ça va je me suis une fois je vais pousser","confidence":0.64895618}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" vaccin la jus- va","confidence":0.53462106}]}

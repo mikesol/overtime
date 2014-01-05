@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"un très très très très été à Tanger appliquer le premier à linge ecrivez le verset le numéro 4 vers l'avenir","confidence":0.61515087}]}

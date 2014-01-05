@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est entre le doré le corail est l'océan le plus grand lit","confidence":0.69268507}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" Jacquie ça attends","confidence":0.53050721}]}

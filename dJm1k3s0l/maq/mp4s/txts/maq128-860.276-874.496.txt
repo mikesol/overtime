@@ -1,0 +1,4 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"Hervé","confidence":0.59323335}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" charmant et maintenant","confidence":0.80968481}]}

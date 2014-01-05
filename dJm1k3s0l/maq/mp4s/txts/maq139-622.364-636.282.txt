@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"sa mission est le 06 excellent CV","confidence":0.64385611}]}

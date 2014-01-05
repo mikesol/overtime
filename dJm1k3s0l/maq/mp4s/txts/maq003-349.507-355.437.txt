@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"euh images et 1 est la couleur préférée","confidence":0.71798873}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" c'est bête","confidence":0.43678701}]}

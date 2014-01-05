@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"centre cela","confidence":0.54242659}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" Le Progrès","confidence":0.48717636}]}

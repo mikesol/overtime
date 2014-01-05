@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il était sur la paupière mobile créez une base","confidence":0.62765235}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" maman je ramène tout de blanc mat Kitty","confidence":0.71938705}]}

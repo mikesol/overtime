@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je pense à laisser","confidence":0.45900205}]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":" le problème avec mon tarte aux pommes je sais","confidence":0.62535638}]}

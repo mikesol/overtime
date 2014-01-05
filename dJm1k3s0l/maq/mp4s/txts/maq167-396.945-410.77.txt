@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ça c'est vraiment toi qui est super discrète","confidence":0.73667473}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" en plus je suis super mask","confidence":0.54369754}]}

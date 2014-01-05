@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"un moyen de partout très facilement le Maroc que je suis plutôt le marginal c'est pour cela que je viens d'Afrique et celui-ci","confidence":0.65493822}]}

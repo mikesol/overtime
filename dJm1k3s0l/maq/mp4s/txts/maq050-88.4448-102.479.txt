@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"graffiti et des produits de marque qui sont un peu moins cher que pourra","confidence":0.75931519}]}

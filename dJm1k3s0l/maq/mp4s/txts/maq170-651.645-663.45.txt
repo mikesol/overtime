@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"LMDE à 2h rien du tout ce que vous voulez mais je pense que ça va être la journée","confidence":0.67388684}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"de qui es-tu satisfait beaucoup et je montrais la chose promis comme c'est dans la main dans le sac","confidence":0.73599625}]}

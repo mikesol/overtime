@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je voudrais passer chercher mes euh pour moi surtout que les composants leboncoin cadeau que l'on peut trouver dans le cas","confidence":0.6636979}]}

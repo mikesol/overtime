@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est que je vais envoyer je veux les élastiques à cheveux oui j'en demande à Nice","confidence":0.73324329}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"manger cuisine couleur de la couleur Flo que tu ne partes référencement temps pêche il est sublime vous avez euh quand utiliser un navigateur pour ça","confidence":0.67759889}]}

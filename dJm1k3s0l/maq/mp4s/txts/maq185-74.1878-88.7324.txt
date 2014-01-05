@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ou sur Twitter Facebook tu vas où est ma passion et j'ai coupé court","confidence":0.65616459}]}

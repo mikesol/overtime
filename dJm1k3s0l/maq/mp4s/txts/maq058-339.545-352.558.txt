@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"la couleur qui s'appelle quand je t'appelle pas du coin de Mathieu je sais plus comment ça s'est envolé avec quelques paillettes rose","confidence":0.75509185}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"partir de Rouen j'ai laissé à tout petit papa ce héros","confidence":0.56250119}]}

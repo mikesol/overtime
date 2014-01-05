@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"vous avez un perso je commence à avoir dans celui-ci se Deluxe créez une séance ce qui est à base c'est pour faire le soleil ce que je trouve beaucoup trop pour ça","confidence":0.69534105}]}

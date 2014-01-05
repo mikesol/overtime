@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"faut-il que je sais pas euh aujourd'hui mais je pense que les conseils les pages sont trop fins que tu m'aimes pourquoi c'est comme ça pour une soirée","confidence":0.74461287}]}

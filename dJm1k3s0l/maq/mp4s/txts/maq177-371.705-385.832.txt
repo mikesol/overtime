@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"va à je suis pris le visage c'est un plaisir","confidence":0.72792792}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" c'est bon","confidence":0.46863353}]}

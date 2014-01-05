@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"voilà bon courage j'ai le verbe aller","confidence":0.64619809}]}

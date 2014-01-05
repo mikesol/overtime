@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"je veux tu peux le faire mais pas de soucis comme ça fait le dessus des cheveux","confidence":0.59006453}]}

@@ -1,0 +1,3 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"et j'ai des choses","confidence":0.64862818}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" avec un seau","confidence":0.50616938}]}

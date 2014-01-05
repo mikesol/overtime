@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"jouer à FIFA et si je n'étais pas là que c'était juste la folie à New York","confidence":0.80292505}]}

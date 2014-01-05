@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"non là pour façon a pas avant de démarcation par le coup parce que E","confidence":0.74224794}]}

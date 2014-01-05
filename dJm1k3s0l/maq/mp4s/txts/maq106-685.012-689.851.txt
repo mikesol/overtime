@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"que faire à Paris","confidence":0.44867951}]}

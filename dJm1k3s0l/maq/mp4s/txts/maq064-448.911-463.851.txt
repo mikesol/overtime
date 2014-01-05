@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le tofu si de salaire j'ai passé un bon","confidence":0.49768782}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"comment planter du nom de Bella qui est un très bon en français","confidence":0.66062635}]}

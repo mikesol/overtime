@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pour eux c'est journée à Marseille c'est super dur de choisir j'ai lu tous vos commentaires des commentaires qui tu marques et cetera et j'ai fait le tri dans les commentaires que je","confidence":0.77780718}]}

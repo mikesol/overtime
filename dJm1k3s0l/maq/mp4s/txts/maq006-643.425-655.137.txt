@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ici dans","confidence":0.55099165}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" le premier jour","confidence":0.73191476}]}
+{"status":5,"id":"","hypotheses":[]}

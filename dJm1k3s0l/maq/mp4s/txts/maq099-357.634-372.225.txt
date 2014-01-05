@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est le matin décès de notre argent argent argent liquide avec un feutre attention démonstration attends voilà et chat Hurley","confidence":0.76022172}]}

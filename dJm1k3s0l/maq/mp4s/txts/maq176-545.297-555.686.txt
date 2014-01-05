@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"direction à base de tomates et euh salut ça va","confidence":0.71031404}]}

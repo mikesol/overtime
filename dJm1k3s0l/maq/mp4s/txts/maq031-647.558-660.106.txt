@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et maintenant remplir la veux en faisant des secrets","confidence":0.64740372}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" de l'argent","confidence":0.54651493}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" j'avais laissé des trous","confidence":0.68288714}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"que j'avais mon appareil j'ai vu ma belle sera la bienvenue chez les parents isolés vraiment pas fait attention Salut les lavoirs et que je l'avais il m'aime pas","confidence":0.77929163}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"crayon le ça je cherche Violetta alors je vais passer mon perso","confidence":0.66395158}]}

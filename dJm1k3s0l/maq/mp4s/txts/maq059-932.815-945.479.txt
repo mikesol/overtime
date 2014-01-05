@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pas mal aux pieds mais je sais qu'il va se passer de Cherbourg vois ce sont les naturelles volume","confidence":0.79974729}]}

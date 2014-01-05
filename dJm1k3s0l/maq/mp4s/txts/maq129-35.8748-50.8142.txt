@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je vais commander des kits de perso je les avais Kit orange et moi pensons à vous montrer je suis en a environ 10 jours nous c'est avant parce que ça vient de je sais pas","confidence":0.63787103}]}

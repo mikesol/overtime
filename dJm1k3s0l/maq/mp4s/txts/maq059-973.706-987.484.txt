@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"Ikea pour cheveux avec les sourcils un petit peu plus fourni","confidence":0.84617257}]}

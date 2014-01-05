@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"perso euh pour un petit cerveau commande je sais pas s'ils sont vendus eux-mêmes s'ils sont vendus à l'unité mais en tout cas calculer environ 600 euros","confidence":0.689255}]}

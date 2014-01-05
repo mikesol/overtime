@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et je vais faire attention à crêpes","confidence":0.78826225}]}
+{"status":5,"id":"","hypotheses":[]}

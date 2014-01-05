@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui était des appel","confidence":0.61972821}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" euh euh euh euh on va se passer sous","confidence":0.61846322}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" français","confidence":0.64798123}]}

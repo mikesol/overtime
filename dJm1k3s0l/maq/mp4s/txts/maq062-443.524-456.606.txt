@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"cliquez avec le pinceau comme ça","confidence":0.7494545}]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":5,"id":"","hypotheses":[]}

@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"comme ça","confidence":0.70241332}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je viens pas je passe","confidence":0.50551057}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ils sont vraiment quasiment à la verticale qu'est-ce que le passé aura horaires","confidence":0.57696742}]}

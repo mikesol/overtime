@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mais il fait combien fait 10000 enfants de ce que je fais","confidence":0.67857599}]}

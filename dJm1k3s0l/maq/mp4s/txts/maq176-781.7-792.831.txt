@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je vais porter encore ton Bureau et ça parce que c'est un des produits que quand ça va pas complètement","confidence":0.83162451}]}

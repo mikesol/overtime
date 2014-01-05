@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'ai pas que ça ça permet vraiment un meilleur contrôle du produit","confidence":0.85616952}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" vraiment très heureux","confidence":0.72280335}]}

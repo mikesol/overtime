@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Je t'aime bien quand même pas si oppa externe","confidence":0.63975763}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" pour commencer je parle et il va faire vraiment très joli dégradé avec le train économie avant","confidence":0.7831775}]}

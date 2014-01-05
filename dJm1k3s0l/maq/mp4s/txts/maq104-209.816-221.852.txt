@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je suis chez vous la femme de la Coupe des différents le chevalier","confidence":0.8118735}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le cinéma Daniel et Laetitia donc le coq nu je sais pas si on peut voir les palettes à la caméra mais euh on va bien différentes K2","confidence":0.66563714}]}

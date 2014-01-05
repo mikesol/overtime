@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pour ton truc de silence j'ai laissé la longueur et surtout pas qu'ils ont pas trop trop de football M","confidence":0.68202537}]}

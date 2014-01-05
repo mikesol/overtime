@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"rêver sur son mobile pas cher à retrouver ma maman","confidence":0.73416907}]}

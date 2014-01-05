@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ce truc sous ma peau est un maçon et je suis à crème pour le corps qui va à la crème Exomega émotions et les as rien","confidence":0.78110278}]}

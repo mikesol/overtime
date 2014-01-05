@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"couleur bleu sept jours et je fais ici il fait un temps","confidence":0.74361581}]}

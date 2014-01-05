@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"non je souhaitais je vais travailler la vie","confidence":0.67909557}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et","confidence":0.43034396}]}

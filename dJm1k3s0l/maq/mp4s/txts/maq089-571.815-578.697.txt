@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"scarabée karaoké call de site de fou aller manger","confidence":0.6447649}]}

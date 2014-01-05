@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"laissez pas frais","confidence":0.49495426}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ok maman maman puisque c'est quand Halloween 26 quai","confidence":0.69732577}]}

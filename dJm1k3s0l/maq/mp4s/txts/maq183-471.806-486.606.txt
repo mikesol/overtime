@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"collection et là c'est ça le truc c'est tellement beau à chaque fois que le monde sur mes","confidence":0.60445994}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" sur mes joues sur mon front","confidence":0.86065346}]}

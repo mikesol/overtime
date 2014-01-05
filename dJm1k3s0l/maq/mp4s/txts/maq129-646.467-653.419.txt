@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu peux pas vous déranger l'application il est là","confidence":0.65433776}]}

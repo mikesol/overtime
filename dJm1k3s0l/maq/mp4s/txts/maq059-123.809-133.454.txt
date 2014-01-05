@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"alors maman que je fais le tapissier de la Tour Eiffel en acheter à Céline","confidence":0.7524544}]}

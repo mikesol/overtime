@@ -1,0 +1,4 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"et toi","confidence":0.50210088}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ça me saoule","confidence":0.52095371}]}

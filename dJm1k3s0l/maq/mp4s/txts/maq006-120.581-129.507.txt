@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu es là au passé au sérieux et en quelle année est de de chez Ikea","confidence":0.789433}]}

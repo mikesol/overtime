@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'ai le numéro de série le résultat est une marque et que j'adore et le monde","confidence":0.76127243}]}

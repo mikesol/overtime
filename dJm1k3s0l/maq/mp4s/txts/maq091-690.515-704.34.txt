@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est là que j'ai les yeux bleu vert marron super sympa et facile à faire en plus tu veux pas qu'on pouvait IPF les oeufs du lait","confidence":0.76303446}]}

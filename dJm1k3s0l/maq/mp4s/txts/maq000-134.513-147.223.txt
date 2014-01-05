@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et je suis un peu de la vie la vie de m**** et j'arrête tout","confidence":0.78018421}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pour participer à on va dire que vous avez jusqu'au 30 avril et à la fin du mois et fils ayant commentaire sur la vidéo","confidence":0.83536857}]}

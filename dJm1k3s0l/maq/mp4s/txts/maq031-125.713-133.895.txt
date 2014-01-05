@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et prélever la matière blanche et la mettre sur mon visage","confidence":0.73885578}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" après je viens","confidence":0.43922853}]}

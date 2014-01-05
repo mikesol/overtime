@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'ai un écart que j'allais entrer dans a quasiment disparu allô ça c'est super gentil quand tu peux aller dans 6h","confidence":0.7863667}]}

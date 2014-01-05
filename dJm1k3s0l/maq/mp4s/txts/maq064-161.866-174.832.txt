@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Luffy chercher un travail","confidence":0.49406463}]}

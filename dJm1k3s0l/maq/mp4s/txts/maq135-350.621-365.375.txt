@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"devoir gagner toutes les îles pas avec eux","confidence":0.6979472}]}

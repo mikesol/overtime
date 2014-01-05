@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"êtes-vous fait trois trucs et ça fait longtemps que je n'ai pas non plus","confidence":0.65351826}]}

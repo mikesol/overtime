@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tarif réduit pour ce concours c'est juste un rouge à lèvres YSL rouge à lèvres she supprime de Max et c'est un sac en clair même si tu veux montrer","confidence":0.73561323}]}

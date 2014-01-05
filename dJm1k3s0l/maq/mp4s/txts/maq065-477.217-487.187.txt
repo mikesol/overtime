@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Jonas définition instar toujours avec","confidence":0.60283732}]}

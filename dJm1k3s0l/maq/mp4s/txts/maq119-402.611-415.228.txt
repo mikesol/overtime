@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"premier défilé Fashion Show bonjour ceci est un test","confidence":0.53869665}]}

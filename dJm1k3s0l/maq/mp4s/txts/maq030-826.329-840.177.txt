@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"une crème pour le visage de cheveux longs pieds de porc","confidence":0.73415273}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" allez avoir quelque chose qui est qui est vraiment excellent moyen de Rico","confidence":0.69772613}]}

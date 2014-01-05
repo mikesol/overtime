@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"juste devant est un peu grand-mère comme moi et que la vidéo vous a plu","confidence":0.61512202}]}

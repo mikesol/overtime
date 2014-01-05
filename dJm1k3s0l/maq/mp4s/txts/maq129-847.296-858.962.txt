@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"50 euros ça fait mal passé le céleri j'espère que tu n'es fille et je dis à bientôt","confidence":0.79840779}]}

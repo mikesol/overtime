@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"caca kaki la tâche non enregistré ce que la fin de maquiller message est passé le supérieur","confidence":0.6676755}]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"truc de chez Sigma","confidence":0.65420067}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et le résultat est vraiment super avant la séance est question CM2","confidence":0.60169393}]}

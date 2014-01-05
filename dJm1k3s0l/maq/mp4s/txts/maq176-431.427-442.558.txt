@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"ensuite j'ai eu non direction 3 1 2 c'est de l'amour","confidence":0.59351498}]}

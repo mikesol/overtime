@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"très très fort et c'est une couleur est une taille SM Caen","confidence":0.63783163}]}

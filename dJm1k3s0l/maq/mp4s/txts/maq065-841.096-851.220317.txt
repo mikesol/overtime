@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"que je t'aime euh de chez Monop et cetera ne sais pas à me dire que les Hauts-Geneveys très gros bisous et vous dis à plus tard","confidence":0.60625237}]}

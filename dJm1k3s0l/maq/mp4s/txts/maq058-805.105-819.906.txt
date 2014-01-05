@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"privé de La Fayette bonjour ça va mettre pour mettre à jour mettre sur le dos j'ai fait un petit peu palette va tomber","confidence":0.64517111}]}

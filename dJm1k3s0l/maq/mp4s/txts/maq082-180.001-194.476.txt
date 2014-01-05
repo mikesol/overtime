@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Facebook le verre est que tous les enfants là-bas infos sur le feu","confidence":0.59984076}]}

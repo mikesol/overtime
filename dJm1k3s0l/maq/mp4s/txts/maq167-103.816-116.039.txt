@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"montrer le résultat semble donc voilà le résultat au bout de 6 mois de traitement banque CIC","confidence":0.7095874}]}

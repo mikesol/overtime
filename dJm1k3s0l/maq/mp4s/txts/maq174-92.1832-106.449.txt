@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"chargement sur YouTube non mais tu te calmes et caetera mais j'en ai déjà parlé parce que c'est mon plus beau complexe avec mes hanches euh et voilà je voulais faire quelque chose mais en même temps je pouvais pas porter des bagues en métal","confidence":0.74433279}]}

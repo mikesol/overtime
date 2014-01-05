@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"euh le générique Baker Street SFR 22 rue sur une vidéo de FC baptême qu'est une tu veux que j'adore et euh","confidence":0.70616668}]}

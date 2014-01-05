@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"téléphoner si le 68 de chercher euh je vais payer de dollars 60 et quelques point com","confidence":0.72505695}]}

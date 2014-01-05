@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est de faire des chaussures de marque","confidence":0.70281559}]}

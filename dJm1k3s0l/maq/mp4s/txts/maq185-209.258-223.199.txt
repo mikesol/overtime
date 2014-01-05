@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ensuite je t'ai demandé et c'est les deux mêmes euh je pense à acheter tu vas parce que j'ai grandi","confidence":0.6326884}]}

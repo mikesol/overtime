@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu veux le savoir Black Ops 2 ikea.fr","confidence":0.61544889}]}

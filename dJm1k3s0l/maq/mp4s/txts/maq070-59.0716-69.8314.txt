@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"comment utiliser le duché et il revient il est toujours en vente","confidence":0.70217133}]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"t'as pas bien pour éviter les chutes de tes des des phares","confidence":0.71001458}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" jambette personne jusqu'au coin.fr couleur est par-dessus le temps","confidence":0.603576}]}

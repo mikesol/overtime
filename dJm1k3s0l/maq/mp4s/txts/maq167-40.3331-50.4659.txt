@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"message à maman ça va sur toi chercher avec un W","confidence":0.80079508}]}

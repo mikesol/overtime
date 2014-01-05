@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"j'ai également fait un petit peu de crayon ainsi la taupe avant que vais-je juste pour réveilla","confidence":0.68374366}]}

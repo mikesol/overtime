@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et euh c'est bon ça coûte 14 euros cinquante et que j'ai fait caca","confidence":0.61281043}]}

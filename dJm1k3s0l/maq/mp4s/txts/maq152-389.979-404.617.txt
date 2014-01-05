@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"quelle est la coupe de cheveux noirs","confidence":0.66575426}]}

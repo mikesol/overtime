@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"après parce que comme ça couleur se font vraiment rien 6 août on a revécu vrai que je n'ai pas forcément ce n'était la couleur tout seul","confidence":0.78990209}]}

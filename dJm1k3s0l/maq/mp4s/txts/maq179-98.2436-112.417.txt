@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est en train de chez MAC t'appelle parce que tu t'es trouvé déduction sur Internet tomate","confidence":0.57997155}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et c'est un corail","confidence":0.5586639}]}

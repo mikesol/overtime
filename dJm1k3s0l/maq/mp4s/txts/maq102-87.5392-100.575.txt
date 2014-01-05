@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et oui tu vois juste deux ou trois tours de la tête blonde pas de cheveux et Samsung vraiment très très bien c'est pas super bien effacer les cheveux super brillant","confidence":0.75554824}]}

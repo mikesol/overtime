@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je vais avec mon père bisous en train de la gare","confidence":0.63044322}]}

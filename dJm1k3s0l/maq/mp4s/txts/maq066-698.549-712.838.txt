@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je suis constamment les dépenses au logement de c****** qui est plutôt pas mal karaoké","confidence":0.82135391}]}

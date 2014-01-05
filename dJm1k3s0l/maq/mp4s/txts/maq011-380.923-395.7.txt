@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui est le prochain et avec photos","confidence":0.54563951}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"normal et je suis pas payer pour ça mais en même temps il fait à côté","confidence":0.66354597}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"chaleur et quand il est là salut c'est comme si vous étiez du bicarbonate de soude","confidence":0.56886357}]}

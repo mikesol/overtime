@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"affaires pour ce truc-là place boulot si tu avais un Jumbo de chez eux bien","confidence":0.69652808}]}

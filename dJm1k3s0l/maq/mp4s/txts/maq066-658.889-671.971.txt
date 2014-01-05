@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"voilà maintenant avec mon fils de l'Inde","confidence":0.76095206}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" caméra","confidence":0.65057087}]}

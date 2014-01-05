@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et j'aime ça non mais vous pouvez directement à acheter un visage plus deux définition","confidence":0.67993194}]}
+{"status":5,"id":"","hypotheses":[]}

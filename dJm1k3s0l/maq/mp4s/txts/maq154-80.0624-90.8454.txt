@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je veux la paix en mordant doré","confidence":0.44864553}]}

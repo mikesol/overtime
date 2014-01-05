@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le Chanel inimitable intense noir de jeunesse et de la famille là-bas","confidence":0.65244609}]}

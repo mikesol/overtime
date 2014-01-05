@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"PST S III EDC","confidence":0.59908336}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"voiture comme ça c'est une bonne journée chaque repas et vous demander pourquoi soupe pour les débutants","confidence":0.76784152}]}

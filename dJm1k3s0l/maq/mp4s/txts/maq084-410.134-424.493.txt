@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le plus grand des sites fossiles","confidence":0.66445726}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" en tapotant","confidence":0.64724725}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ta maman qui est juste de Léonard","confidence":0.62362736}]}

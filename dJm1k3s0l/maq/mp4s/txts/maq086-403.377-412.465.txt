@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je veux surtout pas venir sur la couleur que je voulais je reste comme ça sur le maquillage","confidence":0.88514417}]}

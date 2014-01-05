@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"agence samedi cours parce que j'ai vraiment envie de faire un prénom ouvert jusqu'au","confidence":0.6284709}]}

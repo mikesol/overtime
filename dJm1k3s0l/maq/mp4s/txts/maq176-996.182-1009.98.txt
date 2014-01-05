@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il est assez difficile mais pourquoi le ciel est vraiment la halle données","confidence":0.78627872}]}

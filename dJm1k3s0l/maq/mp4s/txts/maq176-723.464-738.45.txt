@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"autant pour autant dire que je surkiffe est un essai pour une crème qui vous rend de Sancerre","confidence":0.62410724}]}

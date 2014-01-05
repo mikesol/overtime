@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"dosette expert aura-t-il à vendre et à quel âge","confidence":0.49539021}]}

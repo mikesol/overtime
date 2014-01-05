@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je c est vraiment ATC en magasin c'est un petit boulot à tout à l'heure créez et Nana","confidence":0.64319319}]}

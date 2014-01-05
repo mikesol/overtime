@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"salut alors aujourd'hui je suis là pour faire un autre avis que il fait pas chaud écrire à la télé les enfants commencent à Angers","confidence":0.73667109}]}

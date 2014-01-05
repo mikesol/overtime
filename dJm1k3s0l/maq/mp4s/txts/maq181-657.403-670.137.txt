@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"donne-moi la main pour les pieds dans le château chorale de chez vous comme ça c'est un vrai que je suis là","confidence":0.72343284}]}

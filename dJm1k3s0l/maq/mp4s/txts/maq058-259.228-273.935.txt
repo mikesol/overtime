@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"semaine avant que je ne suis pas pressé sur le côté non je n'ai plus que les amants quand on danse on a l'affiche en ce moment avant que ça sonne pas marcher la peau","confidence":0.62056667}]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"séance pour la couleur d'un objet est la plus claire que je suis très très blanche","confidence":0.69038922}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" comme ça là","confidence":0.68156147}]}

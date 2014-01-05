@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"département va s'aimer encore","confidence":0.49349874}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je suis avec le jeune","confidence":0.78253472}]}

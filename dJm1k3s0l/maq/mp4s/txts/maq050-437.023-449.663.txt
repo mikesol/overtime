@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"topaze je serai là mais j'ai pas cher tous les jours le reveil","confidence":0.60435575}]}

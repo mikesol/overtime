@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"psk parce que là pour t'aider","confidence":0.63000196}]}

@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"appliquer du crayon","confidence":0.885144}]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":5,"id":"","hypotheses":[]}

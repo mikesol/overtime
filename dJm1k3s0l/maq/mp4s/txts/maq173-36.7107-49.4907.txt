@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Coiffure vas-tu ça va séparer les cheveux et je vais te prendre","confidence":0.58644372}]}

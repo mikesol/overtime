@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Mickey mais qu'est-ce que c'est pas ça c'est juste que c'est pas moi Classic masque de français avec un petit assaut 60 millions","confidence":0.63661891}]}

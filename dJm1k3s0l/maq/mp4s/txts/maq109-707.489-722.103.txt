@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pourquoi euh et mon chat s'est fait partie de Top Chrétien EDF","confidence":0.69800997}]}

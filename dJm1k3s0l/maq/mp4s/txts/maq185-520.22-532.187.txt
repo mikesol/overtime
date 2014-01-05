@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il était à -30 pourcent avec un Galaxy 4 Austin et ally rapidement parce que j'ai pas de foot","confidence":0.67963564}]}

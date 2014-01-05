@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"on va passer pour vous aujourd'hui des jeux de chat voilà donc avec un inconnu mais là c'est marqué et à imprimer trailer","confidence":0.78293997}]}

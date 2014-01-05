@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"viens maman faire le bon coin","confidence":0.51916152}]}

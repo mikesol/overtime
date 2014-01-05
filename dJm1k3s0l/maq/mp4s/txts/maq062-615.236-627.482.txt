@@ -1,0 +1,4 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"un peu peur François Vincent","confidence":0.64808089}]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":" permettre un petit peu","confidence":0.73380536}]}
+{"status":5,"id":"","hypotheses":[]}

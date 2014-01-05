@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pour les problèmes de hanches et tu vois là sous la douche","confidence":0.64754456}]}

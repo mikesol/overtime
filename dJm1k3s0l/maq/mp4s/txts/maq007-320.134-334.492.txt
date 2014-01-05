@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Thailande de côté","confidence":0.63391608}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et les cheveux","confidence":0.57815582}]}

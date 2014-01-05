@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est un message qui sait pas orange chez moi et je suis pas comme moi euh le monde va très bien c'est vraiment le détour","confidence":0.72641158}]}

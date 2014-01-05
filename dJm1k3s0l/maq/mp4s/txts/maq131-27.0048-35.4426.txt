@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"merci de ce que vous avez passé passion et euh c'est juste incroyable","confidence":0.65919644}]}

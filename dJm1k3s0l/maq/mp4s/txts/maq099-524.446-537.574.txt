@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"un incroyable allez a insisté sur PC Ikea parce que à four encastré s'il fonctionne parfaitement bien et il est parce que","confidence":0.65454197}]}

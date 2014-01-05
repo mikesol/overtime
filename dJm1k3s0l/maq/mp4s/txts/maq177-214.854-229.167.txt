@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"connaissez certainement mais non mon amour pour le métro chic de ce soir je me suis lâchée qui est en toi","confidence":0.62299776}]}

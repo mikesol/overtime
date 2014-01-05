@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"papa il est pas cher à acheter un truc dessus essai Selligent de Chanel était la tarte aux poires","confidence":0.73865139}]}

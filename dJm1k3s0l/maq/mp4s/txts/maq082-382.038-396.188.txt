@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ouais c'est super couleur kaki demande de parler centrale tout ce que je pense qu'il faut que c'est qu'un petit vicieux pas du tout vert la couleur","confidence":0.57547158}]}

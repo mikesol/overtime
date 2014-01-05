@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"assassinat bleu et quel âge à Claire avec","confidence":0.56656897}]}

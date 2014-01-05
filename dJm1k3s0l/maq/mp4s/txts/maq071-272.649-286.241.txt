@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je suis en l'armoire","confidence":0.4503414}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" mais en pension Allociné au passé supérieur et si","confidence":0.55488527}]}

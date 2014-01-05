@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je suis ici aujourd'hui je pars à vernis Essie sujet et c'est parti Mathilde","confidence":0.73236763}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ce soir à la maison centre de santé et de savoir que les saucissons acier","confidence":0.73816842}]}

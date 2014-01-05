@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"meilleur 32 32 citation citation sur Super Street coloré","confidence":0.66864634}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tous les produits pour les cheveux ça va être difficile que d'autres qui maison sur le dire de coiffure au Cannet brosse à cheveux avec un fer à lisser et friser Violetta pour les chauffeurs","confidence":0.73458862}]}

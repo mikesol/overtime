@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"attends je suis est le phare coquette avec mon avocat et de faire à manger à fait écrivez un crayon pour aller plus vite le matin","confidence":0.66994351}]}

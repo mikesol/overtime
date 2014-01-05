@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"y'a pas de 206 après le passage de la douche et ravissante","confidence":0.80739617}]}

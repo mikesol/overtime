@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je voudrais chercher mes deux années que je ne suis pas intéressé par couleur en ce moment de te faire plaisir j'espère que veut dire que Google parler oh mais vous plaira et","confidence":0.77116203}]}

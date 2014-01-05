@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et c'est le miracle de gommage sensoriel blanches sur le corps donc sa maison de repos","confidence":0.63205093}]}

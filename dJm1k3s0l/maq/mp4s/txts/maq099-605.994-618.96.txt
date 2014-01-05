@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"l'atelier ça ira bien c'est vraiment beau temps les jolies pimenter un peu les embouteillages et l'odorat ça va ça sent la vente","confidence":0.71957606}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'ai une bonne nouvelle c'est que je vais pouvoir venir ce soir de rencontres et cetera parce que j'en chez moi","confidence":0.66114801}]}

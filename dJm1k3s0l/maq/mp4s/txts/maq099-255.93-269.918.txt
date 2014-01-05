@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Fabrice Fabrice Fabrice 9h30 et je suis également que j'aime beaucoup le gène de C2 1.6 Genas cas de chez Kiko qui est à Mascara sourcils","confidence":0.67466098}]}

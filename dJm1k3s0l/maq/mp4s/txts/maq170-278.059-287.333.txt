@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"vous venez nous voir et je vais passer au beurre est-il supérieur","confidence":0.77771229}]}

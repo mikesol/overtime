@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je suis jamais au collège au lycée et de fille mais tu sais pas","confidence":0.65918112}]}

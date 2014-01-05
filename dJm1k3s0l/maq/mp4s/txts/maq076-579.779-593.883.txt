@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"comme tous parce que faire coucou","confidence":0.54523116}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" pas chers pour la qualité","confidence":0.64383}]}

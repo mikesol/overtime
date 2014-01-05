@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"carte heure trente belge qui a pas d'encours 6h30 de chez SFR c'est la life numéro 1","confidence":0.74247336}]}

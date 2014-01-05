@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et euh je voudrais savoir si le film était un petit navire PMU","confidence":0.55246758}]}

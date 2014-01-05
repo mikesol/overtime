@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui est à l'école élémentaire de Chessy chérie HD États-Unis et j'ai pas cher","confidence":0.55957073}]}

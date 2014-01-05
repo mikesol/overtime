@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"paravent résultat qu'avec des boucles exetera les îles","confidence":0.56061429}]}

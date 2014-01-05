@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je suis sur mon amour pointure et l'appliquer ici soleil","confidence":0.6238119}]}

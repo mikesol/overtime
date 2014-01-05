@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ok qu'est-ce que si si tu veux mettre au coin externe de mon âge et en français ça ça y est ça va","confidence":0.73648661}]}

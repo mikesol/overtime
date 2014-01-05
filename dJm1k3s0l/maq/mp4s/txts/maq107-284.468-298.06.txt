@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le coeur qui est complètement démonter laver puis il est temps que j'ai acheté un peu d'eau que je recommence allô écoutez de vacances mais mais mais","confidence":0.78932178}]}

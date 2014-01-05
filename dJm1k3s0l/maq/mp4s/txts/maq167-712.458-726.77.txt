@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et là","confidence":0.43567169}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" Facebook","confidence":0.70195436}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et maintenant appliquer du mascara et je vais le sexy pack de Yves Rocher","confidence":0.67722857}]}

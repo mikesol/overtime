@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"vraiment que je sers à rien et toi aussi tu dis à chercher Thomas Mickey Mickey c'est","confidence":0.75687313}]}

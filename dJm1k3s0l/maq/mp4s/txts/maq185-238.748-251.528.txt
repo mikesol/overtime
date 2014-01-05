@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"si euh rouge bordeaux Bordeaux","confidence":0.74039358}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" vous êtes parti en fait ça","confidence":0.43739307}]}

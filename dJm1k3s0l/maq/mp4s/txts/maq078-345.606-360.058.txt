@@ -1,0 +1,3 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"et toujours attention à ce que","confidence":0.61748749}]}
+{"status":5,"id":"","hypotheses":[]}

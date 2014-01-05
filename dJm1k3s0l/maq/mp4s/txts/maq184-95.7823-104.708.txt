@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je veux rentrer à les derniers détails de mon salaire surtout suis VF","confidence":0.63792294}]}

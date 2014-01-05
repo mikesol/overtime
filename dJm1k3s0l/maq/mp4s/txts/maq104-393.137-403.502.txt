@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"solutions pour la tension mettra les","confidence":0.56879896}]}

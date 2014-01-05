@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu fais quoi là parler et s'il n'en valait la peine SMS à Coralie lui disant euh y'a pas ça","confidence":0.71706074}]}

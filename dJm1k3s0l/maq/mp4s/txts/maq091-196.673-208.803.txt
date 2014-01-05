@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"sur les côtés Cyrano quoi parce que on va avoir un message et il y a une jolie c'est le phare suis un petit peu la même direction","confidence":0.76319325}]}

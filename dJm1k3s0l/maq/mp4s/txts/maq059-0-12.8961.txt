@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"salut alors aujourd'hui je suis là avec ma copine et faire arrêter de faire un tiret de Adèle sa voiture de vagues","confidence":0.73519379}]}

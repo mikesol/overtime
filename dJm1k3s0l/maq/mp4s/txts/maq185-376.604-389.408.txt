@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"message à ce petit jeu-là Bordeaux et à demain","confidence":0.45490706}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" non que va","confidence":0.53006965}]}

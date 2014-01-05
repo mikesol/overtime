@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"un truc super plaisir parce que j'ai toujours été complexé par un sourire je pense que vous savez c'est bon je suis sûr","confidence":0.76060021}]}

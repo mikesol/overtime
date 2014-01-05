@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ensuite pour le tout pour l'enfant euh images rien ne pourra","confidence":0.7767809}]}

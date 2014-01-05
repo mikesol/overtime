@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"entre une femme et je veux faire du cinéma de Max qui est ici c'est encore une chanson avec des pères je vais l'appliquer sur son mobile","confidence":0.73562264}]}

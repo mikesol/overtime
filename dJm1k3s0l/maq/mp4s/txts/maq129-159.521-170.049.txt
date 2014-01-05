@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"380 euros comment faire je pense que vous trouverez en détention en français as pris la surtout","confidence":0.68530661}]}

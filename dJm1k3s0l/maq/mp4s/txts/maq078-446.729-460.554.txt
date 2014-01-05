@@ -1,0 +1,3 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"film avec","confidence":0.6547491}]}
+{"status":5,"id":"","hypotheses":[]}

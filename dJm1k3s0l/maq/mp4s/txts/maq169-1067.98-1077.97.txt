@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"bientôt euh la semaine j'ai pas le temps que met en soirée Google","confidence":0.74026102}]}

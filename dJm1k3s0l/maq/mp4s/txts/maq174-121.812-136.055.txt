@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'ai eu la chance de contacter par là il a lancé une marque qui fait appareil dentaire invisible comme si je parle E et je connaissais déjà c'est marqué sur ma belle que Samantha Davies vous avez pas comme ça","confidence":0.83083135}]}

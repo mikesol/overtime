@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je veux que je te donne le la j'ai acheté un maillot bleu foncé toujours qu'il est au 6 et sable celle que j'aime beaucoup ce jeu marrant parce que","confidence":0.71543109}]}

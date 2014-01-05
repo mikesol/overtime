@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"aujourd'hui et demain je n'ai jamais dans le mascara de chez mon mascara vraiment préféré de tous les temps et","confidence":0.80245936}]}

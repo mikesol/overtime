@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Monsieur Thierry j'ai la marque connue Antonella","confidence":0.60970211}]}

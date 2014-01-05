@@ -1,0 +1,4 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ac Metz","confidence":0.43624112}]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":5,"id":"","hypotheses":[]}

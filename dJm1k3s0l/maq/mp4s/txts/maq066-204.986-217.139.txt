@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"réserve naturelle c'est pas du tout les sens du travail et que j'aime pas l'école j'aime pas s'il sera sera parfait","confidence":0.66133422}]}

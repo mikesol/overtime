@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mais je sais que tu as raison en français désolé je n'ai pas dit que","confidence":0.59545583}]}

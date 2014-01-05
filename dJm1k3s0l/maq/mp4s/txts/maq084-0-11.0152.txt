@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"salut alors aujourd'hui je suis là avec Monsieur sushi pour vous faire installation Play TV","confidence":0.7209717}]}

@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"et je sais pas si c'est ça aussi ou se met la racine français et moi je sais pas avec le N","confidence":0.65435332}]}

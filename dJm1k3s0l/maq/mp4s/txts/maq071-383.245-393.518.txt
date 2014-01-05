@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il veut dire que tu es très très gentil","confidence":0.58212852}]}

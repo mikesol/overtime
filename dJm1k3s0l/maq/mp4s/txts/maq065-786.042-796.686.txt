@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"15 avenue de classique c'est assez discret comme ça c'est pas lui qui fait caca couleur vert ça","confidence":0.70808208}]}

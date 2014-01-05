@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et euh j'ai agrafé la moustiquaire derrière le cadre et voilà ce que ça donne je suis accrochée au mur avec un petit ruban comme ça","confidence":0.72625512}]}

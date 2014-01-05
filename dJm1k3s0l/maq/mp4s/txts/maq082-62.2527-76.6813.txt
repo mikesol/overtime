@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ça fait longtemps que les portes de Versailles les plus marrantes ce soir c'est ça va très bien je vais rien et les yeux bleus ne vous plaît pas c'est parce que on dit que les aras ne sais pas sortir","confidence":0.72479832}]}

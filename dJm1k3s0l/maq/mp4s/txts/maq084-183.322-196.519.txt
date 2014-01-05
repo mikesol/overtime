@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je sais que je suis pas assez précis de chez lui comme ça je vais remettre dans le coin interne de l'oeil","confidence":0.73867702}]}

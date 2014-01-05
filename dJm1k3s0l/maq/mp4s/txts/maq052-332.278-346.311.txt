@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"ici avec un petit chien qui a 45 de cinéma","confidence":0.69639689}]}

@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'applique du sang sur les mains comme ça","confidence":0.67951953}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et je vais faire comme ça","confidence":0.62964773}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" voilà j'ai également","confidence":0.77475077}]}

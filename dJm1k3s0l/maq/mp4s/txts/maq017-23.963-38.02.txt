@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"de tout ce qu'on fait pour pour être sur Facebook pour répondre à tous les comment faire une terrasse est toujours là pour avoir des suggestions pour les jeux vidéo des conseils fédéral que je sais pas quoi","confidence":0.83677763}]}

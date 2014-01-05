@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"n'hésitez pas si tu veux je l'aime chez Cora note trouver n'importe où est euh ça dentaire sur","confidence":0.78348994}]}

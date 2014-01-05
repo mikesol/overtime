@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est un peu ça c'est sûr que papa n'est pas ainsi que c'est bien euh","confidence":0.73063219}]}

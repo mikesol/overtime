@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Pierre et Vacances voulais quelque chose qui n'est pas grave parce que j'ai marqué que","confidence":0.76168728}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"président de la lèvre c'est moi ici en remontant délicatement s'il vous plaît","confidence":0.78760487}]}

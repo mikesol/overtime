@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"façon transition entre est dans sa souffrance sur ses intentions à","confidence":0.72415102}]}

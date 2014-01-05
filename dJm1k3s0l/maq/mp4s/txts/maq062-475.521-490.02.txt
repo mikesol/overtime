@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"avec du violet que j'ai passé la nuit carte Île de Ré et que ça à faire","confidence":0.69967145}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"grosse différence de taille entre les deux sachant que celui-ci ça va c'est parfait pour appliquer le fard à paupière Solutia côté est vraiment rentré","confidence":0.7742731}]}

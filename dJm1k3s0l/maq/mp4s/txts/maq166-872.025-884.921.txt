@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"santé à toi ça que je fais du sang et du costume Amazing un PC","confidence":0.75544399}]}

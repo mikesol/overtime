@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"parce que je veux donc me semble que oui je recommanderais ceci dans le vagin","confidence":0.7356478}]}

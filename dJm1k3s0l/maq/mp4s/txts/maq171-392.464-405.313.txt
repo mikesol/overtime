@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"la pression parce que depuis tu sais pas j'ai pu se trouvent les week-ends en plus ça vraiment diminué et message je sais pas c'est le cerveau de problème mais euh","confidence":0.68559307}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"alors si c'est celui-ci est c'est le pixel Paul alors vache donc c'est un pinceau eye-liner plus grosse déception de suite parce que moi il est","confidence":0.64106232}]}

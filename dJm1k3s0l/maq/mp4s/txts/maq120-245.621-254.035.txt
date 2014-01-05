@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"dès que je peux avoir votre adresse","confidence":0.63323116}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu vas j'espère que cette vidéo vous a plu ici il est avec vous parce que il y avait trouvé partager entre","confidence":0.66327977}]}

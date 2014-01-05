@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"même parler dans la pratique et celui-ci avec Sophie","confidence":0.70759416}]}

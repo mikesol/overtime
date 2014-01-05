@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ça c'est pas compliqué que les cheveux non j'ai gardé une grosse vache ici sur le côté et tous les tous les as tous les cheveux","confidence":0.73765206}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"celui-ci est papa c'est le plus appel à Saintes brache tu dis que c'est fait pour faire des ailes de plus de précision","confidence":0.66365248}]}

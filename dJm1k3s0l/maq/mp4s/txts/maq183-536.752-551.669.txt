@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"va finir pour les lèvres je suis vraiment fier un prix s'appelle L'Oreal Glam Shine et c'est la numéro 900 de sites qui pique et savoureuse un petit peu","confidence":0.70491767}]}

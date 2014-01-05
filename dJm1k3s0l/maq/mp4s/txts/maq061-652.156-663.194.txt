@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"parce que quand je charge des trucs assez assez soft","confidence":0.8048808}]}
+{"status":5,"id":"","hypotheses":[]}

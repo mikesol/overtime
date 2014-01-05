@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et maintenant je vais remonter un petit peu","confidence":0.77144402}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" sur le côté","confidence":0.74251026}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" pour former en neige","confidence":0.7928521}]}

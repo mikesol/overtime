@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Defender mais c'est vrai c'est aujourd'hui avec un pinceau Sigma 224","confidence":0.75604361}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" comme ça","confidence":0.73349142}]}

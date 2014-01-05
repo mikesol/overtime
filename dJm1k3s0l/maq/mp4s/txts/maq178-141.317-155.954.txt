@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pourquoi pour four dans le cadre de mes études à l'École Supérieure de Rouen Francisco si on est tous les deux programme","confidence":0.67752033}]}

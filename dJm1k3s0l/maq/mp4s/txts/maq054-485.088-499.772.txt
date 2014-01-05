@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ça va est-ce que je peux mettre sur mon passé à faire","confidence":0.63768899}]}
+{"status":5,"id":"","hypotheses":[]}

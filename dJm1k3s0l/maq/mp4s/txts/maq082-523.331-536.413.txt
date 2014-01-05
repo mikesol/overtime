@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"assez discrète par rapport aux ovaires qu'on peut trouver des palettes Maps la chistera","confidence":0.65656328}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et sur les yeux marrons et je fais chier c'est juste une tuerie sur le Gers","confidence":0.8107422}]}

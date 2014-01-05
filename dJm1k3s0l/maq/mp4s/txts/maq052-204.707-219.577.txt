@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"toute les nations","confidence":0.6587165}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" Edition","confidence":0.43034396}]}

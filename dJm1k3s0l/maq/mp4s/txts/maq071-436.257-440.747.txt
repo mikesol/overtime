@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je veux frotter le Var jusqu'à ne plus avoir fait des marques à Sion","confidence":0.64434135}]}

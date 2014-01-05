@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"comment bien arrivé mais moi je vais vous parler de ça c'est le soleil de temps de chez Chanel qui se casse à la crème iPhone 5 rue de la","confidence":0.65639609}]}

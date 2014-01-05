@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu peux avec nous donc voilà je te dis à ton C est-ce que je recherche euh qu'est-ce que le pauvre","confidence":0.73543918}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"avec ce t-shirt la chercher un pyjama mais arrête de se lever et quand quand quand quand même","confidence":0.79343325}]}

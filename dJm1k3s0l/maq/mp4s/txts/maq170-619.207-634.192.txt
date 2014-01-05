@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Les Mystères connaissent la rentrée en temps et en plus demain","confidence":0.67166805}]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":5,"id":"","hypotheses":[]}

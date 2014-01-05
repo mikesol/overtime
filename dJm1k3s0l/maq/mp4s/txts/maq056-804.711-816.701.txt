@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"du Master de chez vous ou pas","confidence":0.61261213}]}

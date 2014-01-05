@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"dernier car on va mettre les fondements mêmes couleurs qui se remplissant suis trompé et gris c'est le bus à ce numéro 109","confidence":0.7175802}]}

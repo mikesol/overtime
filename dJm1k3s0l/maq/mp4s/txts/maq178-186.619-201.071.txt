@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pour visiter les pays Vietnam Laos Cambodge Bella et rentrant le ventre du coup je sais","confidence":0.72767317}]}

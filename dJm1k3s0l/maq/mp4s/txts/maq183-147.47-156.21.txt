@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Steelers de chez moi qui se cacher s'il suffisait pour faire un briquet assez assez ça","confidence":0.77245879}]}

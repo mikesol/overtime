@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ANPE","confidence":0.648637}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" aller à pied super","confidence":0.46116012}]}

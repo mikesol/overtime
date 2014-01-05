@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"délicatement comme ça je sais pas ce que j'ai utilisé le crayon filet de Mac qui est un crayon noir","confidence":0.76406395}]}
+{"status":5,"id":"","hypotheses":[]}

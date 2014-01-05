@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"allez bonne mine et très très jolie sur la Roquette j'espère que ça vous plait à une heure est-il fait pour mon père et je t'aimerai Chanel temps en temps","confidence":0.75460047}]}

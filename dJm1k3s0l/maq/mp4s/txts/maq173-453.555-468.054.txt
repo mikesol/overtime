@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et il fait chaud parce que si si c'est un film","confidence":0.59436601}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je sais que ça veut pas","confidence":0.72251534}]}

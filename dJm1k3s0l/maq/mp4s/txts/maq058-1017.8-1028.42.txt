@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et puis voilà j'espère que ça vous a plu n'hésitez pas à m'envoyer la CAF pour Noël en scooter en photos","confidence":0.75636423}]}

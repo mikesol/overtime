@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est moi même si elle avait les photos c'est vraiment beaucoup et HTC cha","confidence":0.77273351}]}

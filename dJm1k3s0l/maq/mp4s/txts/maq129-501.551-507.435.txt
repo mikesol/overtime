@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"météo de temps ce que celui-ci qui est le contour brèche","confidence":0.82840037}]}

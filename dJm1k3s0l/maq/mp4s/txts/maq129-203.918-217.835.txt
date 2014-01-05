@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"celui-ci a personne que je comprends pas comment cela allait précis mais faut que ça soit un peu plus gros du type 239 de Mac OS pour montrer la différence de taille dans celui-ci","confidence":0.65872592}]}

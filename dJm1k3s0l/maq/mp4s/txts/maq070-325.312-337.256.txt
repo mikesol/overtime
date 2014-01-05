@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Jean-Paul à avoir une fille","confidence":0.61682647}]}

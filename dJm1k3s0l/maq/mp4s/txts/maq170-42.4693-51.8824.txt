@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Ikea avant la veste","confidence":0.60009509}]}

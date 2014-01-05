@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je ne veux pas venir parce que j'adore et que là je parle de sécher et que ce truc est vraiment i love","confidence":0.75771862}]}

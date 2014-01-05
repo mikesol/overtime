@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ici en tapotant","confidence":0.80294746}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" rentrer je voudrais vous êtes là pour Claire comme moi c'est super parce que","confidence":0.67811054}]}

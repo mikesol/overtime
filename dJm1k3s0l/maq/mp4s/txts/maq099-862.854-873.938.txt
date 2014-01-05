@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"parce que c'est un produit avec horreur 2012 pendant la collection Noël 2013","confidence":0.82432938}]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'ai apprécié dessin de la palette Naked 2","confidence":0.55282098}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" j'ai commencé par ce petit col qui est ici","confidence":0.69405299}]}

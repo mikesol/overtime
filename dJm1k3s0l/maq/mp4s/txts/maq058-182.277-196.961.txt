@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"703 Saint-Hilaire-lez-Cambrai caoutchouc petit lever le crayon jamais tu dois","confidence":0.65069503}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" pour faire une belle je l'ai assez foncé","confidence":0.65705812}]}

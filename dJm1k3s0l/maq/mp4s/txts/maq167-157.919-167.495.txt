@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"la crème hydratante G6 SOS Caudalie et je suis fier","confidence":0.66204834}]}

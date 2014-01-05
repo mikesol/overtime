@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"comment tailler les branches qui sont sûrement ouais on va sur mes joues si vu que je pense avoir quelques projets","confidence":0.73604518}]}

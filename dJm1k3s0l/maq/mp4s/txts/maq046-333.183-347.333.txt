@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"créer un évènement sur mon coeur","confidence":0.48877361}]}

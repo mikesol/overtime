@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pas trop trop flashy pastel celui-ci est vraiment envie de parler non même parler ça va de chez bourgeois et une seconde","confidence":0.80631751}]}

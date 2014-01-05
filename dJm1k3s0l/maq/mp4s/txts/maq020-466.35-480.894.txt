@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"creer un contrat","confidence":0.53908402}]}
+{"status":5,"id":"","hypotheses":[]}

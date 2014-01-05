@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et là je pense que c'est après tout je vous embrasse tout le monde c'est aux États-Unis par an","confidence":0.68272591}]}

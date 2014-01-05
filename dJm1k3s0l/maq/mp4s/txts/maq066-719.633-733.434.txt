@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"donc pour eux le Tarn j'ai utilisé Java à 6220 et aussi acheté","confidence":0.65977734}]}

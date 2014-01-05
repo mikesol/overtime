@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mais c'est un super emblème de la couleur rouge c'est normalement","confidence":0.83948034}]}

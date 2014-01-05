@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"en application des jours très lent","confidence":0.49546471}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" va sur la bouche paella","confidence":0.72656316}]}

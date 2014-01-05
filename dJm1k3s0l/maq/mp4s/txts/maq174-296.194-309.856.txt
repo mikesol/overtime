@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ce que j'ai jamais fait avant Hello si l'on sache que je me refais donc je vais me faire s**** des bites en plastique et que je ne peux plus me ronger les ongles de couvaison 137 Kilian j'ai pas réussi à le faire un chat","confidence":0.68383944}]}

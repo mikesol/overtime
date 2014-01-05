@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mais je rêve de passer vidéo en beauté que je vais vous parler de mon voyage à Singapour","confidence":0.68540841}]}

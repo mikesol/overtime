@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"elle est très très très vite et ça ne sais pas quand est-ce que veut dire que c'est un truc de malade 3","confidence":0.55531293}]}

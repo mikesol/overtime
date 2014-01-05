@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"SMS","confidence":0.43267429}]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":" sur moi","confidence":0.57695001}]}

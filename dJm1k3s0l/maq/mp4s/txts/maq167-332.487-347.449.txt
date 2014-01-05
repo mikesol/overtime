@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et si c'est quoi que j'ai fait moi-même et que j'utilise beaucoup je te dis si bien que ça y a pas ça qui est à mon sens","confidence":0.73331004}]}

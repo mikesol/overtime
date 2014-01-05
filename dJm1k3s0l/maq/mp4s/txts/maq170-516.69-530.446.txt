@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"défi Stéphane je prends un crayon gris cette fois-ci","confidence":0.76928329}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" mais si","confidence":0.57366872}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" en","confidence":0.43034396}]}

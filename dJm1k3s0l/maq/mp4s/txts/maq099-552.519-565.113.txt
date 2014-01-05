@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'ai essayé par le juge est un solution me plaît plus","confidence":0.63616782}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" que même si je me","confidence":0.61267412}]}

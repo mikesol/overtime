@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le cosy lumineux et chercher qui appartient à Miami qui enlève les c'est gra","confidence":0.6133855}]}

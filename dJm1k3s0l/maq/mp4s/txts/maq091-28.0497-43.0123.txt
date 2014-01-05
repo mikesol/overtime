@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ok non je suis sur la paupière supérieure","confidence":0.69937032}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" comme d'habitude Laetitia Casta","confidence":0.60948199}]}

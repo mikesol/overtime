@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je t'ai menti la saison 6 Ikea caméra dans tous les cas je pense que ça mais c'est grâce à vous que je ferai","confidence":0.7518571}]}

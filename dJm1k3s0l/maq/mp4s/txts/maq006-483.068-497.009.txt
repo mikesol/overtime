@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pas 6h et après acheter la pommade le ciel","confidence":0.66755015}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je veux pas aller faire de 2,5 ce soit assez classique","confidence":0.79871541}]}

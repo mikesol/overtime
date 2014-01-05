@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ce qu'il y est super c'est vraiment je trouve vraiment très beau je trouve beaucoup plus beau que les deux c'est là que tu as Avrillé sans fil bleu et là tu fais caca","confidence":0.7155003}]}

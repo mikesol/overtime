@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je passerai chez moi","confidence":0.68635428}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" la couleur c'est un coin éclat justement et","confidence":0.6476351}]}

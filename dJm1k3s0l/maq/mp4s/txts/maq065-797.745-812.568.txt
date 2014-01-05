@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"avec le premier vous voulez pas je fais le 05 61 10 rue de La Garenne-Colombes","confidence":0.70492458}]}

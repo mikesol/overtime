@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mais pourquoi il veut prendre sa femme","confidence":0.62157536}]}

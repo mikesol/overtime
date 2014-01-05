@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"auto occasion","confidence":0.44288003}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et voilà les sison voilà le maquillage teint maison sans maquillage","confidence":0.6941877}]}

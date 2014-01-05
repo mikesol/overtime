@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"sam le pompier en français sur le mobile","confidence":0.82829404}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et","confidence":0.43034396}]}

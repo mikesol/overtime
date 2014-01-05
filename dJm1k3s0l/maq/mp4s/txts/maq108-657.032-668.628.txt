@@ -1,0 +1,3 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"euh c'est le meilleur c'est le meilleur et","confidence":0.59152788}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" il est excellent","confidence":0.45637742}]}

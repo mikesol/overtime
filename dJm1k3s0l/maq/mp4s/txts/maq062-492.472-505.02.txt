@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je recherche Excel avec les couleurs de chez le 469 violet et ici viens de constat","confidence":0.73964447}]}

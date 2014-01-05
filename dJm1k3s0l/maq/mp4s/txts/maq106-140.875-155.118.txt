@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"si ça c'est plutôt visage par jour j'ai lâché l'affaire de chicha E2C la couleur ça va faire la table","confidence":0.77450269}]}

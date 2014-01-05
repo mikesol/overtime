@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"je prends des mèches à tresser normalement mais ce n'est pas ça suffit ça suffit","confidence":0.62530136}]}

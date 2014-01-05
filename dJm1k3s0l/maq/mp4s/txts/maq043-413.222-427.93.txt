@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est un SMS de marron et","confidence":0.57212842}]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":5,"id":"","hypotheses":[]}

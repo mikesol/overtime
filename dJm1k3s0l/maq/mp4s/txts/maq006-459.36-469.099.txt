@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Okapi les régler ça avec un pinceau biseauté la terre parler c'est tellement tellement vrai","confidence":0.78950423}]}

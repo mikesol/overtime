@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"la vie avant la mort du poussin alors que ça que j'adore ça il est super super confortable à porter","confidence":0.6699717}]}

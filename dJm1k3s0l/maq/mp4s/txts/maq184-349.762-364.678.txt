@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'adore les maths j'adorerais faire un rouge sublime voulais pas vous aidera temps passé avec un essai ultra ultra glamour leboncoin j'ai trouvé","confidence":0.73932689}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"actuellement blanc blanc qui saute pas trop blanche pas ça pour ça","confidence":0.571868}]}

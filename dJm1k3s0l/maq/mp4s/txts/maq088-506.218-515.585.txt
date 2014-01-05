@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui est un blanc et un bon verre de n'a que l'amour","confidence":0.66999298}]}

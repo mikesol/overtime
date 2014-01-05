@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je veux pas tu le laisses en en l'air c'est pas mal collée à Paris si ça va bien maintenant j'appuie haut-niveau du il faut aussi","confidence":0.74995714}]}

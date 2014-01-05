@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"clair comme moi les choses que Allah schéma message si si c'est de la vie coûte environ","confidence":0.69636816}]}

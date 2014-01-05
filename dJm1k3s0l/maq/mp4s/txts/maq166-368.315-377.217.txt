@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"surtout ce que tu veux mon avis c'est Paris","confidence":0.56549013}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" voir","confidence":0.64612651}]}

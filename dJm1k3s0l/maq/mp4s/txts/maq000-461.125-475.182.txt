@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"on va pouvoir consacrer sais je vois et tu","confidence":0.4660351}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" jeux de foot","confidence":0.61280316}]}

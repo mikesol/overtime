@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ici c'est des produits pour les lèvres en vrac j'ai pas mal de trucs dans la Star Ac 1 assez souvent des produits pour les lèvres à lèvres et des roulettes kilos j'ai pas dans ce truc là que je montre ensuite","confidence":0.74400181}]}

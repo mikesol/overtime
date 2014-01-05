@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"parce que je suis parti sans payer au niveau de la bouche et les yeux baissés avec des oeufs avec télécharger Mac","confidence":0.75966567}]}

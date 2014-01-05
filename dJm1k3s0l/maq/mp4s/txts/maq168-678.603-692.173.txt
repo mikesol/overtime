@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je veux plus écurie des à savoir quel produit utiliser c'est la même chose","confidence":0.64669091}]}

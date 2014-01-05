@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pour eux le truc vous avez peut-être C à vous sur Facebook mais j'ai ouvert mon site internet depuis vendredi ils s'appellent les conseils de julie.fr","confidence":0.79452419}]}

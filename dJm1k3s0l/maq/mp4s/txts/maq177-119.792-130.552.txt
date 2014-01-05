@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mais pas trop bien et vous ça va chier en solo blanc 500 euros que c'est","confidence":0.70898658}]}

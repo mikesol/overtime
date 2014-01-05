@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"où est juste milieu","confidence":0.77144402}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" ah la s*****","confidence":0.45172477}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" lumière du coup sur les yeux","confidence":0.59860426}]}

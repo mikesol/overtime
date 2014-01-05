@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"bonne mine et euh j'ai beaucoup aimé lapin appliquer du mascara des fossiles et Jean","confidence":0.77762711}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pays alors aujourd'hui je suis là vidéos sur mes lèvres pour l'hiver","confidence":0.73067617}]}

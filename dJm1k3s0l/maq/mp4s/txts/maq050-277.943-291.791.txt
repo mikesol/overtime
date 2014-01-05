@@ -1,0 +1,4 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"point fr","confidence":0.51407969}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" Jonas dans","confidence":0.46201622}]}
+{"status":5,"id":"","hypotheses":[]}

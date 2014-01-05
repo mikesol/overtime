@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est une couleur très jolie je pense que tu veux la peau mate un poussin","confidence":0.61771339}]}

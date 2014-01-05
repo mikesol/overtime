@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"imagine que c est j'étais chez mon boucher cm","confidence":0.74425477}]}

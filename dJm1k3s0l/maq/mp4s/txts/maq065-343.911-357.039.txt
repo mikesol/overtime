@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Mac Le Mans beaucoup moins chers et ça fait réfléchir et je suis super contente aller parce que elle est très facilement t","confidence":0.68894064}]}

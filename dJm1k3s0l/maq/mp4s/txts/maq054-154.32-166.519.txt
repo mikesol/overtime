@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"donc sûrement aller sur Angers section","confidence":0.70273232}]}
+{"status":5,"id":"","hypotheses":[]}

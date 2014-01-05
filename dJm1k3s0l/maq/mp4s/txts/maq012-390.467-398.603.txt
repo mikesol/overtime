@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"appelle mon coeur que de façon à ce soit pareil facon réunit tous les cheveux","confidence":0.72954929}]}

@@ -1,0 +1,4 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"crée tout à l'heure","confidence":0.43483189}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je pense à","confidence":0.76126385}]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":" 6 et je voulais","confidence":0.64301431}]}

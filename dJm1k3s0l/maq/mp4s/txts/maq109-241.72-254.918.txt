@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et ensuite téléphone marque du monde c'est avec","confidence":0.64401698}]}

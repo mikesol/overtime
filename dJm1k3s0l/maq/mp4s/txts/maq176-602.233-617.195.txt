@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"couleur du bleu du général et les anges les rendez-vous sur quoi","confidence":0.75152403}]}

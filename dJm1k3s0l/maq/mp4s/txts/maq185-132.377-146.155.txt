@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"coucou en faite de petits chats fermeture ça fonctionne un gris","confidence":0.63730872}]}

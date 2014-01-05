@@ -1,0 +1,4 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ceci","confidence":0.44320619}]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":5,"id":"","hypotheses":[]}

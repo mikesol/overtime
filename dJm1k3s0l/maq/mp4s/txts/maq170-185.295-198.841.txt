@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu peux voir tes seins","confidence":0.6148532}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et là dans ces quatre ensemble pour avoir un peu près","confidence":0.66940677}]}

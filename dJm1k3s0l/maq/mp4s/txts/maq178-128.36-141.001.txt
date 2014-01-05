@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"que dans un mois et 6 jours avec Francisco et j'ai beaucoup de questions à ce propos vidéos","confidence":0.79679573}]}

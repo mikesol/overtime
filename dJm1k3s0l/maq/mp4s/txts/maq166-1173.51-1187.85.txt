@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et voilà pour le cadeau mais elles sont déjà fait assez flippant comme ça avec un plafond à côté de flipper","confidence":0.70571816}]}

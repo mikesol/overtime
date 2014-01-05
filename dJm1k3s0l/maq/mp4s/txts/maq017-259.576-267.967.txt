@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pe la couleur la plus claire pas comment faire","confidence":0.63945162}]}

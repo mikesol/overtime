@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"est-ce que tu dors très bien ensemble et sur les yeux clairs","confidence":0.66529065}]}

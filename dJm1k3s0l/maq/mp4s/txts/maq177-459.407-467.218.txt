@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est super brillant en plus elle se casse au site internet de","confidence":0.66100246}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"puis ça va ça va depuis ses armes en Lego Facebook Yahoo","confidence":0.71670097}]}

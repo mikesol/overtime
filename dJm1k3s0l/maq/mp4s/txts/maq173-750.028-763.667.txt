@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"donc j'appuie ça avec un pinceau magique de chez le chat en français","confidence":0.62681067}]}

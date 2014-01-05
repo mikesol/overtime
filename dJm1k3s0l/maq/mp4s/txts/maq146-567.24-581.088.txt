@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"karaoké du monde j'ai ensuite à la vanille toujours","confidence":0.70915622}]}

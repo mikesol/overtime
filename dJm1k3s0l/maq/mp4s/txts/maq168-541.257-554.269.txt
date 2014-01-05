@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"6 7 de tension économie je veux toucher","confidence":0.7126826}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" non plus que tu veux","confidence":0.596883}]}

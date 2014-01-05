@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui est en moi avec des reflets des palettes tu es les mains sur les yeux verts des traits sur les yeux marrons je veux je veux dire galement crée pas partie de la vessie","confidence":0.71076167}]}

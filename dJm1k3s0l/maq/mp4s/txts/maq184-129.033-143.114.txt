@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et le bus numéro 1 voilà c'est ça qui soulignait juste la couleur de la salle très très très jolie rose soutenu","confidence":0.76332116}]}

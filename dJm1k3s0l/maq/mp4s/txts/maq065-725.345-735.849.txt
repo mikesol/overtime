@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et euh je sais pas euh le crapaud retard je sais pas Céline celui-ci qui est juste un oeuf","confidence":0.69785231}]}

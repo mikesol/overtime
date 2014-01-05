@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je travaille dans la vache ce n'est pas vraiment désolé c'est parce que c'est une vidéo sur les filles sur Internet","confidence":0.58773679}]}

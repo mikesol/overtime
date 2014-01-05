@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et par-dessus un enfant qui est le Coco Chanel évasion de chez Chanel c'est juste la plus belle chose que j'ai vu c'est encore une fois à 6 9","confidence":0.72665536}]}

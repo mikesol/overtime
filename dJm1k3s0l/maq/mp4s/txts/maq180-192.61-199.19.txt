@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"vert pastel sur quoi qui est sublime tu veux bronzer peau très blanche","confidence":0.75521117}]}

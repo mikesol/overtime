@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"PagesJaunes et Yahoo ne pleure pas au beige avec des manches","confidence":0.7802397}]}

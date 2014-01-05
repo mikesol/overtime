@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"que j'ai j'ai pas de cheveux épais","confidence":0.85132331}]}

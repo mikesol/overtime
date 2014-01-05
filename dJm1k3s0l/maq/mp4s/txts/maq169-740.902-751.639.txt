@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"essai de mon bébé est mon ange assez flashy","confidence":0.66039962}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" es-tu","confidence":0.64934188}]}

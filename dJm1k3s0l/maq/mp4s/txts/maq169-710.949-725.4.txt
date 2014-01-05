@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il est vraiment un mec qui se demander à quoi il est d'associer un état comme ça tu sais","confidence":0.62367135}]}

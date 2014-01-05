@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"on n'est pas au coin externe pour essayer avec le gars je l'ai pas vu que je suis et alors","confidence":0.61664772}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"course celui-là il faut aller au cinéma et à langer","confidence":0.61271465}]}

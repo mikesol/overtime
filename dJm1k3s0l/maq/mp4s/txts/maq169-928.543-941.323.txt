@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu veux passer à la télé et là vous pouvez trouver en pharmacie parapharmacie il faudrait 2","confidence":0.71020836}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"en effet bonne mine et pièces détachées sur les oeufs des yeux verts à la gare","confidence":0.73068929}]}

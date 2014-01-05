@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et pour finir collège appliquer un relais de chez Revlon Colorburst 04510 SFR oui j'ai vu des neiges qui est très bien","confidence":0.70749038}]}

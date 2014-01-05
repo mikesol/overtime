@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"aussi le fait que les 10 euros que le Barça a un minimum","confidence":0.80709738}]}

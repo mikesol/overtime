@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Arte super important c'est que le creux de l'oreille vers le nez donc là on va sur mon livre qui est pas naturel","confidence":0.83905637}]}

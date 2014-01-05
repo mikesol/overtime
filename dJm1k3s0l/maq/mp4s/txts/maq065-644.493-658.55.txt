@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et ça c'est pas ça c'est que j'apprécie tout particulièrement","confidence":0.7758196}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" don du coup SFR 242 peux trouver avec le reveil 3D qui avait des de poissons exotiques et solutions","confidence":0.72847283}]}

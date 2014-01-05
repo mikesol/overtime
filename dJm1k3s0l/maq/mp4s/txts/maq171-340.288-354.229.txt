@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"sont les produits Vinosource Caudalie les Kosovars à pharmacie euh c'est les produits eugéniques source de 21 ans pour les peaux déshydratée et la caméra","confidence":0.70269746}]}

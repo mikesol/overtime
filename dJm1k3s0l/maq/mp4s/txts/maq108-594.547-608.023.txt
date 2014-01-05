@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le footballeur de chez lui","confidence":0.76346302}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" gourmet perle comment avoir un cheval","confidence":0.77069139}]}

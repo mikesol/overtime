@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je montre tout","confidence":0.65058738}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" parce que c'est un vrai noir mat préféré","confidence":0.66152984}]}

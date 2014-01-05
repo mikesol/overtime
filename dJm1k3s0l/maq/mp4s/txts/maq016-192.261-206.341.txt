@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"là ça","confidence":0.43328109}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" horaires de la quatrième et reine s'il est possible appelle Sandrine 2013 non","confidence":0.78592467}]}

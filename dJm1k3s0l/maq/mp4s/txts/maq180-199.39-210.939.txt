@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"il va bien sur les photos mais il est magnifique il est la voir un peu partout et que j'aime beaucoup ce que vous avez euh","confidence":0.76018357}]}

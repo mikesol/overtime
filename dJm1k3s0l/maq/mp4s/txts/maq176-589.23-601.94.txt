@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"celle-ci est vraiment génial et que ça 4 en direction qui nettoie domicile je sais pas","confidence":0.67233247}]}

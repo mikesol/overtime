@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'ai passé en noir pour voir plus si tu veux voir ma bite","confidence":0.59208244}]}

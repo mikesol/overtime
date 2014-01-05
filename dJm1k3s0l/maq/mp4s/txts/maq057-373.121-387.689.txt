@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"chercher s'il peut commencer sa banque","confidence":0.62371451}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" non réunir les deux traits","confidence":0.57443744}]}

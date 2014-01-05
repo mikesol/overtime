@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ok je sais que c'est pas Noël et moi je mens 1 en grand maison à vendre","confidence":0.56827003}]}

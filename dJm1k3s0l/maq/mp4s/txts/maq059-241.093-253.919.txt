@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qu'est-ce que j'adore que j'ai utilisé dans le Gers vidéo elle attend médias et les films à l'affiche en ce sens","confidence":0.64289421}]}

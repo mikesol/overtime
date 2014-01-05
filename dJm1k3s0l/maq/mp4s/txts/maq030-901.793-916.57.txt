@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est ça c'est quoi ça c'est la vie coffret avec le chat Google est juste magnifique","confidence":0.68757653}]}

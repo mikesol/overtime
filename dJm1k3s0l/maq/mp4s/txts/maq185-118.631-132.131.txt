@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je pense que vous pouvez y a une dizaine de jours de ce que tu cherches chat de chez Zara jeux","confidence":0.82706177}]}

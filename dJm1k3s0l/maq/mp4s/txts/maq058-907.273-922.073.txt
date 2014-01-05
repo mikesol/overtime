@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui est rose pâle que je vais appliquer à Tours comme ça c'est un cinéma sFR n'a pas le choix sont les affaires et j'ai une trace de noirs sur les jours naviguez ça","confidence":0.70334578}]}

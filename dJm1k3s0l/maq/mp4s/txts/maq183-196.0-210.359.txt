@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"afficher une touche de lumière sur PC avec qui est vraiment le doré strass Bonjour français avec mon agence au plat et","confidence":0.77596736}]}

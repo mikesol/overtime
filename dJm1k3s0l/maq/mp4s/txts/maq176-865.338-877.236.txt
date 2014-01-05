@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"coucou de courant entre les deux un peu plus grand mais je veux le le le prix","confidence":0.76759684}]}

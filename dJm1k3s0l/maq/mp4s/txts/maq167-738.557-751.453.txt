@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ok alors moi je vais appliquer de l'anti-cerne et je vais piquer un somme de 80 kilos HD non mais ça va","confidence":0.74777168}]}

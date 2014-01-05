@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"l'avantage c'est que en ce moment du coucher vers on était pour donner de tête de à vous voulez un message","confidence":0.68730545}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ensuite le SMS à Jacques mieux et c'est aussi un produit que j'aime beaucoup beaucoup beaucoup E","confidence":0.78027093}]}

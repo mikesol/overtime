@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je pousse il faut rester tranquillement peu de temps sur chaque trait je tire je pousse je suis","confidence":0.67169178}]}

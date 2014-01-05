@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je suis et Mac avec le Var","confidence":0.57977438}]}
+{"status":5,"id":"","hypotheses":[]}

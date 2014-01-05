@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et la petite maison au coin interne","confidence":0.70381021}]}
+{"status":5,"id":"","hypotheses":[]}

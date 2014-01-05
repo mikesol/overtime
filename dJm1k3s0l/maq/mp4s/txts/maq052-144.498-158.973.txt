@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"voilà","confidence":0.69096571}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" air même temps je vais prendre la même couleur et la mettre dans le c**","confidence":0.74989504}]}

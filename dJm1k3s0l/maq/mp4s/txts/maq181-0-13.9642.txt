@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Salut aujourd'hui je suis là pour mariage dans ton verre bronze doré","confidence":0.77654397}]}

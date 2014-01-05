@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"un petit prix du train et surtout assise au","confidence":0.56754905}]}

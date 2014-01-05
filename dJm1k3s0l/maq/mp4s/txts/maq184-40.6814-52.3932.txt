@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu as eu la piscine si ça vous intéresse mais non traitement voilà ça va aller sur les dents sac","confidence":0.77702963}]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je vous ai pas son a qui sont vraiment entièrement Darty","confidence":0.77026427}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" PagesJaunes","confidence":0.43902573}]}

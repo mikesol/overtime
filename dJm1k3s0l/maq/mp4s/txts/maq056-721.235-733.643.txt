@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pages jaunes très","confidence":0.43616211}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" derrière Francisco","confidence":0.66328311}]}
+{"status":5,"id":"","hypotheses":[]}

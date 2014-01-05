@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Selena alors aujourd'hui je suis là pour vous faire un maquillage de petit chaperon rouge le petit chaperon rouge très connu dans mon compte petite maison à faire","confidence":0.75611198}]}

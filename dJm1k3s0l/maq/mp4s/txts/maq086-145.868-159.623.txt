@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je t'envoie un traître à vivre je suis fait pour faire beau de chez eux voyage","confidence":0.77920461}]}

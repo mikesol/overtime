@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Alexandre ça c'est le WK essaie de faire minérale qui est la mère","confidence":0.59975433}]}

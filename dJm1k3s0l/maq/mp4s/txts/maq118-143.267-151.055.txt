@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je travaille depuis quelques mois avec Monsieur Francisco et j'espère que vous trouverez toutes les règles","confidence":0.69505966}]}

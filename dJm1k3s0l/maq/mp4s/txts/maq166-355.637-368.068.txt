@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"206 pour me donner un peu plus longue vie et encore moins fraîche","confidence":0.74025494}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" que","confidence":0.61957884}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" Calabasas ça fait vraiment rien","confidence":0.49556994}]}

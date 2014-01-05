@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"cancer des os et fille bisous","confidence":0.65351301}]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"d'entre entre coquins","confidence":0.56031722}]}
+{"status":5,"id":"","hypotheses":[]}

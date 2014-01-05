@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"origine est en train de se tient un élément chimique","confidence":0.76783097}]}

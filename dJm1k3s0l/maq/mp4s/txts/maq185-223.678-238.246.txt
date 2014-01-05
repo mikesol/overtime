@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"vous pouvez parler je cherche sur le la poupée Chucky de GTA","confidence":0.57743692}]}

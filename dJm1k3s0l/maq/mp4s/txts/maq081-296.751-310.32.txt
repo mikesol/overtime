@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"quand on perd son amour","confidence":0.67303562}]}

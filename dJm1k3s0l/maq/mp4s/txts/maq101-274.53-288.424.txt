@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"voyance en anglais sur le temps ça chauffe et à demain bonne mine et à la piscine Pontoise","confidence":0.82834983}]}

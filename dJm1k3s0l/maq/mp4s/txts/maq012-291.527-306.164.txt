@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'ai demandé le jour férié à Antho 73 donc V","confidence":0.65329516}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" non je prend un cachet si le plus à la maison avec ma mère","confidence":0.69411498}]}

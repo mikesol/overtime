@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ça va maquillage et Léa bonne mine de cheveux à l'assurance à demain","confidence":0.6540466}]}

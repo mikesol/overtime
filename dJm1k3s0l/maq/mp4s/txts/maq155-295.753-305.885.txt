@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"huile pour la peau","confidence":0.43641639}]}

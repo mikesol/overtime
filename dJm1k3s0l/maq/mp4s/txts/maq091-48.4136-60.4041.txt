@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"voilà et puis tu peux aussi aura ses affaires","confidence":0.68920684}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" j'ai utilisé la palette make-up Pia","confidence":0.73117918}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ok alors je m'en aller très loin du maquillage j'ai des invités GMT vous devez acheter DVD Blancheporte de relâche les places de cinéma qui ressemblait Steve","confidence":0.78231817}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu peux manger sujet si c'est un magasin pharmacie manger","confidence":0.71045387}]}

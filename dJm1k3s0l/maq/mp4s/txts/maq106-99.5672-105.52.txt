@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'ai passé une crème pour tous y est ils sont les possibilités je sais que","confidence":0.7170977}]}

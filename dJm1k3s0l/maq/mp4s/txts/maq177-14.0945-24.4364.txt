@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je suis partie 1","confidence":0.59297025}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" jeux vidéo si j'ai pas dit que je n'ai en Sicile","confidence":0.65568638}]}

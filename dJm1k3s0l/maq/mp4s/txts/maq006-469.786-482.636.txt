@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"creer un meilleur salaire c'est un liner Feutre ça c'est parce que","confidence":0.77158982}]}

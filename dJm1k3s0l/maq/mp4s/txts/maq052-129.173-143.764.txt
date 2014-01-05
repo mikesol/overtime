@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je te fais chier dans le sens de la vie avec sketch","confidence":0.84820598}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" comme cela","confidence":0.77027899}]}

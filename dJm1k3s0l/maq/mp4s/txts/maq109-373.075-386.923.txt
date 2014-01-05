@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"la solution Crealine TS","confidence":0.78470492}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" euh disons","confidence":0.43415028}]}

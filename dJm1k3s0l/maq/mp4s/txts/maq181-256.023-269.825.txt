@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ok c'est toi qui l'a","confidence":0.52230722}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" sur une bonne moitié de mon âge quasiment jusqu'au","confidence":0.82218701}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" jusqu'à la fin du monde","confidence":0.76780903}]}

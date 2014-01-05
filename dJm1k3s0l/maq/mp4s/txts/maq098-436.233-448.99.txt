@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"non pas de carte","confidence":0.56350207}]}

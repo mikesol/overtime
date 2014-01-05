@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"avocat saumon et euh","confidence":0.50315714}]}
+{"status":5,"id":"","hypotheses":[]}

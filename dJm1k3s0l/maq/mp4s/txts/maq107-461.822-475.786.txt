@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est pas super méchant euh voilà parler parce que c'est un produit j'aime beaucoup et je suis très longtemps déjà tous deux saisons de la de la demande","confidence":0.72807264}]}

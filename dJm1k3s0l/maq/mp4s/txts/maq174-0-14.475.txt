@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Céline Giraud aujourd'hui je suis là dans le jardin de mes parents et elle avec des palmiers d'un mois que j'ai fais un peu été pas mal de ventre dur mais vidéo et j'ai envie de faire une petite sieste parce que","confidence":0.76680893}]}

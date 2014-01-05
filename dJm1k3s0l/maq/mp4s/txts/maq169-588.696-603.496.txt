@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"salam je voulais te montrer","confidence":0.51498204}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" c'est pas le temps que l'on peut passer en L2","confidence":0.76713586}]}

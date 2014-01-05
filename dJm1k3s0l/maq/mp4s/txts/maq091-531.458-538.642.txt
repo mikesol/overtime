@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pour les yeux à génial avec il faut 6h","confidence":0.74478304}]}

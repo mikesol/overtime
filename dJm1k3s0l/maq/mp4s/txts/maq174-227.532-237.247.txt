@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"77760 à chaque repas évidemment ça se remet sur son pendant m**** il faut le porter dans deux heures sur 24","confidence":0.77474403}]}

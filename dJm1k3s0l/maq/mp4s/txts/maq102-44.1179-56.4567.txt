@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"comme ça alors non c'est pas ça va nettement shampoing solide et les morceaux de verdure que vous pouvez voir c'est pas la moisissure mais en fait des morceaux d'Agde","confidence":0.7931782}]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est pas ça que je veux on parle de laisser la crème de Rosélia","confidence":0.55748069}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" c'est un produit","confidence":0.78831142}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et aussi beaucoup plus important de fille de moi maintenant avec un E ça ça va bientôt arriver à sur PC","confidence":0.7410413}]}

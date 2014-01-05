@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est juste pour te FA","confidence":0.77407408}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" p******* ça va appel de balle","confidence":0.55829507}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"trouver les oeufs de Vendée","confidence":0.66013086}]}

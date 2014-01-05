@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est encourageant à sépales corail pêche","confidence":0.65107507}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" c'est pareil rousse très très très très flashy","confidence":0.83599335}]}

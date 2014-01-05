@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Emilia de Tal éventail trouver le faux ongles et Colin","confidence":0.74746555}]}

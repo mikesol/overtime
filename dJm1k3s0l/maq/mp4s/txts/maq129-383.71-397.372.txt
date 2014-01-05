@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est parce que là tous les autres sont peux trouver des pinceaux en revanche je suis quand même je vois pas trop l'utilité j'aurais un point que faire un échange un petit peu plus","confidence":0.74686712}]}

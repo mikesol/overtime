@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"santé","confidence":0.64766461}]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":5,"id":"","hypotheses":[]}

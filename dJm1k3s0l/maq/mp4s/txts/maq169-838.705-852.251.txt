@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"couleur chair et en plus il fait je préfère mille fois mille fois mille fois on a un peu plus haut un peu plus il a pas beaucoup plus précise et","confidence":0.8617093}]}

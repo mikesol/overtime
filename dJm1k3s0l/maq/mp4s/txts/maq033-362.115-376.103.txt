@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui est en tout ça et j'en ai","confidence":0.61431521}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" en","confidence":0.4994888}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" base","confidence":0.54079211}]}

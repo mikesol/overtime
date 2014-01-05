@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mais euh c'est très grave","confidence":0.6872921}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" non c'est une île avec des fêtes de Ré","confidence":0.67271954}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" effacer","confidence":0.70364988}]}

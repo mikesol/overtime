@@ -1,0 +1,4 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ce soir","confidence":0.59622264}]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et c'est pas plus aller sur PC","confidence":0.56465065}]}

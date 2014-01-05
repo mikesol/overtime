@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"maman tu veux la chanson avec un petit pinceau biseauté de chérie ça y est juste passer dessus légèrement avec mon pinceau pour estomper","confidence":0.77008563}]}

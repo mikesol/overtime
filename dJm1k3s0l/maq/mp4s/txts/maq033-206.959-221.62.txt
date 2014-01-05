@@ -1,0 +1,4 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"plan","confidence":0.71027815}]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":" antique","confidence":0.6489262}]}

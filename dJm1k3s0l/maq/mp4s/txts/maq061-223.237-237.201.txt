@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"aussi aura s'il en bas","confidence":0.73413795}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" o.fr ici aussi","confidence":0.5497666}]}

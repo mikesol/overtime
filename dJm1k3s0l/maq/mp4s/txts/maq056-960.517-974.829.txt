@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"lapin Justin Bieber","confidence":0.63429731}]}

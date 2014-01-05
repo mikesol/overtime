@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ok","confidence":0.70279425}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je suis un crayon euh qu'est-ce que je le ferai demain Mickey","confidence":0.68866664}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"les journées de peinture à son appartement et a le nez qui coule pas au nez","confidence":0.79693496}]}

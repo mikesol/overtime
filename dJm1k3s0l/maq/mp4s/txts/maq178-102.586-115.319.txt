@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et je suis adapté pour pouvoir métier samedi et désir est assurément super hâte et passe","confidence":0.57914871}]}

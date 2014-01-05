@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"une toute petite fille gratuit c'est que ça va bon je vais essayer je vais te laisser à 7h","confidence":0.66971868}]}

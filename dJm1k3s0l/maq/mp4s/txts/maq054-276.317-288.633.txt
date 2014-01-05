@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"avec le Mac je prends pour ça perso cinéma français","confidence":0.62697321}]}

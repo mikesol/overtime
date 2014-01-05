@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le mode que vous voulez de super nettoyage vous pouvez mettre un serveur sur les seins","confidence":0.68471467}]}

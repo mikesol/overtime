@@ -1,0 +1,3 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"et c'est avec insistance au beurre","confidence":0.770271}]}

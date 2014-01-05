@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"un peu fichier sur le violé et là c'est comme ça les roses musique de chant","confidence":0.63939959}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et je sais c'est un peu framboise français","confidence":0.65781844}]}

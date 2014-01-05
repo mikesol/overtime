@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"crée un lien pour essayer","confidence":0.67143226}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" les marques que mon cher","confidence":0.75541103}]}

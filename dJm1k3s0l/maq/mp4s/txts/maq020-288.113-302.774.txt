@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu es sûr","confidence":0.46441343}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" le lac Léman","confidence":0.56586319}]}

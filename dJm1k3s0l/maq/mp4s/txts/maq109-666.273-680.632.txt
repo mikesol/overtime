@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ensuite au saumon","confidence":0.53439224}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" quelle est la femme du monde","confidence":0.59371036}]}

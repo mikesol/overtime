@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et il y a 4 couleurs Moussia un Belge rosé de Bellouet en plus foncé en clair et en rose avec les meilleurs de la presse","confidence":0.68949503}]}

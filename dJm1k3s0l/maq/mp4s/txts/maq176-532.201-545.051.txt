@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'ai encore j'ai le direction chez lui ai dit de te dire que je montrais","confidence":0.81039274}]}

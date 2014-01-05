@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"la taille parfaite pour ça il est quelle heure avec euh avec le penseur il est vraiment très très bien je l'aime","confidence":0.79706001}]}

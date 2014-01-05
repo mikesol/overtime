@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mais non je suis le fils de 4 euros cinquante commander n'est pas classé à 250 sur les prix","confidence":0.73166108}]}

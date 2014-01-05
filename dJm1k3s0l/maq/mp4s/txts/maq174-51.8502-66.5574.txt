@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je veux faire à vous tous si ce que j'imagine que je voulais voir ce que ça donne cet appareil dentaire invisible","confidence":0.72779906}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" voilà je pense que vous pouvez le voir sur mes assistance la emploi surtout en bas","confidence":0.73378551}]}

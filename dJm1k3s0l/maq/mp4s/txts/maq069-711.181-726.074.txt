@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"terminer le plus détaché sa place voici le maquillage pour les yeux à fait que j'aime beaucoup ce qui concerne","confidence":0.73823011}]}

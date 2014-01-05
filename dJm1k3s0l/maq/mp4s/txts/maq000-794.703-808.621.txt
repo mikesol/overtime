@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"chignons à faire avec une image c'est qui est en train de taper ça ça","confidence":0.62534845}]}

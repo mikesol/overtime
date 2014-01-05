@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"premier tiers dans Mail","confidence":0.55983686}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" directement aux alentours","confidence":0.58303994}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" pareil changement super Simon","confidence":0.69979811}]}

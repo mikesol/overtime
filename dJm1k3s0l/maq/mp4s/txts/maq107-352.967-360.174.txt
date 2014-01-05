@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ca des que l'amour j'ai des faux-ongles aujourd'hui","confidence":0.74868536}]}

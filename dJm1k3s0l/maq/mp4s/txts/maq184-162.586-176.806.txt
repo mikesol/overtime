@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"béguin 056 entre une maîtresse écouter bonjour voici Osny et voici bien français à côté","confidence":0.53834325}]}

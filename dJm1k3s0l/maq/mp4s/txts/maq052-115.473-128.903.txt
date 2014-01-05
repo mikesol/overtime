@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"confirmé qu'il y a t-il à fond la caisse","confidence":0.43367925}]}

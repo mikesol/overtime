@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"supplia c'est bon il est agréable à porter et surtout le lendemain on est pas bien là je fais","confidence":0.81809938}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ma mère se trouve la plaque","confidence":0.62535232}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est le match de hockey comme ça et Hutch","confidence":0.75518698}]}

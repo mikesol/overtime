@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ça va mais à ça fait ça fait euh non plus de Briançon","confidence":0.65891498}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"j'ai un problème avec les nerfs du mascara a pété un compte à 7h c'est magnifique","confidence":0.58344311}]}

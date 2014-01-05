@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"lycée en vacances à la ferme et demi qui est très très vocale","confidence":0.6128903}]}

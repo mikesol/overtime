@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"telephone a parlé de chez","confidence":0.53833532}]}

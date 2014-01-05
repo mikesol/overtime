@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pour commencer je vais vous parler de ce matin à tous les matins je me suis arrangé avec le nettoyant L'Oréal Perfect Clean version 1.7","confidence":0.75928873}]}

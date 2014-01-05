@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"on va parler des produits pour les élèves sont les Arras je voudrais avoir de conduire et que j'adore les plus beaux recettes à base de colorant","confidence":0.64263105}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"touché c'est pas cher non surtout que ce que je pensais que tous les entends parler en allemand plan d'eau que les doigts et tu","confidence":0.69948733}]}

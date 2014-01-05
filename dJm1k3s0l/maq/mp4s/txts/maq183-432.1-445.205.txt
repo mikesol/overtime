@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"quand tu passes au crayon comme ça c'est un triangle y 13 juillet sont est pas là","confidence":0.70450801}]}

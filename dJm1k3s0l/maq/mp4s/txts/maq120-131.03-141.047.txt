@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mais aussi avec un drapeau anglais","confidence":0.74857122}]}

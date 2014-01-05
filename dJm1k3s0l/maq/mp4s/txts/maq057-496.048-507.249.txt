@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"vachement vachement plus si ils sont en train de fumer un magnifique et les faire tout ce que rien à acheter à Lille","confidence":0.76092213}]}

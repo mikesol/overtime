@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je suis là ça va très bien mieux entendre ta mère en disant simplement que font ces électrique","confidence":0.60317189}]}

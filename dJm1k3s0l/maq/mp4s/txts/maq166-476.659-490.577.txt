@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"voilà pour aller à mais c'est à vous pouvez pas vous qui est compatible avec un ami que je voudrais vraiment laissé dégueulasse","confidence":0.82852024}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"maintenant j'ai appliqué euh tu me casses pas que sur l'extension SMS à Cécile","confidence":0.69095433}]}

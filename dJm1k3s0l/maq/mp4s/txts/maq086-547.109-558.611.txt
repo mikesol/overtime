@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"acheter un c'est pas parce que je suis là c'est le rêve de Maxime","confidence":0.74332458}]}

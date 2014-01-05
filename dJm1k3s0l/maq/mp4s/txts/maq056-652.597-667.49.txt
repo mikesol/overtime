@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Violetta Violetta et sa sur mon supérieur","confidence":0.65381825}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"envoie un SMS à 6h ce soir la section câble EDF","confidence":0.62011141}]}

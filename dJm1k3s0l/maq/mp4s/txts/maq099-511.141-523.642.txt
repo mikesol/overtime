@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est vert et en plus de ça et en plastoc et je suis une grande fan de je sais pas pourquoi mais que tu avais de poils","confidence":0.69924134}]}

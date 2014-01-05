@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"heureux je me suis avec des blaches une fille avec des femmes et à vous avez d'autres idées n'hésitez pas je les ai deux","confidence":0.69917697}]}

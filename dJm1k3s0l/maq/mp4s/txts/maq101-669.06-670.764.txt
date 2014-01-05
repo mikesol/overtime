@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"leboncoin","confidence":0.48622379}]}

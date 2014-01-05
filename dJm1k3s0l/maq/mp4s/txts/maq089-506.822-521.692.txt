@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ok pour la maman je vais acheter en noir de chez Maxi à écrire feeLine s'inscrire comme ça dans un quart de monnaie","confidence":0.56542623}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je sais pas quoi faire je sais pas quoi faire massacrer emploi","confidence":0.71483421}]}

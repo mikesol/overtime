@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"maison et on va chez le dentiste mardi dernier et en a plus de photos pour est le résultat","confidence":0.68317348}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et José je sais pas si je vais au collège pour sa rentrée scolaire","confidence":0.69437248}]}

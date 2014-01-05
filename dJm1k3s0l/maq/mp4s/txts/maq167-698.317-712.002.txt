@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"du matin à domicile avec que j'ai oublié de l'avant All Saints Row aussi je sais plus à l'heure","confidence":0.67732191}]}

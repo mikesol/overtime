@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ok je parle à mon c** ma femme et Ken","confidence":0.71440834}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" pare-choc avant","confidence":0.67778516}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" tout ce qui commence","confidence":0.44020802}]}

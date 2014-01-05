@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"dernière fois pour montrer ce que ça donne quoi les lentilles Info Trafic pense pas que tu penses à la caméra car elle est super flippant","confidence":0.70103967}]}

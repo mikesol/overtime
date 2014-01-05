@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"avec le dentiste il va le faire mais alors je vais en faire un petit peu de sang pour y a 2 euros en centimes pas encore plus euh","confidence":0.65076774}]}

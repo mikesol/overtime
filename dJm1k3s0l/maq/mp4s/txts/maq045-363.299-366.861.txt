@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"alors maintenant lance Auxerre","confidence":0.43617266}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"donc sans plus attendre je vous présenter mercredi près de chez Lush commençant par les shampoings et aussi commencé avec je pense que j'ai préféré de tous les produits je suis fier le shampooing océanique","confidence":0.7846415}]}

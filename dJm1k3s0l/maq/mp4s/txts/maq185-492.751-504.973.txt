@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"1001 genre de truc en dentelle devant et derrière ces en rentrant ça comme ça et là","confidence":0.6755566}]}

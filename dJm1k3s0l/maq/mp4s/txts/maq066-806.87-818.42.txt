@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et du coup j'ai reçu ma carte sim SFR pas plutôt","confidence":0.62897009}]}

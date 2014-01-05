@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"voilà pour mettre dans votre voyage soit","confidence":0.70263416}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"un super je vous ai pas dans mon coin externe de mon iphone avant pour faire appel aux services ici pour définir le point fr vous savez prendre mon service","confidence":0.77764744}]}

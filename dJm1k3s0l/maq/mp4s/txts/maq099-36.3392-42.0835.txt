@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"travailler et en même temps avant de partir en stage en juillet","confidence":0.80973977}]}

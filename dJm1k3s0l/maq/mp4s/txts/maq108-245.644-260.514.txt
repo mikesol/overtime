@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mail à maman j'ai raté ma crème pour peau sèche et elle est excellente","confidence":0.75594366}]}

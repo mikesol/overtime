@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ok arrivé au boulot après si si je vais encore va se trouve cela est une très simple et il est vraiment grosse de façon à pouvoir faire un chignon","confidence":0.80638254}]}

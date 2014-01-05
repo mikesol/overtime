@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu vas très très bien pour l'été commence vers il fait beau minou d'amour mon enfance mon blush favoris","confidence":0.72496432}]}

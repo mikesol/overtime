@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qui est vraiment plus bleu que celui-ci vous cherchez un vrai vert flashy pastel pétanque pour l'été c'est génial le temps il est très très large","confidence":0.79687935}]}

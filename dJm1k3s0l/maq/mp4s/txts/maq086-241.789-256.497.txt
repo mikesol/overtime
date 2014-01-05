@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ok se passe-t-il dans la piscine","confidence":0.7150138}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" avendre asso aussi fait ça en tout cas c'est la classe A","confidence":0.50670922}]}

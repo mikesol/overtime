@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ecouter de la les avantages et voilà maintenant ton message chat chez Sephora je recherche de c*******","confidence":0.78868496}]}

@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"Suisse vous allez prendre une douche ici sur l'extérieur de la de la première les cheveux comme cela","confidence":0.75786424}]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"acheter pour ça que je veux aller à vous de passer à cheveux et créez trois","confidence":0.56353182}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" cela","confidence":0.47419119}]}

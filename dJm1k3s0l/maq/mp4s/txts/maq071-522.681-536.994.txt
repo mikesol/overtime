@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mascara comment faire lessive et le Gillon chez eux Black satin noir couture que j'ai dans le C-Max","confidence":0.77393353}]}

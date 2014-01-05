@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"maman que c'est faux et on vient de se maquiller l'ASF naturel","confidence":0.72927171}]}

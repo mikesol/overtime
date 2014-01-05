@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"courant décembre c'est le fond qui est extrêmement cher CSC vente maison est le résultat du sondage royal il était un","confidence":0.63227051}]}

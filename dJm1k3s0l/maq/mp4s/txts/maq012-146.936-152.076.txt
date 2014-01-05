@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"comment faire des boucle avec le fer à lisser les ondulations","confidence":0.73292559}]}

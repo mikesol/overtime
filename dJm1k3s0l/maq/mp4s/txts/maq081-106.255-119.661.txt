@@ -1,0 +1,4 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"est assez","confidence":0.43670234}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" alors","confidence":0.885144}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je commence","confidence":0.62789392}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" fusil","confidence":0.43034396}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"catastrophe non seulement par forcément pour la piscine","confidence":0.65378141}]}

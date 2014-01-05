@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est la maman mais arrête de femme que j'arrive et il","confidence":0.72142589}]}

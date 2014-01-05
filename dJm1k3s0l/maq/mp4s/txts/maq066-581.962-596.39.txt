@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"6 nations à moi ça s'est passé aujourd'hui à la moitié de l'Est","confidence":0.61126846}]}

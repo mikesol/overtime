@@ -1,0 +1,3 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"et je sais pas c'est là que de toute façon dessus","confidence":0.66141701}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" aucun message je prends un crayon violet de chez Kiko c'est le numéro","confidence":0.73002213}]}

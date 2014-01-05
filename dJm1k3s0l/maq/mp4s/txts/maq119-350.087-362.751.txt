@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est incroyable je sais pas encore mieux minuscule et je veux te voir toutes les images mais","confidence":0.79366386}]}

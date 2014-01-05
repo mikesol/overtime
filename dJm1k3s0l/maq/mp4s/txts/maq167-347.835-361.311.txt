@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"qu'est-ce que moi ça va pas tu n'oses matière de doré en français","confidence":0.7122978}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" celui-ci s'appelle celle-ci j'ai ça","confidence":0.58341169}]}

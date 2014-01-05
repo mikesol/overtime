@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"envoie un puissant à la fleur d'oranger et ensuite je sais sûrement une préféré","confidence":0.60078681}]}

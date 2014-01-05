@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"palette de diminuer toutes les couleurs du à la maison de ses chaussures à Pau","confidence":0.51405412}]}

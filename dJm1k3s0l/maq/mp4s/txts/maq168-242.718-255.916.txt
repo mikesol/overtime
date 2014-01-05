@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"où est ce que la version blanche à perte blanche","confidence":0.75259602}]}

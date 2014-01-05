@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Coiffure coiffure que j'ai passé un très bon courage","confidence":0.8398782}]}

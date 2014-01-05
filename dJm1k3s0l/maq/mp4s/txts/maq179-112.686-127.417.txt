@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tra tra Flash","confidence":0.60604495}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" les oeufs il est magnifique tout c'est mon PE","confidence":0.64152074}]}

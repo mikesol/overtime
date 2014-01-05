@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je vous mets en douceur je mange un truc dangereux 6","confidence":0.6532023}]}

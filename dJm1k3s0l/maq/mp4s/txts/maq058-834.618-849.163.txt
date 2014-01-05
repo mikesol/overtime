@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"et c'est juste la plus belle chose sur terre","confidence":0.77039468}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" violette et c'est pas les jeux les plats sont vraiment super super belle la couleur est vraiment magnifique","confidence":0.76473022}]}

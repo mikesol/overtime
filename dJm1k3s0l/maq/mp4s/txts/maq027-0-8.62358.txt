@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"salut les filles alors aujourd'hui à la fin maquillage dans l'avion","confidence":0.68832797}]}

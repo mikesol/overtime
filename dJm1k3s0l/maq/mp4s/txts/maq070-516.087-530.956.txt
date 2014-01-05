@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Allah Alexandre","confidence":0.47316247}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" alors je te dis pas ça mets ton coeur","confidence":0.5957163}]}

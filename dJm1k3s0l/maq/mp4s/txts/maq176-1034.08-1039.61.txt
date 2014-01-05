@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"différence entre un terra mais ça n'existe pas","confidence":0.83845824}]}

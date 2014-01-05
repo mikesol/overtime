@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"créer un mail à 630","confidence":0.60937971}]}
+{"status":5,"id":"","hypotheses":[]}

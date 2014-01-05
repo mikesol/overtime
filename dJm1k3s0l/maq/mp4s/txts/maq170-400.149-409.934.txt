@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je comprends pas ta maman le bleu turquoise bleu canard que j'avais avant","confidence":0.7992698}]}

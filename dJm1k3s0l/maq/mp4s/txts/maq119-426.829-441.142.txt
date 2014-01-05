@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"les manucure tout le monde fait des années que c'était un sens et non c'est pas là","confidence":0.61171025}]}

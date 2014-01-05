@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"produits","confidence":0.43742743}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" cuisson a un an","confidence":0.4371568}]}

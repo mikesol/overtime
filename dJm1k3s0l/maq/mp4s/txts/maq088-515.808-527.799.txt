@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"application et qui sent le monde","confidence":0.72220039}]}
+{"status":5,"id":"","hypotheses":[]}

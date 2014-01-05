@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"en magasin écouter","confidence":0.49788237}]}

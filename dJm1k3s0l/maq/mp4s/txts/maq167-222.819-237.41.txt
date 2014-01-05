@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"comment passer de foot je sais que c'est parfois on se rend super du chapeau Sensas match est à","confidence":0.56816494}]}

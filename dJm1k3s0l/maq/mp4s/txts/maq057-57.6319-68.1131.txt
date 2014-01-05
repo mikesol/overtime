@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"des nations parler mais euh","confidence":0.72039849}]}

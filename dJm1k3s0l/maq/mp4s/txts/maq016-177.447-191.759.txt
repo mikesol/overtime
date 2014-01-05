@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"bonjour vous devez choisir laquelle la quatrième qui y a la final","confidence":0.79110193}]}
+{"status":5,"id":"","hypotheses":[]}

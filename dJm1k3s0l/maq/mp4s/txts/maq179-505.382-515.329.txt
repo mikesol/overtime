@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"non c'est tout les lèvres que j'aime beaucoup utilisé pour le printemps et l'été","confidence":0.73394686}]}

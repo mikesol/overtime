@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je quitte c est super facile pour faire de très large des précisions je suis ça pour faire en entrée de la mer à la Adele","confidence":0.76432836}]}

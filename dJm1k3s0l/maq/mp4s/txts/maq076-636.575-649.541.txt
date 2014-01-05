@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"portable dans la bouche","confidence":0.6561383}]}
+{"status":5,"id":"","hypotheses":[]}

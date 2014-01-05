@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"un peu de chez MAC appelle blossom culture qui t'a un vieux que j'adore ça correspond pas et il va très bien avec le bleu bleu cher que je suis pas directement au","confidence":0.74037611}]}

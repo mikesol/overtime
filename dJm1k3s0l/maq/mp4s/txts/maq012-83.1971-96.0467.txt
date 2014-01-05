@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"avec tous les cheveux tressés maintenant euh j'ai commencé la photo à la chorale des cheveux assez ondulés bouclés","confidence":0.71941257}]}

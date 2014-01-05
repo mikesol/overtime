@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"naviguer a un sens de ces bateaux qui s'appelle bleu électrique et Jean","confidence":0.57882398}]}

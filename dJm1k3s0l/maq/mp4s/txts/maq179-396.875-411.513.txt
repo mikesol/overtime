@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"courage avec des paillettes dorées les plus foncé que c'est de là où sont passés les solutions","confidence":0.72060829}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" il est monté","confidence":0.59458905}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"l'application le soir de façon avant mais en général ça suffit en anglais sur le visage et ça fait un petit peu plus sur les jambes et","confidence":0.76870227}]}

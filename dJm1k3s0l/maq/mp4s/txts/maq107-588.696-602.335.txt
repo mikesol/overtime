@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"Le Bon Marché vachement plus belle et celui-ci est vraiment trop manger sinon ça lui dirai tout ça et franchement quand Tours 37","confidence":0.75102282}]}

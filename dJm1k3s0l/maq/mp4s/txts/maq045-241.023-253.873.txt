@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"en général je peux poser et la Bête est là pour toi","confidence":0.57897389}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" Je t'aime bien la base","confidence":0.57676518}]}

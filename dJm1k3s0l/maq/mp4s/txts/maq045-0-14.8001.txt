@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"salut les filles aujourd'hui je serai là dans le Tarn Valentin matières j'ai une sale mine mais euh à montrer les produits marocains","confidence":0.78092408}]}

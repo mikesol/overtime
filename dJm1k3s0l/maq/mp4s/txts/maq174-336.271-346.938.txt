@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"nouvel environnement mais euh voilà c'est fini tout juste à parler de temps en temps si je parle très vite GL parfum de problème pour afficher certains mots","confidence":0.77423698}]}

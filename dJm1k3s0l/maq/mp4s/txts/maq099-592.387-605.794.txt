@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"les oeufs leboncoin donc ça c'est moi euh c'est le truc que j'ai plus de cette année","confidence":0.68656147}]}

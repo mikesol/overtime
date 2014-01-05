@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"journée de la Roumanie rouge mat les horaires de cinéma de Lisieux et sont géniaux déçu que j'aime beaucoup","confidence":0.69023824}]}

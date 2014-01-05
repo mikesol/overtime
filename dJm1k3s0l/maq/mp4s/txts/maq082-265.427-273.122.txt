@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"mais verte pour les mettre","confidence":0.52315605}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" Tour Eiffel aussi tard je suis","confidence":0.62671679}]}

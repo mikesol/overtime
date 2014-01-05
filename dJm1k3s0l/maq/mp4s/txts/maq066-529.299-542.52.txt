@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"creer","confidence":0.49690717}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" un petit V va ici Jacques tracé lever","confidence":0.58234864}]}

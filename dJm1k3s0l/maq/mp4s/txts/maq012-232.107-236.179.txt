@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"s'il pleuvait pousser les cheveux","confidence":0.7657057}]}

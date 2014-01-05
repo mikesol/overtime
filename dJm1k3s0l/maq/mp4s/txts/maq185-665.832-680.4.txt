@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est des chaussures noires à talons super pratique pour enfants chercher et des bas","confidence":0.61508363}]}

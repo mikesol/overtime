@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"carte de France","confidence":0.69514126}]}

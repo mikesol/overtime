@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"quelque chose qui est dans la couleur doré et aussi prints à son âme voilà téléphone de chez Maxime qui voudrait a cramé et les caisses","confidence":0.67146516}]}

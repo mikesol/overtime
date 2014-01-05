@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"sur les jeux de Sue Bonjour","confidence":0.63283706}]}
+{"status":5,"id":"","hypotheses":[]}

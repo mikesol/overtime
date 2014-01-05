@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"infini génoise à manger à l pouvez me laisser un","confidence":0.6818372}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" les films de son mec","confidence":0.72345293}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"France a gagné tous à la demande de tout y a des savons des crèmes maquillage allez-vous J on va ça super loto et","confidence":0.6783061}]}

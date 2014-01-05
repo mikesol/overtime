@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pour le visage j'adore utiliser de produits halal","confidence":0.81073755}]}

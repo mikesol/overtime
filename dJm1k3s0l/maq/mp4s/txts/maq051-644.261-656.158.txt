@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est Maman qui la fait demain","confidence":0.71734929}]}

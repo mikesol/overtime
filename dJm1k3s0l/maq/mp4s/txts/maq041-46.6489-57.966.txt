@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"comment trouver la porte rien de plus et moi","confidence":0.63771439}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" vraiment","confidence":0.43459931}]}

@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"en même temps à traiter son à lisser les cheveux","confidence":0.73583502}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" vous faites attention et après tu vois moi moi moi reprise que vous mentez viens juste","confidence":0.71139258}]}

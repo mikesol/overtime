@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"non pour chien va bien pour le temps j'ai été à tout ce que j'ai pas fait signer le blush cette couleur","confidence":0.68236691}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"avec ce créneau-là et euh c'est tout ce que je sais je m'appelle Elise et ça très très bien les couleurs aussi sur supernaturel","confidence":0.72073537}]}

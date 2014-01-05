@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est le plus élevé les 3 jeudi","confidence":0.58257538}]}

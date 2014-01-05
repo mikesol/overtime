@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est que c'est gris acier au coin externe aussi","confidence":0.73643702}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"restaurant chez moi c'est les photos pour les reins j'en ai pas mal pas mal pas mal euh j'ai commencé le chargement très classe je te dis pas comme ça que j'ai trouvé chez","confidence":0.77263093}]}

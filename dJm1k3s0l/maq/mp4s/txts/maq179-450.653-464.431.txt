@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je veux pas mais je l'aime aussi c'est super sympa et en même temps ça sent us","confidence":0.67762083}]}

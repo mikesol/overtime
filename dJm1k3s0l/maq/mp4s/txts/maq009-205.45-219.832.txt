@@ -1,0 +1,4 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"changer son","confidence":0.54158455}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" je sais","confidence":0.44725451}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" bleu","confidence":0.49216488}]}

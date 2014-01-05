@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"évidemment j'ai acheté","confidence":0.63349032}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" et on a à Violetta en français","confidence":0.54507154}]}

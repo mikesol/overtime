@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"jusqu'au bout je n'avais quasiment je comprends pas pourquoi j'ai mis mon phare","confidence":0.82731628}]}

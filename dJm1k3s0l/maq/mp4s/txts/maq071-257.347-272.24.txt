@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"voyage sur les universités une purée c'est magnifique je vais m'arrêter environ un mois de mai par contre est-ce que la fille","confidence":0.59323734}]}

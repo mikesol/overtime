@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"85 ans parce qu'en est-il de chez ma cousine est un pour moi ça c'est quasiment le même si ça","confidence":0.69980055}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" comment tu fais quoi","confidence":0.4902029}]}

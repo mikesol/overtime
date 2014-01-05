@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"tu es un homme qui s'en occupe les fleurs et inodore","confidence":0.74746537}]}

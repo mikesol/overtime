@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le réveil Shy'm de chez L'Oréal","confidence":0.60970491}]}

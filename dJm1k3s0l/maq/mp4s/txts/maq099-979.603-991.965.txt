@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"je vais bien et vous avez passé une bonne rentrée à mon ami moi j'en ai euh tout va bien je vais bien très contente","confidence":0.70636725}]}

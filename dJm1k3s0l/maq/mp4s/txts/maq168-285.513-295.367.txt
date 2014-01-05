@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"dépôt-vente les enfants dans deux ans et ça c'est super","confidence":0.65669894}]}

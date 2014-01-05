@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ok je vais appliquer du mascara waterproof Maison de la Presse envoie ça dès que je peux","confidence":0.66950965}]}

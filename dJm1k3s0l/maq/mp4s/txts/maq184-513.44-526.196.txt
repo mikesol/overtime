@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pâtisserie maman j'aime beaucoup qui est toujours là c'est le 03 27 ans","confidence":0.70978874}]}

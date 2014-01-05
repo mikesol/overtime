@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"pour enfants ca laposte","confidence":0.55924773}]}

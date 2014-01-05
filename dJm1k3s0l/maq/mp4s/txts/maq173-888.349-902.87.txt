@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"sexy nues aux cheveux non mais allô tu es une fille géniale","confidence":0.58912563}]}

@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"non titulaire ça vous chercher tu viens vers vous pouvez passer avec n'importe quoi un jean","confidence":0.7396062}]}

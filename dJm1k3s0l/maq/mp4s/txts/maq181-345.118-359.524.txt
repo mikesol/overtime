@@ -1,0 +1,3 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"recette de Mac","confidence":0.50525874}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" qui sont comme ça carte ici","confidence":0.65977407}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" sur la démarcation vers bord et je veux juste passer pour la santé","confidence":0.71488118}]}

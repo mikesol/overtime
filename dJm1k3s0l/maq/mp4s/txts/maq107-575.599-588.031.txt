@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"c'est pas alors ça que tu n'as pas du tout allait être très très peu c'est vraiment vraiment que ça va pas du tout par contre moi et beaucoup trop orange et en fait","confidence":0.76201379}]}

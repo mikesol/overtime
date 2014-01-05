@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"CLSC le plus c'est le vent","confidence":0.64183706}]}

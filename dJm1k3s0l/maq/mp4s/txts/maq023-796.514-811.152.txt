@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"application pour eux à Cholet","confidence":0.68261921}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" là où se trouve qu'y a t-il au Mans","confidence":0.60195082}]}

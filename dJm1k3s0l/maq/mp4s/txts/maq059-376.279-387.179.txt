@@ -1,0 +1,2 @@
+{"status":5,"id":"","hypotheses":[]}
+{"status":0,"id":"","hypotheses":[{"utterance":"trisomie 13 je vais pas ça sur le visage","confidence":0.68450975}]}

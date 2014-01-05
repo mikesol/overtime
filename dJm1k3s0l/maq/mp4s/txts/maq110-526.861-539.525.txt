@@ -1,0 +1,2 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"que c'est des conneries pareil cas c'est juste que","confidence":0.6035617}]}
+{"status":0,"id":"","hypotheses":[{"utterance":" c'est trop triste","confidence":0.54776043}]}

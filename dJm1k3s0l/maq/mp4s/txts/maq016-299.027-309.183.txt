@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"le dessin de la France je serais heureux si","confidence":0.55676067}]}

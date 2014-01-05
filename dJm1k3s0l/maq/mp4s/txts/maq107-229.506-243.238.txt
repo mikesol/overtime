@@ -1,0 +1,1 @@
+{"status":0,"id":"","hypotheses":[{"utterance":"ça à la vie vous êtes trafic sur l ça parce que la couleur ça c'est bon ça c'est pas ça va je m'appelle Sion et bien sûr","confidence":0.61128145}]}
