@@ -807,9 +807,9 @@ eudesWords = \lyricmode {
 \score {
   <<
     \new Staff \with { instrumentName = "Ryan" } \new Voice = "ryan" \ryan
-    \new Lyrics \lyricsto "ryan" \ryanWords
+    \displayMusic \new Lyrics \lyricsto "ryan" \ryanWords
     \new Staff = "eudesstaff" \with { instrumentName = "Eudes" } \new Voice = "eudes" \eudes
-    \new Lyrics \lyricsto "eudes" \eudesWords
+    \displayMusic \new Lyrics \lyricsto "eudes" \eudesWords
   >>
   \layout {
     \context {
