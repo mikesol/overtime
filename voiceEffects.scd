@@ -41,11 +41,12 @@ b.free
 //~mypath = "/Users/mikesolomon/Documents/Compositions/madrigali/demoisellesReal/Bounces/marieSnippet.aif";
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/beatbox.aif";
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/leaderex/Bounces/leaderex.aif";
+~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/welcome/silly.aif";
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/lePatronPart/stAbbeR.aif";
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/amants2/amants2/Bounces/ryan.aif";
 //~mypath2 = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/amants2/amants2/Bounces/eudes.aif";
 //~mypath ="/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/menage/moxy3.aif";
-~mypath ="/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/autreBureau/qvdclean.aif";
+//~mypath ="/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/autreBureau/qvdclean.aif";
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/overtime/overtime/Bounces/ryanSolo.aif";
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/overtime/OVERTIME.aif";
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/bruit/doot.aif";
@@ -107,7 +108,9 @@ play{PlayBuf.ar(2,b,1) + PitchShift.ar(PlayBuf.ar(2,b,1), 0.2, SinOsc.kr(0,0,0.2
 
 // arpeggiate
 play{PitchShift.ar(PlayBuf.ar(2,b,1), 0.2, Demand.kr(Impulse.kr(4),0,Dseq([1.1,1.6,2.1,2.6],inf)))};
-play{Pan2.ar(PitchShift.ar(SoundIn.ar, 0.2, Demand.kr(Impulse.kr(4),0,Dseq([1.1,1.6,2.1,2.6],inf))))};
+play{Pan2.ar(PitchShift.ar(
+
+	.ar, 0.2, Demand.kr(Impulse.kr(4),0,Dseq([1.1,1.6,2.1,2.6],inf))))};
 
 //ugggghhhh
 (
@@ -166,10 +169,14 @@ play{MonoGrain.ar(PitchShift.ar(PlayBuf.ar(2,b,1), 0.2, SinOsc.kr(100,0,0.4,1.2)
 
 /**/
 //play{MonoGrain.ar(PitchShift.ar(SoundIn.ar(0), 0.2, SinOsc.kr(100,0,0.4,1.2)), SinOsc.kr(20,0,0.005, 0.045), SinOsc.kr(10,0,5,15))};
-
+"/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/welcome/"
 // tracking
 // creates beats and gurgling...cool!
 play{q=Tartini.kr(PlayBuf.ar(2,b,1, doneAction:2));HPF.ar(SinOsc.ar([q,q*2.1,q*3.05,q*4.5,q*5, q*6.06], 0, 0.4, 0),200)};
+
+s.prepareForRecord("/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/welcome/robot.wav");
+s.record;
+s.stopRecording; // this closes the file and deallocates the buffer recording node, etc.}
 
 // electronica
 play{AllpassC.ar(SinOsc.ar(Tartini.kr(PlayBuf.ar(2,b,1, doneAction:2))).tanh,0.4,TExpRand.ar(2e-4, 0.4,Impulse.ar(8)).round([2e-3,4e-3]),2).clip2};// #supercollider with bass please...
@@ -322,6 +329,9 @@ SynthDef("help-magSmear2", { arg out=0, bufnum=0, soundBufnum=2;
 )
 
 
+s.prepareForRecord("/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/welcome/smearSilly.wav");
+s.record;
+s.stopRecording; // this closes the file and deallocates the buffer recording node, etc.
 (
 SynthDef("help-magSmear2", { arg out=0, bufnum=0, soundBufnum=2;
     var in, chain;
@@ -439,4 +449,4 @@ play{t=Impulse.kr(14.0/3.0);PlayBuf.ar(2,b,1,t,Demand.kr(t,0,Dseq(1e3*Array.fill
 play{PlayBuf.ar(2,~psb,1,doneAction: 2)};
 s.prepareForRecord("/Users/mikesolomon/Documents/Compositions/overtime/voiceEffectSketches/leaderex.wav");
 s.record;
-	s.stopRecording; // this closes the file and deallocates the buffer recording node, etc.}
+s.stopRecording; // this closes the file and deallocates the buffer recording node, etc.}

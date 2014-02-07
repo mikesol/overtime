@@ -59,8 +59,7 @@ Black = \revert NoteHead #'color
   %%Hand
 %}
 
-dag = ^\markup { "†"}
-ddag = ^\markup { "‡"}
+\include "les-amants-defs.ly"
 
 \header {
   title = "Les amants"

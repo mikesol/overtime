@@ -100,6 +100,35 @@ eudesWords = \lyricmode {
 
 \markup \huge \fill-line { \center-column { \italic "[Mike pousse un petit gémissement de chiot]" "   " } }
 
+mytempo = \tempo 4=63
+
+mariePart =
+<<
+    \new Staff \with { instrumentName = "Marie" } \new Voice = "marie" { \mytempo \marie \bar "||" }
+    \new Lyrics \lyricsto "marie" \marieWords
+>>
+mikePart =
+<<
+    \new Staff = "mikestaff" \with { instrumentName = "Mike" } \new Voice = "mike" { \mytempo \mike \bar "||" }
+    \new Lyrics \lyricsto "mike" \mikeWords
+>>
+ryanPart =
+<<
+    \new Staff = "ryanstaff" \with { instrumentName = "Ryan" } \new Voice = "ryan" { \mytempo \ryan \bar "||" }
+    \new Lyrics \lyricsto "ryan" \ryanWords
+>>
+eudesPart =
+<<
+    \new Staff = "eudesstaff" \with { instrumentName = "Eudes" } \new Voice = "eudes" { \mytempo \eudes \bar "||" }
+    \new Lyrics \lyricsto "eudes" \eudesWords
+>>
+eudesPartLong =
+<<
+    \new Staff = "eudesstaff" \with { instrumentName = "Eudes" } \new Voice = "eudes" { \mytempo \eudes \eudes \eudes \bar "||" }
+    \new Lyrics \lyricsto "eudes" \eudesWords
+>>
+
+%{
 \score {
   \new ChoirStaff <<
     \new Staff \with { instrumentName = "Marie" } \new Voice = "marie" \marie
@@ -140,3 +169,53 @@ eudesWords = \lyricmode {
   }
   \midi {}
 }
+%}
+
+\markup \large \italic \column { "   " "la bande son commence" "   " }
+
+\markup \large \italic \column { "   " "au bout de 20 secondes" "   " }
+\mariePart
+
+\markup \large \italic \column { "   " "au bout de 40 secondes" "   " }
+\ryanPart
+
+\markup \large \italic \column { "   " "au bout de 53 secondes" "   " }
+\mariePart
+
+\markup \large \italic \column { "   " "au bout de 60 secondes" "   " }
+\mikePart
+
+\markup \large \italic \column { "   " "au bout de 66 secondes" "   " }
+\eudesPart
+
+\markup \large \italic \column { "   " "au bout de 72 secondes" "   " }
+\mariePart
+
+\markup \large \italic \column { "   " "au bout de 79 secondes" "   " }
+\ryanPart
+
+\pageBreak
+
+\markup \large \italic \column { "   " "au bout de 83 secondes" "   " }
+\mikePart
+
+\markup \large \italic \column { "   " "au bout de 89 secondes" "   " }
+\eudesPartLong
+
+\markup \large \italic \column { "   " "au bout de 93 secondes" "   " }
+\mariePart
+
+\markup \large \italic \column { "   " "au bout de 97 secondes" "   " }
+\ryanPart
+
+\markup \large \italic \column { "   " "au bout de 101 secondes" "   " }
+\mikePart
+
+\markup \large \italic \column { "   " "au bout de 113 secondes" "   " }
+\mariePart
+
+\markup \large \italic \column { "   " "au bout de 115 secondes" "   " }
+\mikePart
+
+\markup \large \italic \column { "   " "au bout de 117 secondes" "   " }
+\ryanPart

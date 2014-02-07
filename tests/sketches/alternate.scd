@@ -13,6 +13,8 @@ ServerOptions.devices
 Server.local.options.inDevice_(ServerOptions.devices[3])
 Server.local.options.outDevice_(ServerOptions.devices[2])
 
+Buffer.freeAll
+
 (
 z = [
 Buffer.read(s,"/Users/mikesolomon/Documents/Compositions/overtime/tests/sketches/shitloads/fast/powered1.aif"),
@@ -104,6 +106,6 @@ Routine({
 }.play
 )
 
-s.prepareForRecord("/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/fastShit2.wav");
+s.prepareForRecord("/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/fastShit4.wav");
 s.record;
 s.stopRecording; // this closes the file and deallocates the buffer recording node, etc.

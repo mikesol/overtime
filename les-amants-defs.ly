@@ -1,0 +1,2 @@
+dag = ^\markup { "†"}
+ddag = ^\markup { "‡"}

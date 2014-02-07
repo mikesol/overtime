@@ -104,10 +104,10 @@ Routine.new({
 	~beginning.duration.wait;
 	~limiter = Synth.new(\amants2Limiter, [\in, 4, \out, 0]);
 	~ryan0 = Synth.new(\amants2Ryan0, [\in, 2, \out, 4]);
-	~eudes0 = Synth.new(\amants2Eudes0, [\in, 3, \out, 4]);
+	//~eudes0 = Synth.new(\amants2Eudes0, [\in, 3, \out, 4]);
 	~ryanVo = Synth.new(\amants2Vocoder, [\in, 2, \out, 4]);
 	~ryanB = Synth.new(\amants2BasicBuf, [\buf, ~ryan, \out, 2, \start, ffwd]);
-	~eudesB = Synth.new(\amants2BasicBuf, [\buf, ~eudes, \out, 3, \start, ffwd]);
+	//~eudesB = Synth.new(\amants2BasicBuf, [\buf, ~eudes, \out, 3, \start, ffwd]);
 	Routine.new({500.do({
 		4.0.rand.wait;
 		~ryan0.set(\kick, (0.3.rand - 0.07));
@@ -117,7 +117,7 @@ Routine.new({
 }).play;
 )
 
-s.prepareForRecord("/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/amants2/moreManly9.aif");
+s.prepareForRecord("/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/amants2/justRyan.aif");
 s.record;
 s.stopRecording; // this closes the file and deallocates the buffer recording node, etc.}
 

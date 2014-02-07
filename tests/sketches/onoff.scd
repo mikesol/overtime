@@ -9,6 +9,8 @@ Server.killAll;
 s = Server.local;
 s.boot;
 
+Buffer.freeAll
+
 ServerOptions.devices
 Server.local.options.inDevice_(ServerOptions.devices[3])
 Server.local.options.outDevice_(ServerOptions.devices[2])
