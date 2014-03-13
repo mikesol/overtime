@@ -76,31 +76,55 @@
 	<version>1</version>
 </factory>
 
-<factory id="13" uuid="7644521e2e7911d891a6000a95b0025a">
+<factory id="13" uuid="712462a4323911d78f8400039389b702">
+	<description>Shape</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="14" uuid="7644521e2e7911d891a6000a95b0025a">
 	<description>Channel</description>
 	<manufacturer>Apple</manufacturer>
 	<version>1</version>
 </factory>
 
-<factory id="14" uuid="7d468273c013498e9806a0d7bc32fddf">
+<factory id="15" uuid="7d468273c013498e9806a0d7bc32fddf">
 	<description>Project</description>
 	<manufacturer>Apple</manufacturer>
 	<version>1</version>
 </factory>
 
-<factory id="15" uuid="878a64bd193011d8bac3000a95af9f7e">
+<factory id="16" uuid="878a64bd193011d8bac3000a95af9f7e">
 	<description>Channel</description>
 	<manufacturer>Apple</manufacturer>
 	<version>1</version>
 </factory>
 
-<factory id="16" uuid="babfc7777f4711d7aaa7000393833f6a">
+<factory id="17" uuid="babfc7777f4711d7aaa7000393833f6a">
 	<description>Text</description>
 	<manufacturer>Apple</manufacturer>
 	<version>1</version>
 </factory>
 
-<factory id="17" uuid="fdc1944b229111d7b1c300039389b702">
+<factory id="18" uuid="caf198bdb7c34dccb8af6ebb4f382ae3">
+	<description>Replicator</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="19" uuid="dab733bb21ab47e08874d786d2fdddc9">
+	<description>Replicator Cell</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="20" uuid="f32e7a31146f11d8a20a000a95af9f7e">
+	<description>Gradient</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="21" uuid="fdc1944b229111d7b1c300039389b702">
 	<description>Channel</description>
 	<manufacturer>Apple</manufacturer>
 	<version>1</version>
@@ -175,7 +199,7 @@
 	<displayEffects>1</displayEffects>
 	<videoVerticalZoom>1.6111111640930176</videoVerticalZoom>
 	<audioVerticalZoom>1.6111111640930176</audioVerticalZoom>
-	<displayRange in="150940202973 1000000000 3 0" out="246098043427 1000000000 3 0"/>
+	<displayRange in="-14362427850 1625000000 3 0" out="209758248600 1625000000 3 0"/>
 </timeline>
 
 <curveeditor>
@@ -183,22 +207,22 @@
 	<snapping>0</snapping>
 	<displayAudioWaveform>0</displayAudioWaveform>
 	<lockKeyframesInTime>0</lockKeyframesInTime>
-	<displayRange in="150940202973 1000000000 3 0" out="246098043427 1000000000 3 0"/>
-	<currentviewvolume originx="150.940202973" originy="-62.5" width="95.157840454017091" height="125"/>
+	<displayRange in="-14362427850 1625000000 3 0" out="209758248600 1625000000 3 0"/>
+	<currentviewvolume originx="-8.8384171384615389" originy="-62.5" width="137.92041627692308" height="125"/>
 	<snapshotChannels>0</snapshotChannels>
 </curveeditor>
 
 <inspector>
 	<collapseState id="./1/100" state="1"/>
 	<collapseState id="./1/200" state="1"/>
-	<collapseState id="./1/324" state="0"/>
+	<collapseState id="./1/324" state="1"/>
 </inspector>
 
 <scene>
 	<sceneSettings>
 		<width>1920</width>
 		<height>1080</height>
-		<duration>2400</duration>
+		<duration>16784</duration>
 		<shouldOverrideFCDuration>0</shouldOverrideFCDuration>
 		<frameRate>10</frameRate>
 		<NTSC>0</NTSC>
@@ -242,17 +266,17 @@
 	<publishSettings>
 		<version>2</version>
 	</publishSettings>
-	<currentFrame>27909120 153600 1 0</currentFrame>
-	<currentObject>18883</currentObject>
-	<activeLayer>10003</activeLayer>
-	<timeRange offset="0 1 1 0" duration="36864000 153600 1 0"/>
-	<playRange offset="0 153600 1 0" duration="28216320 153600 1 0"/>
+	<currentFrame>15728640 153600 1 0</currentFrame>
+	<currentObject>1999827023</currentObject>
+	<activeLayer>1999969917</activeLayer>
+	<timeRange offset="0 1 1 0" duration="257802240 153600 1 0"/>
+	<playRange offset="0 153600 1 0" duration="84710400 153600 1 0"/>
 	<flags>1</flags>
 	<audioTracks>1</audioTracks>
 	<timemarkerset/>
 	<guideset/>
 	<curvesets selected="1"/>
-	<scenenode name="Project" id="10000" factoryID="14" version="5">
+	<scenenode name="Project" id="10000" factoryID="15" version="5">
 		<scenenode name="Widget" id="10002" factoryID="9" version="5">
 			<flags>0</flags>
 			<timing in="0 1 1 0" out="-15360 153600 1 0" offset="0 1 1 0"/>
@@ -273,8 +297,261 @@
 		<parameter name="Properties" id="1" flags="8589938704"/>
 		<parameter name="Object" id="2" flags="8589938704"/>
 	</scenenode>
-	<layer name="Group" id="10003">
-		<scenenode name="[La femme de ménage]" id="19745" factoryID="16" version="5">
+	<layer name="Group copy" id="1999969917">
+		<scenenode name="140206_e101_leaderex_logo_coulors copy 5" id="1999989654" factoryID="10" version="5">
+			<validTracks>0</validTracks>
+			<aspectRatio>1</aspectRatio>
+			<flags>0</flags>
+			<timing in="28170240 153600 1 0" out="2316747264 3840000 1 0" offset="28170240 153600 1 0"/>
+			<foldFlags>16384</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704">
+				<parameter name="Transform" id="100" flags="8589938704">
+					<parameter name="Position" id="101" flags="8589938704">
+						<foldFlags>15</foldFlags>
+						<parameter name="Y" id="2" flags="8606711824" default="0" value="-311.89911453074609"/>
+					</parameter>
+					<parameter name="Scale" id="105" flags="8589938704">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="8606711824" default="1" value="0.78981531285280981"/>
+						<parameter name="Y" id="2" flags="8606711824" default="1" value="0.82079906081697362"/>
+					</parameter>
+					<parameter name="Anchor Point" id="107" flags="8589938704">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="12901679120" default="0.5" value="0.5"/>
+						<parameter name="Y" id="2" flags="12901679120" default="0.5" value="1"/>
+					</parameter>
+				</parameter>
+				<parameter name="Blending" id="200" flags="8589938704">
+					<parameter name="Opacity" id="202" flags="8606711824" default="1" value="0.21309999999999998"/>
+				</parameter>
+				<parameter name="Lighting" id="230" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Shadows" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Reflection" id="223" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="Media" id="324" flags="8589938704">
+					<parameter name="Source Media" id="300" flags="81621221392" default="1999989358" value="1999989656"/>
+					<parameter name="Source Media" id="325" flags="8590000146">
+						<referencedObjectID></referencedObjectID>
+					</parameter>
+				</parameter>
+				<parameter name="Page Number" id="301" flags="8589934610" default="1" value="1"/>
+				<parameter name="Retime Value" id="304" flags="8590065938">
+					<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<postExtrapolation>1</postExtrapolation>
+						<keypoint interpolation="1" flags="32">
+							<time>0 153600 1 0</time>
+							<value>1</value>
+						</keypoint>
+						<keypoint interpolation="1" flags="32">
+							<time>1612875264 3840000 1 0</time>
+							<value>4201.1959999999999</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Retime Value Cache" id="319" flags="8590065682">
+					<curve type="1" default="1" value="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<keypoint interpolation="1" flags="160">
+							<time>0 1 1 0</time>
+							<value>1</value>
+						</keypoint>
+						<keypoint interpolation="1" flags="160">
+							<time>36003968 120000 1 0</time>
+							<value>8993</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Duration Cache" id="320" flags="8589934610" default="0" value="8992"/>
+			</parameter>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Width" id="313" flags="8589934610" default="1" value="2111"/>
+				<parameter name="Height" id="314" flags="8589934610" default="1" value="1021"/>
+			</parameter>
+		</scenenode>
+		<aspectRatio>1</aspectRatio>
+		<flags>0</flags>
+		<timing in="28170240 153600 1 0" out="2316747264 3840000 1 0" offset="860697984 3840000 1 0"/>
+		<foldFlags>0</foldFlags>
+		<baseFlags>524304</baseFlags>
+		<parameter name="Properties" id="1" flags="8589938704">
+			<parameter name="Transform" id="100" flags="8589938704">
+				<parameter name="Position" id="101" flags="8589938704">
+					<foldFlags>15</foldFlags>
+					<parameter name="X" id="1" flags="8606711824" default="0" value="-8.7421875"/>
+					<parameter name="Y" id="2" flags="8606711824" default="0" value="36.9296875"/>
+				</parameter>
+			</parameter>
+			<parameter name="Lighting" id="230" flags="8589938706">
+				<foldFlags>15</foldFlags>
+			</parameter>
+			<parameter name="Shadows" id="234" flags="8589938706">
+				<foldFlags>15</foldFlags>
+			</parameter>
+			<parameter name="Reflection" id="223" flags="8589971474">
+				<foldFlags>131087</foldFlags>
+			</parameter>
+		</parameter>
+		<parameter name="Object" id="2" flags="8589938704">
+			<parameter name="Fixed Width" id="302" flags="12901679124" default="1920" value="1920"/>
+			<parameter name="Fixed Height" id="303" flags="12901679124" default="1080" value="1080"/>
+			<parameter name="Flatten" id="311" flags="8589934610" default="0" value="0"/>
+			<parameter name="Layer Order" id="305" flags="8589934610" default="0" value="0"/>
+			<parameter name="Aperture Width" id="312" flags="12884901906" default="1920" value="1920"/>
+			<parameter name="Aperture Height" id="313" flags="12884901906" default="1080" value="1080"/>
+		</parameter>
+	</layer>
+	<group name="Group copy" id="1999969933">
+		<scenenode name="L'anglais copy" id="1999969934" factoryID="17" version="5">
+			<paragraphMarginsCached cached="0"/>
+			<scrollMarginsCached cached="0"/>
+			<crawlMarginsCached cached="0"/>
+			<host hostID="0"/>
+			<textPathModified textPathModifiedVal="0"/>
+			<paragraphStyle id="1999969935">
+				<parameter name="Alignment" id="401" flags="8606777360" default="0" value="1"/>
+			</paragraphStyle>
+			<style name="Style" id="1999969938" factoryID="1">
+				<font type="0">Copperplate</font>
+				<copyFlags>65535</copyFlags>
+				<previewWidth>0</previewWidth>
+				<previewHeight>0</previewHeight>
+				<timing in="28262400 153600 1 0" out="84848640 153600 1 0" offset="28262400 153600 1 0"/>
+				<baseFlags>8657043504</baseFlags>
+				<foldFlags>524288</foldFlags>
+				<parameter name="Font" id="83" flags="8589938704">
+					<font>Copperplate</font>
+					<defaultFont>Helvetica</defaultFont>
+				</parameter>
+				<parameter name="Size" id="3" flags="8606711824" default="48" value="101"/>
+				<parameter name="Face" id="14" flags="8589938704">
+					<foldFlags>131072</foldFlags>
+					<parameter name="Texture" id="18" flags="77309415440">
+						<parameter name="Image" id="1" flags="77326254096" default="0" value="0"/>
+					</parameter>
+				</parameter>
+				<parameter name="Drop Shadow" id="21" flags="8589971472">
+					<foldFlags>131072</foldFlags>
+					<parameter name="Texture" id="25" flags="77309415440">
+						<parameter name="Image" id="1" flags="77326254096" default="0" value="0"/>
+					</parameter>
+				</parameter>
+				<parameter name="Outline" id="30" flags="8589971472">
+					<foldFlags>131072</foldFlags>
+					<parameter name="Texture" id="34" flags="77309415440">
+						<parameter name="Image" id="1" flags="77326254096" default="0" value="0"/>
+					</parameter>
+				</parameter>
+				<parameter name="Glow" id="38" flags="8589973520">
+					<foldFlags>131072</foldFlags>
+					<parameter name="Texture" id="42" flags="77309415440">
+						<parameter name="Image" id="1" flags="77326254096" default="0" value="0"/>
+					</parameter>
+				</parameter>
+			</style>
+			<styleRun style="1999969938" offset="0" length="9"/>
+			<object value="76"/>
+			<object value="39"/>
+			<object value="97"/>
+			<object value="110"/>
+			<object value="103"/>
+			<object value="108"/>
+			<object value="97"/>
+			<object value="105"/>
+			<object value="115"/>
+			<aspectRatio>1</aspectRatio>
+			<flags>0</flags>
+			<timing in="28262400 153600 1 0" out="84848640 153600 1 0" offset="28262400 153600 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>34078736</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704">
+				<parameter name="Transform" id="100" flags="8589938704">
+					<parameter name="Position" id="101" flags="8589938704">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="8606711824" default="0" value="2.932342529296875"/>
+						<parameter name="Y" id="2" flags="8606711824" default="0" value="1.8222656250033253"/>
+					</parameter>
+				</parameter>
+				<parameter name="Lighting" id="230" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Shadows" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Reflection" id="223" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="Drop Shadow" id="208" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="Four Corner" id="207" flags="8589971458">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="Crop" id="216" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+			</parameter>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Text" id="369" flags="8606777344">
+					<text>L'anglais</text>
+				</parameter>
+				<parameter name="Render Text" id="360" flags="8590000146" default="0" value="0"/>
+				<parameter name="Face Camera" id="352" flags="8589934610" default="0" value="0"/>
+				<parameter name="Path Options" id="329" flags="8589938704">
+					<parameter name="Shape Source" id="339" flags="77326254096" default="0" value="0"/>
+					<parameter name="Align to Path" id="333" flags="8589934610" default="1" value="1"/>
+				</parameter>
+				<parameter name="Paragraphs" id="354" flags="8589938704">
+					<parameter name="Paragraph" id="1999969935" flags="8589938832">
+						<parameter name="Alignment" id="401" flags="8606777360" default="0" value="1"/>
+					</parameter>
+				</parameter>
+			</parameter>
+		</scenenode>
+		<aspectRatio>1</aspectRatio>
+		<flags>0</flags>
+		<timing in="28262400 153600 1 0" out="84848640 153600 1 0" offset="860697984 3840000 1 0"/>
+		<foldFlags>0</foldFlags>
+		<baseFlags>524304</baseFlags>
+		<parameter name="Properties" id="1" flags="8589938704">
+			<parameter name="Transform" id="100" flags="8589938704">
+				<parameter name="Position" id="101" flags="8589938704">
+					<foldFlags>15</foldFlags>
+					<parameter name="Y" id="2" flags="8606711824" default="0" value="274.5"/>
+				</parameter>
+				<parameter name="Scale" id="105" flags="8589938704">
+					<foldFlags>15</foldFlags>
+					<parameter name="X" id="1" flags="8606711824" default="1" value="2.6393543637053227"/>
+					<parameter name="Y" id="2" flags="8606711824" default="1" value="2.6393543637053227"/>
+				</parameter>
+			</parameter>
+			<parameter name="Lighting" id="230" flags="8589938706">
+				<foldFlags>15</foldFlags>
+			</parameter>
+			<parameter name="Shadows" id="234" flags="8589938706">
+				<foldFlags>15</foldFlags>
+			</parameter>
+			<parameter name="Reflection" id="223" flags="8589971474">
+				<foldFlags>131087</foldFlags>
+			</parameter>
+		</parameter>
+		<parameter name="Object" id="2" flags="8589938704">
+			<parameter name="Fixed Width" id="302" flags="12901679124" default="1920" value="1920"/>
+			<parameter name="Fixed Height" id="303" flags="12901679124" default="1080" value="1080"/>
+			<parameter name="Flatten" id="311" flags="8589934610" default="0" value="0"/>
+			<parameter name="Layer Order" id="305" flags="8589934610" default="0" value="0"/>
+			<parameter name="Aperture Width" id="312" flags="12884901906" default="1920" value="1920"/>
+			<parameter name="Aperture Height" id="313" flags="12884901906" default="1080" value="1080"/>
+		</parameter>
+	</group>
+	<layer name="text" id="10003">
+		<scenenode name="[La femme de ménage]" id="19745" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -402,7 +679,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="[Le grand ensemble 83 présente]" id="19589" factoryID="16" version="5">
+		<scenenode name="[Le grand ensemble 83 présente]" id="19589" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -541,32 +818,32 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="est la question suivante :" id="18883" factoryID="16" version="5">
+		<scenenode name="est la question suivante :" id="18883" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
 			<host hostID="0"/>
 			<textPathModified textPathModifiedVal="0"/>
 			<paragraphStyle id="18884">
-				<parameter name="Alignment" id="401" flags="8590000144" default="0" value="1"/>
+				<parameter name="Alignment" id="401" flags="8606777360" default="0" value="1"/>
 			</paragraphStyle>
 			<style name="Style" id="18887" factoryID="1">
 				<font type="0">AvenirNext-Regular</font>
 				<copyFlags>65535</copyFlags>
 				<previewWidth>0</previewWidth>
 				<previewHeight>0</previewHeight>
-				<timing in="27955200 153600 1 0" out="28354560 153600 1 0" offset="27955200 153600 1 0"/>
+				<timing in="27955200 153600 1 0" out="28154880 153600 1 0" offset="27955200 153600 1 0"/>
 				<baseFlags>8657043504</baseFlags>
 				<foldFlags>524288</foldFlags>
 				<parameter name="Font" id="83" flags="8589938704">
 					<font>AvenirNext-Regular</font>
 					<defaultFont>Helvetica</defaultFont>
 				</parameter>
-				<parameter name="Size" id="3" flags="8589934608" default="48" value="60"/>
+				<parameter name="Size" id="3" flags="8606711824" default="48" value="60"/>
 				<parameter name="Face" id="14" flags="8589938704">
 					<foldFlags>131072</foldFlags>
 					<parameter name="Texture" id="18" flags="77313609744">
-						<parameter name="Image" id="1" flags="77309476880" default="0" value="0"/>
+						<parameter name="Image" id="1" flags="77326254096" default="0" value="0"/>
 					</parameter>
 					<parameter name="Source Media" id="85" flags="8590000146">
 						<referencedObjectID></referencedObjectID>
@@ -575,7 +852,7 @@
 				<parameter name="Drop Shadow" id="21" flags="8589971472">
 					<foldFlags>131072</foldFlags>
 					<parameter name="Texture" id="25" flags="77313609744">
-						<parameter name="Image" id="1" flags="77309476880" default="0" value="0"/>
+						<parameter name="Image" id="1" flags="77326254096" default="0" value="0"/>
 					</parameter>
 					<parameter name="Source Media" id="88" flags="8590000146">
 						<referencedObjectID></referencedObjectID>
@@ -584,7 +861,7 @@
 				<parameter name="Outline" id="30" flags="8589971472">
 					<foldFlags>131072</foldFlags>
 					<parameter name="Texture" id="34" flags="77313609744">
-						<parameter name="Image" id="1" flags="77309476880" default="0" value="0"/>
+						<parameter name="Image" id="1" flags="77326254096" default="0" value="0"/>
 					</parameter>
 					<parameter name="Source Media" id="86" flags="8590000146">
 						<referencedObjectID></referencedObjectID>
@@ -593,7 +870,7 @@
 				<parameter name="Glow" id="38" flags="8589973520">
 					<foldFlags>131072</foldFlags>
 					<parameter name="Texture" id="42" flags="77313609744">
-						<parameter name="Image" id="1" flags="77309476880" default="0" value="0"/>
+						<parameter name="Image" id="1" flags="77326254096" default="0" value="0"/>
 					</parameter>
 					<parameter name="Source Media" id="87" flags="8590000146">
 						<referencedObjectID></referencedObjectID>
@@ -629,14 +906,14 @@
 			<object value="58"/>
 			<aspectRatio>1</aspectRatio>
 			<flags>0</flags>
-			<timing in="27955200 153600 1 0" out="28354560 153600 1 0" offset="27955200 153600 1 0"/>
+			<timing in="27955200 153600 1 0" out="28154880 153600 1 0" offset="27955200 153600 1 0"/>
 			<foldFlags>0</foldFlags>
-			<baseFlags>34078737</baseFlags>
+			<baseFlags>34078736</baseFlags>
 			<parameter name="Properties" id="1" flags="8589938704">
 				<parameter name="Transform" id="100" flags="8589938704">
 					<parameter name="Position" id="101" flags="8589938704">
 						<foldFlags>15</foldFlags>
-						<parameter name="Y" id="2" flags="8589934608" default="0" value="-425.76562499970942"/>
+						<parameter name="Y" id="2" flags="8606711824" default="0" value="-425.76562499970942"/>
 					</parameter>
 				</parameter>
 				<parameter name="Lighting" id="230" flags="8589938706">
@@ -659,23 +936,23 @@
 				</parameter>
 			</parameter>
 			<parameter name="Object" id="2" flags="8589938704">
-				<parameter name="Text" id="369" flags="8590000128">
+				<parameter name="Text" id="369" flags="8606777344">
 					<text>est la question suivante :</text>
 				</parameter>
 				<parameter name="Render Text" id="360" flags="8590000146" default="0" value="0"/>
 				<parameter name="Face Camera" id="352" flags="8589934610" default="0" value="0"/>
 				<parameter name="Path Options" id="329" flags="8589938704">
-					<parameter name="Shape Source" id="339" flags="77309476880" default="0" value="0"/>
+					<parameter name="Shape Source" id="339" flags="77326254096" default="0" value="0"/>
 					<parameter name="Align to Path" id="333" flags="8589934610" default="1" value="1"/>
 				</parameter>
 				<parameter name="Paragraphs" id="354" flags="8589938704">
 					<parameter name="Paragraph" id="18884" flags="8589938832">
-						<parameter name="Alignment" id="401" flags="8590000144" default="0" value="1"/>
+						<parameter name="Alignment" id="401" flags="8606777360" default="0" value="1"/>
 					</parameter>
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="éclipsant toute autre pensée," id="18842" factoryID="16" version="5">
+		<scenenode name="éclipsant toute autre pensée," id="18842" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -812,7 +1089,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="vingt siècles, monopolisant son" id="17723" factoryID="16" version="5">
+		<scenenode name="vingt siècles, monopolisant son" id="17723" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -959,7 +1236,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="Cette question, qui se forme da" id="17682" factoryID="16" version="5">
+		<scenenode name="Cette question, qui se forme da" id="17682" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -1115,7 +1392,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="la vue, les terminaisons nerveu" id="17641" factoryID="16" version="5">
+		<scenenode name="la vue, les terminaisons nerveu" id="17641" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -1273,7 +1550,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="une fois résolue, lui redonnera" id="17600" factoryID="16" version="5">
+		<scenenode name="une fois résolue, lui redonnera" id="17600" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -1432,7 +1709,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="Ses nombreux calculs ont abouti" id="17559" factoryID="16" version="5">
+		<scenenode name="Ses nombreux calculs ont abouti" id="17559" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -1591,7 +1868,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="s’est elle aussi penchée sur ce" id="17055" factoryID="16" version="5">
+		<scenenode name="s’est elle aussi penchée sur ce" id="17055" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -1748,7 +2025,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="La femme de ménage, toujours fu" id="17014" factoryID="16" version="5">
+		<scenenode name="La femme de ménage, toujours fu" id="17014" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -1891,7 +2168,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="Que faire ?" id="16973" factoryID="16" version="5">
+		<scenenode name="Que faire ?" id="16973" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -2010,7 +2287,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="n’en est pas consciente. " id="16932" factoryID="16" version="5">
+		<scenenode name="n’en est pas consciente. " id="16932" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -2143,7 +2420,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="de nombreuses maladies vénérien" id="16228" factoryID="16" version="5">
+		<scenenode name="de nombreuses maladies vénérien" id="16228" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -2298,7 +2575,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="longue période de congélation à" id="16187" factoryID="16" version="5">
+		<scenenode name="longue période de congélation à" id="16187" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -2557,7 +2834,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="et toute sensation corporelle à" id="16146" factoryID="16" version="5">
+		<scenenode name="et toute sensation corporelle à" id="16146" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -2762,7 +3039,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="dépourvue de son ouïe, sa vue" id="16105" factoryID="16" version="5">
+		<scenenode name="dépourvue de son ouïe, sa vue" id="16105" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -2969,7 +3246,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="Sauf que la femme," id="15435" factoryID="16" version="5">
+		<scenenode name="Sauf que la femme," id="15435" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -3105,7 +3382,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="Les chercheurs ont fini l'encyc" id="20116" factoryID="16" version="5">
+		<scenenode name="Les chercheurs ont fini l'encyc" id="20116" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -3252,7 +3529,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="Ça a bien marché ! Les chercheu" id="15394" factoryID="16" version="5">
+		<scenenode name="Ça a bien marché ! Les chercheu" id="15394" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -3378,7 +3655,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="au bout des 1 003 ans de gel su" id="15353" factoryID="16" version="5">
+		<scenenode name="au bout des 1 003 ans de gel su" id="15353" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -3533,7 +3810,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="on lui demande de patienter 1 0" id="14702" factoryID="16" version="5">
+		<scenenode name="on lui demande de patienter 1 0" id="14702" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -3697,7 +3974,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="Au bout de 1 003 ans de gel..." id="14661" factoryID="16" version="5">
+		<scenenode name="Au bout de 1 003 ans de gel..." id="14661" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -3835,7 +4112,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="en attendant que les recherches" id="14620" factoryID="16" version="5">
+		<scenenode name="en attendant que les recherches" id="14620" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -3986,7 +4263,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="Epuisée, la femme de ménage déc" id="14418" factoryID="16" version="5">
+		<scenenode name="Epuisée, la femme de ménage déc" id="14418" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -4143,7 +4420,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="la fatigue commence à s'install" id="14377" factoryID="16" version="5">
+		<scenenode name="la fatigue commence à s'install" id="14377" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -4285,7 +4562,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="Mais au moment de frôler la vit" id="14336" factoryID="16" version="5">
+		<scenenode name="Mais au moment de frôler la vit" id="14336" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -4443,7 +4720,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="faisant ralentir le temps selon" id="20074" factoryID="16" version="5">
+		<scenenode name="faisant ralentir le temps selon" id="20074" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -4662,7 +4939,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="La femme de ménage commence à c" id="14295" factoryID="16" version="5">
+		<scenenode name="La femme de ménage commence à c" id="14295" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -4807,7 +5084,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="Que faire ?" id="14254" factoryID="16" version="5">
+		<scenenode name="Que faire ?" id="14254" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -4926,7 +5203,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="Sauf qu’il leur faudra 1 003 an" id="14213" factoryID="16" version="5">
+		<scenenode name="Sauf qu’il leur faudra 1 003 an" id="14213" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -5089,7 +5366,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="qu'elle y trouve le document !" id="13748" factoryID="16" version="5">
+		<scenenode name="qu'elle y trouve le document !" id="13748" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -5227,7 +5504,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="Je mettrais ma main à couper" id="13707" factoryID="16" version="5">
+		<scenenode name="Je mettrais ma main à couper" id="13707" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -5363,7 +5640,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="dans une grande encyclopédie." id="13666" factoryID="16" version="5">
+		<scenenode name="dans une grande encyclopédie." id="13666" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -5500,7 +5777,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="toutes les connaissances humain" id="13625" factoryID="16" version="5">
+		<scenenode name="toutes les connaissances humain" id="13625" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -5641,7 +5918,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="une équipe de chercheurs qui cl" id="13584" factoryID="16" version="5">
+		<scenenode name="une équipe de chercheurs qui cl" id="13584" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -5789,7 +6066,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="On a suffisamment d’argent pour" id="13543" factoryID="16" version="5">
+		<scenenode name="On a suffisamment d’argent pour" id="13543" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -5938,7 +6215,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="Ça a bien marché !" id="13359" factoryID="16" version="5">
+		<scenenode name="Ça a bien marché !" id="13359" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -6064,7 +6341,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="la femme de ménage s’est livrée" id="13318" factoryID="16" version="5">
+		<scenenode name="la femme de ménage s’est livrée" id="13318" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -6222,7 +6499,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="dans plusieurs colonies en Asie" id="13277" factoryID="16" version="5">
+		<scenenode name="dans plusieurs colonies en Asie" id="13277" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -6369,7 +6646,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="Après avoir refait le même exer" id="13236" factoryID="16" version="5">
+		<scenenode name="Après avoir refait le même exer" id="13236" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -6512,7 +6789,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="Et si on essayait de le retrouv" id="19790" factoryID="16" version="5">
+		<scenenode name="Et si on essayait de le retrouv" id="19790" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -6655,7 +6932,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="l’a ramassé et l’a jeté dans la" id="12868" factoryID="16" version="5">
+		<scenenode name="l’a ramassé et l’a jeté dans la" id="12868" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -6804,7 +7081,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="et la femme de ménage, toujours" id="12827" factoryID="16" version="5">
+		<scenenode name="et la femme de ménage, toujours" id="12827" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -6955,7 +7232,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="Sauf que l'on a fait tomber le " id="12292" factoryID="16" version="5">
+		<scenenode name="Sauf que l'on a fait tomber le " id="12292" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -7102,7 +7379,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="On a réussi à faire un fac-simi" id="12251" factoryID="16" version="5">
+		<scenenode name="On a réussi à faire un fac-simi" id="12251" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -7264,7 +7541,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="Ça a bien marché !" id="12210" factoryID="16" version="5">
+		<scenenode name="Ça a bien marché !" id="12210" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -7390,7 +7667,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="le document à l’identique." id="12169" factoryID="16" version="5">
+		<scenenode name="le document à l’identique." id="12169" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -7524,7 +7801,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="afin de créer une entreprise ca" id="11768" factoryID="16" version="5">
+		<scenenode name="afin de créer une entreprise ca" id="11768" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -7682,7 +7959,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="en Indochine, ou la main-d’œuvr" id="11727" factoryID="16" version="5">
+		<scenenode name="en Indochine, ou la main-d’œuvr" id="11727" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -7839,7 +8116,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="Après cet échec, la femme de mé" id="11686" factoryID="16" version="5">
+		<scenenode name="Après cet échec, la femme de mé" id="11686" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -7989,7 +8266,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="Attention au camion poubelle !" id="11321" factoryID="16" version="5">
+		<scenenode name="Attention au camion poubelle !" id="11321" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -8127,7 +8404,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="fouille dans les déchets pour t" id="11198" factoryID="16" version="5">
+		<scenenode name="fouille dans les déchets pour t" id="11198" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -8291,7 +8568,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="Assistons à la scène où la dili" id="11157" factoryID="16" version="5">
+		<scenenode name="Assistons à la scène où la dili" id="11157" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -8451,7 +8728,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="mais elle vient de jeter un doc" id="11082" factoryID="16" version="5">
+		<scenenode name="mais elle vient de jeter un doc" id="11082" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -8611,7 +8888,7 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="La femme de ménage ne le" id="10706" factoryID="16" version="5">
+		<scenenode name="La femme de ménage ne le" id="10706" factoryID="17" version="5">
 			<paragraphMarginsCached cached="0"/>
 			<scrollMarginsCached cached="0"/>
 			<crawlMarginsCached cached="0"/>
@@ -8755,14 +9032,24 @@
 				</parameter>
 			</parameter>
 		</scenenode>
-		<scenenode name="theCleaningLadyFR_HQA_edited" id="1999827019" factoryID="10" version="5">
-			<validTracks>0</validTracks>
-			<aspectRatio>0</aspectRatio>
+		<scenenode name="Rectangle" id="1999967833" factoryID="13" version="5">
+			<isShapeStyle>0</isShapeStyle>
+			<aspectRatio>1</aspectRatio>
 			<flags>0</flags>
-			<timing in="0 1 1 0" out="28200960 153600 1 0" offset="0 1 1 0"/>
+			<timing in="-76800 153600 1 0" out="28154880 153600 1 0" offset="-76800 153600 1 0"/>
 			<foldFlags>0</foldFlags>
 			<baseFlags>524304</baseFlags>
 			<parameter name="Properties" id="1" flags="8589938704">
+				<parameter name="Transform" id="100" flags="8589938704">
+					<parameter name="Position" id="101" flags="8589938704">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="8589934608" default="0" value="-2.23828125"/>
+						<parameter name="Y" id="2" flags="8589934608" default="0" value="-409.916015625"/>
+					</parameter>
+				</parameter>
+				<parameter name="Blending" id="200" flags="8589938704">
+					<parameter name="Opacity" id="202" flags="8589934608" default="1" value="0.94640000000000002"/>
+				</parameter>
 				<parameter name="Lighting" id="230" flags="8589938706">
 					<foldFlags>15</foldFlags>
 				</parameter>
@@ -8772,52 +9059,135 @@
 				<parameter name="Reflection" id="223" flags="8589971474">
 					<foldFlags>131087</foldFlags>
 				</parameter>
-				<parameter name="Media" id="324" flags="8589938704">
-					<parameter name="Source Media" id="300" flags="81604444176" default="1999827018" value="1999827018"/>
-					<parameter name="Source Media" id="325" flags="8590000146">
-						<referencedObjectID></referencedObjectID>
-					</parameter>
-				</parameter>
-				<parameter name="Page Number" id="301" flags="8589934610" default="1" value="1"/>
-				<parameter name="Retime Value" id="304" flags="8590065938">
-					<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
-						<numberOfKeypoints>2</numberOfKeypoints>
-						<keypoint interpolation="1" flags="32">
-							<time>0 1 1 0</time>
-							<value>1</value>
-						</keypoint>
-						<keypoint interpolation="1" flags="32">
-							<time>28216320 153600 1 0</time>
-							<value>1838</value>
-						</keypoint>
-					</curve>
-				</parameter>
-				<parameter name="Retime Value Cache" id="319" flags="8590065682">
-					<curve type="1" default="1" value="1">
-						<numberOfKeypoints>2</numberOfKeypoints>
-						<keypoint interpolation="1" flags="160">
-							<time>0 1 1 0</time>
-							<value>1</value>
-						</keypoint>
-						<keypoint interpolation="1" flags="160">
-							<time>28216320 153600 1 0</time>
-							<value>1838</value>
-						</keypoint>
-					</curve>
-				</parameter>
-				<parameter name="Duration Cache" id="320" flags="8589934610" default="0" value="1837"/>
 			</parameter>
 			<parameter name="Object" id="2" flags="8589938704">
-				<parameter name="Width" id="313" flags="8589934610" default="1" value="1920"/>
-				<parameter name="Height" id="314" flags="8589934610" default="1" value="1080"/>
+				<parameter name="Shape" id="353" flags="8589938704">
+					<parameter name="Animation Channel" id="117" flags="8589934608" default="0" value="0">
+						<curve_X>
+							<vertex index="0" id="2257" flags="40">
+								<vertex_folder name="Vertex" id="2257" flags="8590004240">
+									<parameter name="Value" id="2" flags="12884967440" default="-991.9765625" value="-991.9765625"/>
+								</vertex_folder>
+							</vertex>
+							<vertex index="1" id="2259" flags="40">
+								<vertex_folder name="Vertex" id="2259" flags="8590004240">
+									<parameter name="Value" id="2" flags="12884967440" default="991.97656250000011" value="991.97656250000011"/>
+								</vertex_folder>
+							</vertex>
+							<vertex index="2" id="2261" flags="40">
+								<vertex_folder name="Vertex" id="2261" flags="8590004240">
+									<parameter name="Value" id="2" flags="12884967440" default="991.97656250000011" value="991.97656250000011"/>
+								</vertex_folder>
+							</vertex>
+							<vertex index="3" id="2263" flags="40">
+								<vertex_folder name="Vertex" id="2263" flags="8590004240">
+									<parameter name="Value" id="2" flags="12884967440" default="-991.9765625" value="-991.9765625"/>
+								</vertex_folder>
+							</vertex>
+						</curve_X>
+						<curve_Y>
+							<vertex index="0" id="2258" flags="40">
+								<vertex_folder name="Vertex" id="2258" flags="8590004240">
+									<parameter name="Value" id="2" flags="12884967440" default="99.751953125" value="99.751953125"/>
+								</vertex_folder>
+							</vertex>
+							<vertex index="1" id="2260" flags="40">
+								<vertex_folder name="Vertex" id="2260" flags="8590004240">
+									<parameter name="Value" id="2" flags="12884967440" default="99.751953125" value="99.751953125"/>
+								</vertex_folder>
+							</vertex>
+							<vertex index="2" id="2262" flags="40">
+								<vertex_folder name="Vertex" id="2262" flags="8590004240">
+									<parameter name="Value" id="2" flags="12884967440" default="-99.751953124999943" value="-99.751953124999943"/>
+								</vertex_folder>
+							</vertex>
+							<vertex index="3" id="2264" flags="40">
+								<vertex_folder name="Vertex" id="2264" flags="8590004240">
+									<parameter name="Value" id="2" flags="12884967440" default="-99.751953124999943" value="-99.751953124999943"/>
+								</vertex_folder>
+							</vertex>
+						</curve_Y>
+						<closed>1</closed>
+					</parameter>
+					<parameter name="Closed" id="116" flags="8590000144" default="0" value="1"/>
+					<parameter name="Fill" id="113" flags="8589938704">
+						<foldFlags>131072</foldFlags>
+						<parameter name="Fill Color" id="111" flags="12884906000">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="8589934608" default="1" value="0.12984204292297363"/>
+							<parameter name="Green" id="2" flags="8589934608" default="1" value="0.12984612584114075"/>
+							<parameter name="Blue" id="3" flags="8589934608" default="1" value="0.12984392046928406"/>
+						</parameter>
+					</parameter>
+					<parameter name="Outline" id="108" flags="8589971472">
+						<foldFlags>131072</foldFlags>
+						<parameter name="Arrow Length" id="132" flags="8589934610" default="3" value="3"/>
+						<parameter name="Arrow Width" id="133" flags="8589934610" default="3" value="3"/>
+						<parameter name="Pressure Over Stroke" id="136" flags="8724348946">
+							<curve type="1" default="1" value="1" round="0">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<min>0</min>
+								<max>1</max>
+								<keypoint interpolation="1" flags="32">
+									<time>0 1 1 0</time>
+									<value>1</value>
+									<inputTangentTime>-0.33333333333333331</inputTangentTime>
+									<inputTangentValue>-0</inputTangentValue>
+									<outputTangentTime>0.33333333333333331</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="32">
+									<time>1 1 1 0</time>
+									<value>1</value>
+									<inputTangentTime>-0.33333333333333331</inputTangentTime>
+									<inputTangentValue>0</inputTangentValue>
+									<outputTangentTime>0.33333333333333331</outputTangentTime>
+									<outputTangentValue>-0</outputTangentValue>
+								</keypoint>
+							</curve>
+							<rangeName>Stroke Length</rangeName>
+						</parameter>
+						<parameter name="Pen Speed Over Stroke" id="138" flags="8724348946">
+							<curve type="1" default="1" value="1" round="0">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<min>0</min>
+								<max>1</max>
+								<keypoint interpolation="1" flags="32">
+									<time>0 1 1 0</time>
+									<value>1</value>
+									<inputTangentTime>-0.33333333333333331</inputTangentTime>
+									<inputTangentValue>-0</inputTangentValue>
+									<outputTangentTime>0.33333333333333331</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="32">
+									<time>1 1 1 0</time>
+									<value>1</value>
+									<inputTangentTime>-0.33333333333333331</inputTangentTime>
+									<inputTangentValue>0</inputTangentValue>
+									<outputTangentTime>0.33333333333333331</outputTangentTime>
+									<outputTangentValue>-0</outputTangentValue>
+								</keypoint>
+							</curve>
+							<rangeName>Stroke Length</rangeName>
+						</parameter>
+					</parameter>
+					<parameter name="Completed" id="157" flags="8589934610" default="0" value="1"/>
+				</parameter>
 			</parameter>
 		</scenenode>
 		<aspectRatio>1</aspectRatio>
 		<flags>0</flags>
-		<timing in="0 1 1 0" out="28354560 153600 1 0" offset="0 1 1 0"/>
+		<timing in="-76800 153600 1 0" out="28154880 153600 1 0" offset="0 1 1 0"/>
 		<foldFlags>0</foldFlags>
 		<baseFlags>524368</baseFlags>
 		<parameter name="Properties" id="1" flags="8589938704">
+			<parameter name="Transform" id="100" flags="8589938704">
+				<parameter name="Position" id="101" flags="8589938704">
+					<foldFlags>15</foldFlags>
+					<parameter name="Y" id="2" flags="8589934608" default="0" value="850"/>
+				</parameter>
+			</parameter>
 			<parameter name="Lighting" id="230" flags="8589938706">
 				<foldFlags>15</foldFlags>
 			</parameter>
@@ -8837,16 +9207,32 @@
 			<parameter name="Aperture Height" id="313" flags="12884901906" default="1080" value="1080"/>
 		</parameter>
 	</layer>
-
-	<audio name="Audio Layer" id="20388">
-		<audioTrack name="theCleaningLady8" id="1999827023">
+	<group name="film" id="1999967840">
+		<scenenode name="theCleaningLadyFR_HQA_edited" id="1999967838" factoryID="10" version="5">
+			<validTracks>0</validTracks>
+			<aspectRatio>1</aspectRatio>
 			<flags>0</flags>
-			<timing in="0 1 1 0" out="4331174912 22579200 1 0" offset="0 1 1 0"/>
-			<foldFlags>16384</foldFlags>
+			<timing in="0 1 1 0" out="28154880 153600 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
 			<baseFlags>524304</baseFlags>
 			<parameter name="Properties" id="1" flags="8589938704">
-				<parameter name="Media" id="104" flags="77309476880" default="0" value="1999827022"/>
-				<parameter name="Retime Value" id="109" flags="8590065682">
+				<parameter name="Lighting" id="230" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Shadows" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Reflection" id="223" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="Media" id="324" flags="8589938704">
+					<parameter name="Source Media" id="300" flags="81604444176" default="1999967837" value="1999967837"/>
+					<parameter name="Source Media" id="325" flags="8590000146">
+						<referencedObjectID></referencedObjectID>
+					</parameter>
+				</parameter>
+				<parameter name="Page Number" id="301" flags="8589934610" default="1" value="1"/>
+				<parameter name="Retime Value" id="304" flags="8590065938">
 					<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
 						<numberOfKeypoints>2</numberOfKeypoints>
 						<keypoint interpolation="1" flags="32">
@@ -8854,8 +9240,76 @@
 							<value>1</value>
 						</keypoint>
 						<keypoint interpolation="1" flags="32">
-							<time>8463736 44100 1 0</time>
-							<value>1920.2145124716553</value>
+							<time>28170240 153600 1 0</time>
+							<value>1835</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Retime Value Cache" id="319" flags="8590065682">
+					<curve type="1" default="1" value="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<keypoint interpolation="1" flags="160">
+							<time>0 1 1 0</time>
+							<value>1</value>
+						</keypoint>
+						<keypoint interpolation="1" flags="160">
+							<time>28170240 153600 1 0</time>
+							<value>1835</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Duration Cache" id="320" flags="8589934610" default="0" value="1834"/>
+			</parameter>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Width" id="313" flags="8589934610" default="1" value="1920"/>
+				<parameter name="Height" id="314" flags="8589934610" default="1" value="1080"/>
+			</parameter>
+		</scenenode>
+		<aspectRatio>1</aspectRatio>
+		<flags>0</flags>
+		<timing in="0 1 1 0" out="28154880 153600 1 0" offset="0 1 1 0"/>
+		<foldFlags>0</foldFlags>
+		<baseFlags>524304</baseFlags>
+		<parameter name="Properties" id="1" flags="8589938704">
+			<parameter name="Lighting" id="230" flags="8589938706">
+				<foldFlags>15</foldFlags>
+			</parameter>
+			<parameter name="Shadows" id="234" flags="8589938706">
+				<foldFlags>15</foldFlags>
+			</parameter>
+			<parameter name="Reflection" id="223" flags="8589971474">
+				<foldFlags>131087</foldFlags>
+			</parameter>
+		</parameter>
+		<parameter name="Object" id="2" flags="8589938704">
+			<parameter name="Fixed Width" id="302" flags="12884901908" default="1920" value="1920"/>
+			<parameter name="Fixed Height" id="303" flags="12884901908" default="1080" value="1080"/>
+			<parameter name="Flatten" id="311" flags="8589934610" default="0" value="0"/>
+			<parameter name="Layer Order" id="305" flags="8589934610" default="0" value="0"/>
+			<parameter name="Aperture Width" id="312" flags="12884901906" default="1920" value="1920"/>
+			<parameter name="Aperture Height" id="313" flags="12884901906" default="1080" value="1080"/>
+		</parameter>
+	</group>
+
+	<audio name="Audio Layer" id="20388">
+		<audioTrack name="theCleaningLady8" id="1999827023">
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="28154880 153600 1 0" offset="0 1 1 0"/>
+			<foldFlags>16384</foldFlags>
+			<baseFlags>524305</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704">
+				<parameter name="Media" id="104" flags="77309476880" default="0" value="1999827022"/>
+				<parameter name="Retime Value" id="109" flags="8590065682">
+					<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<postExtrapolation>1</postExtrapolation>
+						<keypoint interpolation="1" flags="32">
+							<time>0 1 1 0</time>
+							<value>1</value>
+						</keypoint>
+						<keypoint interpolation="1" flags="32">
+							<time>28170240 153600 1 0</time>
+							<value>1835</value>
 						</keypoint>
 					</curve>
 				</parameter>
@@ -8873,18 +9327,20 @@
 					</curve>
 				</parameter>
 			</parameter>
-			<parameter name="Object" id="2" flags="8589938704"/>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Level" id="102" flags="8598323216" default="1" value="1.26838235"/>
+			</parameter>
 		</audioTrack>
 		<scenenode name="Master" id="20389" factoryID="12" version="5">
 			<flags>0</flags>
-			<timing in="0 1 1 0" out="4331174912 22579200 1 0" offset="0 1 1 0"/>
+			<timing in="0 1 1 0" out="28154880 153600 1 0" offset="0 1 1 0"/>
 			<foldFlags>0</foldFlags>
 			<baseFlags>524304</baseFlags>
 			<parameter name="Properties" id="1" flags="8589938704"/>
 			<parameter name="Object" id="2" flags="8589938704"/>
 		</scenenode>
 		<flags>0</flags>
-		<timing in="0 1 1 0" out="4331174912 22579200 1 0" offset="0 1 1 0"/>
+		<timing in="0 1 1 0" out="28154880 153600 1 0" offset="0 1 1 0"/>
 		<foldFlags>0</foldFlags>
 		<baseFlags>524304</baseFlags>
 		<parameter name="Properties" id="1" flags="8589938704"/>
@@ -8892,6 +9348,63 @@
 	</audio>
 
 	<footage name="Media Layer" id="10007">
+		<clip name="140301_ensemble101_leaderex_logo_fond_transparent" id="1999989656">
+			<pathURL>file:///Users/mikesolomon/Documents/Compositions/overtime/EXE_e101_leaderex/white/140301_ensemble101_leaderex_logo_fond_transparent.png</pathURL>
+			<relativeURL>../../EXE_e101_leaderex/white/140301_ensemble101_leaderex_logo_fond_transparent.png</relativeURL>
+			<missingWidth>2111</missingWidth>
+			<missingHeight>1021</missingHeight>
+			<missingDuration>0.033333333333333333</missingDuration>
+			<creationDuration>0</creationDuration>
+			<mediaID></mediaID>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="-255872 3840000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704"/>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Alpha Type" id="100" flags="8589938704">
+					<parameter name="Alpha Type" id="101" flags="8590000128" default="0" value="1"/>
+				</parameter>
+				<parameter name="Pixel Aspect Ratio" id="104" flags="12884901888" default="1" value="1"/>
+				<parameter name="Frame Rate" id="107" flags="8589934592" default="0" value="30"/>
+				<parameter name="Fixed Width" id="114" flags="12884901888" default="2111" value="2111"/>
+				<parameter name="Fixed Height" id="115" flags="12884901888" default="1021" value="1021"/>
+				<parameter name="Use Background Color" id="116" flags="8589934594" default="0" value="0"/>
+				<parameter name="Background Color" id="117" flags="8589971458">
+					<foldFlags>15</foldFlags>
+					<parameter name="Red" id="1" flags="8589967376" default="1" value="1"/>
+					<parameter name="Green" id="2" flags="8589967376" default="1" value="1"/>
+					<parameter name="Blue" id="3" flags="8589967376" default="1" value="1"/>
+				</parameter>
+			</parameter>
+		</clip>
+		<clip name="theCleaningLadyFR_HQA_edited" id="1999967837">
+			<pathURL>file:///Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/menage/theCleaningLadyFR_HQA_edited.mov</pathURL>
+			<relativeURL>theCleaningLadyFR_HQA_edited.mov</relativeURL>
+			<missingWidth>1920</missingWidth>
+			<missingHeight>1080</missingHeight>
+			<missingDuration>183.44993333333335</missingDuration>
+			<creationDuration>1834</creationDuration>
+			<mediaID></mediaID>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="704063744 3840000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704"/>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Pixel Aspect Ratio" id="104" flags="12884901888" default="1" value="1"/>
+				<parameter name="Frame Rate" id="107" flags="8589934592" default="0" value="29.970029970029969"/>
+				<parameter name="Fixed Width" id="114" flags="12884901890" default="1920" value="1920"/>
+				<parameter name="Fixed Height" id="115" flags="12884901890" default="1080" value="1080"/>
+				<parameter name="Use Background Color" id="116" flags="8589934594" default="0" value="0"/>
+				<parameter name="Background Color" id="117" flags="8589971458">
+					<foldFlags>15</foldFlags>
+					<parameter name="Red" id="1" flags="8589967376" default="1" value="1"/>
+					<parameter name="Green" id="2" flags="8589967376" default="1" value="1"/>
+					<parameter name="Blue" id="3" flags="8589967376" default="1" value="1"/>
+				</parameter>
+			</parameter>
+		</clip>
 		<clip name="theCleaningLady8" id="1999827022">
 			<pathURL>file:///Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/menage/theCleaningLady8.aif</pathURL>
 			<relativeURL>theCleaningLady8.aif</relativeURL>
@@ -8930,33 +9443,6 @@
 					<foldFlags>15</foldFlags>
 				</parameter>
 				<parameter name="Gamma" id="124" flags="8589934594" default="1" value="1"/>
-			</parameter>
-		</clip>
-		<clip name="theCleaningLadyFR_HQA_edited" id="1999827018">
-			<pathURL>file:///Users/mikesolomon/Downloads/theCleaningLadyFR_HQA_edited.mov</pathURL>
-			<relativeURL>../../../../../Downloads/theCleaningLadyFR_HQA_edited.mov</relativeURL>
-			<missingWidth>1920</missingWidth>
-			<missingHeight>1080</missingHeight>
-			<missingDuration>183.69999999999999</missingDuration>
-			<creationDuration>1837</creationDuration>
-			<mediaID></mediaID>
-			<flags>0</flags>
-			<timing in="0 1 1 0" out="141004800 768000 1 0" offset="0 1 1 0"/>
-			<foldFlags>0</foldFlags>
-			<baseFlags>524304</baseFlags>
-			<parameter name="Properties" id="1" flags="8589938704"/>
-			<parameter name="Object" id="2" flags="8589938704">
-				<parameter name="Pixel Aspect Ratio" id="104" flags="12884901888" default="1" value="1"/>
-				<parameter name="Frame Rate" id="107" flags="8589934592" default="0" value="10"/>
-				<parameter name="Fixed Width" id="114" flags="12884901890" default="1920" value="1920"/>
-				<parameter name="Fixed Height" id="115" flags="12884901890" default="1080" value="1080"/>
-				<parameter name="Use Background Color" id="116" flags="8589934594" default="0" value="0"/>
-				<parameter name="Background Color" id="117" flags="8589971458">
-					<foldFlags>15</foldFlags>
-					<parameter name="Red" id="1" flags="8589967376" default="1" value="1"/>
-					<parameter name="Green" id="2" flags="8589967376" default="1" value="1"/>
-					<parameter name="Blue" id="3" flags="8589967376" default="1" value="1"/>
-				</parameter>
 			</parameter>
 		</clip>
 		<flags>0</flags>

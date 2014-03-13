@@ -133,7 +133,7 @@ Routine {
 ~gDur = {|buf|
 	buf.numFrames/44100.0;
 };
-
+~swell.play
 
 ~swell = Routine.new({
 	var swells = [~swell1,~swell2, ~swell3];
@@ -209,12 +209,12 @@ Routine.new({
 	~swell.reset;
 	~explosion.reset;
 	Synth.new(\simple2, [\bufnum, ~distantWar, \rate, 1, \loop, 1]);
-	6.0.wait;
-	Synth.new(\simple2, [\bufnum, ~chaud, \rate, 1, \loop, 0]);
+	11.0.wait;//6.0.wait;
+	//Synth.new(\simple2, [\bufnum, ~chaud, \rate, 1, \loop, 0]);
 	~singleton.value(~cosmonaut);
-	5.0.wait;
+	11.0.wait;//5.0.wait;
 	~singleton.value(~astronaut);
-	4.0.wait;
+	7.0.wait;//4.0.wait;
 	~swell.play;
 	(~gDur.value(~swell3) * 4).wait;
 	/*
@@ -228,7 +228,7 @@ Routine.new({
 	(~gDur.value(~shit) - 0.39).wait;
 	*/
 	0.0.wait;
-	Synth.new(\simple2, [\bufnum, ~merde2, \rate, 1, \startpos, 0]);
+	//Synth.new(\simple2, [\bufnum, ~merde2, \rate, 1, \startpos, 0]);
 		(~gDur.value(~merde2) + 0.0).wait;
 
 	~singleton.value(~cesium);
@@ -247,6 +247,10 @@ Routine.new({
 
 }).play;
 )
+
+s.prepareForRecord("/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/pigeon/openingBit.wav");
+s.record;
+s.stopRecording; // this closes the file and deallocates the buffer recording node, etc.}
 
 Synth.new(\simple2pitch, [\bufnum, ~bass, \rate, 1, \ps, 1]);
 

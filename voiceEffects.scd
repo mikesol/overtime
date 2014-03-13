@@ -38,10 +38,10 @@ PV_BrickWall // etc, always PV_
 b.free
 (
 
-//~mypath = "/Users/mikesolomon/Documents/Compositions/madrigali/demoisellesReal/Bounces/marieSnippet.aif";
+~mypath = "/Users/mikesolomon/Documents/Compositions/madrigali/demoisellesReal/Bounces/marieSnippet.aif";
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/beatbox.aif";
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/leaderex/Bounces/leaderex.aif";
-~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/welcome/silly.aif";
+//~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/welcome/silly.aif";
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/lePatronPart/stAbbeR.aif";
 //~mypath = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/amants2/amants2/Bounces/ryan.aif";
 //~mypath2 = "/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/amants2/amants2/Bounces/eudes.aif";
@@ -197,6 +197,8 @@ play{Normalizer.ar(BPF.ar(PitchShift.ar(PlayBuf.ar(2,b,1),0.2,Line.kr(1.1,1.4,10
 // double up sins, double the fun!
 play{Normalizer.ar(BPF.ar(PlayBuf.ar(2,b,1),SinOsc.kr(SinOsc.kr(1,0,4,5),0,Array.geom(16,10,1.5),Array.geom(16,120,1.5)),0.005,1).sum,0.8,0.01).dup} // kind of EZ resonator / vocoder for the mic #supercollider
 
+play{Normalizer.ar(BPF.ar(SoundIn.ar,SinOsc.kr(SinOsc.kr(1,0,4,5),0,Array.geom(16,10,1.5),Array.geom(16,120,1.5)),0.005,1).sum,0.8,0.01).dup} // kind of EZ resonator / vocoder for the mic #supercollider
+
 // comb suite
 play{CombC.ar(PlayBuf.ar(2,b,1).softclip,1,1/Saw.kr(0.1,0,30,90),1).dup}
 
@@ -319,13 +321,14 @@ n = Buffer.alloc(s,2048,1);
 )
 
 (
-SynthDef("help-magSmear2", { arg out=0, bufnum=0, soundBufnum=2;
+SynthDef("help-magSmear2", { arg out=0, soundBufnum=2;
     var in, chain;
     in = PlayBuf.ar(1, soundBufnum, BufRateScale.kr(soundBufnum), doneAction: 2);
-    chain = FFT(bufnum, in);
+	//in = SoundIn.ar;
+    chain = FFT(LocalBuf(2048), in);
     chain = PV_MagSmear(chain, SinOsc.kr(0.33).range(20,60));
     Out.ar(out, 0.8 * IFFT(chain).dup);
-}).play(s,[\out, 0, \bufnum, m.bufnum, \soundBufnum, ~lite.bufnum]);
+}).play(s,[\out, 0, \soundBufnum, ~lite.bufnum]);
 )
 
 
@@ -376,10 +379,9 @@ SynthDef("help-magStretch", { arg out=0, bufnum=0;
 
 // stretch and shift
 (
-SynthDef("help-magStretch", { arg out=0, bufnum=0;
-    var in, chain, sbfnm;
+SynthDef("help-magStretch", { arg out=0;
+    var in, chain;
 
-	sbfnm = ~lite.bufnum;
     //in = PlayBuf.ar(1, sbfnm, BufRateScale.kr(sbfnm), doneAction: 2);
 	in = SoundIn.ar;
     chain = FFT(LocalBuf(2048), in);

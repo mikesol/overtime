@@ -207,6 +207,7 @@ SynthDef(\flip, {|buf0, buf1, buf2, out=0, pan=0, vol=1, fade=2, pdur=10|
 
 
 ~down =	{|offset=0|
+	"doing down".postln;
 	Routine.new({
 	var down;
 	down = [
@@ -236,8 +237,9 @@ SynthDef(\flip, {|buf0, buf1, buf2, out=0, pan=0, vol=1, fade=2, pdur=10|
 			[[1.1,0.9],[1.1,1.3],[1.2,1.0],[1.2,1.4],[1.5,1.0],[1.5,2.0],[1.8,1.1],[1.8,2.5],[1.9,1.8],[1.9,2.0],[2.1,1.75],[2.1,2.55],0.2],
 
 
-		];
+		];"CRAP".postln;offset.postln;
 		offset.wait;
+		"WORKING".postln;
 	down.size.do({|i|
 		~luDown.valueArray(down[i]);
 			"DOWN ".post; i.postln;
@@ -303,7 +305,7 @@ Routine.new({
 	thisThread.randSeed = 0;
 	limiter = Synth.new(\limiter, [\in, 2, \out, 0]);
 	limiter = Synth.new(\space, [\in, 3, \out, 2]);
-
+`"starting down".postln;
 	~down.(0);
 
 	~basicstuff.(start, \justone, [\buf, b[0], \out, 2, \fade, 0.5, \vol, 0.5], offset + 0);
@@ -338,7 +340,7 @@ Routine.new({
 	}).play;
 
 	bassloop = 89.2;
-	~realSinger.(20.65, 0);
+	/*~realSinger.(20.65, 0);
 	~realSinger.(40.2, 2);
 	~realSinger.(53, 0);
 	~realSinger.(60.3, 1);
@@ -354,13 +356,13 @@ Routine.new({
 	~realSinger.(113,0);
 	~realSinger.(115,1);
 	~realSinger.(117,2);
-	~realSinger.(bassloop + (b[3].duration * 2),3);
+	~realSinger.(bassloop + (b[3].duration * 2),3);*/
 
 	Routine.new({131.3.wait; {Out.ar(2,0.3 * Pan2.ar(PitchShift.ar(PlayBuf.ar(1,~luLow,1,doneAction: 2), 0.2, 2.7) * EnvGen.kr(Env.new([0,1,0],[5,5])), Line.kr(-0.37, 0.37, 10)))}.play;}).play;
 
 	Routine.new({500.do({|i| i.postln; 1.wait;})}).play;
 	//~basicstuff.(start, \tame, [\out, 2, \fade, 0.5, \vol, 0.2], offset + 15);
-	//~basicstuff.(start + 0, \boring, [\out, 2, \fade, 4, \vol, 0.4], offset + 0);
+	//~basicstuff.(start + 0, \boring, [\ out, 2, \fade, 4, \vol, 0.4], offset + 0);
 	//~basicstuff.(start + 20, \lynch, [\grrr, 4, \out, 2, \vol, 0.2, \fade, 0.4], offset + 12);
 	//~basicstuff.(start + 8, \lynch, [\grrr, 16, \out, 2, \vol, 0.5, \fade, 0.4], offset + 4);
 	//~basicstuff.(start + 16, \foo, [\out, 2, \vol, 0.5, \fade, 0.4], offset + 10);
@@ -377,7 +379,7 @@ Routine.new({
 }).play;
 )
 
-s.prepareForRecord("/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/lux/coupureDeCourant4.wav");
+s.prepareForRecord("/Users/mikesolomon/Documents/Compositions/overtime/dJm1k3s0l/lux/coupureDeCourantSansVoix.wav");
 s.record;
 s.stopRecording; // this closes the file and deallocates the buffer recording node, etc.}
 
