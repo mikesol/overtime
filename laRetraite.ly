@@ -1,12 +1,27 @@
 \version "2.19.0"
+#(ly:set-option 'point-and-click #f)
+\paper {
+  %ragged-last-bottom = ##f
+  footnote-separator-markup = \markup { \column { " "\override #`(span-factor . 1/5) { \draw-hline } }}
+  footnote-padding = 5\mm
+  top-system-spacing = #'((basic-distance . 1) (minimum-distance . 0) (padding . 1) (stretchability . 40))
+  bottom-system-spacing = #'((basic-distance . 1) (minimum-distance . 0) (padding . 1) (stretchability . 50))
+  ragged-right = ##f
+  left-margin = 0.75\in
+  right-margin = 0.75\in
+  top-margin = 0.5\in
+  bottom-margin = 0.6\in
+  score-markup-spacing = #'((basic-distance . 10) (minimum-distance . 5))
+ragged-last-bottom = ##f
+}
 
 \include "defs-devel.ly"
 
-#(set-global-staff-size 15.87)
+#(set-global-staff-size 15.5)
 
 \header {
   title = "La retraite"
-	  composer = "djmikesol"
+	  composer = "DJMIKESOL"
 tagline=""
 }
 
@@ -17,7 +32,7 @@ marie = \relative c' {
   \saNormal
   \question
   \time 4/4
-  fis8-.^\p^\markup \italic "sur A" [ fis-. fis-. fis-. fis-. fis-. fis-. fis-. ] |
+  fis8-.^\p^\markup \italic "sur la voyelle \"ah\"" [ fis-. fis-. fis-. fis-. fis-. fis-. fis-. ] |
   \override Score.TimeSignature #'stencil = ##f
   \time 3/8
   \gr g32-.^\< [ g-. g-. g-.   g-. g-.  g-. g-.  g-. g-. g-. g-. ] |
@@ -57,7 +72,7 @@ ryan = \relative c' {
   \tNormal
   \question
   \time 4/4
-  d8-.^\p^\markup \italic "sur A" [ d-. d-. d-. d-. d-. d-. d-. ] |
+  d8-.^\p^\markup \italic "sur la voyelle \"ah\"" [ d-. d-. d-. d-. d-. d-. d-. ] |
   \override Score.TimeSignature #'stencil = ##f
   \time 3/8
   \gr b32-.^\< [ b-. b-. b-.   b-. b-.  b-. b-.  b-. b-. b-. b-. ] |
@@ -89,15 +104,15 @@ ryan = \relative c' {
   d1^\p^\mordent |
   cis1 |
   d2 cis |
-  d1 ~ |
-  d \bar "|."
+  fis,1 ~ |
+  fis \bar "|."
 }
 
 eudes = \relative c {
   \bNormal
   \question
   \time 4/4
-  d8-.^\p^\markup \italic "sur A" [ d-. d-. d-. d-. d-. d-. d-. ] |
+  d8-.^\p^\markup \italic "sur la voyelle \"ah\"" [ d-. d-. d-. d-. d-. d-. d-. ] |
   \override Score.TimeSignature #'stencil = ##f
   \time 3/8
   \gr e32-.^\< [ e-. e-. e-.   e-. e-.  e-. e-.  e-. e-. e-. e-. ] |
@@ -133,8 +148,8 @@ eudes = \relative c {
   d |
 }
 
-\markup \huge \fill-line { \center-column { "   " "   " "[sur l'écran]" "Final" "La retraite" "   " "   "  } }
-
+\markup \huge \fill-line { \center-column { "   " "   " "[sur l'écran]" "Final : La retraite" "   "  } }
+%{
 \markup \huge \fill-line { \center-column { \italic "[pause, tout le monde gêné]" "   " } }
 
 \markup \huge \fill-line { \center-column { "[Mike]" "Je fais mon speech...et puis, je..." "   " } }
@@ -156,7 +171,7 @@ ma vie avec…
 ....
 c’est quoi ça ?
 }}}
-
+%}
 \score {
   \new ChoirStaff <<
     \new Staff \with { instrumentName = "Marie" } \new Voice = "marie" \marie
@@ -197,3 +212,7 @@ c’est quoi ça ?
   }
   \midi {}
 }
+
+%\markup \huge \fill-line { \center-column { "[Marie]" "Trentième leçon d'anglais" "   " } }
+
+%\markup \huge \fill-line { \center-column { "[tutti (avec la vidéo)]" "OVERTIME" "   " } }
